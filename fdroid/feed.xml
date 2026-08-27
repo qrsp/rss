@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>F-Droid &amp; IzzyOnDroid New Apps</title>
+    <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
+    <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2026 14:38:00 +0000</lastBuildDate>
+    <ns0:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[F-Droid] Gravel</title>
+      <link>https://github.com/david-cant-code/pebble-app-degoogled</link>
+      <guid isPermaLink="false">com.anopticlabs.gravel@fdroid</guid>
+      <pubDate>Wed, 26 Aug 2026 14:37:49 +0000</pubDate>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.anopticlabs.gravel/en-US/icon_mQvdg8vwq1QzzSm88xbKFTJgQr3p36Fpn88P71lLq8o=.png&quot; alt=&quot;Gravel icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Gravel&lt;/strong&gt; (&lt;code&gt;com.anopticlabs.gravel&lt;/code&gt;) — &lt;em&gt;F-Droid&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A de-googled, hardened fork of the Pebble companion app for de-googled phones&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/david-cant-code/pebble-app-degoogled&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.anopticlabs.gravel/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
