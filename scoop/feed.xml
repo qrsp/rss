@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Scoop Official Buckets - New Apps</title>
+    <link>https://github.com/ScoopInstaller</link>
+    <description>RSS feed for newly added software applications in official Scoop buckets.</description>
+    <lastBuildDate>Thu, 27 Aug 2026 16:04:19 +0000</lastBuildDate>
+    <item>
+      <title>[Main] jaeger v2.20.0</title>
+      <link>https://www.jaegertracing.io</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; jaeger&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 2.20.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Open source, distributed tracing platform.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/jaeger.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 07:26:17 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-jaeger-2.20.0</guid>
+    </item>
+    <item>
+      <title>[Extras] exifcleaner v4.2.1</title>
+      <link>https://exifcleaner.com</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; exifcleaner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 4.2.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Image metadata cleaner&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/exifcleaner.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 06:17:49 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-exifcleaner-4.2.1</guid>
+    </item>
+  </channel>
+</rss>
