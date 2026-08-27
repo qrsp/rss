@@ -133,7 +133,7 @@ The existing `known_apps.txt` contains ~4,311 display names. On the first run:
 ## GitHub Actions Workflow
 
 ### Schedule
-- **Cron**: `0 22 * * *` (UTC 22:00 = Taiwan time 06:00)
+- **Cron**: `0 22 * * *`
 - **Manual trigger**: `workflow_dispatch`
 
 ### Steps

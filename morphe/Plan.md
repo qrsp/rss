@@ -26,5 +26,5 @@
 - **紀錄檔**：
   - 執行完畢後，自動將新產生的識別碼追加至 `known_apps.txt`。
 - **GitHub Actions 排程與自動化**：
-  - **排程頻率**：每日固定 **台灣時間早上 06:00**（UTC 22:00, `cron: '0 22 * * *'`）自動執行，並支援 `workflow_dispatch` 手動觸發。
+  - **排程頻率**：每日固定 UTC 20:00, 22:00 自動執行，並支援 `workflow_dispatch` 手動觸發。
   - **Commit & Push 策略**：僅在有新增軟體 (`feed.xml` 或 `known_apps.txt` 變動) 時自動 commit & push，未有變動則跳過 commit。

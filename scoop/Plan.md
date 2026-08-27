@@ -34,5 +34,5 @@
      - **內文**: 包含軟體說明 (`description`)、Bucket 名稱、版本號與授權資訊 (`license`)。
 
 5. **自動化排程與發布 (GitHub Actions & GitHub Pages)**
-   - **排程頻率**: 每日台灣時間早上 06:00 (UTC 22:00) 自動執行，並支援 `workflow_dispatch` 手動觸發。
+   - **排程頻率**: 每日 UTC 20:00, 22:00 自動執行，並支援 `workflow_dispatch` 手動觸發。
    - **發布平台**: 透過 GitHub Pages 發布 `feed.xml`，方便 RSS 閱讀器直接透過 HTTP/HTTPS URL 訂閱。

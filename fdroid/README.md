@@ -22,7 +22,7 @@ https://qrspncpr.github.io/fdroid-rss/feed.xml
 - **Accurate App Tracking**: Uses immutable **Package IDs** (e.g. `com.vrem.wifianalyzer`) to prevent duplicate notifications and handle app renames seamlessly.
 - **Rich RSS Items**: Includes app icons, English summaries, source code links, repository tags, and direct repository app page links.
 - **Dynamic Retention Policy**: Retains the last 200 entries by default, automatically expanding to 500 entries if a single batch exceeds 200 new apps.
-- **Automated Execution**: Runs daily at **06:00 Taiwan Time (UTC 22:00)** via GitHub Actions, and supports manual triggering (`workflow_dispatch`).
+- **Automated Execution**: Runs daily at **20:00 and 22:00** via GitHub Actions, and supports manual triggering (`workflow_dispatch`).
 - **Resilient & Secure**: Includes exponential backoff retry on HTTP failures and SHA-256 integrity verification.
 
 ---

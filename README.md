@@ -6,9 +6,9 @@ Automated RSS feed generators for software updates across various platforms and 
 
 | Directory | Name | Target Ecosystem | Feed URL | Update Schedule |
 |---|---|---|---|---|
-| [`fdroid/`](fdroid/) | **F-Droid & IzzyOnDroid** | Open-source Android apps | `https://qrsp.github.io/rss/fdroid/feed.xml` | Daily at 06:00 TST (22:00 UTC) |
-| [`morphe/`](morphe/) | **Morphe** | Morphe Android patches & apps | `https://qrsp.github.io/rss/morphe/feed.xml` | Daily at 06:10 TST (22:10 UTC) |
-| [`scoop/`](scoop/) | **Scoop Buckets** | Scoop Windows packages (`Main`, `Extras`, `Nonportable`, `Nirsoft`) | `https://qrsp.github.io/rss/scoop/feed.xml` | Daily at 06:20 TST (22:20 UTC) |
+| [`fdroid/`](fdroid/) | **F-Droid & IzzyOnDroid** | Open-source Android apps | `https://qrsp.github.io/rss/fdroid/feed.xml` | Daily at 20:00, 22:00 UTC |
+| [`morphe/`](morphe/) | **Morphe** | Morphe Android patches & apps | `https://qrsp.github.io/rss/morphe/feed.xml` | Daily at 20:10, 22:10 UTC |
+| [`scoop/`](scoop/) | **Scoop Buckets** | Scoop Windows packages (`Main`, `Extras`, `Nonportable`, `Nirsoft`) | `https://qrsp.github.io/rss/scoop/feed.xml` | Daily at 20:20, 22:20 UTC |
 
 ---
 
