@@ -1,7 +1,11 @@
 import os
+import sys
 import unittest
 import tempfile
 import xml.etree.ElementTree as ET
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 from generate_rss import (
     parse_commit_title_app,
     parse_license,
