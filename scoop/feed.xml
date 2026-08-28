@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 28 Aug 2026 04:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:14:48 +0000</lastBuildDate>
+    <item>
+      <title>[Extras] leopardwm v0.2.8</title>
+      <link>https://github.com/jcardama/LeopardWM</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; leopardwm&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.2.8&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Scroll-first tiling window manager for Windows, inspired by niri.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/leopardwm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 10:56:42 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-leopardwm-0.2.8</guid>
+    </item>
+    <item>
+      <title>[Nirsoft] appnetworkcounter v1.61</title>
+      <link>https://www.nirsoft.net/utils/app_network_counter.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; appnetworkcounter&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Nirsoft&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.61&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Displays number of TCP/UDP bytes and packets sent/received by every application&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/appnetworkcounter.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 16:09:14 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-appnetworkcounter-1.61</guid>
+    </item>
     <item>
       <title>[Main] jaeger v2.20.0</title>
       <link>https://www.jaegertracing.io</link>
