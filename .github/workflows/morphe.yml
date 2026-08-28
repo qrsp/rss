@@ -2,7 +2,7 @@ name: Generate Morphe RSS Feed
 
 on:
   schedule:
-    - cron: '10 20,22 * * *'
+    - cron: '0 0,6,12,18 * * *'
   workflow_dispatch:
 
 permissions:
