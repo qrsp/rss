@@ -7,6 +7,7 @@ and produces a standard RSS 2.0 feed (feed.xml).
 
 import os
 import sys
+import re
 import json
 import time
 import hashlib
@@ -105,6 +106,45 @@ def get_localized_text(field: any, default: str = "") -> str:
     return default
 
 
+def clean_text(text: str) -> str:
+    """Clean markdown links, styling, and whitespace from text."""
+    if not text:
+        return ""
+    text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
+    text = re.sub(r'[*_`#]', '', text)
+    text = re.sub(r'<[^>]+>', '', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
+
+
+def extract_summary(metadata: dict) -> str:
+    """Extract summary, falling back to first sentence of description."""
+    if not isinstance(metadata, dict):
+        return ""
+
+    summary = get_localized_text(metadata.get("summary"))
+    if summary:
+        return clean_text(summary)
+
+    desc = get_localized_text(metadata.get("description"))
+    if desc:
+        desc_clean = clean_text(desc)
+        if desc_clean:
+            sentences = re.split(r'(?<=[.!?])\s+', desc_clean)
+            if sentences:
+                return sentences[0].strip()
+            return desc_clean
+    return ""
+
+
+def format_app_title(repo_name: str, name: str, summary: str, categories: list) -> str:
+    """Format app title as: {Name} — {Summary} [{Repo}] [{Category}]"""
+    cat_tag = f" [{categories[0]}]" if categories and categories[0] else ""
+    if summary:
+        return f"{name} — {summary} [{repo_name}]{cat_tag}"
+    return f"{name} [{repo_name}]{cat_tag}"
+
+
 def load_known_apps(filepath: str = KNOWN_APPS_FILE) -> set:
     """Load known package IDs from file."""
     if not os.path.exists(filepath):
@@ -191,7 +231,15 @@ def parse_diff_packages(repo_key: str, repo_info: dict, diff_data: dict, known_a
 
         metadata = pkg_data.get("metadata", {}) if isinstance(pkg_data, dict) else {}
         name = get_localized_text(metadata.get("name"), default=pkg_id)
-        summary = get_localized_text(metadata.get("summary"), default="")
+        summary = extract_summary(metadata)
+        
+        categories = metadata.get("categories", [])
+        if isinstance(categories, str):
+            categories = [categories]
+        elif not isinstance(categories, list):
+            categories = []
+
+        license_name = metadata.get("license", "")
         source_code = metadata.get("sourceCode") or metadata.get("issueTracker") or repo_info["app_url_pattern"].format(pkg=pkg_id)
         app_page_url = repo_info["app_url_pattern"].format(pkg=pkg_id)
 
@@ -211,25 +259,32 @@ def parse_diff_packages(repo_key: str, repo_info: dict, diff_data: dict, known_a
                         icon_url = f"{repo_info['base_url']}/{icon_path}"
                         break
 
-        # Build HTML description
-        icon_html = f'<img src="{icon_url}" alt="{name} icon" width="64" height="64" style="float:left; margin-right:12px; border-radius:12px;" />\n' if icon_url else ""
-        summary_html = f"<p>{summary}</p>" if summary else ""
+        # Build HTML description - Summary placed prominently at top for RSS snippet previews
+        icon_html = f'<img src="{icon_url}" alt="{name} icon" width="64" height="64" style="float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;" />\n' if icon_url else ""
+        summary_p = f'<p style="font-size: 1.05em; font-weight: bold;">{summary}</p>\n' if summary else ""
+        cat_info = f"🏷️ <strong>Category:</strong> {', '.join(categories)}<br/>\n" if categories else ""
+        license_info = f"⚖️ <strong>License:</strong> {license_name} | " if license_name else ""
+
         desc_html = (
             f"<div>\n"
+            f"{summary_p}"
             f"{icon_html}"
-            f"<p><strong>{name}</strong> (<code>{pkg_id}</code>) — <em>{repo_info['name']}</em></p>\n"
-            f"{summary_html}\n"
+            f"<p><strong>App:</strong> {name} (<code>{pkg_id}</code>)<br/>\n"
+            f"{cat_info}"
+            f"{license_info}<strong>Repository:</strong> {repo_info['name']}</p>\n"
             f'<p><a href="{source_code}">Source Code</a> | <a href="{app_page_url}">{repo_info["name"]} Page</a></p>\n'
             f"</div>"
         )
 
         app_item = {
-            "title": f"[{repo_info['name']}] {name}",
+            "title": format_app_title(repo_info["name"], name, summary, categories),
             "link": source_code,
             "guid": f"{pkg_id}@{repo_key}",
             "pubDate": current_time_str,
             "description": desc_html,
             "pkg_id": pkg_id,
+            "categories": categories,
+            "enclosure": icon_url,
         }
         new_apps.append(app_item)
         known_apps.add(pkg_id)
@@ -334,6 +389,9 @@ def load_existing_feed_items(feed_file: str = FEED_FILE) -> list:
             guid = item_elem.findtext("guid", "")
             pub_date = item_elem.findtext("pubDate", "")
             description = item_elem.findtext("description", "")
+            categories = [cat.text for cat in item_elem.findall("category") if cat.text]
+            enclosure_elem = item_elem.find("enclosure")
+            enclosure = enclosure_elem.get("url") if enclosure_elem is not None else None
 
             items.append({
                 "title": title,
@@ -341,6 +399,8 @@ def load_existing_feed_items(feed_file: str = FEED_FILE) -> list:
                 "guid": guid,
                 "pubDate": pub_date,
                 "description": description,
+                "categories": categories,
+                "enclosure": enclosure,
             })
     except Exception as e:
         logger.warning(f"Could not parse existing feed.xml: {e}")
@@ -374,7 +434,18 @@ def generate_feed_xml(items: list, output_file: str = FEED_FILE):
         guid_elem = ET.SubElement(item_elem, "guid", {"isPermaLink": "false"})
         guid_elem.text = item.get("guid", "")
         ET.SubElement(item_elem, "pubDate").text = item.get("pubDate", "")
-        
+
+        for cat in item.get("categories", []):
+            if cat:
+                ET.SubElement(item_elem, "category").text = cat
+
+        if item.get("enclosure"):
+            ET.SubElement(item_elem, "enclosure", {
+                "url": item["enclosure"],
+                "length": "0",
+                "type": "image/png",
+            })
+
         desc_elem = ET.SubElement(item_elem, "description")
         desc_elem.text = item.get("description", "")
 

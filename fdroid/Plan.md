@@ -93,9 +93,11 @@ The existing `known_apps.txt` contains ~4,311 display names. On the first run:
 
 | RSS Element | Source |
 |-------------|--------|
-| `<title>` | App name (English preferred) |
+| `<title>` | `{Name} — {Summary} [{Repo}] [{Category}]` (English preferred) |
 | `<link>` | Source code URL |
-| `<description>` | HTML formatted: `<img>` icon + summary text + link to F-Droid/IzzyOnDroid app page |
+| `<category>` | App categories (e.g. `System`, `Multimedia`) |
+| `<enclosure>` | App icon URL (`image/png`) for rich reader thumbnail previews |
+| `<description>` | HTML formatted: Top-level bold summary (optimized for reader snippet previews) + icon + package info + category/license + links |
 | `<pubDate>` | Timestamp of discovery (current run time) |
 | `<guid>` | Package ID (isPermaLink=false) |
 
