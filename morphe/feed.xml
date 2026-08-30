@@ -5,316 +5,675 @@
     <link>https://awesome-morphe.vercel.app/</link>
     <description>RSS feed for newly listed apps and patches on Morphe</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 05:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:19:31 GMT</lastBuildDate>
     <item>
+      <title>X</title>
+      <link>https://awesome-morphe.vercel.app/?app=com.twitter.android#whats-new</link>
+      <guid isPermaLink="false">crimera/piko-newx:com.twitter.android</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Breaking News &amp;amp; Social Media | Grok AI Explains Posts&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/IsLsCD4eLC2CYvlkgTI6Z5TROj0BJIBgUF7BZ5eliTzyyTjqG_mbofeG4kw2s7oG_JZMSi5ErLz_qsDi169C8w=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;X&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.twitter.android#whats-new&quot;&gt;X&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.twitter.android&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; News &amp;amp; Magazines&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (29):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;NewX: Browse tweet object&lt;/li&gt;&lt;li&gt;NewX: Custom font&lt;/li&gt;&lt;li&gt;NewX: Custom sharing domain&lt;/li&gt;&lt;li&gt;NewX: Customize default media tab&lt;/li&gt;&lt;li&gt;NewX: Customize default reply sorting&lt;/li&gt;&lt;li&gt;NewX: Customize drawer items&lt;/li&gt;&lt;li&gt;NewX: Customize inline actions&lt;/li&gt;&lt;li&gt;NewX: Customize navigation bar items&lt;/li&gt;&lt;li&gt;NewX: Disable automatic timeline refresh&lt;/li&gt;&lt;li&gt;NewX: Disable video player scrolling&lt;/li&gt;&lt;li&gt;NewX: Dynamic color&lt;/li&gt;&lt;li&gt;NewX: Feature switch overrides&lt;/li&gt;&lt;li&gt;NewX: Filter For You by topic&lt;/li&gt;&lt;li&gt;NewX: Filter posts by keyword&lt;/li&gt;&lt;li&gt;NewX: Force highest video/audio quality&lt;/li&gt;&lt;li&gt;NewX: Hide AI-generated posts&lt;/li&gt;&lt;li&gt;NewX: Hide Discover more&lt;/li&gt;&lt;li&gt;NewX: Hide Spaces bar&lt;/li&gt;&lt;li&gt;NewX: Hide compose button&lt;/li&gt;&lt;li&gt;NewX: Hide new posts pill&lt;/li&gt;&lt;li&gt;NewX: Hide premium upsell&lt;/li&gt;&lt;li&gt;NewX: Hide who to follow&lt;/li&gt;&lt;li&gt;NewX: Inline download button&lt;/li&gt;&lt;li&gt;NewX: Open canonical URLs&lt;/li&gt;&lt;li&gt;NewX: Remove ads&lt;/li&gt;&lt;li&gt;NewX: Restore timeline position&lt;/li&gt;&lt;li&gt;NewX: Share post as image&lt;/li&gt;&lt;li&gt;NewX: Show sensitive media&lt;/li&gt;&lt;li&gt;NewX: Unlock downloads&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Reddit</title>
+      <link>https://awesome-morphe.vercel.app/?app=com.reddit.frontpage#whats-new</link>
+      <guid isPermaLink="false">timpra/a17:com.reddit.frontpage</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Reddit is where you’ll find your people and feel at home in every conversation.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/8FVS0kvM60JwqZWRNzBIlwrZZxJa8vpli8IWaaTo8QXRe1PHmCNJ8UpWoXkGPV3jKEaTY2OVAeYoisOnGJXY=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Reddit&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.reddit.frontpage#whats-new&quot;&gt;Reddit&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.reddit.frontpage&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Social&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Fix RedGIFs feed audio&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>DiskWala</title>
+      <link>https://awesome-morphe.vercel.app/?app=com.diskwalaapp#whats-new</link>
+      <guid isPermaLink="false">kuntal-devrat/diskwala-patches:com.diskwalaapp</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Introducing Diskwala, your premier cloud storage and file-sharing platform.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/3Q9MNHslRe9p1Zbzn-H7b0OUZkqlvxuaMoPyZ_8mzQmry8tB-FeFPXfbJ7zBxVY6B8zrphBREyZhL-8I9R4r=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;DiskWala&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.diskwalaapp#whats-new&quot;&gt;DiskWala&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.diskwalaapp&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (3):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Disable ads&lt;/li&gt;&lt;li&gt;Disable forced update&lt;/li&gt;&lt;li&gt;Unlock premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>IPTV Pro Stream Player</title>
+      <link>https://awesome-morphe.vercel.app/?app=com.iptvprostreamplayer.v1#whats-new</link>
+      <guid isPermaLink="false">Okazakee/iptv-morphe-patches:com.iptvprostreamplayer.v1</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Lightweight IPTV player for live TV, movies &amp;amp; series—easy and smooth streaming&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/4bpmCvFNfdWuhxsN9R_1pWT7WWpar_zUnb_lNo5KNdjcSjr48Krd_sYZksdudJILJIxvVnrSJ9JMnrSbwtYcTw=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;IPTV Pro Stream Player&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.iptvprostreamplayer.v1#whats-new&quot;&gt;IPTV Pro Stream Player&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.iptvprostreamplayer.v1&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Entertainment&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Unlock Pro (IPTV)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fancy Pants Adventures</title>
+      <link>https://awesome-morphe.vercel.app/?app=com.overthetopgames.fancypants#whats-new</link>
+      <guid isPermaLink="false">byehi98/okish-morphe-patches:com.overthetopgames.fancypants</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Run fast! Run Fancy!&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/TCx_u8NU40F6K8C7McBjI9qwi7t4HgZT9-HvwuWwmzFt5OkiU8wHrj7tj1I5f6DbqNoIVbKChqnKG8vr65--dg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Fancy Pants Adventures&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.overthetopgames.fancypants#whats-new&quot;&gt;Fancy Pants Adventures&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.overthetopgames.fancypants&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Arcade&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Fancy Pants Unlock Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Instagram</title>
+      <link>https://awesome-morphe.vercel.app/?app=com.instagram.android#whats-new</link>
+      <guid isPermaLink="false">ch3thanhs/stylus:com.instagram.android</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Create &amp;amp; share photos, stories, &amp;amp; reels with friends you love&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/yHi59jmO_lVamcyJ1i3rM1_E8bAiAspShnGjjURq05ipQQSUksO3QVEsXTegRSqul038-4YNA7O644XAcx251Q=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Instagram&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.instagram.android#whats-new&quot;&gt;Instagram&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.instagram.android&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Social&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Force system font (Instagram)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Gboard</title>
+      <link>https://awesome-morphe.vercel.app/?app=com.google.android.inputmethod.latin#whats-new</link>
+      <guid isPermaLink="false">XTapped/morphe-patches:com.google.android.inputmethod.latin</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Fast and smart typing with Emojis, GIFs, and more&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/J4vZ82VsZjnsRsI6ckQFXlO36_52QJerqG5-HfLgHffS34I4EfoAFfNdbf6s4wBAsUEf8DOJVEDEHh5tzWbrnA=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Gboard&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.google.android.inputmethod.latin#whats-new&quot;&gt;Gboard&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.google.android.inputmethod.latin&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Google Rambler&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      
+      
       <title>Crunchyroll</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.crunchyroll.crunchyroid#whats-new</link>
+      
+      
       <guid isPermaLink="false">NullWaypoint/morphe-patches:com.crunchyroll.crunchyroid</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;World’s largest dedicated anime library&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/FUEOotGzxEZqItvGGov0YBiOhZBCACxCM6kF37OtpWrCG9H6EyxSeY2G8PDXQGueLxlxtL3Xr0fbkvXaQ67NLg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Crunchyroll&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.crunchyroll.crunchyroid#whats-new&quot;&gt;Crunchyroll&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.crunchyroll.crunchyroid&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Entertainment&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Picture-in-Picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>YouTube Music</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.google.android.apps.youtube.music#whats-new</link>
+      
+      
       <guid isPermaLink="false">MorpheApp/morphe-patches:com.google.android.apps.youtube.music</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;The world of music dedicated to you&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/MyptZXmcCyF59phIWPsNCfHq6zSO_ojEdw_4rMYYWPOGdikSjqeOXcoszBZ053VYpINe5K7ZR9KV1nkFWgxdOw=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;YouTube Music&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.google.android.apps.youtube.music#whats-new&quot;&gt;YouTube Music&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.google.android.apps.youtube.music&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Music &amp;amp; Audio&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;PoToken provider&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>Bend</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.bowerydigital.bend#whats-new</link>
+      
+      
       <guid isPermaLink="false">hoo-dles/morphe-patches:com.bowerydigital.bend</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Daily stretch, yoga &amp;amp; mobility routines. Join over 15 million people today.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/A5OQ_por5PVY77jiDu-kz6HcK9HM6w2krTMKmhVnxC1gqE6B87roRmsr9d8AQOHplARn0vkphW4BejRMRIX84A=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Bend&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.bowerydigital.bend#whats-new&quot;&gt;Bend&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.bowerydigital.bend&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Health &amp;amp; Fitness&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>Telegram</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=org.telegram.messenger#whats-new</link>
+      
+      
       <guid isPermaLink="false">rushiranpise/morphe-patches:org.telegram.messenger</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Telegram is a messaging app with a focus on speed and security.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/PyZ3akMGXPV0tKKirKNwfO--PSQW3FHR6rD_H9mAaukZ8LiHyYFuBLeU8UZ2ok6r5SP79-3prkfybWKh98AZAD0=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Telegram&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=org.telegram.messenger#whats-new&quot;&gt;Telegram&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.telegram.messenger&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Communication&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Use normal paste for Rich HTML clipboard content&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>Plus Messenger</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=org.telegram.plus#whats-new</link>
+      
+      
       <guid isPermaLink="false">rushiranpise/morphe-patches:org.telegram.plus</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Plus Messenger is an UNOFFICIAL messaging app that uses Telegram&amp;#x27;s API&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/tvinmqPRqEdX_C3x319DHieZ6XDUL5PyLZa-8TDJe9gb4d05G9I5zaakv7MOWmXTMQi-Lq5W0yDfUeiHPk9d=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Plus Messenger&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=org.telegram.plus#whats-new&quot;&gt;Plus Messenger&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.telegram.plus&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Communication&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Use normal paste for Rich HTML clipboard content&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>Telegram</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=org.telegram.messenger.web#whats-new</link>
+      
+      
       <guid isPermaLink="false">rushiranpise/morphe-patches:org.telegram.messenger.web</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Telegram is a messaging app with a focus on speed and security.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/PyZ3akMGXPV0tKKirKNwfO--PSQW3FHR6rD_H9mAaukZ8LiHyYFuBLeU8UZ2ok6r5SP79-3prkfybWKh98AZAD0=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Telegram&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=org.telegram.messenger.web#whats-new&quot;&gt;Telegram&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.telegram.messenger.web&lt;/code&gt;&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Use normal paste for Rich HTML clipboard content&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>YouTube</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.google.android.youtube#whats-new</link>
+      
+      
       <guid isPermaLink="false">anddea/revanced-patches:com.google.android.youtube</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Enjoy your favorite videos and channels with the official YouTube app.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/QNmuZQc9I6Zbe3mWnSr0hycnENqGFCI5p3yE29Hkxtf22T0IWS6zTrpxULLyyjWpB7ONAXDsDQXnXcVWokl3eg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;YouTube&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.google.android.youtube#whats-new&quot;&gt;YouTube&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.google.android.youtube&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Video Players &amp;amp; Editors&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Fullscreen video scale&lt;/li&gt;&lt;li&gt;Gemini&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>Doodle Jump</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.lima.doodlejump#whats-new</link>
+      
+      
       <guid isPermaLink="false">byehi98/okish-morphe-patches:com.lima.doodlejump</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;One of the best mobile games of all time. As INSANELY addictive as ever!&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/FMY3DWkULM8SNdCo0GXHsM75aRtwqPcYnz8xkCeTYNpiw5qBQVXcsAdG51rJ0iRtZ2fA315QWp8-8FlFVVWUlw=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Doodle Jump&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.lima.doodlejump#whats-new&quot;&gt;Doodle Jump&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.lima.doodlejump&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Arcade&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Doodle Jump Resurrection Bypass&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>MX Player Pro</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.mxtech.videoplayer.pro#whats-new</link>
+      
+      
       <guid isPermaLink="false">BlazeFTL/FTL-Patches:com.mxtech.videoplayer.pro</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Powerful video player with advanced hardware acceleration and subtitle supports&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/kuU8L2zHfkE8rDQ8iUwMpYcV8TzUDBz7n_KYaEV4R5M7W5qHiZGqxWk9f1ysP2Lk72GmRTps3iaXUXfH-18pWw=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;MX Player Pro&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.mxtech.videoplayer.pro#whats-new&quot;&gt;MX Player Pro&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mxtech.videoplayer.pro&lt;/code&gt;&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (3):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Hide Settings Page UseLess Buttons&lt;/li&gt;&lt;li&gt;Hide top tiles&lt;/li&gt;&lt;li&gt;Skip Splash Screen&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>Custom Keyboard Designer</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=de.humbergsoftware.keyboarddesigner#whats-new</link>
+      
+      
       <guid isPermaLink="false">Dan1elTheMan1el/Morphe-Patches:de.humbergsoftware.keyboarddesigner</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Design your custom keyboard — control every layout, key and function&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/PcHgzeb19Mq_bWk0vKSP5Wz_QXDUbWGdsV9AfN5_A3hVI1mB-OT-RDWnkQ1D_opqWWKCLsz9I3dLH84L0MggMQ=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Custom Keyboard Designer&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=de.humbergsoftware.keyboarddesigner#whats-new&quot;&gt;Custom Keyboard Designer&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.humbergsoftware.keyboarddesigner&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Start with PokeGenie keyboard&lt;/li&gt;&lt;li&gt;Unlock Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>ASL Bloom</title>
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.toleio.us#whats-new</link>
+      
+      
       <guid isPermaLink="false">jaredcat/morphe-patches:com.toleio.us</guid>
+      
+      
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Learn American Sign Language anywhere, at anytime - ASL learning app&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/YO0SzU0b7MUXEHxOfrPDukF0pJOqQ2Mf3vNtJWV4gqzpT48IyV4mbViyGQ2x6U3Ce5aoLyrsK45JhDSLUb-M=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;ASL Bloom&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.toleio.us#whats-new&quot;&gt;ASL Bloom&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.toleio.us&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Education&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Unlock Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       
       
       <title>MobilKincstár</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=hu.dorsum.clavis.kincstar.mobile#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">csagataj2/morphe-patches:hu.dorsum.clavis.kincstar.mobile</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;A mobile application for trading securities at the Hungarian State Treasury.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/lKTNnen5CUzx8cLC8IRkZsuGSaJxkBXGtzOA6A8-HFCdigD_GZ8T7ov6wSFUQ3OApXRZZmUv4G0FDM_1ENXJ=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;MobilKincstár&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=hu.dorsum.clavis.kincstar.mobile#whats-new&quot;&gt;MobilKincstár&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;hu.dorsum.clavis.kincstar.mobile&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Finance&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (5):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Disable Keyboard Discrimination&lt;/li&gt;&lt;li&gt;Disable Root Detection&lt;/li&gt;&lt;li&gt;Disable SSL Pinning&lt;/li&gt;&lt;li&gt;Disable Screenshot Protection&lt;/li&gt;&lt;li&gt;Disable Tamper Protection&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>Sony | Sound Connect</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.sony.songpal.mdr#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">rafag00/morphe-patches:com.sony.songpal.mdr</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Personalize your music experience even more.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/VGoVDls-dJDVvYXFHpBoJOh8V9aVk-fRs1G-uwXxQkEcWESATEPy48TuM5xE8Lu6hbZEMU3s9DAEcwzaaKpALg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Sony | Sound Connect&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.sony.songpal.mdr#whats-new&quot;&gt;Sony | Sound Connect&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sony.songpal.mdr&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Use patched YouTube Music in Scene&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>TikTok</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.zhiliaoapp.musically#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">icysymmetra/tiktok-patches-for-morphe:com.zhiliaoapp.musically</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Join your friends and discover videos you love, only on TikTok&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/2o7iuqPe-0msP3DvNhzoOgNo4eZ6GkL_RtGVeKyBn5UBQAW5cw-GW5V3wDOHB1yTQuqWzrFLFOv2u4_5ea1uhg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;TikTok&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.zhiliaoapp.musically#whats-new&quot;&gt;TikTok&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.zhiliaoapp.musically&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Social&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Bypass regional restrictions&lt;/li&gt;&lt;li&gt;Region spoof&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>All-In-One Calculator</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=all.in.one.calculator#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">hxreborn/morphe-patches:all.in.one.calculator</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;The original All-In-One Calculator with Unit &amp;amp; Currency Converter&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/lpa4nEcViyrDXugjGivzC_XsTpuABE5hQtWGjM9MNs7sX49s4I8qfXkK6B-uY_WYzJgEWHy8yduOCboNFbAjWw=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;All-In-One Calculator&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=all.in.one.calculator#whats-new&quot;&gt;All-In-One Calculator&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;all.in.one.calculator&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Productivity&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Remove pairip protection&lt;/li&gt;&lt;li&gt;Unlock premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>Video Downloader</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=video.downloader.videodownloader#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">BlazeFTL/FTL-Patches:video.downloader.videodownloader</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;A Simple app to download Video &amp;amp; Music from the Internet.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/oju7a2AuqaQSc_l5O-2yRw8F_M0rUlHnBHjp_MqHNSAT3CXq7xbSqRVL7VSPNhMRjzaM2ft-LBoA05-q9hqmhg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Video Downloader&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=video.downloader.videodownloader#whats-new&quot;&gt;Video Downloader&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;video.downloader.videodownloader&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Video Players &amp;amp; Editors&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (3):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Disable downloader from download menu&lt;/li&gt;&lt;li&gt;Remove from default browser list&lt;/li&gt;&lt;li&gt;Skip splash screen&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>Ampere</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.gombosdev.ampere#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">BlazeFTL/FTL-Patches:com.gombosdev.ampere</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Measure the charging and discharging current of your battery.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/lcX9_HYNjEpWRkE2YN5d_HLLmSXI80F_EjSv0TIZ7o7gzLlzCbvzJH6d4CckX2RrEZtK77Zs0aPJB0fVwjZgRg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Ampere&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.gombosdev.ampere#whats-new&quot;&gt;Ampere&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.gombosdev.ampere&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Material Colors Upgrade Peach And Purple&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>MiXplorer</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.mixplorer#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">BlazeFTL/FTL-Patches:com.mixplorer</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.mixplorer#whats-new&quot;&gt;MiXplorer&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mixplorer&lt;/code&gt;&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Disable From Download Menu Of Browsers&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>Vivaldi Browser Snapshot</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.vivaldi.browser.snapshot#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">kveld9/kveld-morphe-patches:com.vivaldi.browser.snapshot</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Download the latest Snapshot version of Vivaldi Browser&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/u_sNt2pCdAsRu_h7gH8z6mc5Ae0u-sATVHjjzjUSJ7Q3E50jvtRD6bxIORbueyIu5w1AihpJ-MX9wiQISWiWug=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Vivaldi Browser Snapshot&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.vivaldi.browser.snapshot#whats-new&quot;&gt;Vivaldi Browser Snapshot&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.vivaldi.browser.snapshot&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Communication&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (12):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Block Vivaldi Sync&lt;/li&gt;&lt;li&gt;Block Vivaldi Telemetry&lt;/li&gt;&lt;li&gt;Clean Speed Dial Bookmarks&lt;/li&gt;&lt;li&gt;Disable Background Sync &amp;amp; Periodic Sync&lt;/li&gt;&lt;li&gt;Disable Battery Status API &amp;amp; OS Listener&lt;/li&gt;&lt;li&gt;Disable Chromium Tips &amp;amp; Notification Scheduler&lt;/li&gt;&lt;li&gt;Disable Vivaldi Prompts &amp;amp; In-App Popups&lt;/li&gt;&lt;li&gt;Locale PAK Slimmer&lt;/li&gt;&lt;li&gt;PNG Asset Optimizer&lt;/li&gt;&lt;li&gt;Resource Slimmer&lt;/li&gt;&lt;li&gt;Skip First Run&lt;/li&gt;&lt;li&gt;Vivaldi Startup Performance Optimization&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>Gboard</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.google.android.inputmethod.latin#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">kveld9/kveld-morphe-patches:com.google.android.inputmethod.latin</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Fast and smart typing with Emojis, GIFs, and more&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/J4vZ82VsZjnsRsI6ckQFXlO36_52QJerqG5-HfLgHffS34I4EfoAFfNdbf6s4wBAsUEf8DOJVEDEHh5tzWbrnA=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Gboard&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.google.android.inputmethod.latin#whats-new&quot;&gt;Gboard&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.google.android.inputmethod.latin&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Locale Resource Slimmer&lt;/li&gt;&lt;li&gt;PNG Asset Optimizer&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>Smash Hit</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.mediocre.smashhit#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">legendsciber/morphe-patches:com.mediocre.smashhit</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Prepare for a transcendental, ambient journey through time and space.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/ueP4ZNBXNdqNWIR23mdGnQuS-9c7dVvFp981Poc9ZEDkk6vddPGBxCYk3A_fWketiNpGO_GEHbmtDh8-qX-X=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Smash Hit&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.mediocre.smashhit#whats-new&quot;&gt;Smash Hit&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mediocre.smashhit&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Arcade&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Smash Hit Premium Unlock&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>Merlin Bird ID</title>
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.labs.merlinbirdid.app#whats-new</link>
+      
+      
       
       
       <guid isPermaLink="false">Kecerim24/morphe-patches:com.labs.merlinbirdid.app</guid>
       
       
+      
+      
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;What’s that bird? Just answer 5 questions, snap a photo, or record its song!&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/nICyHyDeK1h_GsceZeKX_W6Eavjje50-4ZCxmrPTAG4-c-r8-XFJt2J8V68uwTMFl4xozwJLq2WWAsuQN6K-eOg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Merlin Bird ID&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.labs.merlinbirdid.app#whats-new&quot;&gt;Merlin Bird ID&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.labs.merlinbirdid.app&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Books &amp;amp; Reference&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Czech translation&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -324,7 +683,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=aculix.viddit.downloader#whats-new</link>
+      
+      
       
       
       
@@ -334,7 +697,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -342,6 +709,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Viddit is a simple video downloader for Reddit&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/KbjGM51ZANmVqhInHJQcmDv5FQ_WAV_E9Q_4MyZE6DeRdmiyu9cyf53r1Ba6V8DbS1dlloGpqIUof2mqclnW=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Viddit&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=aculix.viddit.downloader#whats-new&quot;&gt;Viddit&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;aculix.viddit.downloader&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Unlock Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -349,7 +718,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -359,7 +732,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=net.relaxio.sleepo#whats-new</link>
+      
+      
       
       
       
@@ -369,7 +746,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -377,6 +758,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Sleep, relax and meditate with relaxing sounds of nature, rain or white noise.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/kw0VQhTVQQbICOOCZCSksSeMXEjEQqyoKjUOb135ZVhXYbe78LYhWDWk1N-Wn1NbWHTWOfn7-XkO896a9qfi=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Sleepa&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=net.relaxio.sleepo#whats-new&quot;&gt;Sleepa&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.relaxio.sleepo&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Health &amp;amp; Fitness&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Unlock Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -384,7 +767,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -394,7 +781,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.stremio.one#whats-new</link>
+      
+      
       
       
       
@@ -404,7 +795,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -412,6 +807,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;All the video content you enjoy in one place&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/OvTwEXzvUbeyfqdXd1vZiTfbBOTdMAA6EWw5TV00PiSirn7C1iz__HVD6PfXCHkN9quH_XdoPwCIT3GhB1Ukmw=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Stremio Android TV&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.stremio.one#whats-new&quot;&gt;Stremio Android TV&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.stremio.one&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Entertainment&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Stremio AniSkip&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -419,7 +816,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -429,7 +830,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.viber.voip#whats-new</link>
+      
+      
       
       
       
@@ -439,7 +844,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -447,6 +856,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Messenger for chats, voice and video calls, group messaging, and communities&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/iGHZEkEJBBcOyMEETvYrwCXk-eYQ_TaEgBHPKVptKSon4QQHqhD3Zs-tdeINPZucc1sokQ5FJ4ig-YOGh1Lm=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Viber&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.viber.voip#whats-new&quot;&gt;Viber&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.viber.voip&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Communication&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Secondary Viber Device&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -454,7 +865,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -464,7 +879,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.fitness.debugger#whats-new</link>
+      
+      
       
       
       
@@ -474,7 +893,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -482,6 +905,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Debugger of Fitness Apps&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/QlnVgR6RMF0iJ4JN4PGF_VKH_lyIxcEwgn6F9FdqguhIfVcywybFBaoocjDhzLxJN_4yZwPE1TzlTQjuwxf6Krk=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;DeFit - Debugger of Fitness Apps&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.fitness.debugger#whats-new&quot;&gt;DeFit - Debugger of Fitness Apps&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.fitness.debugger&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Productivity&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (4):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Custom Branding&lt;/li&gt;&lt;li&gt;Material You Theme&lt;/li&gt;&lt;li&gt;Remove Bottom Banner Ad&lt;/li&gt;&lt;li&gt;Unlimited Time Bypass&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -489,7 +914,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -499,7 +928,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=me.pokeraid#whats-new</link>
+      
+      
       
       
       
@@ -509,7 +942,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -517,6 +954,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Find and join Worldwide Remote Pokémon GO Raids instantly!&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/2w730h-kzuarzpJn6W5Ozrdh_UgUMqHf2gQjIdWc5InCwdb-QnTynO98IOipGlxnN59Cwa4EoaDpgTcY94ft=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;PokeRaid - Worldwide Remote Raids&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=me.pokeraid#whats-new&quot;&gt;PokeRaid - Worldwide Remote Raids&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;me.pokeraid&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Social&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (6):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Bounty Daily Reward Shortcut&lt;/li&gt;&lt;li&gt;Disable Ads&lt;/li&gt;&lt;li&gt;Disable Analytics&lt;/li&gt;&lt;li&gt;Hide News Banners&lt;/li&gt;&lt;li&gt;Material You Theme&lt;/li&gt;&lt;li&gt;Quick Join Button&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -524,7 +963,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -534,7 +977,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.google.android.apps.youtube.music#whats-new</link>
+      
+      
       
       
       
@@ -544,7 +991,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -552,6 +1003,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;The world of music dedicated to you&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/MyptZXmcCyF59phIWPsNCfHq6zSO_ojEdw_4rMYYWPOGdikSjqeOXcoszBZ053VYpINe5K7ZR9KV1nkFWgxdOw=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;YouTube Music&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.google.android.apps.youtube.music#whats-new&quot;&gt;YouTube Music&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.google.android.apps.youtube.music&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Music &amp;amp; Audio&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Pin playlists&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -559,7 +1012,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -569,7 +1026,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.discord#whats-new</link>
+      
+      
       
       
       
@@ -579,7 +1040,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -587,6 +1052,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Group Chat That’s Fun &amp;amp; Games&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/w2DdjDHGSj3DQElQQM0_J3PsNsALS-WD3CBeH0aXOYceR-F3aT02gFonhoFzz-Tc9ec8Dx9cLqh48-tzIFcP=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Discord - Talk, Play, Hang Out&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.discord#whats-new&quot;&gt;Discord - Talk, Play, Hang Out&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.discord&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Communication&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Bunny&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -594,7 +1061,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -604,7 +1075,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.lumenate.lumenateaa#whats-new</link>
+      
+      
       
       
       
@@ -614,7 +1089,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -622,6 +1101,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Psychedelic meditation that will help you de-stress and sleep better&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/kc1xjhwr-BaW3AdHv7beRhGHc8XxYG_RNS1uf88lmxZIinQxRHc5C6QCaAZePqXp6bdjn1ZNiLoF82I29ECZ=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Lumenate&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.lumenate.lumenateaa#whats-new&quot;&gt;Lumenate&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.lumenate.lumenateaa&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Health &amp;amp; Fitness&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Unlock Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -629,7 +1110,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -639,7 +1124,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=org.monroeinstitute.expand#whats-new</link>
+      
+      
       
       
       
@@ -649,7 +1138,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -657,6 +1150,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Unique guided meditations that profoundly enhance your well-being.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/NWNAQMZsRCCZsT2WUYUsREwdJInPXxPAonEFORtfn0_hXWyXILT8KEgSZc5RtS8OivvKm8QKY7h-V2wZV958Z-A=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Expand&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=org.monroeinstitute.expand#whats-new&quot;&gt;Expand&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.monroeinstitute.expand&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Health &amp;amp; Fitness&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Disable Analytics&lt;/li&gt;&lt;li&gt;Unlock Plus&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -664,7 +1159,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -674,7 +1173,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.google.android.youtube#whats-new</link>
+      
+      
       
       
       
@@ -684,7 +1187,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -692,6 +1199,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Enjoy your favorite videos and channels with the official YouTube app.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/QNmuZQc9I6Zbe3mWnSr0hycnENqGFCI5p3yE29Hkxtf22T0IWS6zTrpxULLyyjWpB7ONAXDsDQXnXcVWokl3eg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;YouTube&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.google.android.youtube#whats-new&quot;&gt;YouTube&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.google.android.youtube&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Video Players &amp;amp; Editors&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Disable scrolling speed limit&lt;/li&gt;&lt;li&gt;Save to Watch later&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -699,7 +1208,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -709,7 +1222,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.reddit.frontpage#whats-new</link>
+      
+      
       
       
       
@@ -719,7 +1236,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -727,6 +1248,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Reddit is where you’ll find your people and feel at home in every conversation.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/8FVS0kvM60JwqZWRNzBIlwrZZxJa8vpli8IWaaTo8QXRe1PHmCNJ8UpWoXkGPV3jKEaTY2OVAeYoisOnGJXY=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Reddit&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.reddit.frontpage#whats-new&quot;&gt;Reddit&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.reddit.frontpage&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Social&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (5):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Hide Awards&lt;/li&gt;&lt;li&gt;Hide Comment Score&lt;/li&gt;&lt;li&gt;Hide NSFW Posts&lt;/li&gt;&lt;li&gt;Hide Post Score&lt;/li&gt;&lt;li&gt;Hide Repost Button&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -734,7 +1257,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -744,7 +1271,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.sociallite.android#whats-new</link>
+      
+      
       
       
       
@@ -754,7 +1285,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -762,6 +1297,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Use social media without losing hours to endless scrolling.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/N1YZAgjravmOqTLcwgrif-9inyvyMTuHBMIJZPlDbjlLn1GX1nbqs_RtFEoi7_W38CHS4PV9oIaBcUmPCvnE7g=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;SocialLite&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.sociallite.android#whats-new&quot;&gt;SocialLite&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sociallite.android&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Productivity&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Unlock Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -769,7 +1306,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -779,7 +1320,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.lingodeer#whats-new</link>
+      
+      
       
       
       
@@ -789,7 +1334,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -797,6 +1346,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Learn Japanese, Korean,Spanish, French, German, Chinese with interactive lessons&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/MrmQSncIU3i7N9_qx4bkN-8K_yXcf-08bvY5cYP0JM2IxI9hDSHiz2-3BiggfElXkFQ-iJwJRFMciTFolgfT8w=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Lingodeer&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.lingodeer#whats-new&quot;&gt;Lingodeer&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.lingodeer&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Education&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Premium (ROOT)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -804,7 +1355,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -814,7 +1369,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.sbs.diet#whats-new</link>
+      
+      
       
       
       
@@ -824,7 +1383,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -832,6 +1395,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Reach your diet goals with the smartest macro tracker and nutrition coach&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/4gfovnH1uoLSJr-ga0iswuqW-jR7Go1iQdJTVWblLLrb3DeAGj1VqtF8n-lFi2e6hWEIBVshkGqTqjjIl99AptM=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;MacroFactor&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.sbs.diet#whats-new&quot;&gt;MacroFactor&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sbs.diet&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Health &amp;amp; Fitness&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Premium (ROOT)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -839,7 +1404,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -849,7 +1418,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.sbs.train#whats-new</link>
+      
+      
       
       
       
@@ -859,7 +1432,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -867,6 +1444,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Reach your muscle and strength goals with the smartest workout tracker.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/F3t0pahlU3r8-6Hf9iWw07KXH_ye4-nEZYNht7RZlMBdWJGUwPdkxrPWii_jqMg6WWc0v0TdYBofI7IG8xj0u5k=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;MacroFactor Workouts&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.sbs.train#whats-new&quot;&gt;MacroFactor Workouts&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sbs.train&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Health &amp;amp; Fitness&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Premium (ROOT)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -874,7 +1453,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -884,7 +1467,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.strava#whats-new</link>
+      
+      
       
       
       
@@ -894,7 +1481,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -902,6 +1493,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Track your active life in one place and share the journey with friends.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/J4LN2qH2PQkZ3sFQonz-HWYkd7M38BtEO4Grzh1Xn7L2J6NUILHPkhYvPjdhMZQzrdm4BarUj547wfthyMz_vWM=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Strava&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.strava#whats-new&quot;&gt;Strava&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.strava&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Health &amp;amp; Fitness&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Add route export&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -909,7 +1502,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -919,7 +1516,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=photo.editor.photoeditor.photoeditorpro#whats-new</link>
+      
+      
       
       
       
@@ -929,7 +1530,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -937,6 +1542,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;AI photo editor: Enhance, remove objects &amp;amp; retouch photos.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/q-z-Sbn2WLCUb4MSmmdhVr9KRfJ4qTlgoQEUGEKsnfVEEMNPxsabpr-yngqQ15o5b6gLhaBOhGZNv6oBWDMl=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Photo Editor Pro&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=photo.editor.photoeditor.photoeditorpro#whats-new&quot;&gt;Photo Editor Pro&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;photo.editor.photoeditor.photoeditorpro&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Photography&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (6):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Hide ads&lt;/li&gt;&lt;li&gt;Inspect AI requests&lt;/li&gt;&lt;li&gt;Show AI progress&lt;/li&gt;&lt;li&gt;Speed up AI tools&lt;/li&gt;&lt;li&gt;Spoof signature&lt;/li&gt;&lt;li&gt;Unlock premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -944,7 +1551,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -954,7 +1565,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.rebelbinary.onlyone#whats-new</link>
+      
+      
       
       
       
@@ -964,7 +1579,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -972,6 +1591,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Grab the sword on the  pillar of sacrifice and survive, fight, grow stronger&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/9FbOyQm415z3iwzMwV8OKJDC8zpCIwes8f0JzHja2QOzXzz3lJgBbdmwhzYxfYK3BG6KuaOFA2nN2O0mLmqAzA=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Only One&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.rebelbinary.onlyone#whats-new&quot;&gt;Only One&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rebelbinary.onlyone&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Action&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Only One Free Store&lt;/li&gt;&lt;li&gt;Only One License Bypass&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -979,7 +1600,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -989,7 +1614,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.blingame.haaktestb#whats-new</link>
+      
+      
       
       
       
@@ -999,7 +1628,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1007,6 +1640,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Hook into a Metroidvania adventure of epic proportions.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/Jk_Ecg_34St4WtXRJuBJofUexdPP7jAyEDzZMSXtzEuAY6CaY3hOXixz78t8RDBY-3ERKdIlOHz6yKl58-HsQak=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;HAAK&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.blingame.haaktestb#whats-new&quot;&gt;HAAK&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.blingame.haaktestb&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Action&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;HAAK Free Purchases and Unlocked Paid Content&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1014,7 +1649,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1024,7 +1663,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.wbd.hbomax#whats-new</link>
+      
+      
       
       
       
@@ -1034,7 +1677,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1042,6 +1689,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Watch hit original series, films, reality, and more on HBO Max.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/0Xve4so8vFKdWH1nadrPraSJ2XoKlc2Fd4BToADo0f8gXTbljiwzuEA-OZXV86i5ubZ9uw8giaVVP3d1g_jm=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;HBO Max&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.wbd.hbomax#whats-new&quot;&gt;HBO Max&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.wbd.hbomax&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Entertainment&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;HBO Max - Prefer Ad-Free Stream&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1049,7 +1698,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1059,7 +1712,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=ginlemon.flowerfree#whats-new</link>
+      
+      
       
       
       
@@ -1069,7 +1726,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1077,6 +1738,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;A faster Android home screen with auto app sorting, widgets and smart search&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/AM7MidChVOk5Uj7Vf7xM0ZaOYnGBea4PZBH5O5wlllmksRKCdMgRzPnPSgg-K7bQ0DXv2Bb7F9-kfyCVyG3JNtQ=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Smart Launcher&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=ginlemon.flowerfree#whats-new&quot;&gt;Smart Launcher&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ginlemon.flowerfree&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Personalization&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Pro&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1084,7 +1747,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1094,7 +1761,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=bitpit.launcher#whats-new</link>
+      
+      
       
       
       
@@ -1104,7 +1775,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1112,6 +1787,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;A minimalist productivity launcher. One-hand-friendly. Zero ads.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/ICu0sx5FFQHp03c1DS8L48ULnXDUDDyqSWwi62VktysMO4ZFwVaGSqFKjZ9Iv-1Mu1plJVSB2CvIrdygkKtRFg=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Niagara Launcher&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=bitpit.launcher#whats-new&quot;&gt;Niagara Launcher&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;bitpit.launcher&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Personalization&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Niagara Pro&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1119,7 +1796,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1129,7 +1810,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.ss.squarehome2#whats-new</link>
+      
+      
       
       
       
@@ -1139,7 +1824,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1147,6 +1836,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;A Windows-style launcher: Simple, fast, and intuitive.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/0PK7lDqOUya1sEt9zy4a56unYUIJX8-fmmwWr8B_F8dxOy7PRJRSo0SK5hA8H4DzCm-XPveUSxX4K8rsfSoI0w=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Square Home 2&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.ss.squarehome2#whats-new&quot;&gt;Square Home 2&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ss.squarehome2&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Personalization&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1154,7 +1845,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1164,7 +1859,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=ru.execbit.aiolauncher#whats-new</link>
+      
+      
       
       
       
@@ -1174,7 +1873,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1182,6 +1885,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;All you need on a single home screen&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/6JOgoj0USZ8_71bG8JKBwoMWzmBRkDJdg0O9OdBLhdBfCCY0HjkF2cMsbkApwAzsSzDjV7hjC82X2fU8Z0F83w=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;AIO Launcher&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=ru.execbit.aiolauncher#whats-new&quot;&gt;AIO Launcher&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ru.execbit.aiolauncher&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Personalization&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Enable Premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1189,7 +1894,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1199,7 +1908,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=videoplayer.videodownloader.downloader#whats-new</link>
+      
+      
       
       
       
@@ -1209,7 +1922,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1217,6 +1934,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;HD Video player and downloader for all formats, fast &amp;amp; smooth 4K video playback.&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/4v1gAVBRKoO9aUUOhYJLY-aa8FytPXj0LRNJbV8CT743B3sajF54fcEbvQjfE6kuJrS9ddaFkbo7PDcWZ-iQBcI=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;All Video Downloader &amp;amp; Ace Player&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=videoplayer.videodownloader.downloader#whats-new&quot;&gt;All Video Downloader &amp;amp; Ace Player&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;videoplayer.videodownloader.downloader&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Boost Splash Screen&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1224,7 +1943,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1234,7 +1957,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.haibison.apksigner#whats-new</link>
+      
+      
       
       
       
@@ -1244,7 +1971,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1252,6 +1983,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Let&amp;#x27;s sign apk files&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/oKbxy_uRCvj_XLmytqYNR002xmw_JWaI4wr5wEBcBFA17NU7iRV0AVFJRDE82h9I1LxJIkVHY_SgDOFUuCT81Q=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;apk-signer&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.haibison.apksigner#whats-new&quot;&gt;apk-signer&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.haibison.apksigner&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Tools&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;APK Signer Unlock Pro&lt;/li&gt;&lt;li&gt;Disable Forground Services Warning&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1259,7 +1992,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1269,7 +2006,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=cz.destil.settleup#whats-new</link>
+      
+      
       
       
       
@@ -1279,7 +2020,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1287,6 +2032,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Sharing expenses with friends?&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/JVu0xZIMAws67VVL1mD4vtzPk-rmowBX18Urbtwg-iFxMO7dzBd3FvjwIvDY7I2klvbWfri0GasBA8TTTHM0QF0=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Settle Up&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=cz.destil.settleup#whats-new&quot;&gt;Settle Up&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;cz.destil.settleup&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Finance&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (2):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Remove ads&lt;/li&gt;&lt;li&gt;Unlock premium&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1294,7 +2041,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1304,7 +2055,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.block.juggle#whats-new</link>
+      
+      
       
       
       
@@ -1314,7 +2069,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1322,6 +2081,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Enjoy relaxing puzzle games and offline games anytime, no WiFi needed!&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Block Blast!&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.block.juggle#whats-new&quot;&gt;Block Blast!&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.block.juggle&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Puzzle&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Ad Removal + Subscription&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1329,7 +2090,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1339,7 +2104,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=com.valvesoftware.steamlinkvr#whats-new</link>
+      
+      
       
       
       
@@ -1349,7 +2118,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1357,6 +2130,8 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Stream Your Steam Library&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/6TU14znIBQ6oierlwk8twhgqDLMhA3y-a-daQq8jF5d_OZpk9HpEo9rlMQ_KhxSUQ-mpohuQLVmH-jy6zoVCaTU=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Steam Link Experimental&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=com.valvesoftware.steamlinkvr#whats-new&quot;&gt;Steam Link Experimental&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.valvesoftware.steamlinkvr&lt;/code&gt;&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (4):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Experimental VRLink unmanaged full space&lt;/li&gt;&lt;li&gt;Experimental XR projection quality settings&lt;/li&gt;&lt;li&gt;Experimental XR projection settings stripped&lt;/li&gt;&lt;li&gt;Experimental XR projection trace control&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
@@ -1364,7 +2139,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1374,7 +2153,11 @@
       
       
       
+      
+      
       <link>https://awesome-morphe.vercel.app/?app=ru.ozon.app.android#whats-new</link>
+      
+      
       
       
       
@@ -1384,7 +2167,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      
+      
       
       
       
@@ -1392,9 +2179,13 @@
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Shop millions of products with discounts and fast delivery starting from one day!&lt;/p&gt;&lt;img src=&quot;https://play-lh.googleusercontent.com/iZhyKvRs1otTwl4NyHzX_6GT3AUO6vBuvBQaf56VtZsDteoQ-ceNr5fwzYQjHxBISZtobnB1zVu1avuU41ParQ=s64-rw&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;Ozon&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=ru.ozon.app.android#whats-new&quot;&gt;Ozon&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ru.ozon.app.android&lt;/code&gt; | &lt;strong&gt;Category:&lt;/strong&gt; Shopping&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (1):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Disable tip notifications&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
+    
+    
     
     
     
@@ -1404,7 +2195,11 @@
       
       
       
+      
+      
       <title>RuStore</title>
+      
+      
       
       
       
@@ -1414,7 +2209,11 @@
       
       
       
+      
+      
       <guid isPermaLink="false">Jl4cTuk/morphe-patches:ru.vk.store</guid>
+      
+      
       
       
       
@@ -1424,14 +2223,20 @@
       
       
       
+      
+      
       <description>&lt;div style=&quot;font-family: sans-serif;&quot;&gt;&lt;p style=&quot;font-size: 1.05em; font-weight: 500;&quot;&gt;Russia&amp;#x27;s official alternative Android marketplace.&lt;/p&gt;&lt;img src=&quot;https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2025%2F03%2F53%2F67c787cb4f546_ru.vk.store.png&amp;amp;w=64&amp;amp;h=64&amp;amp;q=100&quot; width=&quot;48&quot; height=&quot;48&quot; style=&quot;float: left; margin-right: 12px; border-radius: 8px;&quot; alt=&quot;RuStore&quot; /&gt;&lt;h2&gt;&lt;a href=&quot;https://awesome-morphe.vercel.app/?app=ru.vk.store#whats-new&quot;&gt;RuStore&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ru.vk.store&lt;/code&gt;&lt;/p&gt;&lt;hr /&gt;&lt;h4&gt;Patches (7):&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Disable background hooks&lt;/li&gt;&lt;li&gt;Disable gaming profile&lt;/li&gt;&lt;li&gt;Disable invasive permissions&lt;/li&gt;&lt;li&gt;Disable push services&lt;/li&gt;&lt;li&gt;Restore secure-session compatibility&lt;/li&gt;&lt;li&gt;Restrict background work to updates&lt;/li&gt;&lt;li&gt;Skip update authentication&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
       
       
+      
+    
     
     
     </item>
     
     
+    
+  
   
   
   </channel>
