@@ -186,6 +186,13 @@ def fetch_fallback_metadata(repo_key: str, pkg_id: str, app_page_url: str) -> di
                         icon_path = f"https://apt.izzysoft.de{icon_path}"
                     result["icon"] = icon_path
 
+        # Extract source code repository link (common to both repositories)
+        m_src = re.search(r'<a[^>]+href=[\'"]([^\'"]+)[\'"][^>]*>\s*Source(?:\s+Code)?\s*</a>', html, re.IGNORECASE)
+        if m_src:
+            src_url = m_src.group(1).strip()
+            if src_url and src_url != app_page_url:
+                result["source_code"] = src_url
+
     except Exception as e:
         logger.warning(f"Failed to fetch web fallback metadata for {pkg_id} ({app_page_url}): {e}")
 
@@ -296,8 +303,10 @@ def parse_diff_packages(repo_key: str, repo_info: dict, diff_data: dict, known_a
             categories = []
 
         license_name = metadata.get("license", "")
-        source_code = metadata.get("sourceCode") or metadata.get("issueTracker") or repo_info["app_url_pattern"].format(pkg=pkg_id)
+        source_code = metadata.get("sourceCode") or metadata.get("issueTracker")
         app_page_url = repo_info["app_url_pattern"].format(pkg=pkg_id)
+        if source_code == app_page_url:
+            source_code = None
 
         # Extract icon URL if present
         icon_url = None
@@ -316,7 +325,7 @@ def parse_diff_packages(repo_key: str, repo_info: dict, diff_data: dict, known_a
                         break
 
         # Fallback to web scraping if critical metadata is missing
-        if not summary or name == pkg_id or not icon_url:
+        if not summary or name == pkg_id or not icon_url or not source_code:
             fallback = fetch_fallback_metadata(repo_key, pkg_id, app_page_url)
             if not summary and fallback.get("summary"):
                 summary = fallback["summary"]
@@ -324,27 +333,32 @@ def parse_diff_packages(repo_key: str, repo_info: dict, diff_data: dict, known_a
                 name = fallback["name"]
             if not icon_url and fallback.get("icon"):
                 icon_url = fallback["icon"]
+            if not source_code and fallback.get("source_code"):
+                source_code = fallback["source_code"]
 
-        # Build HTML description - Summary placed prominently at top for RSS snippet previews
+        # Build HTML description - Clean, no duplicate content from Title
         icon_html = f'<img src="{icon_url}" alt="{name} icon" width="64" height="64" style="float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;" />\n' if icon_url else ""
-        summary_p = f'<p style="font-size: 1.05em; font-weight: bold;">{summary}</p>\n' if summary else ""
-        cat_info = f"🏷️ <strong>Category:</strong> {', '.join(categories)}<br/>\n" if categories else ""
-        license_info = f"⚖️ <strong>License:</strong> {license_name} | " if license_name else ""
+        license_info = f"<br/>\n⚖️ <strong>License:</strong> {license_name}" if license_name else ""
+
+        if source_code and source_code != app_page_url:
+            links_html = f'<p><a href="{source_code}">Source Code</a> | <a href="{app_page_url}">{repo_info["name"]} Page</a></p>'
+            rss_link = source_code
+        else:
+            links_html = f'<p><a href="{app_page_url}">{repo_info["name"]} Page</a></p>'
+            rss_link = app_page_url
 
         desc_html = (
             f"<div>\n"
-            f"{summary_p}"
             f"{icon_html}"
-            f"<p><strong>App:</strong> {name} (<code>{pkg_id}</code>)<br/>\n"
-            f"{cat_info}"
-            f"{license_info}<strong>Repository:</strong> {repo_info['name']}</p>\n"
-            f'<p><a href="{source_code}">Source Code</a> | <a href="{app_page_url}">{repo_info["name"]} Page</a></p>\n'
+            f"<p><strong>Package:</strong> <code>{pkg_id}</code>"
+            f"{license_info}</p>\n"
+            f"{links_html}\n"
             f"</div>"
         )
 
         app_item = {
             "title": format_app_title(repo_info["name"], name, summary, categories),
-            "link": source_code,
+            "link": rss_link,
             "guid": f"{pkg_id}@{repo_key}",
             "pubDate": current_time_str,
             "description": desc_html,
