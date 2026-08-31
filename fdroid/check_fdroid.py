@@ -88,7 +88,7 @@ def verify_sha256(content: bytes, expected_hash: str) -> bool:
     return True
 
 
-def get_localized_text(field: any, default: str = "") -> str:
+def get_localized_text(field: any, default: str = "", fallback_to_any: bool = True) -> str:
     """Extract English localized string from index-v2 dictionary or string."""
     if not field:
         return default
@@ -98,9 +98,10 @@ def get_localized_text(field: any, default: str = "") -> str:
         for lang in ["en-US", "en", "en_US", "en-GB"]:
             if lang in field and field[lang]:
                 return field[lang]
-        for val in field.values():
-            if val:
-                return str(val)
+        if fallback_to_any:
+            for val in field.values():
+                if val:
+                    return str(val)
     return default
 
 
@@ -115,24 +116,36 @@ def clean_text(text: str) -> str:
     return text
 
 
-def extract_summary(metadata: dict) -> str:
-    """Extract summary, falling back to first sentence of description."""
+def extract_summary(metadata: dict) -> tuple[str, bool]:
+    """Extract summary, returning (summary_text, is_english)."""
     if not isinstance(metadata, dict):
-        return ""
+        return "", False
 
-    summary = get_localized_text(metadata.get("summary"))
-    if summary:
-        return clean_text(summary)
+    # Prefer English localization first
+    summary_en = get_localized_text(metadata.get("summary"), fallback_to_any=False)
+    if summary_en:
+        return clean_text(summary_en), True
 
-    desc = get_localized_text(metadata.get("description"))
-    if desc:
-        desc_clean = clean_text(desc)
+    desc_en = get_localized_text(metadata.get("description"), fallback_to_any=False)
+    if desc_en:
+        desc_clean = clean_text(desc_en)
         if desc_clean:
             sentences = re.split(r'(?<=[.!?])\s+', desc_clean)
-            if sentences:
-                return sentences[0].strip()
-            return desc_clean
-    return ""
+            return (sentences[0].strip() if sentences else desc_clean), True
+
+    # Fall back to any language if present, but mark as non-English
+    any_summary = get_localized_text(metadata.get("summary"), fallback_to_any=True)
+    if any_summary:
+        return clean_text(any_summary), False
+
+    any_desc = get_localized_text(metadata.get("description"), fallback_to_any=True)
+    if any_desc:
+        desc_clean = clean_text(any_desc)
+        if desc_clean:
+            sentences = re.split(r'(?<=[.!?])\s+', desc_clean)
+            return (sentences[0].strip() if sentences else desc_clean), False
+
+    return "", False
 
 
 def fetch_fallback_metadata(repo_key: str, pkg_id: str, app_page_url: str) -> dict:
@@ -293,8 +306,8 @@ def parse_diff_packages(repo_key: str, repo_info: dict, diff_data: dict, known_a
             continue
 
         metadata = pkg_data.get("metadata", {}) if isinstance(pkg_data, dict) else {}
-        name = get_localized_text(metadata.get("name"), default=pkg_id)
-        summary = extract_summary(metadata)
+        name = get_localized_text(metadata.get("name"), default="", fallback_to_any=False)
+        summary, is_en_summary = extract_summary(metadata)
         
         categories = metadata.get("categories", [])
         if isinstance(categories, str):
@@ -324,17 +337,21 @@ def parse_diff_packages(repo_key: str, repo_info: dict, diff_data: dict, known_a
                         icon_url = f"{repo_info['base_url']}/{icon_path}"
                         break
 
-        # Fallback to web scraping if critical metadata is missing
-        if not summary or name == pkg_id or not icon_url or not source_code:
+        # Fallback to web scraping if critical metadata (English name/summary, icon, source) is missing
+        if not is_en_summary or not name or name == pkg_id or not icon_url or not source_code:
             fallback = fetch_fallback_metadata(repo_key, pkg_id, app_page_url)
-            if not summary and fallback.get("summary"):
+            if (not is_en_summary or not summary) and fallback.get("summary"):
                 summary = fallback["summary"]
-            if name == pkg_id and fallback.get("name"):
+            if (not name or name == pkg_id) and fallback.get("name"):
                 name = fallback["name"]
             if not icon_url and fallback.get("icon"):
                 icon_url = fallback["icon"]
             if not source_code and fallback.get("source_code"):
                 source_code = fallback["source_code"]
+
+        # Final fallback for name if still missing
+        if not name or name == pkg_id:
+            name = get_localized_text(metadata.get("name"), default=pkg_id, fallback_to_any=True)
 
         # Build HTML description - Clean, no duplicate content from Title
         icon_html = f'<img src="{icon_url}" alt="{name} icon" width="64" height="64" style="float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;" />\n' if icon_url else ""

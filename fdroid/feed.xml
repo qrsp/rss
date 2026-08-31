@@ -5,7 +5,7 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:42:59 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>FloatDeck — 3D parallax live wallpaper with gyroscope sensor support [F-Droid]</title>
@@ -20,13 +20,13 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>app.pwhs.universalinstaller — APK/XAPK installer with silent installs via Shizuku, Root or Dhizuku. [F-Droid]</title>
+      <title>Universal Installer — APK/XAPK installer with silent installs via Shizuku, Root or Dhizuku. [F-Droid]</title>
       <link>https://github.com/pass-with-high-score/universal-installer</link>
       <guid isPermaLink="false">app.pwhs.universalinstaller@fdroid</guid>
       <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
       <enclosure url="https://f-droid.org/repo/app.pwhs.universalinstaller/en-US/icon_p-rH0BQeCPDezlzb9mJ4WVIsPTFcXL3KqUZN64ulZbs=.png" length="0" type="image/png"/>
       <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/app.pwhs.universalinstaller/en-US/icon_p-rH0BQeCPDezlzb9mJ4WVIsPTFcXL3KqUZN64ulZbs=.png&quot; alt=&quot;app.pwhs.universalinstaller icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;img src=&quot;https://f-droid.org/repo/app.pwhs.universalinstaller/en-US/icon_p-rH0BQeCPDezlzb9mJ4WVIsPTFcXL3KqUZN64ulZbs=.png&quot; alt=&quot;Universal Installer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.pwhs.universalinstaller&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/pass-with-high-score/universal-installer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.pwhs.universalinstaller/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
@@ -272,13 +272,13 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>com.xxxx.parcel — This is a free, open-source, ad-free, offline app that prioritizes simplicity and does not collect any personal information. [F-Droid]</title>
+      <title>Parcel - Pickup code — Extract the address and pickup code from SMS automatically [F-Droid]</title>
       <link>https://github.com/shareven/parcel</link>
       <guid isPermaLink="false">com.xxxx.parcel@fdroid</guid>
       <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
       <enclosure url="https://f-droid.org/repo/com.xxxx.parcel/en-US/icon_suh6pdhzjm7jT713eMtAwYT34-thQAjJbN3cGV5ydks=.png" length="0" type="image/png"/>
       <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.xxxx.parcel/en-US/icon_suh6pdhzjm7jT713eMtAwYT34-thQAjJbN3cGV5ydks=.png&quot; alt=&quot;com.xxxx.parcel icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.xxxx.parcel/en-US/icon_suh6pdhzjm7jT713eMtAwYT34-thQAjJbN3cGV5ydks=.png&quot; alt=&quot;Parcel - Pickup code icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.xxxx.parcel&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/shareven/parcel&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.xxxx.parcel/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
@@ -501,25 +501,25 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>net.timelegend.chaka.viewer.app — Read fluently and comfortably, with simple and clear interface. [F-Droid]</title>
+      <title>Chaka Book Reader — Committed to improving reading experience [F-Droid]</title>
       <link>https://github.com/elementdavv/chaka</link>
       <guid isPermaLink="false">net.timelegend.chaka.viewer.app@fdroid</guid>
       <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
       <enclosure url="https://f-droid.org/repo/net.timelegend.chaka.viewer.app/en-US/icon_IDV990nBWZsZCBU4QEZQa1GuQOKrhC0YFVDr6rsUGyI=.png" length="0" type="image/png"/>
       <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/net.timelegend.chaka.viewer.app/en-US/icon_IDV990nBWZsZCBU4QEZQa1GuQOKrhC0YFVDr6rsUGyI=.png&quot; alt=&quot;net.timelegend.chaka.viewer.app icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;img src=&quot;https://f-droid.org/repo/net.timelegend.chaka.viewer.app/en-US/icon_IDV990nBWZsZCBU4QEZQa1GuQOKrhC0YFVDr6rsUGyI=.png&quot; alt=&quot;Chaka Book Reader icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.timelegend.chaka.viewer.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/elementdavv/chaka&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.timelegend.chaka.viewer.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>nodomain.freeyourgadget.internethelper — This app provides an interface to Gadgetbridge for HTTP/FTP transfers and WiFi control. [F-Droid]</title>
+      <title>Internet Helper for Gadgetbridge — Companion app for Gadgetbridge, to allow for controlled Internet access [F-Droid]</title>
       <link>https://codeberg.org/Freeyourgadget/Internethelper</link>
       <guid isPermaLink="false">nodomain.freeyourgadget.internethelper@fdroid</guid>
       <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
       <enclosure url="https://f-droid.org/repo/nodomain.freeyourgadget.internethelper/en-US/icon_BmbZ4o37-EU4Tue4Jbmd4AavIZRQU15-7jkzwAHqkLo=.png" length="0" type="image/png"/>
       <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/nodomain.freeyourgadget.internethelper/en-US/icon_BmbZ4o37-EU4Tue4Jbmd4AavIZRQU15-7jkzwAHqkLo=.png&quot; alt=&quot;nodomain.freeyourgadget.internethelper icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;img src=&quot;https://f-droid.org/repo/nodomain.freeyourgadget.internethelper/en-US/icon_BmbZ4o37-EU4Tue4Jbmd4AavIZRQU15-7jkzwAHqkLo=.png&quot; alt=&quot;Internet Helper for Gadgetbridge icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;nodomain.freeyourgadget.internethelper&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://codeberg.org/Freeyourgadget/Internethelper&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/nodomain.freeyourgadget.internethelper/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
@@ -588,13 +588,13 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>Lanzador múltiple ‧ Pantalla de inicio — Lanzador múltiple ‧ Pantalla de inicio [IzzyOnDroid]</title>
+      <title>Multi Launcher ‧ Home Screen — Multi Launcher ‧ Home Screen [IzzyOnDroid]</title>
       <link>https://github.com/CodeWorksCreativeHub/mLauncher</link>
       <guid isPermaLink="false">app.mlauncher@izzy</guid>
       <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
       <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.mlauncher/en-US/icon.png" length="0" type="image/png"/>
       <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.mlauncher/en-US/icon.png&quot; alt=&quot;Lanzador múltiple ‧ Pantalla de inicio icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.mlauncher/en-US/icon.png&quot; alt=&quot;Multi Launcher ‧ Home Screen icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.mlauncher&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/CodeWorksCreativeHub/mLauncher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.mlauncher&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
@@ -684,25 +684,25 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>com.kunzisoft.keepass.free — Kelola Passkey / Kata Sandi di brankas lokal dan open source [IzzyOnDroid]</title>
+      <title>KeePassDX Free - FOSS Password Safe — Manage Passkey / Password in a local and open-source vault [IzzyOnDroid]</title>
       <link>https://github.com/Kunzisoft/KeePassDX</link>
       <guid isPermaLink="false">com.kunzisoft.keepass.free@izzy</guid>
       <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
       <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.kunzisoft.keepass.free/en-US/icon.png" length="0" type="image/png"/>
       <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.kunzisoft.keepass.free/en-US/icon.png&quot; alt=&quot;com.kunzisoft.keepass.free icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.kunzisoft.keepass.free/en-US/icon.png&quot; alt=&quot;KeePassDX Free - FOSS Password Safe icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.kunzisoft.keepass.free&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/Kunzisoft/KeePassDX&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.kunzisoft.keepass.free&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>com.r57zone.easynotes — Easy Note - заметки с возможность синхронизации [IzzyOnDroid]</title>
+      <title>EasyNotes — Easy Note Taking with optional sync [IzzyOnDroid]</title>
       <link>https://github.com/r57zone/EasyNotes</link>
       <guid isPermaLink="false">com.r57zone.easynotes@izzy</guid>
       <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.r57zone.easynotes/ru/icon.png" length="0" type="image/png"/>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.r57zone.easynotes/en-US/icon.png" length="0" type="image/png"/>
       <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.r57zone.easynotes/ru/icon.png&quot; alt=&quot;com.r57zone.easynotes icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.r57zone.easynotes/en-US/icon.png&quot; alt=&quot;EasyNotes icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.r57zone.easynotes&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/r57zone/EasyNotes&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.r57zone.easynotes&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
