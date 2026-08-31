@@ -54,9 +54,7 @@ FEED_TITLE = "F-Droid & IzzyOnDroid New Apps"
 FEED_DESCRIPTION = "New apps discovered on F-Droid and IzzyOnDroid repositories"
 FEED_LINK = os.environ.get("FEED_LINK", "https://qrsp.github.io/rss/fdroid/feed.xml")
 
-DEFAULT_MAX_ITEMS = 200
-EXPANDED_MAX_ITEMS = 500
-BATCH_EXPAND_THRESHOLD = 200
+DEFAULT_MAX_ITEMS = 500
 
 USER_AGENT = "FDroid-RSS-Bot/1.0 (+https://github.com/qrsp/rss)"
 
@@ -204,12 +202,13 @@ def migrate_known_apps():
             packages = data.get("packages", {})
             for pkg, val in packages.items():
                 all_packages.add(pkg)
-            # Also save latest repo timestamp
+            # Also save latest diff timestamp
             entry_resp = fetch_with_retry(repo["entry_url"])
             entry_data = entry_resp.json()
-            entry_ts = entry_data.get("timestamp")
-            if entry_ts:
-                save_timestamp(entry_ts, repo["timestamp_file"])
+            diffs = entry_data.get("diffs", {})
+            if diffs:
+                latest_diff_ts = max(int(ts) for ts in diffs.keys())
+                save_timestamp(latest_diff_ts, repo["timestamp_file"])
         except Exception as e:
             logger.error(f"Migration error for {repo['name']}: {e}")
 
@@ -304,68 +303,60 @@ def process_repo(repo_key: str, repo_info: dict, known_apps: set, current_time_s
         logger.error(f"Could not fetch entry.json for {repo_info['name']}: {e}")
         return new_apps
 
-    current_repo_timestamp = entry_data.get("timestamp")
     last_timestamp = read_timestamp(repo_info["timestamp_file"])
     diffs = entry_data.get("diffs", {})
 
     if not diffs:
         logger.info(f"No diffs available for {repo_info['name']}.")
-        if current_repo_timestamp:
-            save_timestamp(current_repo_timestamp, repo_info["timestamp_file"])
         return new_apps
 
     available_timestamps = sorted(int(ts) for ts in diffs.keys())
     logger.info(f"Available diff timestamps: {available_timestamps}")
     logger.info(f"Last recorded timestamp: {last_timestamp}")
 
-    # Determine which diffs to download
-    if last_timestamp is None:
-        logger.info(f"No previous timestamp found for {repo_info['name']}. Using oldest available diff.")
-        target_timestamps = [available_timestamps[0]]
-    elif last_timestamp < available_timestamps[0]:
-        logger.info(f"Last timestamp {last_timestamp} is older than oldest diff {available_timestamps[0]}. Processing all available diffs.")
-        target_timestamps = available_timestamps
-    else:
-        target_timestamps = [ts for ts in available_timestamps if ts > last_timestamp]
+    oldest_available_ts = available_timestamps[0]
+    latest_available_ts = available_timestamps[-1]
 
-    if not target_timestamps:
+    # Check if already up to date
+    if last_timestamp is not None and last_timestamp >= latest_available_ts:
         logger.info(f"Repository {repo_info['name']} is already up to date.")
-        if current_repo_timestamp and (last_timestamp is None or current_repo_timestamp > last_timestamp):
-            save_timestamp(current_repo_timestamp, repo_info["timestamp_file"])
         return new_apps
 
-    logger.info(f"Processing {len(target_timestamps)} diff(s) for {repo_info['name']}: {target_timestamps}")
+    # Determine target diff to download.
+    # In F-Droid Index V2, each /diff/{ts}.json contains all cumulative changes from {ts} to current.
+    if last_timestamp is None or last_timestamp <= oldest_available_ts:
+        logger.info(f"Using oldest available diff {oldest_available_ts} for backfill (last recorded: {last_timestamp}).")
+        target_ts = oldest_available_ts
+    else:
+        # Since available_timestamps is sorted ascending, iterate in reverse to find the largest ts <= last_timestamp
+        target_ts = next(ts for ts in reversed(available_timestamps) if ts <= last_timestamp)
+        logger.info(f"Target diff base timestamp: {target_ts} (last recorded: {last_timestamp})")
 
-    latest_processed_ts = last_timestamp or target_timestamps[-1]
+    diff_info = diffs.get(str(target_ts))
+    if not diff_info:
+        logger.warning(f"Diff metadata for timestamp {target_ts} not found.")
+        return new_apps
 
-    for ts in target_timestamps:
-        diff_info = diffs.get(str(ts))
-        if not diff_info:
-            continue
+    diff_name = diff_info.get("name", f"/diff/{target_ts}.json")
+    diff_url = f"{repo_info['base_url']}{diff_name}"
+    expected_sha256 = diff_info.get("sha256")
 
-        diff_name = diff_info.get("name", f"/diff/{ts}.json")
-        diff_url = f"{repo_info['base_url']}{diff_name}"
-        expected_sha256 = diff_info.get("sha256")
+    try:
+        logger.info(f"Downloading diff: {diff_url}")
+        resp = fetch_with_retry(diff_url)
+        if expected_sha256 and not verify_sha256(resp.content, expected_sha256):
+            logger.error(f"Skipping diff {diff_url} due to SHA-256 mismatch")
+            return new_apps
 
-        try:
-            logger.info(f"Downloading diff: {diff_url}")
-            resp = fetch_with_retry(diff_url)
-            if expected_sha256 and not verify_sha256(resp.content, expected_sha256):
-                logger.error(f"Skipping diff {diff_url} due to SHA-256 mismatch")
-                continue
+        diff_data = resp.json()
+        apps_from_diff = parse_diff_packages(repo_key, repo_info, diff_data, known_apps, current_time_str)
+        logger.info(f"Found {len(apps_from_diff)} new app(s) in diff {target_ts}")
+        new_apps.extend(apps_from_diff)
 
-            diff_data = resp.json()
-            apps_from_diff = parse_diff_packages(repo_key, repo_info, diff_data, known_apps, current_time_str)
-            logger.info(f"Found {len(apps_from_diff)} new app(s) in diff {ts}")
-            new_apps.extend(apps_from_diff)
-            latest_processed_ts = max(latest_processed_ts or 0, ts)
-        except Exception as e:
-            logger.error(f"Error processing diff {diff_url}: {e}")
-
-    # Update timestamp file to latest processed diff or current entry timestamp
-    final_timestamp = current_repo_timestamp if current_repo_timestamp else latest_processed_ts
-    if final_timestamp:
-        save_timestamp(final_timestamp, repo_info["timestamp_file"])
+        # Successfully applied cumulative diff to latest index; advance timestamp to latest available
+        save_timestamp(latest_available_ts, repo_info["timestamp_file"])
+    except Exception as e:
+        logger.error(f"Error processing diff {diff_url}: {e}")
 
     return new_apps
 
@@ -494,7 +485,9 @@ def main():
             seen_guids.add(guid)
             combined_items.append(item)
 
-    max_items = EXPANDED_MAX_ITEMS if len(new_apps_all) > BATCH_EXPAND_THRESHOLD else DEFAULT_MAX_ITEMS
+    max_items = max(DEFAULT_MAX_ITEMS, len(new_apps_all))
+    if len(new_apps_all) > DEFAULT_MAX_ITEMS:
+        logger.info(f"Batch new apps ({len(new_apps_all)}) exceeds default limit ({DEFAULT_MAX_ITEMS}). Expanding feed retention to {max_items} items.")
     final_items = combined_items[:max_items]
 
     if new_apps_all or not os.path.exists(FEED_FILE):

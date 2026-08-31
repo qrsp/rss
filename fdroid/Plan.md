@@ -62,20 +62,22 @@ The existing `known_apps.txt` contains ~4,311 display names. On the first run:
 1. Download the full `index-v2.json` from both repos.
 2. Map all display names → package IDs.
 3. Rewrite `known_apps.txt` with package IDs.
-4. Save the current timestamp from `entry.json` to both timestamp files.
+4. Save the latest diff timestamp from `entry.json` to both timestamp files.
 5. Use the oldest available diff from `entry.json` as the starting point for diff processing.
 
 ## Diff Processing Logic
 
-1. Fetch `entry.json` from each repo.
+1. Fetch `entry.json` from each repo and read `diffs` timestamps.
 2. Read the corresponding `last_timestamp_*.txt`.
-3. Find all diffs with timestamps **greater than** the last-seen timestamp.
-   - If no matching diffs (timestamp too old or first run): use the **oldest available diff**.
-4. Download **all** matching diffs (process multiple if the script hasn't run for several days).
-5. **Verify SHA-256 hash** of each downloaded file against `entry.json`.
+3. If `last_timestamp >= latest_available_ts`, repository is already up to date.
+4. Select the optimal **single cumulative diff**:
+   - If first run (`last_timestamp is None`) or stale (`last_timestamp <= oldest_available_ts`): use the **oldest available diff** (`available_timestamps[0]`) to backfill recent apps.
+   - Otherwise: select the diff matching or immediately preceding `last_timestamp` (`max(ts <= last_timestamp)`).
+5. **Verify SHA-256 hash** of the downloaded diff against `entry.json`.
 6. Extract all package IDs present in the diff's `packages` section.
 7. Filter out any package IDs already in `known_apps.txt`.
 8. Remaining package IDs = **new apps** for the RSS feed.
+9. Upon success, advance and save `last_timestamp` to **`latest_available_ts`**.
 
 ## RSS Feed (`feed.xml`)
 
@@ -102,8 +104,8 @@ The existing `known_apps.txt` contains ~4,311 display names. On the first run:
 | `<guid>` | Package ID (isPermaLink=false) |
 
 ### Retention Policy (Dynamic)
-- Default: keep last **200 items**
-- If a single run adds **>200 new apps**: auto-expand to **500 items**
+- Default: keep last **500 items**
+- If a single run adds **>500 new apps**: auto-expand to the exact count of new apps in that run (ensures no new apps are trimmed)
 - Oldest items are trimmed from the bottom of the feed
 - New items are **prepended** (newest first)
 
