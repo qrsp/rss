@@ -135,6 +135,63 @@ def extract_summary(metadata: dict) -> str:
     return ""
 
 
+def fetch_fallback_metadata(repo_key: str, pkg_id: str, app_page_url: str) -> dict:
+    """Fallback fetch for missing name, summary, and icon from repository web pages."""
+    result = {}
+    try:
+        resp = fetch_with_retry(app_page_url, max_retries=2, base_delay=1.0, timeout=10)
+        html = resp.text
+
+        if repo_key == "fdroid":
+            # Extract summary: check package-summary div, then meta description
+            m_sum = re.search(r'<div class="package-summary">\s*(.*?)\s*</div>', html, re.DOTALL | re.IGNORECASE)
+            if not m_sum:
+                m_sum = re.search(r'<meta\s+(?:name|property)="description"\s+content="([^"]+)"', html, re.IGNORECASE)
+            if m_sum:
+                result["summary"] = clean_text(m_sum.group(1))
+
+            # Extract name: package-name h3, then og:title
+            m_name = re.search(r'<h3 class="package-name">\s*(.*?)\s*</h3>', html, re.DOTALL | re.IGNORECASE)
+            if not m_name:
+                m_name = re.search(r'<meta\s+property="og:title"\s+content="([^|"]+)', html, re.IGNORECASE)
+            if m_name:
+                result["name"] = clean_text(m_name.group(1))
+
+            # Extract icon: og:image
+            m_icon = re.search(r'<meta\s+property="og:image"\s+content="([^"]+)"', html, re.IGNORECASE)
+            if m_icon:
+                result["icon"] = m_icon.group(1).strip()
+
+        elif repo_key == "izzy":
+            # Extract summary: meta og:description
+            m_sum = re.search(r'<meta\s+property="og:description"\s+content="([^"]+)"', html, re.IGNORECASE)
+            if m_sum:
+                sum_text = clean_text(m_sum.group(1))
+                if sum_text and "App not found" not in sum_text:
+                    result["summary"] = sum_text
+
+            # Extract name: meta og:title e.g. „HeliBoard“ – IzzyOnDroid F-Droid Repository
+            m_name = re.search(r'<meta\s+property="og:title"\s+content="([^–"—]+?)\s*–\s*IzzyOnDroid', html, re.IGNORECASE)
+            if m_name:
+                name_clean = clean_text(m_name.group(1)).strip(' \t\n\r"\'„”«»“”')
+                if name_clean and "App not found" not in name_clean:
+                    result["name"] = name_clean
+
+            # Extract icon: meta og:image
+            m_icon = re.search(r'<meta\s+property="og:image"\s+content="([^"]+)"', html, re.IGNORECASE)
+            if m_icon:
+                icon_path = m_icon.group(1).strip()
+                if "izzy-on-droid.png" not in icon_path:
+                    if icon_path.startswith("/"):
+                        icon_path = f"https://apt.izzysoft.de{icon_path}"
+                    result["icon"] = icon_path
+
+    except Exception as e:
+        logger.warning(f"Failed to fetch web fallback metadata for {pkg_id} ({app_page_url}): {e}")
+
+    return result
+
+
 def format_app_title(repo_name: str, name: str, summary: str, categories: list) -> str:
     """Format app title as: {Name} — {Summary} [{Repo}] [{Category}]"""
     cat_tag = f" [{categories[0]}]" if categories and categories[0] else ""
@@ -257,6 +314,16 @@ def parse_diff_packages(repo_key: str, repo_info: dict, diff_data: dict, known_a
                         icon_path = locale_val["name"].lstrip("/")
                         icon_url = f"{repo_info['base_url']}/{icon_path}"
                         break
+
+        # Fallback to web scraping if critical metadata is missing
+        if not summary or name == pkg_id or not icon_url:
+            fallback = fetch_fallback_metadata(repo_key, pkg_id, app_page_url)
+            if not summary and fallback.get("summary"):
+                summary = fallback["summary"]
+            if name == pkg_id and fallback.get("name"):
+                name = fallback["name"]
+            if not icon_url and fallback.get("icon"):
+                icon_url = fallback["icon"]
 
         # Build HTML description - Summary placed prominently at top for RSS snippet previews
         icon_html = f'<img src="{icon_url}" alt="{name} icon" width="64" height="64" style="float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;" />\n' if icon_url else ""
