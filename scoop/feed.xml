@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:44:04 +0000</lastBuildDate>
+    <item>
+      <title>[Main] proxytunnel v1.13.0</title>
+      <link>https://proxytunnel.sourceforge.io</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; proxytunnel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.13.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Stealth tunneling through HTTP(S) proxies.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/proxytunnel.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 04:49:32 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-proxytunnel-1.13.0</guid>
+    </item>
+    <item>
+      <title>[Main] dsc v3.2.3</title>
+      <link>https://github.com/PowerShell/dsc</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; dsc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 3.2.3&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; DSC since v3 is an open source command line application that abstracts the management of software components declaratively and idempotently.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dsc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 04:13:12 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-dsc-3.2.3</guid>
+    </item>
     <item>
       <title>[Extras] leopardwm v0.2.8</title>
       <link>https://github.com/jcardama/LeopardWM</link>
