@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:38:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:07:38 +0000</lastBuildDate>
+    <item>
+      <title>[Nirsoft] ipneighborsview v1.04</title>
+      <link>https://www.nirsoft.net/utils/ip_neighbor_table_view.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; ipneighborsview&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Nirsoft&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; View the IP neighbor table on Windows 10/8/7/Vista&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/ipneighborsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 09:31:24 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-ipneighborsview-1.04</guid>
+    </item>
     <item>
       <title>[Main] proxytunnel v1.13.0</title>
       <link>https://proxytunnel.sourceforge.io</link>
