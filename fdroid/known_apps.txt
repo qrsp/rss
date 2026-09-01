@@ -59,6 +59,7 @@ com.activitytrace
 com.adilhanney.saber
 com.aeidolon.vaultexplorer
 com.afkanerd.deku
+com.afkanerd.sw0b
 com.agatamessina.webinspector
 com.agepony.app
 com.ahad.macat
@@ -72,6 +73,7 @@ com.amanoteam.kurt
 com.anant.fitbuddy
 com.android.gpstest.osmdroid
 com.androidcrypt
+com.androidvip.sysctlgui
 com.andsi.airlyrics
 com.anopticlabs.gravel
 com.anthonyla.paperize
@@ -231,6 +233,7 @@ com.guiforge.bati
 com.hackerapps.c2k
 com.harsh.shah.saavnmp3
 com.hazelhope.dubster.hamtest
+com.hbouzidi.fiveprayers
 com.health.openscale.sync
 com.helddertierwelt.mentalmath
 com.hello.randomname
@@ -317,6 +320,7 @@ com.mendhak.gpslogger
 com.milki.launcher
 com.mine.autoshine
 com.minimo.launcher
+com.mirfatif.noorulhuda
 com.mobilefork.hermesagent
 com.moimob.drinkable
 com.money.manager.ex
@@ -431,6 +435,7 @@ com.tailscale.ipn
 com.technicjelle.simple_audio_converter
 com.terminator.app
 com.tharunbirla.librecuts
+com.thinkdifferent.anywebview
 com.thomaskuenneth.mintime
 com.thomaskuenneth.tkweek
 com.tideo.autobrightness
@@ -601,7 +606,9 @@ hu.kadatsoft.smsreply
 ie.delilahsthings.soothingloop
 ie.equalit.ceno
 im.status.ethereum
+in.basulabs.shakealarmclock
 in.kawaiis.journal
+in.sunilpaulmathew.weatherwidget
 info.metadude.android.fediday.schedule
 info.metadude.android.inselchaos.schedule
 info.plateaukao.einkbro
@@ -644,6 +651,7 @@ io.github.scovillo.playondlna
 io.github.sds100.keymapper
 io.github.sms2email.sms2email
 io.github.snood21.workprofilevpnswitcher
+io.github.swiftstagrime.termuxrunner
 io.github.thezupzup.linthra
 io.github.toolicious.labler
 io.github.trevarj.motd
@@ -692,6 +700,9 @@ net.blumia.pineapple.lockscreen.oss
 net.chlup.myshare
 net.christianbeier.droidvnc_ng
 net.diffengine.romandigitalclock
+net.gmartin.paperlessngx_uploader
+net.helcel.cowspent
+net.hyx.app.volumenotification
 net.koofr.vault
 net.millaguie.cosmovisor
 net.minetest.minetest
@@ -809,6 +820,7 @@ pro.kherel.selfprivacy
 protectedwp.safespace
 rkr.simplekeyboard.inputmethod
 rocks.mucke
+rocks.mucke.github
 ru.application.homemedkit
 ru.wohlsoft.adlmidiplayer
 ru.wohlsoft.opnmidiplayer
