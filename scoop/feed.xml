@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 11:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:04:19 +0000</lastBuildDate>
+    <item>
+      <title>[Extras] grok-bot v0.30.0</title>
+      <link>https://x.ai/bot</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; grok-bot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.30.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Always-on AI agents from xAI and Cursor that work autonomously across your tools and apps.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/grok-bot.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 15:36:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-grok-bot-0.30.0</guid>
+    </item>
+    <item>
+      <title>[Extras] obs-cmd v1.0.2</title>
+      <link>https://github.com/grigio/obs-cmd</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; obs-cmd&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.0.2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A lightweight command-line interface for controlling OBS Studio via the obs-websocket v5 protocol.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/obs-cmd.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 11:12:45 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-obs-cmd-1.0.2</guid>
+    </item>
     <item>
       <title>[Nirsoft] ipneighborsview v1.04</title>
       <link>https://www.nirsoft.net/utils/ip_neighbor_table_view.html</link>
