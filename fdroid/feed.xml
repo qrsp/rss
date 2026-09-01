@@ -5,8 +5,54 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:48:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:19:23 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MediaVolume — Quicksettings Tiles for media volume [IzzyOnDroid]</title>
+      <link>https://github.com/chenjunyu19/MediaVolume</link>
+      <guid isPermaLink="false">cn.morfans.chenjunyu19.mediavolume@izzy</guid>
+      <pubDate>Tue, 01 Sep 2026 20:19:18 +0000</pubDate>
+      <description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;cn.morfans.chenjunyu19.mediavolume&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/chenjunyu19/MediaVolume&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/cn.morfans.chenjunyu19.mediavolume&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Redomi — Open songs from different platforms to your favourite one [IzzyOnDroid]</title>
+      <link>https://github.com/acszo/Redomi</link>
+      <guid isPermaLink="false">com.acszo.redomi.repo@izzy</guid>
+      <pubDate>Tue, 01 Sep 2026 20:19:18 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.acszo.redomi.repo/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.acszo.redomi.repo/en-US/icon.png&quot; alt=&quot;Redomi icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.acszo.redomi.repo&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/acszo/Redomi&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.acszo.redomi.repo&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bluetooth Volume Manager — Bluetooth Volume Manager remembers volume levels for each of your Bluetooth devices and reacts when they connect or disconnect.Features: Set music, call, ringtone, and notification volumes per device Per-device equalizer with presets and a volume boost Auto-send media commands like Play or Next Launch apps on connect Keep screen awake Lock volume levels Restore volume after disconnectNo ads, no tracking. [IzzyOnDroid]</title>
+      <link>https://github.com/d4rken-org/bluemusic</link>
+      <guid isPermaLink="false">eu.darken.bluemusic@izzy</guid>
+      <pubDate>Tue, 01 Sep 2026 20:19:18 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/eu.darken.bluemusic/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/eu.darken.bluemusic/en-US/icon.png&quot; alt=&quot;Bluetooth Volume Manager icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.darken.bluemusic&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/d4rken-org/bluemusic&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/eu.darken.bluemusic&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Momentum — App to make Montages easily [IzzyOnDroid]</title>
+      <link>https://github.com/shub39/Momentum</link>
+      <guid isPermaLink="false">shub39.momentum@izzy</guid>
+      <pubDate>Tue, 01 Sep 2026 20:19:18 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/shub39.momentum/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/shub39.momentum/en-US/icon.png&quot; alt=&quot;Momentum icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;shub39.momentum&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/shub39/Momentum&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/shub39.momentum&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Clear SMS — Privacy-first SMS app with smart inbox, finance dashboard and bill reminders [F-Droid] [Finance Manager]</title>
       <link>https://github.com/itsluminous/ClearSMS</link>
@@ -5984,54 +6030,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.wbrawner.simplemarkdown.free/en-US/icon_11Q2YeSpaCdwngLM8y-udw_LoSTd5Nusecp1kLmKs-s=.png&quot; alt=&quot;SimpleMarkdown icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.wbrawner.simplemarkdown.free&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://codeberg.org/wbrawner/SimpleMarkdown&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.wbrawner.simplemarkdown.free/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Lyrion Dashboard — Now-playing dashboard with synced lyrics for Lyrion Music Server [F-Droid]</title>
-      <link>https://github.com/werdeil/lyrion-dashboard</link>
-      <guid isPermaLink="false">com.werdeil.lyriondashboard@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.werdeil.lyriondashboard/en-US/icon_zFGDIwDJg9q-fbzHIsLbKYcpebPkRlFKhN1MoVTrvZU=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.werdeil.lyriondashboard/en-US/icon_zFGDIwDJg9q-fbzHIsLbKYcpebPkRlFKhN1MoVTrvZU=.png&quot; alt=&quot;Lyrion Dashboard icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.werdeil.lyriondashboard&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/werdeil/lyrion-dashboard&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.werdeil.lyriondashboard/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Wire â¢ Secure Messenger — Wire offers highly secure communication â anywhere and anytime. [F-Droid]</title>
-      <link>https://github.com/wireapp/wire-android</link>
-      <guid isPermaLink="false">com.wire@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.wire/en-US/icon_atAh8V3AZ_I8fpohiU37umzTR8oRdyIQ3Ui1kO4i9ls=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.wire/en-US/icon_atAh8V3AZ_I8fpohiU37umzTR8oRdyIQ3Ui1kO4i9ls=.png&quot; alt=&quot;Wire â¢ Secure Messenger icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.wire&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wireapp/wire-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.wire/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>XMRPod — Podcast player with Monero tipping support. [F-Droid]</title>
-      <link>https://github.com/XMRChat/XMRPod</link>
-      <guid isPermaLink="false">com.xmrchat.xmrpod@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.xmrchat.xmrpod/en-US/icon_zpsOVvvYArcLL-An1iZbthmA27onBg1Yfd-UKQU4Z0I=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.xmrchat.xmrpod/en-US/icon_zpsOVvvYArcLL-An1iZbthmA27onBg1Yfd-UKQU4Z0I=.png&quot; alt=&quot;XMRPod icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.xmrchat.xmrpod&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/XMRChat/XMRPod&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.xmrchat.xmrpod/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>xnotes — Handwriting notes and sketching app with stylus support [F-Droid]</title>
-      <link>https://github.com/shardulvs/xnotes-android</link>
-      <guid isPermaLink="false">com.xnotes@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.xnotes/en-US/icon_3CDjjuWaukggFAXAuZ4ZkV1lgnQiShsiz6Defd2sRdc=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.xnotes/en-US/icon_3CDjjuWaukggFAXAuZ4ZkV1lgnQiShsiz6Defd2sRdc=.png&quot; alt=&quot;xnotes icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.xnotes&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/shardulvs/xnotes-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.xnotes/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
