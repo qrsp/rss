@@ -5,6 +5,7 @@ ai.privatebydesign.albi
 app.atrium
 app.bitbag
 app.chompass
+app.clearsms
 app.comaps
 app.dumdum
 app.floatdeck
@@ -16,17 +17,20 @@ app.michaelwuensch.bitbanana
 app.mlauncher
 app.nightdrop
 app.pachli
+app.passwordstore.pando85
 app.pwhs.universalinstaller
 app.rapidsplit
 app.simple.felicity
 app.simple.inure
 app.simple.peri
+app.smallthingz.reverb
 app.status.mobile
 app.sterna
 app.vger.voyager
 art.tessell.editor
 askanimus.arbeitszeiterfassung2
 at.hackmas.android.schedule
+at.j0s.meyercard.app
 at.tomtasche.reader
 background.work.around
 be.ppareit.swiftp_free
@@ -95,6 +99,7 @@ com.autopi
 com.aw.huda
 com.b44t.messenger
 com.baluchon.app
+com.baly_groceries_tracker.app
 com.bartixxx.oneplusarbchecker
 com.bearinmind.equalizer314
 com.bearinmind.launcher314
@@ -173,6 +178,7 @@ com.emanuelef.remote_capture
 com.enclavd.app
 com.erfangholami.solidshare
 com.ericlowry.dnstoggle
+com.espruino.gadgetbridge.banglejs
 com.example.research
 com.exner.tools.immichuploader
 com.eyalm.adns
@@ -186,6 +192,7 @@ com.flashsphere.privatednsqs.nolauncher
 com.flasskamp.energize
 com.flux
 com.flxrs.dankchat
+com.forrestguice.suntimeswidget
 com.foxdebug.acode
 com.fpf.smartscan
 com.freetime.geoweather
@@ -231,6 +238,7 @@ com.greenart7c3.nostrsigner
 com.grmasa.soundtoggle
 com.guiforge.bati
 com.hackerapps.c2k
+com.hackerapps.jargon
 com.harsh.shah.saavnmp3
 com.hazelhope.dubster.hamtest
 com.hbouzidi.fiveprayers
@@ -247,6 +255,7 @@ com.iiordanov.freeaRDP
 com.iiordanov.freebVNC
 com.infomaniak.euria
 com.inspiredandroid.braincup
+com.inspiredandroid.kai
 com.inspiredandroid.linuxcommandbibliotheca
 com.iris.gallery
 com.ismartcoding.plain
@@ -256,6 +265,7 @@ com.ivylopez.authsrng
 com.iyps
 com.jabstone.jabtalk.basic
 com.jaimegonzalezfabregas.shoppinglist
+com.jamal2367.urlradio
 com.jarsilio.android.autoautorotate
 com.jarsilio.android.drowser
 com.jarsilio.android.magnifica
@@ -329,6 +339,7 @@ com.mooneva.app
 com.mostafa.brickblast
 com.mrsep.musicrecognizer
 com.mskd.flux
+com.mua.unmukto
 com.mubarak.mbcompass
 com.musheer360.swiftslate
 com.myfinancemate
@@ -422,6 +433,7 @@ com.sosauce.cutemusic
 com.sshborg
 com.standardnotes
 com.starry.myne
+com.steamserverbrowser.app
 com.stopptanz.app
 com.streak.app
 com.streetwriters.notesnook
@@ -467,6 +479,7 @@ com.vayunmathur.photos
 com.vayunmathur.weather
 com.vayunmathur.youpipe
 com.vecturagames.android.app.passwordgenerator
+com.ventoid.app
 com.vermont.possin
 com.viktorholk.apipushnotifications
 com.vipedev.kords2
@@ -479,6 +492,8 @@ com.waist.line
 com.wbrawner.simplemarkdown.free
 com.werdeil.lyriondashboard
 com.wire
+com.wmstein.tourcount
+com.wmstein.transektcount
 com.xmrchat.xmrpod
 com.xnotes
 com.xxxx.parcel
@@ -507,6 +522,7 @@ de.hbch.traewelling
 de.huepping.wortmuehle
 de.jeanlucmakiola.calendula
 de.kaiserdragon.iconrequest
+de.killi199.timetracking
 de.kitshn.android
 de.lolo.rssreader
 de.luhmer.owncloudnewsreader
@@ -627,6 +643,7 @@ io.github.chayanforyou.quickball
 io.github.derweh.bayesianbahn
 io.github.dorumrr.de1984
 io.github.drumber.kitsune
+io.github.exclude0122.xivpn
 io.github.ezberlin.keinplan
 io.github.friesi23.mhabit
 io.github.gracethings.bubblenotice
@@ -639,6 +656,7 @@ io.github.landwarderer.futon
 io.github.luantak.fokuslauncher
 io.github.mgdx.rouelibre
 io.github.mimoguz.tripeaksneue
+io.github.mortenfyhn.feltbok
 io.github.padconnect
 io.github.quillpad
 io.github.rajnishkmehta.dhwanicontrol
@@ -696,9 +714,11 @@ me.weishu.kernelsu
 montafra.beam
 nabu.iris.keyboard
 net.aliasvault.app
+net.basov.omngo.fdroid
 net.blumia.pineapple.lockscreen.oss
 net.chlup.myshare
 net.christianbeier.droidvnc_ng
+net.clench.wallet
 net.diffengine.romandigitalclock
 net.gmartin.paperlessngx_uploader
 net.helcel.cowspent
@@ -710,6 +730,7 @@ net.nurik.roman.muzei
 net.pgaskin.batterytile
 net.pgaskin.cmus.android
 net.pufstudio.fieldsurvey
+net.retiolus.natinfo
 net.sunjiao.renamer
 net.taler.wallet.fdroid
 net.thunderbird.android
@@ -752,6 +773,7 @@ org.fdroid.basic
 org.fdroid.fdroid
 org.forkgram.classic
 org.forkgram.messenger
+org.fossify.documents
 org.ftena.openshelf
 org.girino.frac.android.foss
 org.github.nynosy.adiresy_mobile
@@ -775,6 +797,7 @@ org.localsend.localsend_app
 org.maegley.megrim
 org.mapcomplete
 org.mlm.mages
+org.mlm.yadaw
 org.moire.opensudoku
 org.mozilla.fennec_fdroid
 org.mqvpn.app
@@ -786,6 +809,7 @@ org.ojrandom.paiesque
 org.onekash.kashcal
 org.opendataensemble.formulus
 org.osservatorionessuno.bugbane.beta
+org.piepmeyer.gauguin
 org.quantumbadger.redreader
 org.sbv.pockettracker
 org.schabi.newpipe
