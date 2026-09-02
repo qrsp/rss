@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 02:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:39:42 +0000</lastBuildDate>
+    <item>
+      <title>[Main] longbridge v0.28.4</title>
+      <link>https://open.longbridge.com/docs/cli</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; longbridge&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.28.4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; An AI-native command-line tool with 130+ commands covering every Longbridge OpenAPI endpoint, including real-time market data, fundamentals, account management, and trading.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/longbridge.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:06:53 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-longbridge-0.28.4</guid>
+    </item>
+    <item>
+      <title>[Nirsoft] guipropview v1.33</title>
+      <link>https://www.nirsoft.net/utils/gui_prop_view.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; guipropview&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Nirsoft&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.33&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Displays extensive information about all windows currently opened on your system&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/guipropview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 08:51:29 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-guipropview-1.33</guid>
+    </item>
     <item>
       <title>[Extras] fooyin v0.12.6</title>
       <link>https://fooyin.org/</link>
