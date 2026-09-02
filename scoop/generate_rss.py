@@ -54,6 +54,38 @@ def parse_license(license_field):
         return license_field.get("identifier") or license_field.get("url") or str(license_field)
     return str(license_field)
 
+def clean_text(text):
+    """Normalize whitespace and remove newlines."""
+    if not text:
+        return ""
+    return " ".join(str(text).split()).strip()
+
+def format_title(app_name, description, bucket_name, version):
+    """Format title as: {app_name} — {description} [{bucket_name}] (v{version})"""
+    cleaned_desc = clean_text(description)
+    if cleaned_desc and cleaned_desc != "No description available.":
+        return f"{app_name} — {cleaned_desc} [{bucket_name}] (v{version})"
+    return f"{app_name} [{bucket_name}] (v{version})"
+
+def build_description_html(license_info, homepage, github_blob_url, notes=None):
+    """Build item description HTML without repeating title information or including install commands."""
+    parts = ["<div>"]
+    if license_info:
+        parts.append(f"<p><strong>License:</strong> {license_info}</p>")
+    if notes:
+        if isinstance(notes, list):
+            notes_str = "<br/>".join(clean_text(n) for n in notes if clean_text(n))
+        else:
+            notes_str = clean_text(notes)
+        if notes_str:
+            parts.append(f"<p><strong>Notes:</strong> {notes_str}</p>")
+    if homepage and homepage != github_blob_url:
+        parts.append(f'<p><a href="{homepage}">Official Homepage</a> | <a href="{github_blob_url}">View Manifest on GitHub</a></p>')
+    else:
+        parts.append(f'<p><a href="{github_blob_url}">View Manifest on GitHub</a></p>')
+    parts.append("</div>")
+    return "".join(parts)
+
 def parse_homepage(homepage_field, fallback_url):
     if not homepage_field:
         return fallback_url
@@ -145,20 +177,14 @@ def process_buckets(known_apps_set, hours_back=25):
                     description = manifest.get("description", "No description available.")
                     homepage = parse_homepage(manifest.get("homepage"), github_blob_url)
                     license_info = parse_license(manifest.get("license"))
+                    notes = manifest.get("notes")
 
                     pub_date = parse_iso_date(commit_date_str) if commit_date_str else format_datetime(datetime.now(timezone.utc))
 
                     item = {
-                        "title": f"[{bucket_name}] {app_name} v{version}",
+                        "title": format_title(app_name, description, bucket_name, version),
                         "link": homepage,
-                        "description": (
-                            f"<p><strong>App:</strong> {app_name}</p>"
-                            f"<p><strong>Bucket:</strong> {bucket_name}</p>"
-                            f"<p><strong>Version:</strong> {version}</p>"
-                            f"<p><strong>License:</strong> {license_info}</p>"
-                            f"<p><strong>Description:</strong> {description}</p>"
-                            f'<p><a href="{github_blob_url}">View Manifest on GitHub</a></p>'
-                        ),
+                        "description": build_description_html(license_info, homepage, github_blob_url, notes),
                         "pubDate": pub_date,
                         "guid": f"scoop-{bucket_name}-{app_name}-{version}",
                     }

@@ -29,9 +29,9 @@
      - 預設最大保留條目數量為 **200 筆**。
      - 若單次新增軟體數量 **超過 200 筆**，當次最大保留上限自動擴展為 **500 筆**。
    - 條目格式：
-     - **標題**: `[Bucket] App名稱 v版本號`
+     - **標題**: `App名稱 — 軟體說明 [Bucket] (v版本號)`（若無說明則退回 `App名稱 [Bucket] (v版本號)`）
      - **連結**: 官方 Homepage（無 Homepage 則退回 GitHub 檔案網址）
-     - **內文**: 包含軟體說明 (`description`)、Bucket 名稱、版本號與授權資訊 (`license`)。
+     - **內文**: 避免與標題重複，不重複出現 App 名稱、說明、Bucket 或版本號，且不放置 Install 安裝指令；僅呈現授權資訊 (`license`)、官方首頁與 Manifest 連結（若有備註 `notes` 亦包含於內文）。
 
 5. **自動化排程與發布 (GitHub Actions & GitHub Pages)**
    - **排程頻率**: 每日 UTC 20:00, 22:00 自動執行，並支援 `workflow_dispatch` 手動觸發。

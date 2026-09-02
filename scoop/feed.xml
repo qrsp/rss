@@ -4,88 +4,88 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 10:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:46:16 +0000</lastBuildDate>
     <item>
-      <title>[Main] longbridge v0.28.4</title>
+      <title>longbridge — An AI-native command-line tool with 130+ commands covering every Longbridge OpenAPI endpoint, including real-time market data, fundamentals, account management, and trading. [Main] (v0.28.4)</title>
       <link>https://open.longbridge.com/docs/cli</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; longbridge&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.28.4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; An AI-native command-line tool with 130+ commands covering every Longbridge OpenAPI endpoint, including real-time market data, fundamentals, account management, and trading.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/longbridge.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://open.longbridge.com/docs/cli&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/longbridge.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Wed, 02 Sep 2026 06:06:53 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-longbridge-0.28.4</guid>
     </item>
     <item>
-      <title>[Nirsoft] guipropview v1.33</title>
+      <title>guipropview — Displays extensive information about all windows currently opened on your system [Nirsoft] (v1.33)</title>
       <link>https://www.nirsoft.net/utils/gui_prop_view.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; guipropview&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Nirsoft&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.33&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Displays extensive information about all windows currently opened on your system&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/guipropview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/gui_prop_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/guipropview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Wed, 02 Sep 2026 08:51:29 +0000</pubDate>
       <guid isPermaLink="false">scoop-Nirsoft-guipropview-1.33</guid>
     </item>
     <item>
-      <title>[Extras] fooyin v0.12.6</title>
+      <title>fooyin — A customisable desktop music player. [Extras] (v0.12.6)</title>
       <link>https://fooyin.org/</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; fooyin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.12.6&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A customisable desktop music player.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/fooyin.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fooyin.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/fooyin.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Tue, 01 Sep 2026 21:23:05 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-fooyin-0.12.6</guid>
     </item>
     <item>
-      <title>[Extras] grok-bot v0.30.0</title>
+      <title>grok-bot — Always-on AI agents from xAI and Cursor that work autonomously across your tools and apps. [Extras] (v0.30.0)</title>
       <link>https://x.ai/bot</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; grok-bot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.30.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Always-on AI agents from xAI and Cursor that work autonomously across your tools and apps.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/grok-bot.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.ai/bot&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/grok-bot.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Tue, 01 Sep 2026 15:36:30 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-grok-bot-0.30.0</guid>
     </item>
     <item>
-      <title>[Extras] obs-cmd v1.0.2</title>
+      <title>obs-cmd — A lightweight command-line interface for controlling OBS Studio via the obs-websocket v5 protocol. [Extras] (v1.0.2)</title>
       <link>https://github.com/grigio/obs-cmd</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; obs-cmd&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.0.2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A lightweight command-line interface for controlling OBS Studio via the obs-websocket v5 protocol.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/obs-cmd.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/grigio/obs-cmd&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/obs-cmd.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Tue, 01 Sep 2026 11:12:45 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-obs-cmd-1.0.2</guid>
     </item>
     <item>
-      <title>[Nirsoft] ipneighborsview v1.04</title>
+      <title>ipneighborsview — View the IP neighbor table on Windows 10/8/7/Vista [Nirsoft] (v1.04)</title>
       <link>https://www.nirsoft.net/utils/ip_neighbor_table_view.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; ipneighborsview&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Nirsoft&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; View the IP neighbor table on Windows 10/8/7/Vista&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/ipneighborsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/ip_neighbor_table_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/ipneighborsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Tue, 01 Sep 2026 09:31:24 +0000</pubDate>
       <guid isPermaLink="false">scoop-Nirsoft-ipneighborsview-1.04</guid>
     </item>
     <item>
-      <title>[Main] proxytunnel v1.13.0</title>
+      <title>proxytunnel — Stealth tunneling through HTTP(S) proxies. [Main] (v1.13.0)</title>
       <link>https://proxytunnel.sourceforge.io</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; proxytunnel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.13.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Stealth tunneling through HTTP(S) proxies.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/proxytunnel.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://proxytunnel.sourceforge.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/proxytunnel.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Mon, 31 Aug 2026 04:49:32 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-proxytunnel-1.13.0</guid>
     </item>
     <item>
-      <title>[Main] dsc v3.2.3</title>
+      <title>dsc — DSC since v3 is an open source command line application that abstracts the management of software components declaratively and idempotently. [Main] (v3.2.3)</title>
       <link>https://github.com/PowerShell/dsc</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; dsc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 3.2.3&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; DSC since v3 is an open source command line application that abstracts the management of software components declaratively and idempotently.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dsc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/PowerShell/dsc&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dsc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Mon, 31 Aug 2026 04:13:12 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-dsc-3.2.3</guid>
     </item>
     <item>
-      <title>[Extras] leopardwm v0.2.8</title>
+      <title>leopardwm — Scroll-first tiling window manager for Windows, inspired by niri. [Extras] (v0.2.8)</title>
       <link>https://github.com/jcardama/LeopardWM</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; leopardwm&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.2.8&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Scroll-first tiling window manager for Windows, inspired by niri.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/leopardwm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jcardama/LeopardWM&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/leopardwm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Fri, 28 Aug 2026 10:56:42 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-leopardwm-0.2.8</guid>
     </item>
     <item>
-      <title>[Nirsoft] appnetworkcounter v1.61</title>
+      <title>appnetworkcounter — Displays number of TCP/UDP bytes and packets sent/received by every application [Nirsoft] (v1.61)</title>
       <link>https://www.nirsoft.net/utils/app_network_counter.html</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; appnetworkcounter&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Nirsoft&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.61&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Displays number of TCP/UDP bytes and packets sent/received by every application&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/appnetworkcounter.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/app_network_counter.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/appnetworkcounter.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Fri, 28 Aug 2026 16:09:14 +0000</pubDate>
       <guid isPermaLink="false">scoop-Nirsoft-appnetworkcounter-1.61</guid>
     </item>
     <item>
-      <title>[Main] jaeger v2.20.0</title>
+      <title>jaeger — Open source, distributed tracing platform. [Main] (v2.20.0)</title>
       <link>https://www.jaegertracing.io</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; jaeger&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Main&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 2.20.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Open source, distributed tracing platform.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/jaeger.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.jaegertracing.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/jaeger.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Thu, 27 Aug 2026 07:26:17 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-jaeger-2.20.0</guid>
     </item>
     <item>
-      <title>[Extras] exifcleaner v4.2.1</title>
+      <title>exifcleaner — Image metadata cleaner [Extras] (v4.2.1)</title>
       <link>https://exifcleaner.com</link>
-      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; exifcleaner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 4.2.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Image metadata cleaner&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/exifcleaner.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://exifcleaner.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/exifcleaner.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Thu, 27 Aug 2026 06:17:49 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-exifcleaner-4.2.1</guid>
     </item>

@@ -13,9 +13,69 @@ from generate_rss import (
     load_known_apps,
     append_known_apps,
     update_feed_xml,
+    clean_text,
+    format_title,
+    build_description_html,
 )
 
 class TestGenerateRSS(unittest.TestCase):
+
+    def test_clean_text(self):
+        self.assertEqual(clean_text("   hello   world   \n"), "hello world")
+        self.assertEqual(clean_text("Line 1\n\nLine 2\tLine 3"), "Line 1 Line 2 Line 3")
+        self.assertEqual(clean_text(None), "")
+        self.assertEqual(clean_text(""), "")
+
+    def test_format_title(self):
+        self.assertEqual(
+            format_title("fooyin", "A customisable desktop music player.", "Extras", "0.12.6"),
+            "fooyin — A customisable desktop music player. [Extras] (v0.12.6)"
+        )
+        self.assertEqual(
+            format_title("dsc", "Line 1\nLine 2", "Main", "3.2.3"),
+            "dsc — Line 1 Line 2 [Main] (v3.2.3)"
+        )
+        # Fallback when description is empty or default
+        self.assertEqual(
+            format_title("myapp", "", "Main", "1.0.0"),
+            "myapp [Main] (v1.0.0)"
+        )
+        self.assertEqual(
+            format_title("myapp", "No description available.", "Main", "1.0.0"),
+            "myapp [Main] (v1.0.0)"
+        )
+
+    def test_build_description_html(self):
+        desc = build_description_html(
+            license_info="MIT",
+            homepage="https://example.com",
+            github_blob_url="https://github.com/repo/blob/master/app.json",
+            notes="Requires restart after install."
+        )
+        # Verify License and links are present
+        self.assertIn("<strong>License:</strong> MIT", desc)
+        self.assertIn("<strong>Notes:</strong> Requires restart after install.", desc)
+        self.assertIn('<a href="https://example.com">Official Homepage</a>', desc)
+        self.assertIn('<a href="https://github.com/repo/blob/master/app.json">View Manifest on GitHub</a>', desc)
+
+        # Verify title information is NOT in description
+        self.assertNotIn("App:", desc)
+        self.assertNotIn("Bucket:", desc)
+        self.assertNotIn("Version:", desc)
+        self.assertNotIn("Description:", desc)
+
+        # Verify Install is NOT in description
+        self.assertNotIn("Install", desc)
+        self.assertNotIn("scoop install", desc)
+
+    def test_build_description_html_same_homepage(self):
+        desc = build_description_html(
+            license_info="GPL-3.0",
+            homepage="https://github.com/repo/blob/master/app.json",
+            github_blob_url="https://github.com/repo/blob/master/app.json"
+        )
+        self.assertNotIn("Official Homepage", desc)
+        self.assertIn("View Manifest on GitHub", desc)
 
     def test_parse_commit_title_app(self):
         self.assertEqual(parse_commit_title_app("telegram: Update to version 7.1.2"), "telegram")
