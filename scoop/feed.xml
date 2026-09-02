@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 20:34:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 02:56:34 +0000</lastBuildDate>
+    <item>
+      <title>[Extras] fooyin v0.12.6</title>
+      <link>https://fooyin.org/</link>
+      <description>&lt;p&gt;&lt;strong&gt;App:&lt;/strong&gt; fooyin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bucket:&lt;/strong&gt; Extras&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Version:&lt;/strong&gt; 0.12.6&lt;/p&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; A customisable desktop music player.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/fooyin.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 21:23:05 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-fooyin-0.12.6</guid>
+    </item>
     <item>
       <title>[Extras] grok-bot v0.30.0</title>
       <link>https://x.ai/bot</link>
