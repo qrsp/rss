@@ -17,6 +17,7 @@ app.maskan.chat
 app.mcevoy.syncrecordapp
 app.michaelwuensch.bitbanana
 app.mlauncher
+app.murinelauncher
 app.nightdrop
 app.pachli
 app.passwordstore.pando85
@@ -500,6 +501,7 @@ com.thomaskuenneth.tkweek
 com.tideo.autobrightness
 com.tk.quicksearch
 com.tokyoxpa3.androidproxy
+com.topjohnwu.magisk
 com.tristinbaker.defide
 com.tristinbaker.idlefantasy
 com.trougnouf.cfait
@@ -623,6 +625,7 @@ dev.chuk.betterbahn
 dev.cipher.notes
 dev.daika.davy
 dev.davidv.translator
+dev.dettmer.simplenotes
 dev.dimension.flare
 dev.djara.wafrn_rn
 dev.encgallery
@@ -709,6 +712,7 @@ io.ente.photos.fdroid
 io.evcc.android
 io.github.adithya_jayan.myrepertoirapp.fdroid
 io.github.aedev.flow
+io.github.alessioc42.sph
 io.github.benderblog.traintime_pda
 io.github.benji377.timety
 io.github.buildsbyben.shoppinglistcalc
@@ -730,6 +734,7 @@ io.github.luantak.fokuslauncher
 io.github.mgdx.rouelibre
 io.github.mimoguz.tripeaksneue
 io.github.mortenfyhn.feltbok
+io.github.muntashirakon.AppManager
 io.github.padconnect
 io.github.quillpad
 io.github.rajnishkmehta.dhwanicontrol
@@ -749,6 +754,7 @@ io.github.toolicious.labler
 io.github.trevarj.motd
 io.github.wifi_password_manager
 io.github.yamin8000.dooz
+io.github.yamin8000.owl
 io.gitlab.jrock902.cypherleaf
 io.horizontalsystems.bankwallet
 io.nekohasekai.sfa
@@ -783,6 +789,7 @@ me.hackerchick.catima
 me.kafuuneko.rpclient
 me.lecaro.breakout
 me.river.nightbell
+me.rosuh.easywatermark
 me.sankethbk.dairyapp
 me.trion.whispertype
 me.weishu.kernelsu

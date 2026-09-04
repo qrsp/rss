@@ -5,8 +5,92 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:03:26 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Murine Launcher — A modern, lightweight Launcher3 fork for an enhanced stock++ Android experience. [IzzyOnDroid]</title>
+      <link>https://github.com/alesimula/Murine-launcher</link>
+      <guid isPermaLink="false">app.murinelauncher@izzy</guid>
+      <pubDate>Fri, 04 Sep 2026 20:03:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.murinelauncher/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.murinelauncher/en-US/icon.png&quot; alt=&quot;Murine Launcher icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.murinelauncher&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/alesimula/Murine-launcher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.murinelauncher&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Magisk — Companion app for Magisk [IzzyOnDroid]</title>
+      <link>https://github.com/topjohnwu/Magisk</link>
+      <guid isPermaLink="false">com.topjohnwu.magisk@izzy</guid>
+      <pubDate>Fri, 04 Sep 2026 20:03:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.topjohnwu.magisk/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.topjohnwu.magisk/en-US/icon.png&quot; alt=&quot;Magisk icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.topjohnwu.magisk&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/topjohnwu/Magisk&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.topjohnwu.magisk&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Simple Notes Sync — Offline notes &amp; checklists, self-hosted sync. Under 5 MB, no ads, no tracking. [IzzyOnDroid]</title>
+      <link>https://github.com/inventory69/simple-notes-sync</link>
+      <guid isPermaLink="false">dev.dettmer.simplenotes@izzy</guid>
+      <pubDate>Fri, 04 Sep 2026 20:03:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.dettmer.simplenotes/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.dettmer.simplenotes/en-US/icon.png&quot; alt=&quot;Simple Notes Sync icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.dettmer.simplenotes&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/inventory69/simple-notes-sync&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.dettmer.simplenotes&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Lanis — App for the Hesse school portal. [IzzyOnDroid]</title>
+      <link>https://github.com/lanis-mobile/lanis</link>
+      <guid isPermaLink="false">io.github.alessioc42.sph@izzy</guid>
+      <pubDate>Fri, 04 Sep 2026 20:03:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.alessioc42.sph/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.alessioc42.sph/en-US/icon.png&quot; alt=&quot;Lanis icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.alessioc42.sph&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/lanis-mobile/lanis&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.alessioc42.sph&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>App Manager — A fully-featured package manager for android. [IzzyOnDroid]</title>
+      <link>https://github.com/MuntashirAkon/AppManager</link>
+      <guid isPermaLink="false">io.github.muntashirakon.AppManager@izzy</guid>
+      <pubDate>Fri, 04 Sep 2026 20:03:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.muntashirakon.AppManager/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.muntashirakon.AppManager/en-US/icon.png&quot; alt=&quot;App Manager icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.muntashirakon.AppManager&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MuntashirAkon/AppManager&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.muntashirakon.AppManager&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>freeDictionaryApp — a dictionary app for Free Dictionary API and Wiktionary API [IzzyOnDroid]</title>
+      <link>https://github.com/yamin8000/freeDictionaryApp</link>
+      <guid isPermaLink="false">io.github.yamin8000.owl@izzy</guid>
+      <pubDate>Fri, 04 Sep 2026 20:03:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.yamin8000.owl/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.yamin8000.owl/en-US/icon.png&quot; alt=&quot;freeDictionaryApp icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.yamin8000.owl&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/yamin8000/freeDictionaryApp&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.yamin8000.owl&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Easy Watermark — Securely, easily add a watermark to your sensitive photos. [IzzyOnDroid]</title>
+      <link>https://github.com/rosuH/EasyWatermark</link>
+      <guid isPermaLink="false">me.rosuh.easywatermark@izzy</guid>
+      <pubDate>Fri, 04 Sep 2026 20:03:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/me.rosuh.easywatermark/pt-BR/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/me.rosuh.easywatermark/pt-BR/icon.png&quot; alt=&quot;Easy Watermark icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;me.rosuh.easywatermark&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/rosuH/EasyWatermark&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/me.rosuh.easywatermark&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Marmalade TTS — Fast, natural, private text-to-speech for your whole phone. Works offline. [F-Droid] [Text to Speech]</title>
       <link>https://github.com/maxwhipw/marmalade-tts-android</link>
@@ -6008,90 +6092,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/icons/com.professor.zerion.30300.png&quot; alt=&quot;Zerion icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.professor.zerion&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/zerionproject/Zerion&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.professor.zerion/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Pagan — A Mobile Music Sequencer [F-Droid]</title>
-      <link>https://codeberg.org/quintinfsmith/pagan</link>
-      <guid isPermaLink="false">com.qfs.pagan@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.qfs.pagan/en-US/icon_-C3CRXucoNfE1W9vH64FAFPYO9uMdqf82yDh3D2zM5o=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.qfs.pagan/en-US/icon_-C3CRXucoNfE1W9vH64FAFPYO9uMdqf82yDh3D2zM5o=.png&quot; alt=&quot;Pagan icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.qfs.pagan&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/quintinfsmith/pagan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.qfs.pagan/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Quiet Grid — Privacy-first logic puzzles. No ads, no internet, no account required. [F-Droid]</title>
-      <link>https://github.com/lendl/quiet-grid</link>
-      <guid isPermaLink="false">com.quietgrid.app@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.quietgrid.app/en-US/icon_-zOA8ebvyRV_wxixyUwXRKTqHRUYhFxRsAT30ucS1-M=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.quietgrid.app/en-US/icon_-zOA8ebvyRV_wxixyUwXRKTqHRUYhFxRsAT30ucS1-M=.png&quot; alt=&quot;Quiet Grid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.quietgrid.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/lendl/quiet-grid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.quietgrid.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Quitter: Habit Tracker — Track quitting progress, milestones, journals, and recovery reminders. [F-Droid]</title>
-      <link>https://github.com/brandonp2412/Quitter</link>
-      <guid isPermaLink="false">com.quitter.app@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.quitter.app/en-US/icon_dNSIRJ3zO2O4U7ChdA7wul8SNl2dUzFl_kusM9hZpAo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.quitter.app/en-US/icon_dNSIRJ3zO2O4U7ChdA7wul8SNl2dUzFl_kusM9hZpAo=.png&quot; alt=&quot;Quitter: Habit Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.quitter.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/brandonp2412/Quitter&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.quitter.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Force Stop Helper — Helps you manually force-stop background apps. [F-Droid]</title>
-      <link>https://codeberg.org/raiiware/ForceStopHelper</link>
-      <guid isPermaLink="false">com.raiiware.forcestophelper@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.raiiware.forcestophelper/en-US/icon_EU5Sybn6S3u43Oe85tmS4RPArCJkRQbTqNlEWNa6wh8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.raiiware.forcestophelper/en-US/icon_EU5Sybn6S3u43Oe85tmS4RPArCJkRQbTqNlEWNa6wh8=.png&quot; alt=&quot;Force Stop Helper icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.raiiware.forcestophelper&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/raiiware/ForceStopHelper&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.raiiware.forcestophelper/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mako — Privacy-first Android launcher designed for focus, speed, and simplicity. [F-Droid]</title>
-      <link>https://github.com/rama-io/mako</link>
-      <guid isPermaLink="false">com.rama.mako@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.rama.mako/en-US/icon_Bj9HdZXSbsWpqM22LhtmRWj-iaAhfrRAb7I8L260JVo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.rama.mako/en-US/icon_Bj9HdZXSbsWpqM22LhtmRWj-iaAhfrRAb7I8L260JVo=.png&quot; alt=&quot;Mako icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rama.mako&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/rama-io/mako&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.rama.mako/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Teyin — Lightweight, privacy-first file manager designed for speed and simplicity [F-Droid]</title>
-      <link>https://github.com/rama-io/teyin</link>
-      <guid isPermaLink="false">com.rama.teyin@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.rama.teyin/en-US/icon_RufErIUNGWec-kzI6FhUc3yP4Uv7L-bdixrkE0mlneo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.rama.teyin/en-US/icon_RufErIUNGWec-kzI6FhUc3yP4Uv7L-bdixrkE0mlneo=.png&quot; alt=&quot;Teyin icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rama.teyin&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/rama-io/teyin&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.rama.teyin/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>TÅ«Ä« — Privacy-first local media player. [F-Droid]</title>
-      <link>https://github.com/rama-io/tui</link>
-      <guid isPermaLink="false">com.rama.tui@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.rama.tui/en-US/icon_Kv3U--rti7nAaleSMzmht7Q4XNO4AcdMYDJKzQHGa5k=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.rama.tui/en-US/icon_Kv3U--rti7nAaleSMzmht7Q4XNO4AcdMYDJKzQHGa5k=.png&quot; alt=&quot;TÅ«Ä« icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rama.tui&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/rama-io/tui&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.rama.tui/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
