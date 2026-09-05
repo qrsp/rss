@@ -19,6 +19,7 @@ app.michaelwuensch.bitbanana
 app.mlauncher
 app.murinelauncher
 app.nightdrop
+app.organicmaps
 app.pachli
 app.passwordstore.pando85
 app.pwhs.universalinstaller
@@ -81,6 +82,7 @@ com.afkanerd.sw0b
 com.agatamessina.webinspector
 com.agepony.app
 com.ahad.macat
+com.aipos.aipospm
 com.aistra.hail
 com.aistudio.snoredetector.afkwd
 com.aka.alarm
@@ -110,6 +112,7 @@ com.ashkanrafiee.librecontactsbackup
 com.asksakis.freegate
 com.astroloop.game
 com.atharok.btremote
+com.autismprime.fall
 com.autopi
 com.aw.huda
 com.b44t.messenger
@@ -139,6 +142,7 @@ com.castle.sefirah
 com.catpuppyapp.hahanote
 com.catpuppyapp.puppygit.play.pro
 com.caydey.ffshare
+com.cbouvat.android.saracroche
 com.celzero.bravedns
 com.chatroom.app
 com.chiller3.basicsync
@@ -187,6 +191,7 @@ com.donnnno.arcticons.daynight
 com.donnnno.arcticons.light
 com.donnnno.arcticons.you
 com.dot.gallery
+com.dozingcatsoftware.vectorcamera
 com.dresos.dressecurecomms
 com.droidrops.app
 com.dsalmun.luxalarm
@@ -210,11 +215,13 @@ com.fibelatti.photowidget
 com.fibelatti.pinboard
 com.fireflame.dream
 com.fixupxer
+com.flashbyte
 com.flashsphere.privatednsqs
 com.flashsphere.privatednsqs.nolauncher
 com.flasskamp.energize
 com.flux
 com.flxrs.dankchat
+com.foobnix.pro.pdf.reader
 com.forrestguice.suntimeswidget
 com.foxdebug.acode
 com.fpf.smartscan
@@ -255,6 +262,7 @@ com.google.android.stardroid
 com.googol.android.apps.oneplayer
 com.governikus.ausweisapp2
 com.graphhopper.maps
+com.grappim.taigamobile.fdroid
 com.greenaddress.greenbits_android_wallet
 com.greenart7c3.citrine
 com.greenart7c3.nostrsigner
@@ -375,6 +383,7 @@ com.mubarak.mbcompass
 com.musheer360.swiftslate
 com.myfinancemate
 com.nerdoftheherd.tasker.rsync
+com.neuronencrypt.app
 com.nevar.nzik.foss
 com.newsblur
 com.nextcloud.android.beta
@@ -432,6 +441,7 @@ com.rama.txori
 com.rbn.qtsettings
 com.readwide.manager
 com.relaypony.android
+com.remotephone
 com.reteclock
 com.retekey
 com.richardluo.globalIconPack
@@ -480,6 +490,7 @@ com.sshborg
 com.standardnotes
 com.starry.myne
 com.steamserverbrowser.app
+com.stonegate.tsacdop
 com.stopptanz.app
 com.streak.app
 com.streetwriters.notesnook
@@ -562,8 +573,10 @@ com.zoffcc.applications.trifa
 com.zoffcc.applications.undereat
 com.zorinos.zorin_connect
 com.zygisk_enc.RecorderX
+com.zygisk_enc.notivault
 compress.joshattic.us
 de.HS_Aalen.don
+de.arnowelzel.android.periodical
 de.chadenas.cpudefense
 de.circle_dev.flux_news
 de.danoeh.antennapod
@@ -585,6 +598,7 @@ de.killi199.timetracking
 de.kitshn.android
 de.lolo.rssreader
 de.luhmer.owncloudnewsreader
+de.marionoll.wgautoconnect
 de.markusfisch.android.binaryeye
 de.metager.metagerapp.fdroid
 de.mymiggi.tankblick
@@ -593,6 +607,7 @@ de.nulide.findmydevice
 de.nulide.findmydevice.edge
 de.oeffisounds.app
 de.quantumphysique.trale
+de.questmaster.wettkampf_funk_trainer
 de.qwerty287.ftpclient
 de.readeckapp
 de.reimardoeffinger.quickdic
@@ -677,6 +692,7 @@ eus.ordunte.app
 exa.lnx.a
 finance.valet
 fr.croustillapp
+fr.framagit.jeromeo.etagere
 fr.gouv.etalab.mastodon
 fr.gouv.tchap.a
 fr.hellpc.mirror
@@ -684,6 +700,7 @@ fr.ign.geoportail
 fr.jnda.android.flashalert
 fr.kanis.foldio
 fr.luteal.app
+fr.nuage.souvenirs
 fr.odrevet.bide_et_musique
 fr.shiningcat.binclockwidget
 fr.twentynine.keepon
@@ -691,6 +708,7 @@ gov.anzong.androidnga
 granularvolume.com
 helium314.keyboard
 hidden.protectedwp.safespace
+host.stjin.anonaddy
 hu.kadatsoft.smsreply
 ie.delilahsthings.soothingloop
 ie.equalit.ceno
@@ -701,7 +719,9 @@ in.sunilpaulmathew.weatherwidget
 info.metadude.android.datenspuren.schedule
 info.metadude.android.fediday.schedule
 info.metadude.android.inselchaos.schedule
+info.metadude.android.mrmcd.schedule
 info.plateaukao.einkbro
+info.zamojski.soft.towercollector
 invalid.lena.rsend
 invalid.lena.scrcpy
 io.ahxxm.ic
@@ -760,6 +780,7 @@ io.horizontalsystems.bankwallet
 io.nekohasekai.sfa
 io.pcontacts.app
 io.theficos.quire
+io.timelimit.android.aosp.direct
 is.xyz.mpv
 is.xyz.vcmi
 it.belloworld.mercurygram
@@ -791,6 +812,7 @@ me.lecaro.breakout
 me.river.nightbell
 me.rosuh.easywatermark
 me.sankethbk.dairyapp
+me.timeto.app
 me.trion.whispertype
 me.weishu.kernelsu
 montafra.beam
@@ -830,6 +852,7 @@ net.yumicoradio.android
 network.loki.messenger.fdroid
 nl.hansdezwart.bgclock
 nl.renzit.emborg
+nl.tjoeke.android
 nodomain.freeyourgadget.internethelper
 nz.eloque.quits
 om.sstvencoder
@@ -840,6 +863,7 @@ org.application.shikiapp
 org.archivekeep.ArchiveKeep
 org.atalk.android
 org.avmedia.gshockGoogleSync
+org.avmedia.remotevideocam
 org.b3log.siyuan
 org.billthefarmer.buses
 org.birthdayadapter
@@ -854,6 +878,7 @@ org.css_apps_m3.password_manager
 org.diekaiju.duckassist
 org.difft.temptalk
 org.disroot.disrootapp
+org.draken.usagi
 org.electrum.electrum
 org.elnix.dragonlauncher
 org.epstudios.epmobile
@@ -881,6 +906,7 @@ org.jellyfin.androidtv
 org.jellyfin.mobile
 org.jimvixx.smsecure
 org.jumascola.filmflip
+org.jyutping.jyutping
 org.kaqui
 org.kde.bettercounter
 org.knightstalker.app
@@ -924,6 +950,7 @@ org.woheller69.omweather
 org.woheller69.whisperplus
 org.xcsoar
 org.xolatgames.dima.defense
+org.y20k.voxscribe
 orinasa.njarasoa.maripanatokana
 page.codeberg.lanticy.guandan
 page.cynosure.timer
@@ -938,6 +965,7 @@ protectedwp.safespace
 rkr.simplekeyboard.inputmethod
 rocks.mucke
 rocks.mucke.github
+rs.ruffle
 ru.application.homemedkit
 ru.iska9der.flabr
 ru.tech.imageresizershrinker
@@ -952,6 +980,7 @@ si.jakobkreft.ontime
 sitavi.seenema
 site.leos.apps.lespas
 site.remlit.snowdrop
+space.celestia.mobilecelestia
 space.karrarnazim.ConsoleFlow
 spam.blocker
 studip_uni_passau.femtopedia.de.unipassaustudip
