@@ -5,8 +5,44 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 14:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:43:36 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gallery Go - Photos &amp; Videos — Fast, simple gallery to view, organize, edit, &amp; manage photos, videos, and GIFs. [IzzyOnDroid]</title>
+      <link>https://github.com/googol-apps/Gallery</link>
+      <guid isPermaLink="false">com.zs.android.apps.photos@izzy</guid>
+      <pubDate>Sat, 05 Sep 2026 19:43:31 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.zs.android.apps.photos/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.zs.android.apps.photos/en-US/icon.png&quot; alt=&quot;Gallery Go - Photos &amp; Videos icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.zs.android.apps.photos&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/googol-apps/Gallery&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.zs.android.apps.photos&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Karui ToDo — An open source, privacy focussed, 64kB aesthetic todo list app to quickly jot down things to do. [IzzyOnDroid]</title>
+      <link>https://github.com/ronynn/karui</link>
+      <guid isPermaLink="false">io.github.ronynn.karui@izzy</guid>
+      <pubDate>Sat, 05 Sep 2026 19:43:31 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.ronynn.karui/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.ronynn.karui/en-US/icon.png&quot; alt=&quot;Karui ToDo icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.ronynn.karui&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ronynn/karui&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.ronynn.karui&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Mastodon — Where conversations happen [IzzyOnDroid]</title>
+      <link>https://github.com/mastodon/mastodon-android</link>
+      <guid isPermaLink="false">org.joinmastodon.android@izzy</guid>
+      <pubDate>Sat, 05 Sep 2026 19:43:31 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.joinmastodon.android/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.joinmastodon.android/en-US/icon.png&quot; alt=&quot;Mastodon icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.joinmastodon.android&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mastodon/mastodon-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.joinmastodon.android&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Organic Mapsã»Offline Map &amp;amp; GPS — Get reliable offline maps with GPS navigation for hiking, cycling, and travel. [F-Droid]</title>
       <link>https://github.com/organicmaps/organicmaps</link>
@@ -6065,42 +6101,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.money.manager.ex/en-US/icon_QF7g1MCI0Iy_QKoJixzLN4SZwg9t9JNDOwdpwoa5DUE=.png&quot; alt=&quot;Money Manager Ex icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.money.manager.ex&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/moneymanagerex/android-money-manager-ex&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.money.manager.ex/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Harbor — Local, FOSS work-profile isolation and app management [F-Droid]</title>
-      <link>https://github.com/Stem0794/harbor</link>
-      <guid isPermaLink="false">com.monstera.harbor@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;Harbor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.monstera.harbor&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Stem0794/harbor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.monstera.harbor/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mooneva Cycle â Period Tracker — Private period &amp;amp; cycle tracker. Offline, encrypted, no account, no ads. [F-Droid]</title>
-      <link>https://github.com/aradar46/Mooneva-Cycle-Private-Period-Tracker</link>
-      <guid isPermaLink="false">com.mooneva.app@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.mooneva.app/en-US/icon_61cN2z5l37qsKlxT02Y-BUaq9O6zJ6616ORBBiy0uLo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.mooneva.app/en-US/icon_61cN2z5l37qsKlxT02Y-BUaq9O6zJ6616ORBBiy0uLo=.png&quot; alt=&quot;Mooneva Cycle â Period Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mooneva.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/aradar46/Mooneva-Cycle-Private-Period-Tracker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.mooneva.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Audile — Music recognition app [F-Droid]</title>
-      <link>https://github.com/AudileTeam/Audile</link>
-      <guid isPermaLink="false">com.mrsep.musicrecognizer@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.mrsep.musicrecognizer/en-US/icon_-y9-IJVSKtxBEir-3CYGSo7SDJO6OtJZQ0azOxD2iD8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.mrsep.musicrecognizer/en-US/icon_-y9-IJVSKtxBEir-3CYGSo7SDJO6OtJZQ0azOxD2iD8=.png&quot; alt=&quot;Audile icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mrsep.musicrecognizer&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/AudileTeam/Audile&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.mrsep.musicrecognizer/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
