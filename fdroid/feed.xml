@@ -5,8 +5,56 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 19:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:47:06 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aegis Authenticator — Free, secure and open source 2FA app to manage tokens for your online services [IzzyOnDroid]</title>
+      <link>https://github.com/beemdevelopment/Aegis</link>
+      <guid isPermaLink="false">com.beemdevelopment.aegis@izzy</guid>
+      <pubDate>Sun, 06 Sep 2026 19:46:59 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.beemdevelopment.aegis/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.beemdevelopment.aegis/en-US/icon.png&quot; alt=&quot;Aegis Authenticator icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.beemdevelopment.aegis&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/beemdevelopment/Aegis&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.beemdevelopment.aegis&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Synkplay — Watch videos together, in sync, on Android, iOS and desktop [IzzyOnDroid]</title>
+      <link>https://github.com/yuroyami/syncplay-mobile</link>
+      <guid isPermaLink="false">com.reddnek.syncplay@izzy</guid>
+      <pubDate>Sun, 06 Sep 2026 19:46:59 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.reddnek.syncplay/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.reddnek.syncplay/en-US/icon.png&quot; alt=&quot;Synkplay icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.reddnek.syncplay&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/yuroyami/syncplay-mobile&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.reddnek.syncplay&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Sobuu — Track books reading and organise your readings [IzzyOnDroid]</title>
+      <link>https://gitlab.com/sobuu/sobuu</link>
+      <guid isPermaLink="false">com.sobuumedia.sobuu@izzy</guid>
+      <pubDate>Sun, 06 Sep 2026 19:46:59 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.sobuumedia.sobuu/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.sobuumedia.sobuu/en-US/icon.png&quot; alt=&quot;Sobuu icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sobuumedia.sobuu&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitlab.com/sobuu/sobuu&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.sobuumedia.sobuu&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>QRServ — Transfer files with ease over a network. [IzzyOnDroid]</title>
+      <link>https://github.com/uintdev/qrserv</link>
+      <guid isPermaLink="false">dev.uint.qrserv@izzy</guid>
+      <pubDate>Sun, 06 Sep 2026 19:46:59 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.uint.qrserv/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.uint.qrserv/en-US/icon.png&quot; alt=&quot;QRServ icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.uint.qrserv&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/uintdev/qrserv&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.uint.qrserv&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Gallery Go - Photos &amp; Videos — Fast, simple gallery to view, organize, edit, &amp; manage photos, videos, and GIFs. [IzzyOnDroid]</title>
       <link>https://github.com/googol-apps/Gallery</link>
@@ -6053,54 +6101,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.milki.launcher/en-US/icon_BLAP_CM0KqMenxcz20FGFwtiHY0Bu-Dlqmv1wxEROQ0=.png&quot; alt=&quot;Milki Launcher icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.milki.launcher&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/milkiLabs/launcher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.milki.launcher/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Auto Shine — Automatic screen brightness adjustment [F-Droid]</title>
-      <link>https://github.com/Valent-in/Auto-Shine</link>
-      <guid isPermaLink="false">com.mine.autoshine@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.mine.autoshine/en-US/icon_co76v9KUnJJ0Y6InC0w9mEeShxDhrtKbqN0qnvqedyE=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.mine.autoshine/en-US/icon_co76v9KUnJJ0Y6InC0w9mEeShxDhrtKbqN0qnvqedyE=.png&quot; alt=&quot;Auto Shine icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mine.autoshine&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Valent-in/Auto-Shine&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.mine.autoshine/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Hermes Agent Fork — Run local AI models with chat, files, voice, and Android tools [F-Droid]</title>
-      <link>https://github.com/adybag14-cyber/hermes-agent</link>
-      <guid isPermaLink="false">com.mobilefork.hermesagent@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.mobilefork.hermesagent/en-US/icon_Vmt_ZSB-ZYViuznDexWlEyDokVjl4UhagHw7RtdIDpo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.mobilefork.hermesagent/en-US/icon_Vmt_ZSB-ZYViuznDexWlEyDokVjl4UhagHw7RtdIDpo=.png&quot; alt=&quot;Hermes Agent Fork icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mobilefork.hermesagent&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/adybag14-cyber/hermes-agent&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.mobilefork.hermesagent/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Drinkable — Explore and create cocktails with ingredients from home. [F-Droid]</title>
-      <link>https://github.com/MOIMOB/drinkable</link>
-      <guid isPermaLink="false">com.moimob.drinkable@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.moimob.drinkable/en-US/icon_ZiFXeXKacumx6sRjN6x44_UElQ37lbk__2uyWnMJjog=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.moimob.drinkable/en-US/icon_ZiFXeXKacumx6sRjN6x44_UElQ37lbk__2uyWnMJjog=.png&quot; alt=&quot;Drinkable icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.moimob.drinkable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/MOIMOB/drinkable&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.moimob.drinkable/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Money Manager Ex — Manage your finances on-the-go, encrypted for security, sync via your storage [F-Droid]</title>
-      <link>https://github.com/moneymanagerex/android-money-manager-ex</link>
-      <guid isPermaLink="false">com.money.manager.ex@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.money.manager.ex/en-US/icon_QF7g1MCI0Iy_QKoJixzLN4SZwg9t9JNDOwdpwoa5DUE=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.money.manager.ex/en-US/icon_QF7g1MCI0Iy_QKoJixzLN4SZwg9t9JNDOwdpwoa5DUE=.png&quot; alt=&quot;Money Manager Ex icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.money.manager.ex&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/moneymanagerex/android-money-manager-ex&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.money.manager.ex/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
