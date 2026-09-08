@@ -4,7 +4,7 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:00:07 +0000</lastBuildDate>
     <item>
       <title>tailcat — Tailscale's netcat-like tool over its open-source data plane, without the control plane. [Main] (v0.6.0)</title>
       <link>https://tailscale.com/tailcat</link>
