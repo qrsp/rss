@@ -5,8 +5,140 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:30:29 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Easter Eggs — Collections the Android release Easter Egg. [IzzyOnDroid]</title>
+      <link>https://github.com/hushenghao/AndroidEasterEggs</link>
+      <guid isPermaLink="false">com.dede.android_eggs@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.dede.android_eggs/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.dede.android_eggs/en-US/icon.png&quot; alt=&quot;Easter Eggs icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.dede.android_eggs&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/hushenghao/AndroidEasterEggs&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.dede.android_eggs&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Thumb-Key — A privacy-conscious keyboard made for your thumbs. [IzzyOnDroid]</title>
+      <link>https://github.com/dessalines/thumb-key</link>
+      <guid isPermaLink="false">com.dessalines.thumbkey@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.dessalines.thumbkey/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.dessalines.thumbkey/en-US/icon.png&quot; alt=&quot;Thumb-Key icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.dessalines.thumbkey&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dessalines/thumb-key&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.dessalines.thumbkey&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Metrolist — Material 3 YouTube Music client for Android [IzzyOnDroid]</title>
+      <link>https://github.com/MetrolistGroup/Metrolist</link>
+      <guid isPermaLink="false">com.metrolist.music@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.metrolist.music/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.metrolist.music/en-US/icon.png&quot; alt=&quot;Metrolist icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.metrolist.music&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MetrolistGroup/Metrolist&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Piggsy — Piggy banks for tracking your goals [IzzyOnDroid]</title>
+      <link>https://github.com/nvllz/piggsy</link>
+      <guid isPermaLink="false">com.nvllz.piggsy@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.nvllz.piggsy/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.nvllz.piggsy/en-US/icon.png&quot; alt=&quot;Piggsy icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.nvllz.piggsy&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nvllz/piggsy&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.nvllz.piggsy&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Hidroly: Water Reminder — Track your water intake, privately. [IzzyOnDroid]</title>
+      <link>https://github.com/om1cael/Hidroly</link>
+      <guid isPermaLink="false">com.om1cael.hidroly@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.om1cael.hidroly/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.om1cael.hidroly/en-US/icon.png&quot; alt=&quot;Hidroly: Water Reminder icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.om1cael.hidroly&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/om1cael/Hidroly&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.om1cael.hidroly&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Aves — Gallery and metadata explorer [IzzyOnDroid]</title>
+      <link>https://github.com/deckerst/aves</link>
+      <guid isPermaLink="false">deckers.thibault.aves@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/deckers.thibault.aves/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/deckers.thibault.aves/en-US/icon.png&quot; alt=&quot;Aves icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;deckers.thibault.aves&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/deckerst/aves&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Ranobe Web Novels (R.A.N.O.B.E) — A simple extensible light novel reader [IzzyOnDroid]</title>
+      <link>https://github.com/ranobe-org/ranobe</link>
+      <guid isPermaLink="false">org.ranobe.ranobe@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.ranobe.ranobe/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.ranobe.ranobe/en-US/icon.png&quot; alt=&quot;Ranobe Web Novels (R.A.N.O.B.E) icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.ranobe.ranobe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ranobe-org/ranobe&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.ranobe.ranobe&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>gCompat-UP — UnifiedPush provider using Google Services [IzzyOnDroid]</title>
+      <link>https://codeberg.org/UnifiedPush/fcm-distributor</link>
+      <guid isPermaLink="false">org.unifiedpush.distributor.fcm@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.unifiedpush.distributor.fcm/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.unifiedpush.distributor.fcm/en-US/icon.png&quot; alt=&quot;gCompat-UP icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.unifiedpush.distributor.fcm&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/UnifiedPush/fcm-distributor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.fcm&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>NextPush — UnifiedPush distributor using Nextcloud server. [IzzyOnDroid]</title>
+      <link>https://codeberg.org/NextPush/nextpush-android</link>
+      <guid isPermaLink="false">org.unifiedpush.distributor.nextpush@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.unifiedpush.distributor.nextpush/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.unifiedpush.distributor.nextpush/en-US/icon.png&quot; alt=&quot;NextPush icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.unifiedpush.distributor.nextpush&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/NextPush/nextpush-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.nextpush&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Sunup — UnifiedPush distributor using Mozilla's push server [IzzyOnDroid]</title>
+      <link>https://codeberg.org/Sunup/android</link>
+      <guid isPermaLink="false">org.unifiedpush.distributor.sunup@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.unifiedpush.distributor.sunup/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.unifiedpush.distributor.sunup/en-US/icon.png&quot; alt=&quot;Sunup icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.unifiedpush.distributor.sunup&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/Sunup/android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.sunup&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>NeoStumbler — Application for collecting wireless networks to geolocation services [IzzyOnDroid]</title>
+      <link>https://github.com/mjaakko/NeoStumbler</link>
+      <guid isPermaLink="false">xyz.malkki.neostumbler.fdroid@izzy</guid>
+      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/xyz.malkki.neostumbler.fdroid/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/xyz.malkki.neostumbler.fdroid/en-US/icon.png&quot; alt=&quot;NeoStumbler icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xyz.malkki.neostumbler.fdroid&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mjaakko/NeoStumbler&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/xyz.malkki.neostumbler.fdroid&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Areada — A lightweight offline reader for EPUB, PDF, TXT, and FB2. [F-Droid]</title>
       <link>https://github.com/iTsMe-Zen/Areada</link>
@@ -6065,138 +6197,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.github.emavgl.piggybankpro/en-US/icon_VzoQpBaNpMmXpf6kL1vydHu2_Hdev7i9dAI6i0-mRs8=.png&quot; alt=&quot;Oinkoin icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.emavgl.piggybankpro&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/emavgl/oinkoin&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.emavgl.piggybankpro/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Heart Rate Monitor — Monitor heart rate via BLE devices with real-time display, history, and alerts [F-Droid]</title>
-      <link>https://github.com/XiaochangXu/HeartRateMonitor-composeui</link>
-      <guid isPermaLink="false">com.github.heartratemonitor_compose@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/icons/com.github.heartratemonitor_compose.52.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/com.github.heartratemonitor_compose.52.png&quot; alt=&quot;Heart Rate Monitor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.heartratemonitor_compose&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/XiaochangXu/HeartRateMonitor-composeui&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.heartratemonitor_compose/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>LibreTube — Alternative frontend for YouTube with focus on privacy [F-Droid]</title>
-      <link>https://github.com/libre-tube/LibreTube</link>
-      <guid isPermaLink="false">com.github.libretube@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.github.libretube/en-US/icon_p6_cfoYk-2IlerJpH4rKIQmkI76zXtS3R9-RZp-3Ggk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.github.libretube/en-US/icon_p6_cfoYk-2IlerJpH4rKIQmkI76zXtS3R9-RZp-3Ggk=.png&quot; alt=&quot;LibreTube icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.libretube&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/libre-tube/LibreTube&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.libretube/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Unchained — App to interact with Real Debrid [F-Droid]</title>
-      <link>https://github.com/LivingWithHippos/unchained-android</link>
-      <guid isPermaLink="false">com.github.livingwithhippos.unchained@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.github.livingwithhippos.unchained/en-US/icon_acg5lfDFFxJFsqaL7jPVvz71qzoWSJ6kbJCMPNhZ650=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.github.livingwithhippos.unchained/en-US/icon_acg5lfDFFxJFsqaL7jPVvz71qzoWSJ6kbJCMPNhZ650=.png&quot; alt=&quot;Unchained icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.livingwithhippos.unchained&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/LivingWithHippos/unchained-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.livingwithhippos.unchained/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Clash Meta For Android — A rule-based tunnel [F-Droid]</title>
-      <link>https://github.com/MetaCubeX/ClashMetaForAndroid</link>
-      <guid isPermaLink="false">com.github.metacubex.clash.meta@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/icons/com.github.metacubex.clash.meta.211032.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/com.github.metacubex.clash.meta.211032.png&quot; alt=&quot;Clash Meta For Android icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.metacubex.clash.meta&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/MetaCubeX/ClashMetaForAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.metacubex.clash.meta/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Al-Azan - Prayer Times — Privacy focused open-source muslim Adhan (islamic prayer times) and qibla app [F-Droid]</title>
-      <link>https://github.com/meypod/al-azan-compose</link>
-      <guid isPermaLink="false">com.github.meypod.al_azan@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.github.meypod.al_azan/en-US/icon_2xmGI8kq3HziUMYir0DjZR_e7D9AK5Nhha34SeXA1j8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.github.meypod.al_azan/en-US/icon_2xmGI8kq3HziUMYir0DjZR_e7D9AK5Nhha34SeXA1j8=.png&quot; alt=&quot;Al-Azan - Prayer Times icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.meypod.al_azan&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/meypod/al-azan-compose&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.meypod.al_azan/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>VoicePlus â Audiobook Player — Offline audiobook player with some quality of life features. [F-Droid]</title>
-      <link>https://github.com/mistermo-vibecode/VoicePlus</link>
-      <guid isPermaLink="false">com.github.mistermo_vibecode.voiceplus@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.github.mistermo_vibecode.voiceplus/en-US/icon_y635El1ibhm0_u4NZUcQv2190FLh6YJ14JtWg3AmV8E=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.github.mistermo_vibecode.voiceplus/en-US/icon_y635El1ibhm0_u4NZUcQv2190FLh6YJ14JtWg3AmV8E=.png&quot; alt=&quot;VoicePlus â Audiobook Player icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.mistermo_vibecode.voiceplus&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/mistermo-vibecode/VoicePlus&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.mistermo_vibecode.voiceplus/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Doors of Doom — Adventure into the dungeon of infinite doors! Behind each, a monster awaits! [F-Droid]</title>
-      <link>https://github.com/msx80/DoorsOfDoomOmicron</link>
-      <guid isPermaLink="false">com.github.msx80.doorsofdoom@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.github.msx80.doorsofdoom/en-US/icon_kBGlMGO8NXd9_Fd4Flz9VWOo6gu7bv95n_EnK7s-I_g=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.github.msx80.doorsofdoom/en-US/icon_kBGlMGO8NXd9_Fd4Flz9VWOo6gu7bv95n_EnK7s-I_g=.png&quot; alt=&quot;Doors of Doom icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.msx80.doorsofdoom&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/msx80/DoorsOfDoomOmicron&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.msx80.doorsofdoom/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Today Stocks — Stock market ticker widget [F-Droid]</title>
-      <link>https://github.com/premnirmal/StockTicker</link>
-      <guid isPermaLink="false">com.github.premnirmal.tickerwidget@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;Today Stocks icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.premnirmal.tickerwidget&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/premnirmal/StockTicker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.premnirmal.tickerwidget/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>SoundPod — A minimalist music streaming app [F-Droid]</title>
-      <link>https://github.com/arunnechully/SoundPod</link>
-      <guid isPermaLink="false">com.github.soundpod@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.github.soundpod/en-US/icon_d9yeBAJDyuI1yhHG4JJywgyDQNTMKLajoKwTF5Dsy_I=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.github.soundpod/en-US/icon_d9yeBAJDyuI1yhHG4JJywgyDQNTMKLajoKwTF5Dsy_I=.png&quot; alt=&quot;SoundPod icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.soundpod&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/arunnechully/SoundPod&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.soundpod/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ScoreHub - Game Score Tracker — Track your board game scores easily [F-Droid]</title>
-      <link>https://github.com/trivialloop/scorehub</link>
-      <guid isPermaLink="false">com.github.trivialloop.scorehub@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.github.trivialloop.scorehub/en-US/icon_v72Z3oRFzJcRdaflA66VZVu-kDWUJsFABm1aYdvCm4Y=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.github.trivialloop.scorehub/en-US/icon_v72Z3oRFzJcRdaflA66VZVu-kDWUJsFABm1aYdvCm4Y=.png&quot; alt=&quot;ScoreHub - Game Score Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.trivialloop.scorehub&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/trivialloop/scorehub&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.trivialloop.scorehub/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>MJ PDF — A simple PDF viewer [F-Droid]</title>
-      <link>https://gitlab.com/mudlej_android/mj_pdf_reader</link>
-      <guid isPermaLink="false">com.gitlab.mudlej.MjPdfReader@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.gitlab.mudlej.MjPdfReader/en-US/icon_cCID2ggR3gL4Iomx5jjWTDwov_Rp7w5ktG3l6Dt83FM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.gitlab.mudlej.MjPdfReader/en-US/icon_cCID2ggR3gL4Iomx5jjWTDwov_Rp7w5ktG3l6Dt83FM=.png&quot; alt=&quot;MJ PDF icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.gitlab.mudlej.MjPdfReader&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/mudlej_android/mj_pdf_reader&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.gitlab.mudlej.MjPdfReader/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>

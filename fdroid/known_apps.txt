@@ -186,6 +186,7 @@ com.daniebeler.pfpixelix
 com.darkrockstudios.apps.hammer.android
 com.david.waterreminder
 com.debojitsantra.backlogtracker
+com.dede.android_eggs
 com.deepanjanxyz.notepad
 com.defang.launcher
 com.deliacheminot.mona
@@ -194,6 +195,7 @@ com.demonlab.lune
 com.demosten.srednabg
 com.deniscerri.ytdl
 com.desarrollodroide.pagekeeper
+com.dessalines.thumbkey
 com.dhangofa.networktoggle
 com.dimowner.audiorecorder
 com.dingleinc.texttoolspro
@@ -395,6 +397,7 @@ com.maxistar.textpad
 com.maxrave.simpmusic
 com.megamaced.nccollectives
 com.mendhak.gpslogger
+com.metrolist.music
 com.metromusic
 com.milki.launcher
 com.mine.autoshine
@@ -431,9 +434,11 @@ com.noorconnect.app
 com.noty.app
 com.novadial.phone
 com.nunti
+com.nvllz.piggsy
 com.nyx.custom_uploader
 com.offlinecurrencyconverter.app
 com.oksigenia.oksigenia_sos
+com.om1cael.hidroly
 com.omaawr.tuisku
 com.onekeepassmobile
 com.openapps.fintrack
@@ -681,6 +686,7 @@ de.uwrplan.app
 de.volksverpetzer.app
 de.wger.flutter
 de.wuapps.moredays
+deckers.thibault.aves
 dev.acamol.qbit
 dev.argus
 dev.arthurcose.languagedex
@@ -1010,6 +1016,7 @@ org.opendataensemble.formulus
 org.osservatorionessuno.bugbane.beta
 org.piepmeyer.gauguin
 org.quantumbadger.redreader
+org.ranobe.ranobe
 org.sbv.pockettracker
 org.schabi.newpipe
 org.schabi.newpipe.localserver
@@ -1024,6 +1031,9 @@ org.thunderdog.challegram
 org.torproject.vpn
 org.totschnig.myexpenses
 org.ucam.ssb22.pinyinfdroid
+org.unifiedpush.distributor.fcm
+org.unifiedpush.distributor.nextpush
+org.unifiedpush.distributor.sunup
 org.unifiedpush.example
 org.wesnoth.Wesnoth
 org.wikipedia
@@ -1083,5 +1093,6 @@ whl.trending.ai
 xtr.keymapper
 xyz.lepisma.harp
 xyz.linerly.nontrinsic
+xyz.malkki.neostumbler.fdroid
 xyz.metiq
 xyz.waozi.inbe
