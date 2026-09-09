@@ -5,8 +5,56 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:13:25 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Family Gem — Create your own family tree [IzzyOnDroid]</title>
+      <link>https://github.com/michelesalvador/FamilyGem</link>
+      <guid isPermaLink="false">app.familygem@izzy</guid>
+      <pubDate>Wed, 09 Sep 2026 20:13:20 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.familygem/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.familygem/en-US/icon.png&quot; alt=&quot;Family Gem icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.familygem&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/michelesalvador/FamilyGem&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.familygem&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Booming Music — Clean, fast, and Material-driven music player with powerful features [IzzyOnDroid]</title>
+      <link>https://github.com/mardous/BoomingMusic</link>
+      <guid isPermaLink="false">com.mardous.booming@izzy</guid>
+      <pubDate>Wed, 09 Sep 2026 20:13:20 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.mardous.booming/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.mardous.booming/en-US/icon.png&quot; alt=&quot;Booming Music icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mardous.booming&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mardous/BoomingMusic&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.mardous.booming&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Flip — Manage your device privacy based on lock/unlock state [IzzyOnDroid]</title>
+      <link>https://github.com/dorumrr/privacyFlip</link>
+      <guid isPermaLink="false">io.github.dorumrr.privacyflip@izzy</guid>
+      <pubDate>Wed, 09 Sep 2026 20:13:20 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.dorumrr.privacyflip/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.dorumrr.privacyflip/en-US/icon.png&quot; alt=&quot;Privacy Flip icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.dorumrr.privacyflip&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dorumrr/privacyFlip&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.dorumrr.privacyflip&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Digital Habits: Focus — Digital Habits: Focus is an accessibility-focused Android tool designed for individuals with ADHD and related attention conditions. [IzzyOnDroid]</title>
+      <link>https://github.com/kasnder/redd-focus-android</link>
+      <guid isPermaLink="false">net.kollnig.greasemilkyway@izzy</guid>
+      <pubDate>Wed, 09 Sep 2026 20:13:20 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/net.kollnig.greasemilkyway/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/net.kollnig.greasemilkyway/en-US/icon.png&quot; alt=&quot;Digital Habits: Focus icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.kollnig.greasemilkyway&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/kasnder/redd-focus-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/net.kollnig.greasemilkyway&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>DAVxâµ — CalDAV/CardDAV Synchronization and Client [F-Droid]</title>
       <link>https://github.com/bitfireAT/davx5-ose/</link>
@@ -6205,54 +6253,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.crome.forecastpoint/en-US/icon_OkKPZBsB4zk7ntve0l9RG4oLVxm5WWsBru9uJTxnoF4=.png&quot; alt=&quot;Point Forecast icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.crome.forecastpoint&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/crome1394/point-forecast&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.crome.forecastpoint/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>CryptoSafe — Offline AES-256-GCM text encryption with Argon2id, no internet permission [F-Droid]</title>
-      <link>https://github.com/nemoXdev/CryptoSafe</link>
-      <guid isPermaLink="false">com.cryptosafe.app@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.cryptosafe.app/en-US/icon_seVO2awQiFlMfsfXDM7vc2J5TjF37nVvWtIoBtFBsxs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.cryptosafe.app/en-US/icon_seVO2awQiFlMfsfXDM7vc2J5TjF37nVvWtIoBtFBsxs=.png&quot; alt=&quot;CryptoSafe icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.cryptosafe.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/nemoXdev/CryptoSafe&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.cryptosafe.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Quick Settings Sound Profile — Change your sound profile (ring, vibrate, mute) via a Quick Settings tile. [F-Droid]</title>
-      <link>https://github.com/CurryPlayer/quick-settings-sound-profile</link>
-      <guid isPermaLink="false">com.curryplayer.quicksettingssoundprofile@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.curryplayer.quicksettingssoundprofile/en-US/icon_WrUqnaoLKQPAaAXjhaJFDpZz97oCqAQlzG3tq1aKYPQ=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.curryplayer.quicksettingssoundprofile/en-US/icon_WrUqnaoLKQPAaAXjhaJFDpZz97oCqAQlzG3tq1aKYPQ=.png&quot; alt=&quot;Quick Settings Sound Profile icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.curryplayer.quicksettingssoundprofile&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/CurryPlayer/quick-settings-sound-profile&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.curryplayer.quicksettingssoundprofile/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>FlashDim - Dim your flashlight — Modern flashlight app with dim functionality on Android 13+ [F-Droid]</title>
-      <link>https://github.com/cyb3rko/flashdim</link>
-      <guid isPermaLink="false">com.cyb3rko.flashdim@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.cyb3rko.flashdim/en-US/icon_bOxRRYJkVIA5i6JYAMjMoPq2SpN5BSHVO2Ope5z2E40=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.cyb3rko.flashdim/en-US/icon_bOxRRYJkVIA5i6JYAMjMoPq2SpN5BSHVO2Ope5z2E40=.png&quot; alt=&quot;FlashDim - Dim your flashlight icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.cyb3rko.flashdim&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/cyb3rko/flashdim&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.cyb3rko.flashdim/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Pixelix — A mobile client for Pixelfed and Vernissage [F-Droid]</title>
-      <link>https://github.com/ghostbyte-dev/pixelix</link>
-      <guid isPermaLink="false">com.daniebeler.pfpixelix@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.daniebeler.pfpixelix/en-US/icon_3apcWvWEEJzScZ7Bs5293e7MCDiFMlP7SIiZQ7FnT_Y=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.daniebeler.pfpixelix/en-US/icon_3apcWvWEEJzScZ7Bs5293e7MCDiFMlP7SIiZQ7FnT_Y=.png&quot; alt=&quot;Pixelix icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.daniebeler.pfpixelix&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ghostbyte-dev/pixelix&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.daniebeler.pfpixelix/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>

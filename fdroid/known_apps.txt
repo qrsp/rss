@@ -10,6 +10,7 @@ app.clearsms
 app.comaps
 app.comaps.fdroid
 app.dumdum
+app.familygem
 app.floatdeck
 app.fluffy
 app.getknit.knit
@@ -403,6 +404,7 @@ com.luminaapps.cairn
 com.m57.hermescontrol
 com.madlonkay.orgro
 com.malarm
+com.mardous.booming
 com.markleaf.notes
 com.markreader
 com.marlinid.marlin
@@ -853,6 +855,7 @@ io.github.chayanforyou.quickball
 io.github.choganhq.chogan
 io.github.derweh.bayesianbahn
 io.github.dorumrr.de1984
+io.github.dorumrr.privacyflip
 io.github.drumber.kitsune
 io.github.exclude0122.xivpn
 io.github.ezberlin.keinplan
@@ -956,6 +959,7 @@ net.foucry.pilldroid
 net.gmartin.paperlessngx_uploader
 net.helcel.cowspent
 net.hyx.app.volumenotification
+net.kollnig.greasemilkyway
 net.koofr.vault
 net.millaguie.cosmovisor
 net.minetest.minetest
