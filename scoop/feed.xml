@@ -4,7 +4,7 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 15:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:26:17 +0000</lastBuildDate>
     <item>
       <title>tgrep — Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally [Main] (v1.0.5)</title>
       <link>https://github.com/microsoft/tgrep</link>
