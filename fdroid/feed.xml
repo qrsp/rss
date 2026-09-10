@@ -5,8 +5,68 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:14:36 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prism — Privacy-first UnifiedPush distributor with an optional self-hosted server [IzzyOnDroid]</title>
+      <link>https://git.lonecloud.dev/lone-cloud/prism-android</link>
+      <guid isPermaLink="false">app.lonecloud.prism@izzy</guid>
+      <pubDate>Thu, 10 Sep 2026 20:14:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.lonecloud.prism/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.lonecloud.prism/en-US/icon.png&quot; alt=&quot;Prism icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.lonecloud.prism&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://git.lonecloud.dev/lone-cloud/prism-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.lonecloud.prism&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>LTvLauncher — An open-source, Flutter-based alternative launcher for Android TV. [IzzyOnDroid]</title>
+      <link>https://github.com/leanbitlab-org/LtvLauncher</link>
+      <guid isPermaLink="false">com.leanbitlab.ltvL@izzy</guid>
+      <pubDate>Thu, 10 Sep 2026 20:14:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.leanbitlab.ltvL/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.leanbitlab.ltvL/en-US/icon.png&quot; alt=&quot;LTvLauncher icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.leanbitlab.ltvL&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/leanbitlab-org/LtvLauncher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.leanbitlab.ltvL&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Robosats — Simple and private app to exchange bitcoin for national currencies. [IzzyOnDroid]</title>
+      <link>https://github.com/RoboSats/robosats</link>
+      <guid isPermaLink="false">com.robosats@izzy</guid>
+      <pubDate>Thu, 10 Sep 2026 20:14:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.robosats/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.robosats/en-US/icon.png&quot; alt=&quot;Robosats icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.robosats&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/RoboSats/robosats&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.robosats&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Wallet — Offline card vault with AES-256-GCM encryption. Zero internet, total privacy. [IzzyOnDroid]</title>
+      <link>https://github.com/sidhant947/Wallet</link>
+      <guid isPermaLink="false">com.sidhant.wallet@izzy</guid>
+      <pubDate>Thu, 10 Sep 2026 20:14:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.sidhant.wallet/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.sidhant.wallet/en-US/icon.png&quot; alt=&quot;Wallet icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.wallet&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/Wallet&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.sidhant.wallet&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Webview Kiosk — Turn your Android device into a locked-down web page in fullscreen mode. [IzzyOnDroid]</title>
+      <link>https://github.com/nktnet1/webview-kiosk</link>
+      <guid isPermaLink="false">uk.nktnet.webviewkiosk@izzy</guid>
+      <pubDate>Thu, 10 Sep 2026 20:14:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/uk.nktnet.webviewkiosk/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/uk.nktnet.webviewkiosk/en-US/icon.png&quot; alt=&quot;Webview Kiosk icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;uk.nktnet.webviewkiosk&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nktnet1/webview-kiosk&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/uk.nktnet.webviewkiosk&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Family Gem — Create your own family tree [IzzyOnDroid]</title>
       <link>https://github.com/michelesalvador/FamilyGem</link>
@@ -6193,66 +6253,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.co3/en-US/icon_m5hEYEUQ5wIZyamrVSZDrxmuzY2hzzOlUqT-QJdS6wM=.png&quot; alt=&quot;CO3 icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.co3&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/tbvns/CO3&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.co3/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>MarketMonk: Stock Tracker — Track stocks, build a portfolio, and view performance charts. [F-Droid]</title>
-      <link>https://github.com/brandonp2412/MarketMonk</link>
-      <guid isPermaLink="false">com.codesail.market_monk@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.codesail.market_monk/en-US/icon_Qu3fnN5fH1Now8Jow43psqTT3EkD9i4MKMizBRo2m6A=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.codesail.market_monk/en-US/icon_Qu3fnN5fH1Now8Jow43psqTT3EkD9i4MKMizBRo2m6A=.png&quot; alt=&quot;MarketMonk: Stock Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.codesail.market_monk&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/brandonp2412/MarketMonk&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.codesail.market_monk/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>PocketTracker — Tracker-style music maker for handhelds and phones â sampler, SF2, 8 tracks [F-Droid]</title>
-      <link>https://github.com/conanizer/pockettracker</link>
-      <guid isPermaLink="false">com.conanizer.pockettracker@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.conanizer.pockettracker/en-US/icon_Y8RvWNY5MtH0AB-Mq8Vr5NJFUIPANedo8swbzSqGe5o=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.conanizer.pockettracker/en-US/icon_Y8RvWNY5MtH0AB-Mq8Vr5NJFUIPANedo8swbzSqGe5o=.png&quot; alt=&quot;PocketTracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.conanizer.pockettracker&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/conanizer/pockettracker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.conanizer.pockettracker/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Conceal Mobile — Secure mobile client for the Conceal Network web wallet. [F-Droid]</title>
-      <link>https://github.com/ConcealNetwork/conceal-wallet-cordova</link>
-      <guid isPermaLink="false">com.concealnetwork.concealmobile@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.concealnetwork.concealmobile/en-US/icon_vVour-R3mTseBOKTrAmDSd9iK5Mao2XoSe8NhwxOPKY=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.concealnetwork.concealmobile/en-US/icon_vVour-R3mTseBOKTrAmDSd9iK5Mao2XoSe8NhwxOPKY=.png&quot; alt=&quot;Conceal Mobile icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.concealnetwork.concealmobile&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ConcealNetwork/conceal-wallet-cordova&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.concealnetwork.concealmobile/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Text Tools — Useful text related functions that can be done on the selected text [F-Droid]</title>
-      <link>https://github.com/corphish/TextTools</link>
-      <guid isPermaLink="false">com.corphish.quicktools@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.corphish.quicktools/en-US/icon_1JVEHX4ESRNKkDO7Pj78V0Pm37BXMhjg4Ooz0vNjoeY=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.corphish.quicktools/en-US/icon_1JVEHX4ESRNKkDO7Pj78V0Pm37BXMhjg4Ooz0vNjoeY=.png&quot; alt=&quot;Text Tools icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.corphish.quicktools&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/corphish/TextTools&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.corphish.quicktools/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Point Forecast — NWS point forecasts with maps, tides, and weather hazards [F-Droid]</title>
-      <link>https://github.com/crome1394/point-forecast</link>
-      <guid isPermaLink="false">com.crome.forecastpoint@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.crome.forecastpoint/en-US/icon_OkKPZBsB4zk7ntve0l9RG4oLVxm5WWsBru9uJTxnoF4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.crome.forecastpoint/en-US/icon_OkKPZBsB4zk7ntve0l9RG4oLVxm5WWsBru9uJTxnoF4=.png&quot; alt=&quot;Point Forecast icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.crome.forecastpoint&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/crome1394/point-forecast&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.crome.forecastpoint/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
