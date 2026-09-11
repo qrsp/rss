@@ -5,8 +5,68 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:13:44 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OSS Card Wallet — OSS Card Wallet is a free and Open Source app to transform your mobile device into a powerful card scanner and walletSCAN Scan your IDs, business cards, loyalty cards with a fast camera scan. [IzzyOnDroid]</title>
+      <link>https://github.com/ossappscollective/OSS-DocumentScanner</link>
+      <guid isPermaLink="false">com.akylas.cardwallet@izzy</guid>
+      <pubDate>Fri, 11 Sep 2026 20:13:37 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.akylas.cardwallet/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.akylas.cardwallet/en-US/icon.png&quot; alt=&quot;OSS Card Wallet icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.akylas.cardwallet&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ossappscollective/OSS-DocumentScanner&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.akylas.cardwallet&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OSS Document Scanner — The OSS Document Scanner is a free and Open Source app to transform your mobile device into a powerful document scanner. [IzzyOnDroid]</title>
+      <link>https://github.com/ossappscollective/OSS-DocumentScanner</link>
+      <guid isPermaLink="false">com.akylas.documentscanner@izzy</guid>
+      <pubDate>Fri, 11 Sep 2026 20:13:37 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.akylas.documentscanner/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.akylas.documentscanner/en-US/icon.png&quot; alt=&quot;OSS Document Scanner icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.akylas.documentscanner&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ossappscollective/OSS-DocumentScanner&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Clock You — Privacy focused clock app build with MD3 [IzzyOnDroid]</title>
+      <link>https://github.com/you-apps/ClockYou</link>
+      <guid isPermaLink="false">com.bnyro.clock@izzy</guid>
+      <pubDate>Fri, 11 Sep 2026 20:13:37 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.bnyro.clock/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.bnyro.clock/en-US/icon.png&quot; alt=&quot;Clock You icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.bnyro.clock&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/you-apps/ClockYou&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.bnyro.clock&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Reckoner — Privacy respecting personal financial tracker [IzzyOnDroid]</title>
+      <link>https://codeberg.org/Reckoner/app</link>
+      <guid isPermaLink="false">finance.reckoner.app@izzy</guid>
+      <pubDate>Fri, 11 Sep 2026 20:13:37 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/finance.reckoner.app/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/finance.reckoner.app/en-US/icon.png&quot; alt=&quot;Reckoner icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;finance.reckoner.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/Reckoner/app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/finance.reckoner.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>aShell — aShell: A local ADB shell for Shizuku powered android devices [IzzyOnDroid]</title>
+      <link>https://gitlab.com/sunilpaulmathew/ashell</link>
+      <guid isPermaLink="false">in.sunilpaulmathew.ashell@izzy</guid>
+      <pubDate>Fri, 11 Sep 2026 20:13:37 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/in.sunilpaulmathew.ashell/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/in.sunilpaulmathew.ashell/en-US/icon.png&quot; alt=&quot;aShell icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;in.sunilpaulmathew.ashell&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitlab.com/sunilpaulmathew/ashell&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/in.sunilpaulmathew.ashell&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>UT.urn - YouTube facilitator for Podcini.A — A service app providing YouTube contents to Podcini.A [F-Droid]</title>
       <link>https://github.com/XilinJia/UT.urn</link>
@@ -6244,66 +6304,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.activitytrace/en-US/icon_nk574CFl7X9fSkoNPx8u2o3NIgHSSGkzInzuObslaJM=.png&quot; alt=&quot;Activity Trace icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.activitytrace&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/DavidNeurieder/ActivityTrace&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.activitytrace/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Saber — The notes app built for handwriting [F-Droid]</title>
-      <link>https://github.com/saber-notes/saber</link>
-      <guid isPermaLink="false">com.adilhanney.saber@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.adilhanney.saber/en-US/icon_UUwDbjN3ATfP5KaLCDsrxueCTUCp96iXB401Y-Qalog=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.adilhanney.saber/en-US/icon_UUwDbjN3ATfP5KaLCDsrxueCTUCp96iXB401Y-Qalog=.png&quot; alt=&quot;Saber icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.adilhanney.saber&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/saber-notes/saber&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.adilhanney.saber/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Vault Explorer — Encrypted container explorer: VeraCrypt, LUKS, BitLocker, and more. [F-Droid]</title>
-      <link>https://github.com/R0b0To/VaultExplorer</link>
-      <guid isPermaLink="false">com.aeidolon.vaultexplorer@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.aeidolon.vaultexplorer/en-US/icon_bKAmpqSJImRcllnpYPfAZk7qQb4HhRUrgdxEvTAKAHM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.aeidolon.vaultexplorer/en-US/icon_bKAmpqSJImRcllnpYPfAZk7qQb4HhRUrgdxEvTAKAHM=.png&quot; alt=&quot;Vault Explorer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.aeidolon.vaultexplorer&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/R0b0To/VaultExplorer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.aeidolon.vaultexplorer/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Deku SMS — Deku is an SMS app that supports end to end encryption and photo sharing [F-Droid]</title>
-      <link>https://github.com/deku-messaging/DekuSMS-Android</link>
-      <guid isPermaLink="false">com.afkanerd.deku@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.afkanerd.deku/en-US/icon_8a-RhsUX4jbLr4A8v4NyjTnqkNsv6OrYGIL7Il415UY=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.afkanerd.deku/en-US/icon_8a-RhsUX4jbLr4A8v4NyjTnqkNsv6OrYGIL7Il415UY=.png&quot; alt=&quot;Deku SMS icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.afkanerd.deku&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/deku-messaging/DekuSMS-Android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.afkanerd.deku/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>WebInspector — Inspect web pages as in desktop browser Developer Tools [F-Droid]</title>
-      <link>https://github.com/Messina-Agata/WebInspector</link>
-      <guid isPermaLink="false">com.agatamessina.webinspector@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.agatamessina.webinspector/en-US/icon__Rv6h2csnVNILxqZ7Lg2c0EWSVDXYlHnbbL_LNCfnkU=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.agatamessina.webinspector/en-US/icon__Rv6h2csnVNILxqZ7Lg2c0EWSVDXYlHnbbL_LNCfnkU=.png&quot; alt=&quot;WebInspector icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.agatamessina.webinspector&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Messina-Agata/WebInspector&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.agatamessina.webinspector/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>AgePony: Encrypt &amp;amp; Sign — Post-quantum file &amp;amp; message encryption with age. On-device, private, no ads. [F-Droid]</title>
-      <link>https://github.com/norsehorse-dev/AgePonyAndroid</link>
-      <guid isPermaLink="false">com.agepony.app@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.agepony.app/en-US/icon_hP3AgSBoB1d5_uH4dEUk2DZXmXkJ9cOFY4p9IjvMxwA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.agepony.app/en-US/icon_hP3AgSBoB1d5_uH4dEUk2DZXmXkJ9cOFY4p9IjvMxwA=.png&quot; alt=&quot;AgePony: Encrypt &amp;amp; Sign icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.agepony.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/norsehorse-dev/AgePonyAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.agepony.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
