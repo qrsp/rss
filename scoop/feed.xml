@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 03:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:07:32 +0000</lastBuildDate>
+    <item>
+      <title>twg — A command line interface to the Atlassian Teamwork Graph and Cloud services. [Main] (v1.2.7)</title>
+      <link>https://developer.atlassian.com/platform/teamwork-graph/twg-cli/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.atlassian.com/platform/teamwork-graph/twg-cli/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/twg.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 09:04:06 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-twg-1.2.7</guid>
+    </item>
+    <item>
+      <title>contextmenucustom-np — Adds customizable entries to the Windows 11 context menu. [Nonportable] (v5.8.0.0)</title>
+      <link>https://github.com/ikas-mc/ContextMenuForWindows11</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; LGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ikas-mc/ContextMenuForWindows11&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nonportable/blob/master/bucket/contextmenucustom-np.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 08:50:58 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nonportable-contextmenucustom-np-5.8.0.0</guid>
+    </item>
     <item>
       <title>redumper — Command-line tool for creating accurate optical disc dumps. [Main] (vb750)</title>
       <link>https://github.com/superg/redumper</link>
