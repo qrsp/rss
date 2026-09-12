@@ -7,6 +7,7 @@ app.areada
 app.atrium
 app.bitbag
 app.chompass
+app.clauncher
 app.clearsms
 app.comaps
 app.comaps.fdroid
@@ -86,6 +87,7 @@ com.acktarius.concealauthenticator
 com.acszo.redomi.repo
 com.activitytrace
 com.acutis.firewall
+com.addev.listaspam
 com.adilhanney.saber
 com.aeidolon.vaultexplorer
 com.afkanerd.deku
@@ -131,6 +133,7 @@ com.ashkanrafiee.librecontactsbackup
 com.asksakis.freegate
 com.astroloop.game
 com.atharok.btremote
+com.audiobookshelf.app
 com.autismprime.fall
 com.autopi
 com.aw.huda
@@ -290,6 +293,7 @@ com.github.catfriend1.syncthingfork
 com.github.db1996.taskerha
 com.github.digitallyrefined.androidipcamera
 com.github.dyhkwong.sagernet
+com.github.edeso.bubble2
 com.github.emavgl.piggybankpro
 com.github.heartratemonitor_compose
 com.github.libretube
@@ -624,6 +628,8 @@ com.tideo.autobrightness
 com.tk.quicksearch
 com.tokyoxpa3.androidproxy
 com.topjohnwu.magisk
+com.tre.openseptamap
+com.tre.openstreetmapwiki
 com.tripperdee.salmontracker
 com.tristinbaker.defide
 com.tristinbaker.idlefantasy
@@ -790,6 +796,7 @@ dev.imranr.obtainium.fdroid
 dev.kerballone.spamblocker
 dev.khoj.pitaka.fdroid
 dev.lbeernaert.youhavemail
+dev.leonlatsch.photok
 dev.lexip.hecate
 dev.librenotes.app
 dev.linwood.butterfly.nightly
@@ -811,6 +818,7 @@ dev.serge.textlog
 dev.uint.qrserv
 dev.victorialauncher
 dev.xitee.sleeptimer
+devs.org.calculator
 dk.meznik.jan.encrypttext
 duress.keyboard
 duress.keyboard.lite
@@ -877,6 +885,7 @@ info.zamojski.soft.towercollector
 invalid.lena.rsend
 invalid.lena.scrcpy
 io.ahxxm.ic
+io.atticusc.atmosweather
 io.codeberg.allibragi.whatiwatch
 io.dashchan2
 io.element.android.x
@@ -1005,6 +1014,7 @@ net.dege.salmon
 net.diffengine.romandigitalclock
 net.foucry.pilldroid
 net.gmartin.paperlessngx_uploader
+net.helcel.beans
 net.helcel.cowspent
 net.hyx.app.volumenotification
 net.kollnig.greasemilkyway
@@ -1094,6 +1104,7 @@ org.jellyfin.androidtv
 org.jellyfin.mobile
 org.jimvixx.smsecure
 org.joinmastodon.android
+org.juanro.autumandu
 org.jumascola.filmflip
 org.jyutping.jyutping
 org.kaqui

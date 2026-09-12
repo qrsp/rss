@@ -5,8 +5,140 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:53:02 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Clauncher — Yet Another Olauncher Fork, But With All Apps Hidden [IzzyOnDroid]</title>
+      <link>https://github.com/mlm-games/CLauncher</link>
+      <guid isPermaLink="false">app.clauncher@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.clauncher/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.clauncher/en-US/icon.png&quot; alt=&quot;Clauncher icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.clauncher&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mlm-games/CLauncher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.clauncher&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Spam Call Blocker — manage and block unwanted incoming calls [IzzyOnDroid]</title>
+      <link>https://github.com/adamff-dev/spam-call-blocker-app</link>
+      <guid isPermaLink="false">com.addev.listaspam@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.addev.listaspam/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.addev.listaspam/en-US/icon.png&quot; alt=&quot;Spam Call Blocker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.addev.listaspam&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/adamff-dev/spam-call-blocker-app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.addev.listaspam&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Audiobookshelf — Audiobook and podcast player for your self-hosted Audiobookshelf server [IzzyOnDroid]</title>
+      <link>https://github.com/advplyr/audiobookshelf-app</link>
+      <guid isPermaLink="false">com.audiobookshelf.app@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.audiobookshelf.app/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.audiobookshelf.app/en-US/icon.png&quot; alt=&quot;Audiobookshelf icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.audiobookshelf.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/advplyr/audiobookshelf-app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.audiobookshelf.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bubble2 — Comic book reader, Image archive viewer. Simple yet comfy. [IzzyOnDroid]</title>
+      <link>https://github.com/edeso/bubble2</link>
+      <guid isPermaLink="false">com.github.edeso.bubble2@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.github.edeso.bubble2/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.github.edeso.bubble2/en-US/icon.png&quot; alt=&quot;Bubble2 icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.edeso.bubble2&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/edeso/bubble2&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.edeso.bubble2&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OpenSEPTAmap — View SEPTA rail &amp; trolley lines/stops in an app. [IzzyOnDroid]</title>
+      <link>https://codeberg.org/Tre_brock/OpenSEPTAmap</link>
+      <guid isPermaLink="false">com.tre.openseptamap@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.tre.openseptamap/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.tre.openseptamap/en-US/icon.png&quot; alt=&quot;OpenSEPTAmap icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.tre.openseptamap&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/Tre_brock/OpenSEPTAmap&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.tre.openseptamap&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OpenStreetMap wiki app — Access the OpenStreetMap wiki in an app [IzzyOnDroid]</title>
+      <link>https://codeberg.org/Tre_brock/OpenStreetMap-wiki-app</link>
+      <guid isPermaLink="false">com.tre.openstreetmapwiki@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.tre.openstreetmapwiki/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.tre.openstreetmapwiki/en-US/icon.png&quot; alt=&quot;OpenStreetMap wiki app icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.tre.openstreetmapwiki&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/Tre_brock/OpenStreetMap-wiki-app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.tre.openstreetmapwiki&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Photok — Private Photo Vault, Hide Photos &amp; Videos. [IzzyOnDroid]</title>
+      <link>https://github.com/leonlatsch/Photok</link>
+      <guid isPermaLink="false">dev.leonlatsch.photok@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.leonlatsch.photok/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.leonlatsch.photok/en-US/icon.png&quot; alt=&quot;Photok icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.leonlatsch.photok&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/leonlatsch/Photok&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.leonlatsch.photok&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Calculator - Hide Files — Secure file vault with calculator interface [IzzyOnDroid]</title>
+      <link>https://github.com/Binondi/Calculator-Hide-Files</link>
+      <guid isPermaLink="false">devs.org.calculator@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/devs.org.calculator/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/devs.org.calculator/en-US/icon.png&quot; alt=&quot;Calculator - Hide Files icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;devs.org.calculator&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Binondi/Calculator-Hide-Files&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/devs.org.calculator&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Atmos Weather — a lightweight weather app for receiving alerts and forecasts [IzzyOnDroid]</title>
+      <link>https://github.com/atticuscornett/AtmosWeather</link>
+      <guid isPermaLink="false">io.atticusc.atmosweather@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.atticusc.atmosweather/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.atticusc.atmosweather/en-US/icon.png&quot; alt=&quot;Atmos Weather icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.atticusc.atmosweather&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/atticuscornett/AtmosWeather&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.atticusc.atmosweather&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Beans — A virtual scratchmap of the world [IzzyOnDroid]</title>
+      <link>https://github.com/helcel-net/beans</link>
+      <guid isPermaLink="false">net.helcel.beans@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/net.helcel.beans/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/net.helcel.beans/en-US/icon.png&quot; alt=&quot;Beans icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.helcel.beans&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/helcel-net/beans&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/net.helcel.beans&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Autu Mandu — Autu Mandu allows you to control the income and expenses of your vehicles. [IzzyOnDroid]</title>
+      <link>https://github.com/juanro49/autu-mandu</link>
+      <guid isPermaLink="false">org.juanro.autumandu@izzy</guid>
+      <pubDate>Sat, 12 Sep 2026 19:52:49 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.juanro.autumandu/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.juanro.autumandu/en-US/icon.png&quot; alt=&quot;Autu Mandu icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.juanro.autumandu&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/juanro49/autu-mandu&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.juanro.autumandu&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>OSS Card Wallet — OSS Card Wallet is a free and Open Source app to transform your mobile device into a powerful card scanner and walletSCAN Scan your IDs, business cards, loyalty cards with a fast camera scan. [IzzyOnDroid]</title>
       <link>https://github.com/ossappscollective/OSS-DocumentScanner</link>
@@ -6172,138 +6304,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/chromahub.rhythm.app/en-US/icon_HopHKQGn7kjBHvf9xc9qdp3u6UrDq6leZ08fwHkpKWc=.png&quot; alt=&quot;Rhythm icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;chromahub.rhythm.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/cromaguy/Rhythm&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/chromahub.rhythm.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>VerveDo — A concise to-do app that follows Material 3 Expressive. [F-Droid]</title>
-      <link>https://github.com/Super12138/VerveDo</link>
-      <guid isPermaLink="false">cn.super12138.todo@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/cn.super12138.todo/en-US/icon_kLSCSdevJyX15PrpsITCmQJ0LCE7m8T1sYXrEpy6gCM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/cn.super12138.todo/en-US/icon_kLSCSdevJyX15PrpsITCmQJ0LCE7m8T1sYXrEpy6gCM=.png&quot; alt=&quot;VerveDo icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;cn.super12138.todo&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Super12138/VerveDo&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/cn.super12138.todo/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Zodl: Zcash Wallet — The most private crypto wallet. Built for financial sovereignty. [F-Droid]</title>
-      <link>https://github.com/zodl-inc/zodl-android</link>
-      <guid isPermaLink="false">co.electriccoin.zcash.foss@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/co.electriccoin.zcash.foss/en-US/icon_PfYgDMXXK2RJmQV7ElBA7s-lgyZHv0J3b7HQbkVmYME=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/co.electriccoin.zcash.foss/en-US/icon_PfYgDMXXK2RJmQV7ElBA7s-lgyZHv0J3b7HQbkVmYME=.png&quot; alt=&quot;Zodl: Zcash Wallet icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;co.electriccoin.zcash.foss&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/zodl-inc/zodl-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/co.electriccoin.zcash.foss/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Retro Music — Material You Design Music player for Android [F-Droid]</title>
-      <link>https://github.com/RetroMusicPlayer/RetroMusicPlayer</link>
-      <guid isPermaLink="false">code.name.monkey.retromusic@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/code.name.monkey.retromusic/en-US/icon_wa25PyixqmnIl8tZe4cR7Hh8LQZerk2Sm8Z06tejTYA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/code.name.monkey.retromusic/en-US/icon_wa25PyixqmnIl8tZe4cR7Hh8LQZerk2Sm8Z06tejTYA=.png&quot; alt=&quot;Retro Music icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;code.name.monkey.retromusic&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/RetroMusicPlayer/RetroMusicPlayer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/code.name.monkey.retromusic/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Battery Monitor — Monitor your device&amp;x27;s battery status in detail in real time [F-Droid]</title>
-      <link>https://github.com/tswistak/Battery-Monitor</link>
-      <guid isPermaLink="false">codes.swistak.batterymonitor@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/codes.swistak.batterymonitor/en-US/icon_cE3MmhWsVh-VeNQQvv6tgVFb24oASyroUQi3xFs_r2k=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/codes.swistak.batterymonitor/en-US/icon_cE3MmhWsVh-VeNQQvv6tgVFb24oASyroUQi3xFs_r2k=.png&quot; alt=&quot;Battery Monitor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;codes.swistak.batterymonitor&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/tswistak/Battery-Monitor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/codes.swistak.batterymonitor/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Colota - GPS Location Tracker — Self-hosted GPS tracker. Open source, geofencing, offline mode, no telemetry [F-Droid]</title>
-      <link>https://github.com/dietrichmax/colota</link>
-      <guid isPermaLink="false">com.Colota@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.Colota/en-US/icon_IXf2756m6q4wbivTHydM7qOBkrCqPwnRELoFDoZQNFs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.Colota/en-US/icon_IXf2756m6q4wbivTHydM7qOBkrCqPwnRELoFDoZQNFs=.png&quot; alt=&quot;Colota - GPS Location Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.Colota&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/dietrichmax/colota&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.Colota/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Dart Checker — Dart scoreboard/counter for physical dart matches [F-Droid]</title>
-      <link>https://gitlab.com/onestepb/dart-checker</link>
-      <guid isPermaLink="false">com.DartChecker@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.DartChecker/en-US/icon_M60ol2l9PfhvfH2wMG3-nMwjxgiB5GYWalbhhoh5Qho=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.DartChecker/en-US/icon_M60ol2l9PfhvfH2wMG3-nMwjxgiB5GYWalbhhoh5Qho=.png&quot; alt=&quot;Dart Checker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.DartChecker&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/onestepb/dart-checker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.DartChecker/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>StudyDesk — Know what to study next â a decision-free study tracker [F-Droid]</title>
-      <link>https://github.com/Limekana/StudyDesk</link>
-      <guid isPermaLink="false">com.StudyDesk.app@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/icons/com.StudyDesk.app.20.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/com.StudyDesk.app.20.png&quot; alt=&quot;StudyDesk icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.StudyDesk.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Limekana/StudyDesk&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.StudyDesk.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>invoice, quote, delivery note — Create your invoices, quotes &amp;amp; delivery notes in 10 seconds - easy [F-Droid]</title>
-      <link>https://github.com/gatesuperapp/g8-invoicing</link>
-      <guid isPermaLink="false">com.a4a.g8invoicing@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.a4a.g8invoicing/en-US/icon_KljiCtpx75APEIWy45knYOWNO5oyqEz7uFw2m_7Tn4I=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.a4a.g8invoicing/en-US/icon_KljiCtpx75APEIWy45knYOWNO5oyqEz7uFw2m_7Tn4I=.png&quot; alt=&quot;invoice, quote, delivery note icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.a4a.g8invoicing&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/gatesuperapp/g8-invoicing&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.a4a.g8invoicing/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>My Notes - Take notes anywhere — Very simple note-taking [F-Droid]</title>
-      <link>https://github.com/Abdallah-Abdelazim/mynotes</link>
-      <guid isPermaLink="false">com.aa.mynotes@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.aa.mynotes/en-US/icon_xfdedPBVB_8fKPLc2WLnjzA4l0oKFc0VglazzyrdJHs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.aa.mynotes/en-US/icon_xfdedPBVB_8fKPLc2WLnjzA4l0oKFc0VglazzyrdJHs=.png&quot; alt=&quot;My Notes - Take notes anywhere icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.aa.mynotes&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Abdallah-Abdelazim/mynotes&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.aa.mynotes/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Conceal Authenticator — Secure 2FA authenticator with blockchain backup and encryption. [F-Droid]</title>
-      <link>https://github.com/Acktarius/Conceal-2fa-app</link>
-      <guid isPermaLink="false">com.acktarius.concealauthenticator@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.acktarius.concealauthenticator/en-US/icon_AaosYZkn3aMYE4hhrXXaPl7FsWIf6JbnTv9y8W1nWzE=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.acktarius.concealauthenticator/en-US/icon_AaosYZkn3aMYE4hhrXXaPl7FsWIf6JbnTv9y8W1nWzE=.png&quot; alt=&quot;Conceal Authenticator icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.acktarius.concealauthenticator&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Acktarius/Conceal-2fa-app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.acktarius.concealauthenticator/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Activity Trace — Search notifications, accessibility and files on-device. [F-Droid]</title>
-      <link>https://github.com/DavidNeurieder/ActivityTrace</link>
-      <guid isPermaLink="false">com.activitytrace@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.activitytrace/en-US/icon_nk574CFl7X9fSkoNPx8u2o3NIgHSSGkzInzuObslaJM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.activitytrace/en-US/icon_nk574CFl7X9fSkoNPx8u2o3NIgHSSGkzInzuObslaJM=.png&quot; alt=&quot;Activity Trace icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.activitytrace&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/DavidNeurieder/ActivityTrace&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.activitytrace/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
