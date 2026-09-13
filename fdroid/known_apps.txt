@@ -11,6 +11,7 @@ app.clauncher
 app.clearsms
 app.comaps
 app.comaps.fdroid
+app.crossword.yourealwaysbe.forkyz
 app.dumdum
 app.familygem
 app.floatdeck
@@ -119,6 +120,7 @@ com.anthonyla.paperize
 com.antivocale.app
 com.anysoftkeyboard.janus
 com.apk.editor
+com.app.equran
 com.appmindlab.nano
 com.aradar.vibecheck
 com.armanmaurya.internetradio
@@ -235,6 +237,7 @@ com.dozingcatsoftware.vectorcamera
 com.dresos.dressecurecomms
 com.droidrops.app
 com.dsalmun.luxalarm
+com.dt.opnsense_manager
 com.dtsykunov.pause
 com.duckduckgo.mobile.android
 com.duetto
@@ -410,6 +413,7 @@ com.leadaxe.lxbox
 com.leanbitlab.leantype
 com.leanbitlab.ltvL
 com.leekleak.trafficlight
+com.lenshrv.foss
 com.likhithpraveenk.storii
 com.limecore.nexus
 com.limecore.workouttracker
@@ -479,6 +483,8 @@ com.nfcalarmclock
 com.nfcarchiver.banana_split
 com.nima.mymood
 com.nkls.nekovideo
+com.nononsenseapps.feeder
+com.nononsenseapps.feeder.play
 com.noorconnect.app
 com.noty.app
 com.novadial.phone
@@ -569,6 +575,7 @@ com.shalenmathew.movieflix
 com.shalenmathew.quotesapp
 com.shapeshed.aerial
 com.shapeshed.kiosk
+com.shatteredpixel.shatteredpixeldungeon
 com.shinydiscoballsdev.kifossk
 com.shub39.grit
 com.shub39.rush
@@ -578,6 +585,7 @@ com.sidhant.arrowescape
 com.sidhant.bubbleshooter
 com.sidhant.einsteinriddle
 com.sidhant.huesort
+com.sidhant.huespill
 com.sidhant.learnmath
 com.sidhant.mahjong
 com.sidhant.match3
@@ -691,6 +699,7 @@ com.yahyaoui.prayermode
 com.yash.xpenc
 com.yepgoryo.CaptureCap
 com.yourname.pdftoolkit
+com.yubico.yubioath
 com.zaneschepke.wireguardautotunnel
 com.zell_mbc.medilog
 com.zell_mbc.publicartexplorer.foss
@@ -779,6 +788,7 @@ dev.bikram.remember.gh
 dev.brgr.outspoke
 dev.casraf.pantry
 dev.chuk.betterbahn
+dev.chungjungsoo.gptmobile
 dev.cipher.notes
 dev.corruptedark.diditakemymeds
 dev.daika.davy
@@ -815,10 +825,12 @@ dev.rova.notes
 dev.rubec.otoscope
 dev.sasikanth.rss.reader
 dev.serge.textlog
+dev.tulis.readbear
 dev.uint.qrserv
 dev.victorialauncher
 dev.xitee.sleeptimer
 devs.org.calculator
+dk.bjoerckbraun.deltasync
 dk.meznik.jan.encrypttext
 duress.keyboard
 duress.keyboard.lite
@@ -989,6 +1001,7 @@ m.co.rh.id.a_news_provider
 m.co.rh.id.a_personal_stuff
 marto.rtl_tcp_andro
 me.hackerchick.catima
+me.hackerchick.sharetoinputstick
 me.kafuuneko.rpclient
 me.lecaro.breakout
 me.lucky.duress
@@ -1211,6 +1224,7 @@ ua.com.radiokot.photoprism
 uk.nktnet.webviewkiosk
 uk.org.retallack.slimbook
 universe.constellation.orion.viewer
+unlicense.launcher
 us.materialio.app
 us.spotco.maps
 us.spotco.motionlock
