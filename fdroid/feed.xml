@@ -5,8 +5,92 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 10:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:01:25 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Safe Haven — A safe, open-source Android app store with built in security checks. [IzzyOnDroid]</title>
+      <link>https://github.com/phsycologicalFudge/SafeHaven-Store</link>
+      <guid isPermaLink="false">com.colourswift.safehaven@izzy</guid>
+      <pubDate>Sun, 13 Sep 2026 20:01:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.colourswift.safehaven/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.colourswift.safehaven/en-US/icon.png&quot; alt=&quot;Safe Haven icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.colourswift.safehaven&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/phsycologicalFudge/SafeHaven-Store&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.colourswift.safehaven&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Just Listen — A music player for Android and iOS using the Audius API. [IzzyOnDroid]</title>
+      <link>https://github.com/RLD-JL/Just-Listen</link>
+      <guid isPermaLink="false">com.rld.justlisten.android@izzy</guid>
+      <pubDate>Sun, 13 Sep 2026 20:01:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.rld.justlisten.android/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.rld.justlisten.android/en-US/icon.png&quot; alt=&quot;Just Listen icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rld.justlisten.android&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/RLD-JL/Just-Listen&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.rld.justlisten.android&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bluetooth QR &amp; Barcode to PC — Enables sending QR/Barcodes to a Bluetooth Device (e.g PC) without any Software [IzzyOnDroid]</title>
+      <link>https://github.com/Fabi019/hid-barcode-scanner</link>
+      <guid isPermaLink="false">dev.fabik.bluetoothhid@izzy</guid>
+      <pubDate>Sun, 13 Sep 2026 20:01:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.fabik.bluetoothhid/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.fabik.bluetoothhid/en-US/icon.png&quot; alt=&quot;Bluetooth QR &amp; Barcode to PC icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.fabik.bluetoothhid&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Fabi019/hid-barcode-scanner&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.fabik.bluetoothhid&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>EigenPlan für Untis — Your Untis timetable - colored and readable. [IzzyOnDroid]</title>
+      <link>https://github.com/Lasslos/EigenPlan</link>
+      <guid isPermaLink="false">eu.laslo_hauschild.your_schedule@izzy</guid>
+      <pubDate>Sun, 13 Sep 2026 20:01:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/eu.laslo_hauschild.your_schedule/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/eu.laslo_hauschild.your_schedule/en-US/icon.png&quot; alt=&quot;EigenPlan für Untis icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.laslo_hauschild.your_schedule&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Lasslos/EigenPlan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/eu.laslo_hauschild.your_schedule&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>FreeTube Android — An open source YouTube player built with privacy in mind [IzzyOnDroid]</title>
+      <link>https://github.com/MarmadileManteater/FreeTubeAndroid</link>
+      <guid isPermaLink="false">io.freetubeapp.freetube@izzy</guid>
+      <pubDate>Sun, 13 Sep 2026 20:01:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.freetubeapp.freetube/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.freetubeapp.freetube/en-US/icon.png&quot; alt=&quot;FreeTube Android icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.freetubeapp.freetube&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MarmadileManteater/FreeTubeAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.freetubeapp.freetube&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>ExifEdit — Simple EXIF Editor for Android: Delete EXIF, Modify date [IzzyOnDroid]</title>
+      <link>https://github.com/woheller69/exifedit</link>
+      <guid isPermaLink="false">org.woheller69.exifedit@izzy</guid>
+      <pubDate>Sun, 13 Sep 2026 20:01:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.woheller69.exifedit/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.woheller69.exifedit/en-US/icon.png&quot; alt=&quot;ExifEdit icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.woheller69.exifedit&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/woheller69/exifedit&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.woheller69.exifedit&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Stay Put - Unplug Alert — Stay Put helps prevent theft of your device while charging in public spaces. [IzzyOnDroid]</title>
+      <link>https://codeberg.org/y20k/stayput</link>
+      <guid isPermaLink="false">org.y20k.stayput@izzy</guid>
+      <pubDate>Sun, 13 Sep 2026 20:01:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.y20k.stayput/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.y20k.stayput/en-US/icon.png&quot; alt=&quot;Stay Put - Unplug Alert icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.y20k.stayput&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/y20k/stayput&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.y20k.stayput&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Forkyz — Crossword puzzles application, download and play. [F-Droid]</title>
       <link>https://gitlab.com/Hague/forkyz</link>
@@ -6232,90 +6316,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/app.status.mobile/en-US/icon_vSpQSVl1cpBuno6M5kl732qS_AxXOrBOSf36lS45Q6E=.png&quot; alt=&quot;Status - Chat, Wallet, Browser icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.status.mobile&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/status-im/status-app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.status.mobile/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sterna Mail — Private email client for JMAP and IMAP/SMTP. No Google services, no tracking. [F-Droid]</title>
-      <link>https://codeberg.org/emon/sterna-mail</link>
-      <guid isPermaLink="false">app.sterna@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/app.sterna/en-US/icon_SaS0Doyjo4EC10lUvlpy4c6ceoB_rQwee9-5j94hRlg=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/app.sterna/en-US/icon_SaS0Doyjo4EC10lUvlpy4c6ceoB_rQwee9-5j94hRlg=.png&quot; alt=&quot;Sterna Mail icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.sterna&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/emon/sterna-mail&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.sterna/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Voyager for Lemmy — Join the discussion [F-Droid]</title>
-      <link>https://github.com/aeharding/voyager</link>
-      <guid isPermaLink="false">app.vger.voyager@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/app.vger.voyager/en-US/icon_ESoJLOKO8bUXdRoRKLHWV3J_cGioN_jPX--rVpchWdg=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/app.vger.voyager/en-US/icon_ESoJLOKO8bUXdRoRKLHWV3J_cGioN_jPX--rVpchWdg=.png&quot; alt=&quot;Voyager for Lemmy icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.vger.voyager&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/aeharding/voyager&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.vger.voyager/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Tessella — Create and explore polygon tessellations of the plane [F-Droid]</title>
-      <link>https://github.com/tessell-art/editor</link>
-      <guid isPermaLink="false">art.tessell.editor@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/art.tessell.editor/en-US/icon_V75dYKdc16y7eol0d0AI3KUFx8ABiFjm_4D4aGM_cgs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/art.tessell.editor/en-US/icon_V75dYKdc16y7eol0d0AI3KUFx8ABiFjm_4D4aGM_cgs=.png&quot; alt=&quot;Tessella icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;art.tessell.editor&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/tessell-art/editor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/art.tessell.editor/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Working Time Account — Record working hours, generate and send reports (PDF, CSV and ICS) [F-Droid]</title>
-      <link>https://gitlab.com/Askanimus/arbeitszeitkonto</link>
-      <guid isPermaLink="false">askanimus.arbeitszeiterfassung2@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/askanimus.arbeitszeiterfassung2/en-US/icon_U8Ehc6xa7Z99RWnqwAAhY_twnySG_W7Tgx-vAP-0uvQ=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/askanimus.arbeitszeiterfassung2/en-US/icon_U8Ehc6xa7Z99RWnqwAAhY_twnySG_W7Tgx-vAP-0uvQ=.png&quot; alt=&quot;Working Time Account icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;askanimus.arbeitszeiterfassung2&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/Askanimus/arbeitszeitkonto&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/askanimus.arbeitszeiterfassung2/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>HÃ¥ck mas Castle 2026 Fahrplan — Eine Fahrplan-App fÃ¼r HÃ¥ck maâs Castle 2026 [F-Droid]</title>
-      <link>https://github.com/EventFahrplan/EventFahrplan</link>
-      <guid isPermaLink="false">at.hackmas.android.schedule@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/icons/at.hackmas.android.schedule.120.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/at.hackmas.android.schedule.120.png&quot; alt=&quot;HÃ¥ck mas Castle 2026 Fahrplan icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;at.hackmas.android.schedule&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/EventFahrplan/EventFahrplan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/at.hackmas.android.schedule/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>OpenDocument Reader — Document reader &amp;amp; file editor for Libreoffice &amp;amp; OpenOffice | ODF: ODT, ODS +more [F-Droid]</title>
-      <link>https://github.com/opendocument-app/OpenDocument.droid</link>
-      <guid isPermaLink="false">at.tomtasche.reader@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/at.tomtasche.reader/en-US/icon_uCTVD0p4G_Q7MoQ87cSVMVQHdruhnr9Vw0YzN8sXmtk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/at.tomtasche.reader/en-US/icon_uCTVD0p4G_Q7MoQ87cSVMVQHdruhnr9Vw0YzN8sXmtk=.png&quot; alt=&quot;OpenDocument Reader icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;at.tomtasche.reader&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/opendocument-app/OpenDocument.droid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/at.tomtasche.reader/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>BackgroundWorkAround — BackgroundWorkAround: app for background survival. [F-Droid]</title>
-      <link>https://github.com/confidenseuide/BackgroundWorkAround/</link>
-      <guid isPermaLink="false">background.work.around@fdroid</guid>
-      <pubDate>Fri, 28 Aug 2026 18:23:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/background.work.around/en-US/icon_YaevovlvE9Z7mnfo4DTeHwzw9fXbWFgx4NUPburHIcg=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/background.work.around/en-US/icon_YaevovlvE9Z7mnfo4DTeHwzw9fXbWFgx4NUPburHIcg=.png&quot; alt=&quot;BackgroundWorkAround icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;background.work.around&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/confidenseuide/BackgroundWorkAround/&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/background.work.around/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
