@@ -25,6 +25,7 @@ app.michaelwuensch.bitbanana
 app.mlauncher
 app.murinelauncher
 app.nightdrop
+app.olauncher
 app.organicmaps
 app.pachli
 app.passwordstore.pando85
@@ -65,6 +66,7 @@ cc.polysfaer.stochapop
 cc.zachy.pulse
 ch.abertschi.adfree
 ch.cryptobit.letterbox
+ch.martinstoeckli.silentnotes
 ch.pocketpc.nearbyglasses
 ch.protonvpn.android
 ch.rmy.android.http_shortcuts
@@ -557,6 +559,7 @@ com.retekey
 com.revold1985.secureqrshare
 com.richardluo.globalIconPack
 com.ripster.sossoldi
+com.rk.xededitor
 com.rld.justlisten.android
 com.robosats
 com.rogeriodocarmo.miroji
@@ -659,6 +662,7 @@ com.tutpro.baresip.plus
 com.tw.clipshare
 com.tymwitko.recents
 com.typeassist.app
+com.uc.caffeine
 com.uli.bokyfivavahana2
 com.umut.irischat
 com.unciv.app
@@ -946,6 +950,7 @@ io.github.drumber.kitsune
 io.github.exclude0122.xivpn
 io.github.ezberlin.keinplan
 io.github.friesi23.mhabit
+io.github.giuig.auraninja
 io.github.gracethings.bubblenotice
 io.github.herrerad85.tallybook
 io.github.janekbt.Meditate
@@ -1216,6 +1221,7 @@ player.efis.pfd
 player.efis.pfd.ink
 pro.kherel.selfprivacy
 protectedwp.safespace
+remix.myplayer
 rkr.simplekeyboard.inputmethod
 rocks.mucke
 rocks.mucke.github

@@ -5,8 +5,80 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:11:39 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Olauncher — Minimalist launcher to reduce your screen time. Daily wallpapers. Zero ads. [IzzyOnDroid]</title>
+      <link>https://github.com/tanujnotes/Olauncher</link>
+      <guid isPermaLink="false">app.olauncher@izzy</guid>
+      <pubDate>Mon, 14 Sep 2026 21:11:32 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.olauncher/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.olauncher/en-US/icon.png&quot; alt=&quot;Olauncher icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.olauncher&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tanujnotes/Olauncher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.olauncher&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SilentNotes — Note taking app with optional end-to-end encrypted sync to your PC. [IzzyOnDroid]</title>
+      <link>https://github.com/martinstoeckli/SilentNotes</link>
+      <guid isPermaLink="false">ch.martinstoeckli.silentnotes@izzy</guid>
+      <pubDate>Mon, 14 Sep 2026 21:11:32 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/ch.martinstoeckli.silentnotes/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/ch.martinstoeckli.silentnotes/en-US/icon.png&quot; alt=&quot;SilentNotes icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ch.martinstoeckli.silentnotes&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/martinstoeckli/SilentNotes&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/ch.martinstoeckli.silentnotes&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Xed-Editor — Advanced Text Editor for Android [IzzyOnDroid]</title>
+      <link>https://github.com/Xed-Editor/Xed-Editor</link>
+      <guid isPermaLink="false">com.rk.xededitor@izzy</guid>
+      <pubDate>Mon, 14 Sep 2026 21:11:32 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.rk.xededitor/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.rk.xededitor/en-US/icon.png&quot; alt=&quot;Xed-Editor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rk.xededitor&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Xed-Editor/Xed-Editor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.rk.xededitor&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Caffeine Health — Track your caffeine. Protect your sleep. Real-time pharmacokinetic curves. [IzzyOnDroid]</title>
+      <link>https://github.com/ohuc/CaffeineHealth</link>
+      <guid isPermaLink="false">com.uc.caffeine@izzy</guid>
+      <pubDate>Mon, 14 Sep 2026 21:11:32 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.uc.caffeine/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.uc.caffeine/en-US/icon.png&quot; alt=&quot;Caffeine Health icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.uc.caffeine&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ohuc/CaffeineHealth&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.uc.caffeine&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Auraninja — Minimalist ambient sound mixer and internet radio with Material You [IzzyOnDroid]</title>
+      <link>https://github.com/Giuig/auraninja</link>
+      <guid isPermaLink="false">io.github.giuig.auraninja@izzy</guid>
+      <pubDate>Mon, 14 Sep 2026 21:11:32 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.giuig.auraninja/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.giuig.auraninja/en-US/icon.png&quot; alt=&quot;Auraninja icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.giuig.auraninja&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Giuig/auraninja&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.giuig.auraninja&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>APlayer — Local music player with word-by-word lyrics, dynamic themes, and WebDAV support [IzzyOnDroid]</title>
+      <link>https://github.com/rRemix/APlayer</link>
+      <guid isPermaLink="false">remix.myplayer@izzy</guid>
+      <pubDate>Mon, 14 Sep 2026 21:11:32 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/remix.myplayer/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/remix.myplayer/en-US/icon.png&quot; alt=&quot;APlayer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;remix.myplayer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/rRemix/APlayer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/remix.myplayer&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Jass board — Very flexible Jass board to write points at the Schieber, Coiffeur, Molotov. [F-Droid]</title>
       <link>https://github.com/simonste/jasstafel</link>
@@ -6257,78 +6329,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.github.nicorac.bcrgui/en-US/icon.png&quot; alt=&quot;BCR-GUI icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.nicorac.bcrgui&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/nicorac/bcr-gui&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.nicorac.bcrgui&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>phiola — Fast audio player, recorder, converter [IzzyOnDroid]</title>
-      <link>https://github.com/stsaz/phiola</link>
-      <guid isPermaLink="false">com.github.stsaz.phiola@izzy</guid>
-      <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.github.stsaz.phiola/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.github.stsaz.phiola/en-US/icon.png&quot; alt=&quot;phiola icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.stsaz.phiola&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/stsaz/phiola&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.stsaz.phiola&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Melotune — a clean, ad-free Android music streaming app [IzzyOnDroid]</title>
-      <link>https://github.com/Harshshah6/SaavnMp3-Android</link>
-      <guid isPermaLink="false">com.harsh.shah.saavnmp3@izzy</guid>
-      <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.harsh.shah.saavnmp3/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.harsh.shah.saavnmp3/en-US/icon.png&quot; alt=&quot;Melotune icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.harsh.shah.saavnmp3&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Harshshah6/SaavnMp3-Android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.harsh.shah.saavnmp3&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>songbook — An app for songs and song's chords [IzzyOnDroid]</title>
-      <link>https://github.com/KiberBomzh/songbook-gui</link>
-      <guid isPermaLink="false">com.kiber_bomzh.songbook@izzy</guid>
-      <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.kiber_bomzh.songbook/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.kiber_bomzh.songbook/en-US/icon.png&quot; alt=&quot;songbook icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.kiber_bomzh.songbook&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/KiberBomzh/songbook-gui&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.kiber_bomzh.songbook&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>KeePassDX Free - FOSS Password Safe — Manage Passkey / Password in a local and open-source vault [IzzyOnDroid]</title>
-      <link>https://github.com/Kunzisoft/KeePassDX</link>
-      <guid isPermaLink="false">com.kunzisoft.keepass.free@izzy</guid>
-      <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.kunzisoft.keepass.free/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.kunzisoft.keepass.free/en-US/icon.png&quot; alt=&quot;KeePassDX Free - FOSS Password Safe icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.kunzisoft.keepass.free&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Kunzisoft/KeePassDX&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.kunzisoft.keepass.free&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>EasyNotes — Easy Note Taking with optional sync [IzzyOnDroid]</title>
-      <link>https://github.com/r57zone/EasyNotes</link>
-      <guid isPermaLink="false">com.r57zone.easynotes@izzy</guid>
-      <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.r57zone.easynotes/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.r57zone.easynotes/en-US/icon.png&quot; alt=&quot;EasyNotes icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.r57zone.easynotes&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/r57zone/EasyNotes&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.r57zone.easynotes&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>AnLinux — AnLinux allow you to run Linux and desktop applications on Android without root. [IzzyOnDroid]</title>
-      <link>https://github.com/EXALAB/AnLinux-Adfree</link>
-      <guid isPermaLink="false">exa.lnx.a@izzy</guid>
-      <pubDate>Mon, 31 Aug 2026 13:20:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/exa.lnx.a/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/exa.lnx.a/en-US/icon.png&quot; alt=&quot;AnLinux icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;exa.lnx.a&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/EXALAB/AnLinux-Adfree&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/exa.lnx.a&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
