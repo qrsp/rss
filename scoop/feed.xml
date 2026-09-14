@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 03:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:50:30 +0000</lastBuildDate>
+    <item>
+      <title>zluda — A drop-in replacement for CUDA on non-NVIDIA GPUs. [Main] (v6)</title>
+      <link>https://vosen.github.io/ZLUDA/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://vosen.github.io/ZLUDA/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/zluda.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 08:30:18 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-zluda-6</guid>
+    </item>
+    <item>
+      <title>kirocrew — Autonomous agent management layer for Kiro - persistent memory, scheduled jobs, background subagents, and multi-session orchestration. [Extras] (v0.6.0)</title>
+      <link>https://kiro.dev/crew/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kiro.dev/crew/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/kirocrew.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 07:45:57 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-kirocrew-0.6.0</guid>
+    </item>
+    <item>
+      <title>gitea-mcp-server — Gitea Model Context Protocol (MCP) Server. [Extras] (v1.7.0)</title>
+      <link>https://gitea.com/gitea/gitea-mcp</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gitea.com/gitea/gitea-mcp&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/gitea-mcp-server.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 07:30:32 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-gitea-mcp-server-1.7.0</guid>
+    </item>
     <item>
       <title>railpack — Zero-config application builder that automatically analyzes and turns your code into an image. [Main] (v0.39.0)</title>
       <link>https://railpack.com</link>
