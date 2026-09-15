@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 03:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:08:21 +0000</lastBuildDate>
+    <item>
+      <title>mindwtr — A free GTD to-do app. [Extras] (v1.3.0)</title>
+      <link>https://mindwtr.app</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mindwtr.app&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/mindwtr.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 09:11:28 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-mindwtr-1.3.0</guid>
+    </item>
     <item>
       <title>zluda — A drop-in replacement for CUDA on non-NVIDIA GPUs. [Main] (v6)</title>
       <link>https://vosen.github.io/ZLUDA/</link>
