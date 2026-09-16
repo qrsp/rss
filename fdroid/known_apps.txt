@@ -30,6 +30,7 @@ app.olauncher
 app.openkuma
 app.organicmaps
 app.pachli
+app.passwordstore.agrahn
 app.passwordstore.pando85
 app.pwhs.universalinstaller
 app.rapidsplit
@@ -50,6 +51,7 @@ at.hackmas.android.schedule
 at.j0s.meyercard.app
 at.jclehner.rxdroid
 at.tomtasche.reader
+au.how2vote.app
 background.work.around
 be.ppareit.swiftp_free
 bilalsul.rzr
@@ -81,6 +83,7 @@ chat.simplex.app
 chromahub.rhythm.app
 cn.morfans.chenjunyu19.mediavolume
 cn.super12138.todo
+co.adityarajput.notifilter
 co.electriccoin.zcash.foss
 code.name.monkey.retromusic
 codes.swistak.batterymonitor
@@ -223,6 +226,7 @@ com.darkrockstudios.apps.hammer.android
 com.david.waterreminder
 com.debojitsantra.backlogtracker
 com.dede.android_eggs
+com.deehem.gpawhiz
 com.deepanjanxyz.notepad
 com.defang.launcher
 com.deliacheminot.mona
@@ -360,6 +364,7 @@ com.hazelhope.dubster.hamtest
 com.hbouzidi.fiveprayers
 com.health.openscale
 com.health.openscale.sync
+com.hegocre.nextcloudpasswords
 com.helddertierwelt.mentalmath
 com.hello.randomname
 com.hexcorp.ringr
@@ -409,6 +414,7 @@ com.k2040.escaagnellis
 com.k2040.geojoystick
 com.kaii.photos
 com.kapoue.maintask
+com.kasette.app
 com.katoaapps.openminilaunch
 com.kazumaproject.markdownhelperkeyboard.lite.fdroid
 com.kbul.spicycrab
@@ -427,6 +433,7 @@ com.krystelligence.solipsism
 com.kunzisoft.keepass.free
 com.kunzisoft.keepass.libre
 com.kylecorry.trail_sense
+com.kylefreed.mahjongscore
 com.laert.qrscanner
 com.landerlab.lplanner.fdroid
 com.lazydevs.wristotle
@@ -755,6 +762,7 @@ com.zs.android.apps.photos
 com.zygisk_enc.RecorderX
 com.zygisk_enc.notivault
 compress.joshattic.us
+cos.premy.mines
 cube.run
 de.HS_Aalen.don
 de.arnowelzel.android.periodical
@@ -807,6 +815,7 @@ de.rwth_aachen.phyphox
 de.saschahlusiak.freebloks
 de.schildbach.oeffi
 de.schwarz.boardgamepal
+de.seemoo.at_tracking_detection
 de.sesu8642.feudaltactics
 de.singular.crystalball
 de.singular.looper
@@ -932,6 +941,7 @@ fr.nuage.souvenirs
 fr.odrevet.bide_et_musique
 fr.shiningcat.binclockwidget
 fr.shiningcat.simplehiit
+fr.sudotiz.duper
 fr.twentynine.keepon
 gov.anzong.androidnga
 granularvolume.com
@@ -1003,11 +1013,13 @@ io.github.koukobin.ermis.ermismobile
 io.github.landwarderer.futon
 io.github.luantak.fokuslauncher
 io.github.mgdx.rouelibre
+io.github.mickaelmagniez.windbubble
 io.github.mimoguz.tripeaksneue
 io.github.mortenfyhn.feltbok
 io.github.mouse233.localsendkotlin
 io.github.muntashirakon.AppManager
 io.github.munzzyy.magpie
+io.github.nyxar77.pulse
 io.github.padconnect
 io.github.pic38.veilleuse
 io.github.probably_oxy.drift
@@ -1022,6 +1034,7 @@ io.github.sak.read.it.later
 io.github.scovillo.playondlna
 io.github.sds100.keymapper
 io.github.sms2email.sms2email
+io.github.snd_r.komelia
 io.github.snood21.workprofilevpnswitcher
 io.github.stardomains3.oxproxion
 io.github.swiftstagrime.termuxrunner
@@ -1090,6 +1103,7 @@ me.weishu.kernelsu
 micro.repl.ma7moud3ly
 montafra.beam
 nabu.iris.keyboard
+net.activitywatch.android
 net.aliasvault.app
 net.basov.omngo.fdroid
 net.blumia.pineapple.lockscreen.oss
@@ -1183,6 +1197,7 @@ org.github.nynosy.adiresy_mobile
 org.glpi.inventory.agent
 org.gnosco.share2archivetoday
 org.gnu.emacs
+org.godotengine.editor.v3
 org.godotengine.editor.v4
 org.grakovne.lissen
 org.handmadeideas.floccus
@@ -1275,6 +1290,7 @@ rkr.simplekeyboard.inputmethod
 rocks.mucke
 rocks.mucke.github
 rocks.poopjournal.fucksgiven
+rs.in.dbase.downloader
 rs.ruffle
 ru.application.homemedkit
 ru.iska9der.flabr
@@ -1315,6 +1331,7 @@ website.leifs.delta.foss
 whl.trending.ai
 wseemann.media.romote
 xtr.keymapper
+xyz.hub13.remindiary
 xyz.iridiumion.plucklockex
 xyz.jekyllex
 xyz.lepisma.harp
