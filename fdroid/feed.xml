@@ -5,8 +5,48 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:39:32 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Call Limiter — Call Limiter is a simple, open-source Android app that helps you take control of your phone calls. [IzzyOnDroid]</title>
+      <link>https://github.com/Thiru-Malai/CallLimiter</link>
+      <guid isPermaLink="false">com.thirumalai.calllimiter@izzy</guid>
+      <pubDate>Wed, 16 Sep 2026 20:39:28 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.thirumalai.calllimiter/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.thirumalai.calllimiter/en-US/icon.png&quot; alt=&quot;Call Limiter icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.thirumalai.calllimiter&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Thiru-Malai/CallLimiter&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.thirumalai.calllimiter&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Next Player — A simple material you video player based on Media3 [IzzyOnDroid]</title>
+      <link>https://github.com/anilbeesetti/nextplayer</link>
+      <guid isPermaLink="false">dev.anilbeesetti.nextplayer@izzy</guid>
+      <pubDate>Wed, 16 Sep 2026 20:39:28 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.anilbeesetti.nextplayer/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.anilbeesetti.nextplayer/en-US/icon.png&quot; alt=&quot;Next Player icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.anilbeesetti.nextplayer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/anilbeesetti/nextplayer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.anilbeesetti.nextplayer&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bru — Read and send SMS from your computer via your phone. [IzzyOnDroid] [Phone &amp; SMS]</title>
+      <link>https://github.com/sverrejb/bru</link>
+      <guid isPermaLink="false">works.bru@izzy</guid>
+      <pubDate>Wed, 16 Sep 2026 20:39:28 +0000</pubDate>
+      <category>Phone &amp; SMS</category>
+      <category>Messaging</category>
+      <category>Connectivity</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/works.bru/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/works.bru/en-US/icon.png&quot; alt=&quot;Bru icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;works.bru&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sverrejb/bru&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/works.bru&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Password Store — Manage your passwords &amp;amp; passkeys [F-Droid]</title>
       <link>https://github.com/agrahn/Android-Password-Store</link>
@@ -6329,42 +6369,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.hbouzidi.fiveprayers/en-US/icon.png&quot; alt=&quot;Five Prayers icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hbouzidi.fiveprayers&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/Five-Prayers/five-prayers-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.hbouzidi.fiveprayers&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Noor-Ul-Huda نور الهدى — A simple, open source Quran reader app with extras, completely free forever [IzzyOnDroid]</title>
-      <link>https://github.com/mirfatif/NoorUlHuda</link>
-      <guid isPermaLink="false">com.mirfatif.noorulhuda@izzy</guid>
-      <pubDate>Tue, 01 Sep 2026 02:42:34 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.mirfatif.noorulhuda/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.mirfatif.noorulhuda/en-US/icon.png&quot; alt=&quot;Noor-Ul-Huda نور الهدى icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mirfatif.noorulhuda&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/mirfatif/NoorUlHuda&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.mirfatif.noorulhuda&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>AnyWebView — Requires an Xposed framework hooking the system framework (e.g. [IzzyOnDroid]</title>
-      <link>https://github.com/neoblackxt/AnyWebView</link>
-      <guid isPermaLink="false">com.thinkdifferent.anywebview@izzy</guid>
-      <pubDate>Tue, 01 Sep 2026 02:42:34 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.thinkdifferent.anywebview/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.thinkdifferent.anywebview/en-US/icon.png&quot; alt=&quot;AnyWebView icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.thinkdifferent.anywebview&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/neoblackxt/AnyWebView&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.thinkdifferent.anywebview&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Shake Alarm Clock — Dismiss the alarm by simply shaking your phone! [IzzyOnDroid]</title>
-      <link>https://github.com/WrichikBasu/ShakeAlarmClock</link>
-      <guid isPermaLink="false">in.basulabs.shakealarmclock@izzy</guid>
-      <pubDate>Tue, 01 Sep 2026 02:42:34 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/in.basulabs.shakealarmclock/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/in.basulabs.shakealarmclock/en-US/icon.png&quot; alt=&quot;Shake Alarm Clock icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;in.basulabs.shakealarmclock&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/WrichikBasu/ShakeAlarmClock&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/in.basulabs.shakealarmclock&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
