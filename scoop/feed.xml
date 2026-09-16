@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 03:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:51:50 +0000</lastBuildDate>
+    <item>
+      <title>hoptodesk — Free remote desktop and remote support tool with end-to-end encryption [Extras] (v1.46.50)</title>
+      <link>https://www.hoptodesk.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; HopToDesk runs in portable mode from this install.&lt;br/&gt;To also run it as a Windows service for unattended access, open the app and use its own install option.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.hoptodesk.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/hoptodesk.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 08:16:13 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-hoptodesk-1.46.50</guid>
+    </item>
+    <item>
+      <title>csvfileview — CSV/Tab-delimited file viewer and converter [Nirsoft] (v2.66)</title>
+      <link>https://www.nirsoft.net/utils/csv_file_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/csv_file_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/csvfileview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 09:30:21 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-csvfileview-2.66</guid>
+    </item>
     <item>
       <title>mindwtr — A free GTD to-do app. [Extras] (v1.3.0)</title>
       <link>https://mindwtr.app</link>
