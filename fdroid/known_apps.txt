@@ -202,6 +202,7 @@ com.chmouel.liseur
 com.chmouel.noisetimer
 com.circadiandisplay.app
 com.clavierhaus.gnubg
+com.clearevo.bluetooth_gnss
 com.cliambrown.easynoise
 com.cliambrown.pilltime
 com.cliffracertech.soundaura
@@ -220,6 +221,7 @@ com.crome.forecastpoint
 com.cryptosafe.app
 com.curryplayer.quicksettingssoundprofile
 com.cuscus.wifiaudiostreaming
+com.cworld.notie
 com.cyb3rko.flashdim
 com.daemon.ssh
 com.daklok.biblelockscreen
@@ -324,6 +326,7 @@ com.github.dyhkwong.sagernet
 com.github.edeso.bubble2
 com.github.emavgl.piggybankpro
 com.github.heartratemonitor_compose
+com.github.helltar.anpaside
 com.github.howeyc.crocgui
 com.github.libretube
 com.github.livingwithhippos.unchained
@@ -406,6 +409,7 @@ com.jarsilio.android.scrambledeggsif
 com.jarsilio.android.waveup
 com.jayc180.rhythmengine
 com.jbgsoft.ambio
+com.je.dejpeg
 com.jens.automation2
 com.jiaqifeng.hacki
 com.jksalcedo.librefind
@@ -493,6 +497,7 @@ com.moi.lumine
 com.moimob.drinkable
 com.money.manager.ex
 com.monstera.harbor
+com.monuk7735.nope.remote
 com.mooneva.app
 com.mostafa.brickblast
 com.mrmannwood.hexlauncher
@@ -518,6 +523,7 @@ com.nextgis.mobile
 com.nfcalarmclock
 com.nfcarchiver.banana_split
 com.nicue.onetwo
+com.nikhil.yt
 com.nima.mymood
 com.nkls.nekovideo
 com.nononsenseapps.feeder
@@ -534,6 +540,7 @@ com.oksigenia.oksigenia_sos
 com.om1cael.hidroly
 com.omaawr.tuisku
 com.onekeepassmobile
+com.onemoresecret
 com.openapps.fintrack
 com.openappslabs.coffee
 com.openappslabs.fiveg
@@ -590,6 +597,7 @@ com.resurrection.blowtorch2
 com.reteclock
 com.retekey
 com.revold1985.secureqrshare
+com.rhythmcache.payloaddumper
 com.richardluo.globalIconPack
 com.ripster.sossoldi
 com.rk.xededitor
@@ -605,6 +613,7 @@ com.rtbishop.look4sat
 com.saad2134.dosezy
 com.saad_khan_rind.atmosphere_effect
 com.saadibra.graymatter
+com.sagiadinos.garlic.player
 com.sakethh.linkora
 com.sal.privacykit.lite
 com.samyak.repostore
@@ -693,6 +702,7 @@ com.towerillusion.abdal
 com.trapplab.nfc_radio
 com.tre.openseptamap
 com.tre.openstreetmapwiki
+com.tre.tokiponadict
 com.tripperdee.salmontracker
 com.tristinbaker.defide
 com.tristinbaker.idlefantasy
@@ -892,6 +902,7 @@ dev.linwood.flow.nightly
 dev.lojcs.tsacdop
 dev.mage.age
 dev.mariinkys.OpenPillReminder
+dev.medzik.librepass.android
 dev.mi6e4ka.openstore
 dev.mlm.wifi_exporter
 dev.msbs.cyclauncher
@@ -903,6 +914,7 @@ dev.rova.notes
 dev.rubec.otoscope
 dev.sasikanth.rss.reader
 dev.serge.textlog
+dev.synapsetech.compass
 dev.tulis.readbear
 dev.uint.qrserv
 dev.victorialauncher
@@ -934,6 +946,7 @@ eu.hxreborn.phdp
 eu.imouto.hupl
 eu.laslo_hauschild.your_schedule
 eu.opencloud.android
+eu.ottop.yamlauncher
 eu.radio_science_institute.smart_radio_telescope
 eu.rafareborn.biometricbypass
 eu.siacs.conversations
@@ -970,6 +983,7 @@ ie.delilahsthings.soothingloop
 ie.equalit.ceno
 im.status.ethereum
 in.basulabs.shakealarmclock
+in.gururaja.skillrack
 in.kawaiis.journal
 in.sunilpaulmathew.ashell
 in.sunilpaulmathew.weatherwidget
@@ -999,6 +1013,7 @@ io.github.acidefluorhydrique.carrot
 io.github.acidefluorhydrique.geminiassist
 io.github.adithya_jayan.myrepertoirapp.fdroid
 io.github.aedev.flow
+io.github.aerocyber.sitemarker
 io.github.akarimarisa.tumblrdownloader
 io.github.alessioc42.sph
 io.github.anrinion.baseline
@@ -1089,6 +1104,9 @@ it.niedermann.nextcloud.deck
 it.niedermann.owncloud.notes
 it.rfmariano.denaro
 it.rignanese.leo.slimfacebook
+jdm.apps.cryptotracker
+jdm.apps.quizflow
+jdm.apps.reciper
 joshuatee.wx
 jp.nonbili.meron
 jp.nonbili.nora
@@ -1099,6 +1117,7 @@ jwtc.android.chess
 kapoue.hestia
 life.andre.message487
 live.pageless.mobile
+ls.bloomee.musicplayer
 lt.ffda.sourcherry
 lu.knaff.alain.saf_sftp
 lu.knaff.alain.share_to_folder
@@ -1139,6 +1158,7 @@ net.foucry.pilldroid
 net.gmartin.paperlessngx_uploader
 net.helcel.beans
 net.helcel.cowspent
+net.helcel.fidelity
 net.hyx.app.volumenotification
 net.kollnig.greasemilkyway
 net.koofr.vault
@@ -1248,6 +1268,7 @@ org.lyrion.squeezelite
 org.maegley.megrim
 org.mapcomplete
 org.mcxa.softsound
+org.mian.gitnex
 org.mlm.mages
 org.mlm.yadaw
 org.moire.opensudoku
@@ -1273,6 +1294,7 @@ org.schabi.newpipe.localserver
 org.scrib.transcriber
 org.sensors2.osc
 org.shano.assistral
+org.shou.switchmyslot
 org.stypox.dicio
 org.sufficientlysecure.keychain
 org.t2decode.app
