@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 16:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:57:23 +0000</lastBuildDate>
+    <item>
+      <title>discordchatexporter-cli — An application (CLI Version) that can be used to export message history from any Discord channel to a file. [Main] (v2.48)</title>
+      <link>https://github.com/Tyrrrz/DiscordChatExporter</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Tyrrrz/DiscordChatExporter&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/discordchatexporter-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 19:37:12 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-discordchatexporter-cli-2.48</guid>
+    </item>
+    <item>
+      <title>oxfmt — A high-performance formatter for the JavaScript ecosystem. [Main] (v0.68.0)</title>
+      <link>https://oxc.rs/docs/guide/usage/formatter</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://oxc.rs/docs/guide/usage/formatter&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/oxfmt.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 17:10:25 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-oxfmt-0.68.0</guid>
+    </item>
     <item>
       <title>hoptodesk — Free remote desktop and remote support tool with end-to-end encryption [Extras] (v1.46.50)</title>
       <link>https://www.hoptodesk.com</link>
