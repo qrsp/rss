@@ -5,8 +5,44 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:16:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:10:58 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Podcini.X - Podcast instrument — Note: this app has rebranded. [IzzyOnDroid]</title>
+      <link>https://github.com/XilinJia/Podcini.X</link>
+      <guid isPermaLink="false">ac.mdiq.podcini.X@izzy</guid>
+      <pubDate>Fri, 18 Sep 2026 20:10:53 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/ac.mdiq.podcini.X/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/ac.mdiq.podcini.X/en-US/icon.png&quot; alt=&quot;Podcini.X - Podcast instrument icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ac.mdiq.podcini.X&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/XilinJia/Podcini.X&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/ac.mdiq.podcini.X&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>DistroHopper — home screen replacement that can resemble a number of different Linux desktops [IzzyOnDroid]</title>
+      <link>https://github.com/RobinJ1995/DistroHopper</link>
+      <guid isPermaLink="false">be.robinj.distrohopper@izzy</guid>
+      <pubDate>Fri, 18 Sep 2026 20:10:53 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/be.robinj.distrohopper/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/be.robinj.distrohopper/en-US/icon.png&quot; alt=&quot;DistroHopper icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;be.robinj.distrohopper&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/RobinJ1995/DistroHopper&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/be.robinj.distrohopper&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Transistor - Simple Radio App — Transistor is an app for listening to radio stations over the internet. [IzzyOnDroid]</title>
+      <link>https://codeberg.org/y20k/transistor</link>
+      <guid isPermaLink="false">org.y20k.transistor@izzy</guid>
+      <pubDate>Fri, 18 Sep 2026 20:10:53 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.y20k.transistor/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.y20k.transistor/en-US/icon.png&quot; alt=&quot;Transistor - Simple Radio App icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.y20k.transistor&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/y20k/transistor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.y20k.transistor&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>CloudSound - SoundCloud facilitator for Podcini.A — A service app providing SoundCloud contents to Podcini.A [F-Droid] [Podcast]</title>
       <link>https://github.com/XilinJia/CloudSound</link>
@@ -6357,42 +6393,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/eu.rafareborn.biometricbypass/en-US/icon.png&quot; alt=&quot;Biometric Bypass icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.rafareborn.biometricbypass&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/hxreborn/biometric-bypass&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/eu.rafareborn.biometricbypass&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Squeezelite — 'Headless' audio player for Lyrion Music Server (LMS) - Squeezelite [IzzyOnDroid]</title>
-      <link>https://github.com/CDrummond/squeezelite</link>
-      <guid isPermaLink="false">org.lyrion.squeezelite@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.lyrion.squeezelite/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.lyrion.squeezelite/en-US/icon.png&quot; alt=&quot;Squeezelite icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.lyrion.squeezelite&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/CDrummond/squeezelite&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.lyrion.squeezelite&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>CoMaps - Hike, Bike, Drive Offline with Privacy — Easy map navigation - Discover more of your journey - Powered by the community [F-Droid]</title>
-      <link>https://codeberg.org/comaps/comaps</link>
-      <guid isPermaLink="false">app.comaps.fdroid@fdroid</guid>
-      <pubDate>Wed, 02 Sep 2026 10:12:51 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/app.comaps.fdroid/en-US/icon_Xqa9hlGluoI0ME9XbHrLOaAJ_dX9wWMtDhLgpFYbUOI=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/app.comaps.fdroid/en-US/icon_Xqa9hlGluoI0ME9XbHrLOaAJ_dX9wWMtDhLgpFYbUOI=.png&quot; alt=&quot;CoMaps - Hike, Bike, Drive Offline with Privacy icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.comaps.fdroid&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/comaps/comaps&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.comaps.fdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>SmartTube F-Droid — Browse media content with your own rules on Android TV [F-Droid]</title>
-      <link>https://github.com/yuliskov/SmartTube</link>
-      <guid isPermaLink="false">app.smarttube.fdroid@fdroid</guid>
-      <pubDate>Wed, 02 Sep 2026 10:12:51 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/app.smarttube.fdroid/en-US/icon_KnwIO7D77ElCWoxdIRGY0Z7FNkWDZWDXc_gIIgIBVGA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/app.smarttube.fdroid/en-US/icon_KnwIO7D77ElCWoxdIRGY0Z7FNkWDZWDXc_gIIgIBVGA=.png&quot; alt=&quot;SmartTube F-Droid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.smarttube.fdroid&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/yuliskov/SmartTube&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.smarttube.fdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
