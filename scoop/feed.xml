@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 20:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:15:35 +0000</lastBuildDate>
+    <item>
+      <title>ipopt — Software package for large-scale nonlinear optimization [Main] (v3.14.20)</title>
+      <link>https://coin-or.github.io/Ipopt/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; EPL-1.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://coin-or.github.io/Ipopt/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ipopt.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 21:58:32 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-ipopt-3.14.20</guid>
+    </item>
     <item>
       <title>discordchatexporter-cli — An application (CLI Version) that can be used to export message history from any Discord channel to a file. [Main] (v2.48)</title>
       <link>https://github.com/Tyrrrz/DiscordChatExporter</link>
