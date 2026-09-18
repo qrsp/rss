@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 10:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:51:26 +0000</lastBuildDate>
+    <item>
+      <title>android-cli — Command-line interface for efficient Android development, providing access to official tools, skills, and knowledge for agent-first workflows and automation. [Main] (v1.0.16261425)</title>
+      <link>https://developer.android.com/tools/agents/android-cli</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.android.com/tools/agents/android-cli&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/android-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 12:37:49 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-android-cli-1.0.16261425</guid>
+    </item>
+    <item>
+      <title>vicinae — A focused launcher for your desktop. [Extras] (v0.29.0)</title>
+      <link>https://vicinae.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://vicinae.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vicinae.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 11:51:28 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-vicinae-0.29.0</guid>
+    </item>
+    <item>
+      <title>moonscript — A dynamic scripting language that compiles into Lua. [Extras] (v0.7.0)</title>
+      <link>https://moonscript.org/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://moonscript.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/moonscript.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 11:01:13 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-moonscript-0.7.0</guid>
+    </item>
     <item>
       <title>ipopt — Software package for large-scale nonlinear optimization [Main] (v3.14.20)</title>
       <link>https://coin-or.github.io/Ipopt/</link>
