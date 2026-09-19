@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 03:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:20:14 +0000</lastBuildDate>
+    <item>
+      <title>github-mcp-server — GitHub's official MCP Server [Main] (v1.12.2)</title>
+      <link>https://github.com/github/github-mcp-server</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/github/github-mcp-server&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/github-mcp-server.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 07:19:43 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-github-mcp-server-1.12.2</guid>
+    </item>
     <item>
       <title>android-cli — Command-line interface for efficient Android development, providing access to official tools, skills, and knowledge for agent-first workflows and automation. [Main] (v1.0.16261425)</title>
       <link>https://developer.android.com/tools/agents/android-cli</link>
