@@ -5,8 +5,204 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 20:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:47:05 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MESH — Censorship-resisting overlay network for digital forensics [F-Droid]</title>
+      <link>https://github.com/BARGHEST-ngo/MESH</link>
+      <guid isPermaLink="false">com.barghest.mesh@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/com.barghest.mesh/en-US/icon_hsDDV6HJzUWD0_XuzXqiWKqhfVAnKucHJY2V4YzjO5E=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.barghest.mesh/en-US/icon_hsDDV6HJzUWD0_XuzXqiWKqhfVAnKucHJY2V4YzjO5E=.png&quot; alt=&quot;MESH icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.barghest.mesh&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/BARGHEST-ngo/MESH&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.barghest.mesh/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Block Blast — A minimal, privacy-focused block puzzle game [F-Droid]</title>
+      <link>https://github.com/sidhant947/BlockBlast</link>
+      <guid isPermaLink="false">com.sidhant.blockblast@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/com.sidhant.blockblast/en-US/icon_ErnVOVzhBJvc_IBqNUUCtNRbR5xlU0JN8SdMqC97igQ=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.sidhant.blockblast/en-US/icon_ErnVOVzhBJvc_IBqNUUCtNRbR5xlU0JN8SdMqC97igQ=.png&quot; alt=&quot;Block Blast icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.blockblast&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/BlockBlast&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.sidhant.blockblast/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>MapFlip - Apple to Google — Redirect Apple Maps links to Google Maps. Fast Apple map redirect &amp; converter. [F-Droid] [Navigation]</title>
+      <link>https://github.com/thefraggle/mapflip</link>
+      <guid isPermaLink="false">de.goork.mapflip@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <category>Navigation</category>
+      <enclosure url="https://f-droid.org/repo/de.goork.mapflip/en-US/icon_Xj9wfoEvt5_t27KqZ6T05r5XAKOnI4KYNAnSY9JjNiQ=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/de.goork.mapflip/en-US/icon_Xj9wfoEvt5_t27KqZ6T05r5XAKOnI4KYNAnSY9JjNiQ=.png&quot; alt=&quot;MapFlip - Apple to Google icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.goork.mapflip&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/thefraggle/mapflip&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/de.goork.mapflip/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>VaultPony — Encrypted vaults you control, compatible with VeraCrypt. [F-Droid] [File Encryption &amp; Vault]</title>
+      <link>https://github.com/norsehorse-dev/VaultPonyAndroid</link>
+      <guid isPermaLink="false">dev.norsehorse.vaultpony@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <category>File Encryption &amp; Vault</category>
+      <enclosure url="https://f-droid.org/repo/dev.norsehorse.vaultpony/en-US/icon_LfclbpQEIMz8oCaF73BsyqygU3BJNn8VlXnaE7GmIcI=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/dev.norsehorse.vaultpony/en-US/icon_LfclbpQEIMz8oCaF73BsyqygU3BJNn8VlXnaE7GmIcI=.png&quot; alt=&quot;VaultPony icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.norsehorse.vaultpony&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/norsehorse-dev/VaultPonyAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/dev.norsehorse.vaultpony/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SMASH â Smart Mobile App for Surveyor&amp;x27;s Happiness — Digital field mapping app for geodiaries, fast surveys and GIS data collection. [F-Droid]</title>
+      <link>https://github.com/geopaparazzi/smash</link>
+      <guid isPermaLink="false">eu.hydrologis.smash@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/eu.hydrologis.smash/en-US/icon_hPJtgVFMQSUELKJAQPYWMMeaCLXH2NuiIbPk58wHgLg=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/eu.hydrologis.smash/en-US/icon_hPJtgVFMQSUELKJAQPYWMMeaCLXH2NuiIbPk58wHgLg=.png&quot; alt=&quot;SMASH â Smart Mobile App for Surveyor&amp;x27;s Happiness icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.hydrologis.smash&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/geopaparazzi/smash&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/eu.hydrologis.smash/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>pretixPRINT — printing driver for pretixPOS and pretixSCAN [F-Droid]</title>
+      <link>https://github.com/pretix/pretixprint-android</link>
+      <guid isPermaLink="false">eu.pretix.pretixprint@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/icons/eu.pretix.pretixprint.85.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/icons/eu.pretix.pretixprint.85.png&quot; alt=&quot;pretixPRINT icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.pretix.pretixprint&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/pretix/pretixprint-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/eu.pretix.pretixprint/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Olvid — Private messaging for everyone [F-Droid]</title>
+      <link>https://github.com/olvid-io/olvid-android</link>
+      <guid isPermaLink="false">io.olvid.messenger.nogoogle@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/io.olvid.messenger.nogoogle/en-US/icon_oHqnpeuAFaZhojetHjGEL_mEPzdkxLrCnesXfYiQYsk=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/io.olvid.messenger.nogoogle/en-US/icon_oHqnpeuAFaZhojetHjGEL_mEPzdkxLrCnesXfYiQYsk=.png&quot; alt=&quot;Olvid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.olvid.messenger.nogoogle&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/olvid-io/olvid-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.olvid.messenger.nogoogle/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>NymVPN â Anonymous No-Log VPN — NymVPN: the world's most private VPN. [F-Droid]</title>
+      <link>https://github.com/nymtech/nym-vpn-client</link>
+      <guid isPermaLink="false">net.nymtech.nymvpn@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/net.nymtech.nymvpn/en-US/icon_XDkPfgwZ_TxYG2XKFiUPy-DxYlqhO5TpKXvenzLLsrs=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/net.nymtech.nymvpn/en-US/icon_XDkPfgwZ_TxYG2XKFiUPy-DxYlqhO5TpKXvenzLLsrs=.png&quot; alt=&quot;NymVPN â Anonymous No-Log VPN icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.nymtech.nymvpn&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nymtech/nym-vpn-client&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.nymtech.nymvpn/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Mysterium Dark â Next Gen VPN — Decentralized VPN for Web 3: Anonymous, secure and unblocked internet [F-Droid]</title>
+      <link>https://github.com/mysteriumnetwork/mysterium-vpn-mobile</link>
+      <guid isPermaLink="false">network.mysterium.vpn@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/network.mysterium.vpn/en-US/icon_-cDU2EmxIVx6LEvtWiKmCFa-5dOiSDgSy5Dn_UWDxyo=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/network.mysterium.vpn/en-US/icon_-cDU2EmxIVx6LEvtWiKmCFa-5dOiSDgSy5Dn_UWDxyo=.png&quot; alt=&quot;Mysterium Dark â Next Gen VPN icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;network.mysterium.vpn&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mysteriumnetwork/mysterium-vpn-mobile&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/network.mysterium.vpn/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>FossWallet — FossWallet is a MDY Wallet for Apple Passbook (.pkpass) files [F-Droid]</title>
+      <link>https://github.com/SeineEloquenz/fosswallet</link>
+      <guid isPermaLink="false">nz.eloque.foss_wallet@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/nz.eloque.foss_wallet/en-US/icon_Y5K0WbuAdzu0c71iufB3qFhukxECnzwg4Dz1YC3iAGs=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/nz.eloque.foss_wallet/en-US/icon_Y5K0WbuAdzu0c71iufB3qFhukxECnzwg4Dz1YC3iAGs=.png&quot; alt=&quot;FossWallet icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;nz.eloque.foss_wallet&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/SeineEloquenz/fosswallet&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/nz.eloque.foss_wallet/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Briar — Secure messaging, anywhere [F-Droid]</title>
+      <link>https://code.briarproject.org/briar/briar</link>
+      <guid isPermaLink="false">org.briarproject.briar.android@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/icons/org.briarproject.briar.android.10520.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/icons/org.briarproject.briar.android.10520.png&quot; alt=&quot;Briar icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.briarproject.briar.android&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://code.briarproject.org/briar/briar&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.briarproject.briar.android/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Trackbook - Movement Recorder — Record your movement [F-Droid]</title>
+      <link>https://codeberg.org/y20k/trackbook</link>
+      <guid isPermaLink="false">org.y20k.trackbook@fdroid</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/org.y20k.trackbook/en-US/icon_f6AHUlGQuywiZCtyEb_HWQ_QgqstO17v5l3X4gkHTV0=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/org.y20k.trackbook/en-US/icon_f6AHUlGQuywiZCtyEb_HWQ_QgqstO17v5l3X4gkHTV0=.png&quot; alt=&quot;Trackbook - Movement Recorder icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.y20k.trackbook&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/y20k/trackbook&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.y20k.trackbook/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Miniflutt — Client for Miniflux RSS [IzzyOnDroid]</title>
+      <link>https://github.com/DocMarty84/miniflutt</link>
+      <guid isPermaLink="false">be.martinelli.miniflutt@izzy</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/be.martinelli.miniflutt/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/be.martinelli.miniflutt/en-US/icon.png&quot; alt=&quot;Miniflutt icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;be.martinelli.miniflutt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/DocMarty84/miniflutt&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/be.martinelli.miniflutt&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Simple Time Tracker — Time tracker for work, study, and building better daily habits. [IzzyOnDroid]</title>
+      <link>https://github.com/Razeeman/Android-SimpleTimeTracker</link>
+      <guid isPermaLink="false">com.razeeman.util.simpletimetracker@izzy</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.razeeman.util.simpletimetracker/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.razeeman.util.simpletimetracker/en-US/icon.png&quot; alt=&quot;Simple Time Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.razeeman.util.simpletimetracker&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Razeeman/Android-SimpleTimeTracker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.razeeman.util.simpletimetracker&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Tomato — Tomato is a minimalist Pomodoro timer for Android based on Material 3 Expressive.Tomato is fully free and open-source, forever. [IzzyOnDroid]</title>
+      <link>https://github.com/nsh07/Tomato</link>
+      <guid isPermaLink="false">org.nsh07.pomodoro@izzy</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.nsh07.pomodoro/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.nsh07.pomodoro/en-US/icon.png&quot; alt=&quot;Tomato icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.nsh07.pomodoro&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nsh07/Tomato&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.nsh07.pomodoro&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Apollo — Apollo Music Player [IzzyOnDroid]</title>
+      <link>https://codeberg.org/nuclearfog/Apollo</link>
+      <guid isPermaLink="false">org.nuclearfog.apollo@izzy</guid>
+      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.nuclearfog.apollo/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.nuclearfog.apollo/en-US/icon.png&quot; alt=&quot;Apollo icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.nuclearfog.apollo&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/nuclearfog/Apollo&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.nuclearfog.apollo&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Podcini.X - Podcast instrument — Note: this app has rebranded. [IzzyOnDroid]</title>
       <link>https://github.com/XilinJia/Podcini.X</link>
@@ -6198,201 +6394,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/ru.tech.imageresizershrinker/en-US/icon_MzftrcJwoYw-6klvTiuXRW1gOAMeQPCafaMwyprO-f0=.png&quot; alt=&quot;Image Toolbox icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ru.tech.imageresizershrinker&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/T8RIN/ImageResizer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/ru.tech.imageresizershrinker/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>EXIF Remove — Remove or scramble photo metadata before sharing, with configurable templates [F-Droid] [Multimedia]</title>
-      <link>https://github.com/jakobkreft/exif-remove</link>
-      <guid isPermaLink="false">si.jakobkreft.exifremove@fdroid</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <category>Multimedia</category>
-      <category>Security</category>
-      <enclosure url="https://f-droid.org/repo/si.jakobkreft.exifremove/en-US/icon_3XmHxYGQ-8d25vJ3F2DuixAoJURiR1s3RdfsgzChzgI=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/si.jakobkreft.exifremove/en-US/icon_3XmHxYGQ-8d25vJ3F2DuixAoJURiR1s3RdfsgzChzgI=.png&quot; alt=&quot;EXIF Remove icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;si.jakobkreft.exifremove&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/jakobkreft/exif-remove&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/si.jakobkreft.exifremove/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Network Survey — Displays and Logs Cellular, Wi-Fi, Bluetooth, and GNSS Network Survey Details [IzzyOnDroid]</title>
-      <link>https://github.com/christianrowlands/android-network-survey</link>
-      <guid isPermaLink="false">com.craxiom.networksurvey@izzy</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.craxiom.networksurvey/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.craxiom.networksurvey/en-US/icon.png&quot; alt=&quot;Network Survey icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.craxiom.networksurvey&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/christianrowlands/android-network-survey&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.craxiom.networksurvey&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Elite Memo Pro — Private, biometric-protected Markdown notepad. [IzzyOnDroid]</title>
-      <link>https://github.com/deepanjanxyz/notepad</link>
-      <guid isPermaLink="false">com.deepanjanxyz.notepad@izzy</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.deepanjanxyz.notepad/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.deepanjanxyz.notepad/en-US/icon.png&quot; alt=&quot;Elite Memo Pro icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.deepanjanxyz.notepad&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/deepanjanxyz/notepad&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.deepanjanxyz.notepad&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Material Photo Widget — Photo Widget is a free, no-ads app to display photos on your home screen [IzzyOnDroid]</title>
-      <link>https://github.com/fibelatti/photo-widget</link>
-      <guid isPermaLink="false">com.fibelatti.photowidget@izzy</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.fibelatti.photowidget/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.fibelatti.photowidget/en-US/icon.png&quot; alt=&quot;Material Photo Widget icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.fibelatti.photowidget&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/fibelatti/photo-widget&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.fibelatti.photowidget&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Readeck App — Android client for the Readeck self-hosted read-it-later service [IzzyOnDroid]</title>
-      <link>https://github.com/jensomato/ReadeckApp</link>
-      <guid isPermaLink="false">de.readeckapp@izzy</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/de.readeckapp/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/de.readeckapp/en-US/icon.png&quot; alt=&quot;Readeck App icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.readeckapp&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/jensomato/ReadeckApp&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/de.readeckapp&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Claw — unofficial client for lobste.rs [IzzyOnDroid]</title>
-      <link>https://github.com/msfjarvis/compose-lobsters</link>
-      <guid isPermaLink="false">dev.msfjarvis.claw.android@izzy</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.msfjarvis.claw.android/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.msfjarvis.claw.android/en-US/icon.png&quot; alt=&quot;Claw icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.msfjarvis.claw.android&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/msfjarvis/compose-lobsters&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.msfjarvis.claw.android&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sidestep — Intercept URLs, remove tracking, and redirect to privacy-friendly frontends. [IzzyOnDroid]</title>
-      <link>https://github.com/blankdotdev/sidestep</link>
-      <guid isPermaLink="false">com.blankdev.sidestep@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.blankdev.sidestep/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.blankdev.sidestep/en-US/icon.png&quot; alt=&quot;Sidestep icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.blankdev.sidestep&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/blankdotdev/sidestep&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.blankdev.sidestep&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Oksigenia SOS — Smart safety and distress alerts with fall and inactivity detection. [IzzyOnDroid]</title>
-      <link>https://github.com/OksigeniaSL/oksigenia-sos</link>
-      <guid isPermaLink="false">com.oksigenia.oksigenia_sos@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.oksigenia.oksigenia_sos/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.oksigenia.oksigenia_sos/en-US/icon.png&quot; alt=&quot;Oksigenia SOS icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.oksigenia.oksigenia_sos&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/OksigeniaSL/oksigenia-sos&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.oksigenia.oksigenia_sos&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>OneKeePass — A simple and secure offline password manager [IzzyOnDroid]</title>
-      <link>https://github.com/OneKeePass/mobile</link>
-      <guid isPermaLink="false">com.onekeepassmobile@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.onekeepassmobile/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.onekeepassmobile/en-US/icon.png&quot; alt=&quot;OneKeePass icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.onekeepassmobile&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/OneKeePass/mobile&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.onekeepassmobile&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>5G — A simple utility to force [IzzyOnDroid]</title>
-      <link>https://github.com/OpenAppsLabs/5G</link>
-      <guid isPermaLink="false">com.openappslabs.fiveg@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.openappslabs.fiveg/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.openappslabs.fiveg/en-US/icon.png&quot; alt=&quot;5G icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.openappslabs.fiveg&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/OpenAppsLabs/5G&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.openappslabs.fiveg&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Jotter — Not Just Another Notes App [IzzyOnDroid]</title>
-      <link>https://github.com/OpenAppsLabs/Jotter</link>
-      <guid isPermaLink="false">com.openappslabs.jotter@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.openappslabs.jotter/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.openappslabs.jotter/en-US/icon.png&quot; alt=&quot;Jotter icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.openappslabs.jotter&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/OpenAppsLabs/Jotter&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.openappslabs.jotter&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>OpenSCQ30 — Cross platform application for controlling settings of Soundcore devices [IzzyOnDroid]</title>
-      <link>https://github.com/Oppzippy/OpenSCQ30</link>
-      <guid isPermaLink="false">com.oppzippy.openscq30@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.oppzippy.openscq30/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.oppzippy.openscq30/en-US/icon.png&quot; alt=&quot;OpenSCQ30 icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.oppzippy.openscq30&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Oppzippy/OpenSCQ30&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.oppzippy.openscq30&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>YouTube Conv.axs — Download YouTube videos as MP3 or MP4 with metadata and thumbnail embedding [IzzyOnDroid]</title>
-      <link>https://github.com/PGAxis/YTCnv</link>
-      <guid isPermaLink="false">com.pg_axis.ytcnv@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.pg_axis.ytcnv/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.pg_axis.ytcnv/en-US/icon.png&quot; alt=&quot;YouTube Conv.axs icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.pg_axis.ytcnv&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/PGAxis/YTCnv&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.pg_axis.ytcnv&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Note Calendar — An open-source note calendar app [IzzyOnDroid]</title>
-      <link>https://github.com/Sztorm/NoteCalendar</link>
-      <guid isPermaLink="false">com.sztorm.notecalendar@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.sztorm.notecalendar/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.sztorm.notecalendar/en-US/icon.png&quot; alt=&quot;Note Calendar icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sztorm.notecalendar&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Sztorm/NoteCalendar&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.sztorm.notecalendar&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>RadioUpnp — Minimalist internet radio with UPnP/DLNA &amp; Google Cast support [IzzyOnDroid]</title>
-      <link>https://github.com/watea/RadioUpnp</link>
-      <guid isPermaLink="false">com.watea.radio_upnp@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.watea.radio_upnp/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.watea.radio_upnp/en-US/icon.png&quot; alt=&quot;RadioUpnp icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.watea.radio_upnp&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/watea/RadioUpnp&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.watea.radio_upnp&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Biometric Bypass — Xposed module that skips the &quot;tap to confirm&quot; dialog Android shows after face unlock. [IzzyOnDroid]</title>
-      <link>https://github.com/hxreborn/biometric-bypass</link>
-      <guid isPermaLink="false">eu.rafareborn.biometricbypass@izzy</guid>
-      <pubDate>Wed, 02 Sep 2026 20:18:30 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/eu.rafareborn.biometricbypass/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/eu.rafareborn.biometricbypass/en-US/icon.png&quot; alt=&quot;Biometric Bypass icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.rafareborn.biometricbypass&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/hxreborn/biometric-bypass&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/eu.rafareborn.biometricbypass&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>

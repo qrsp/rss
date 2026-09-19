@@ -56,6 +56,7 @@ at.jclehner.rxdroid
 at.tomtasche.reader
 au.how2vote.app
 background.work.around
+be.martinelli.miniflutt
 be.ppareit.swiftp_free
 be.robinj.distrohopper
 bilalsul.rzr
@@ -162,6 +163,7 @@ com.b44t.messenger
 com.bald.uriah.baldphone
 com.baluchon.app
 com.baly_groceries_tracker.app
+com.barghest.mesh
 com.bartixxx.oneplusarbchecker
 com.bearinmind.equalizer314
 com.bearinmind.launcher314
@@ -592,6 +594,7 @@ com.rama.mako
 com.rama.teyin
 com.rama.tui
 com.rama.txori
+com.razeeman.util.simpletimetracker
 com.rbn.qtsettings
 com.readwide.manager
 com.reddnek.syncplay
@@ -642,6 +645,7 @@ com.shub39.rush
 com.shubhang.loophole
 com.siddharthagolu.fastlog
 com.sidhant.arrowescape
+com.sidhant.blockblast
 com.sidhant.bubbleshooter
 com.sidhant.einsteinriddle
 com.sidhant.huesort
@@ -807,6 +811,7 @@ de.ericz.worldclockv2
 de.fampopprol.dhbwhorb
 de.georgelsas.tuttocounter
 de.godisch.potillus
+de.goork.mapflip
 de.goraran.astroclock
 de.hauke_stieler.geonotes
 de.hbch.traewelling
@@ -917,6 +922,7 @@ dev.mi6e4ka.openstore
 dev.mlm.wifi_exporter
 dev.msbs.cyclauncher
 dev.msfjarvis.claw.android
+dev.norsehorse.vaultpony
 dev.otaj.zelp
 dev.pgaxis.musicaxs
 dev.renkinProject.renkin
@@ -953,10 +959,12 @@ eu.heili.wormhole
 eu.hxreborn.cleanshare
 eu.hxreborn.discoveradsfilter
 eu.hxreborn.phdp
+eu.hydrologis.smash
 eu.imouto.hupl
 eu.laslo_hauschild.your_schedule
 eu.opencloud.android
 eu.ottop.yamlauncher
+eu.pretix.pretixprint
 eu.radio_science_institute.smart_radio_telescope
 eu.rafareborn.biometricbypass
 eu.siacs.conversations
@@ -1099,6 +1107,7 @@ io.horizontalsystems.bankwallet
 io.keepalive.android
 io.keepalive.lite.android
 io.nekohasekai.sfa
+io.olvid.messenger.nogoogle
 io.oversec.one
 io.pcontacts.app
 io.perfice.app
@@ -1179,6 +1188,7 @@ net.moasdawiki.app
 net.mullvad.mullvadvpn
 net.nhiroki.bluesquarespeedometer
 net.nurik.roman.muzei
+net.nymtech.nymvpn
 net.oblivion.wipe
 net.osmand.plus
 net.pgaskin.batterytile
@@ -1199,11 +1209,13 @@ net.yukh.currency
 net.yukh.xui
 net.yumicoradio.android
 network.loki.messenger.fdroid
+network.mysterium.vpn
 nl.hansdezwart.bgclock
 nl.renzit.emborg
 nl.tjoeke.android
 nodomain.freeyourgadget.gadgetbridge
 nodomain.freeyourgadget.internethelper
+nz.eloque.foss_wallet
 nz.eloque.quits
 om.sstvencoder
 org.akanework.gramophone
@@ -1222,6 +1234,7 @@ org.billthefarmer.gridle
 org.birthdayadapter
 org.bitsrc.schussel
 org.breezyweather
+org.briarproject.briar.android
 org.broguece.game
 org.codeberg.scovillo.bubble
 org.codeberg.theoden8.webspace
@@ -1288,7 +1301,9 @@ org.mozilla.fennec_fdroid
 org.mqvpn.app
 org.nitri.opentopo
 org.nqmgaming.aneko
+org.nsh07.pomodoro
 org.ntust.app.tigerduck.fdroid
+org.nuclearfog.apollo
 org.nuclearfog.smither
 org.nutritionfacts.dailydozen
 org.ojrandom.paiesque
@@ -1334,6 +1349,7 @@ org.woheller69.whisperplus
 org.xcsoar
 org.xolatgames.dima.defense
 org.y20k.stayput
+org.y20k.trackbook
 org.y20k.transistor
 org.y20k.voxscribe
 orinasa.njarasoa.maripanatokana
