@@ -5,8 +5,68 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 19:47:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 19:59:56 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Neo Store — A modern feature-rich F-Droid client. [IzzyOnDroid]</title>
+      <link>https://codeberg.org/NeoApplications/Neo-Store</link>
+      <guid isPermaLink="false">com.machiav3lli.fdroid@izzy</guid>
+      <pubDate>Sun, 20 Sep 2026 19:59:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.fdroid/en-US/icon.png&quot; alt=&quot;Neo Store icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.machiav3lli.fdroid&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/NeoApplications/Neo-Store&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.fdroid&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Scale Practice — Scales and Arpeggios [IzzyOnDroid]</title>
+      <link>https://github.com/aburdiss/scale-practice</link>
+      <guid isPermaLink="false">com.scalepractice@izzy</guid>
+      <pubDate>Sun, 20 Sep 2026 19:59:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.scalepractice/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.scalepractice/en-US/icon.png&quot; alt=&quot;Scale Practice icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.scalepractice&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/aburdiss/scale-practice&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.scalepractice&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Customer Database — Simple Customer Management [IzzyOnDroid]</title>
+      <link>https://github.com/schorschii/CustomerDB-Android</link>
+      <guid isPermaLink="false">de.georgsieber.customerdb@izzy</guid>
+      <pubDate>Sun, 20 Sep 2026 19:59:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/de.georgsieber.customerdb/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/de.georgsieber.customerdb/en-US/icon.png&quot; alt=&quot;Customer Database icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.georgsieber.customerdb&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/schorschii/CustomerDB-Android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/de.georgsieber.customerdb&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Passman — Allow you to manage the credentials stored in your Nextcloud Passman app. [IzzyOnDroid]</title>
+      <link>https://github.com/nextcloud/passman-android</link>
+      <guid isPermaLink="false">es.wolfi.app.passman@izzy</guid>
+      <pubDate>Sun, 20 Sep 2026 19:59:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/es.wolfi.app.passman/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/es.wolfi.app.passman/en-US/icon.png&quot; alt=&quot;Passman icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;es.wolfi.app.passman&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nextcloud/passman-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/es.wolfi.app.passman&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Root Checker - Modern &amp; Open Source! — A Modern Open-Source Root Checker App for Android 6+! [IzzyOnDroid]</title>
+      <link>https://github.com/Chill-Astro/FOSS-Root-Checker</link>
+      <guid isPermaLink="false">foss.chillastro.root.checker.offline@izzy</guid>
+      <pubDate>Sun, 20 Sep 2026 19:59:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/foss.chillastro.root.checker.offline/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/foss.chillastro.root.checker.offline/en-US/icon.png&quot; alt=&quot;Root Checker - Modern &amp; Open Source! icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;foss.chillastro.root.checker.offline&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Chill-Astro/FOSS-Root-Checker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/foss.chillastro.root.checker.offline&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>MESH — Censorship-resisting overlay network for digital forensics [F-Droid]</title>
       <link>https://github.com/BARGHEST-ngo/MESH</link>
@@ -6334,66 +6394,6 @@
 &lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;Session F-Droid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;network.loki.messenger.fdroid&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/session-foundation/session-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/network.loki.messenger.fdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Passwords — Local Material 3 Password Manager. [F-Droid]</title>
-      <link>https://github.com/CodeSpire-Solutions/Password-Manager-Materiel-3-Expressive</link>
-      <guid isPermaLink="false">org.css_apps_m3.password_manager@fdroid</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.css_apps_m3.password_manager/en-US/icon_YxbhZeJA1RUiUtahUmMOrPaB_6A6VS6ox6UODNiun8Y=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.css_apps_m3.password_manager/en-US/icon_YxbhZeJA1RUiUtahUmMOrPaB_6A6VS6ox6UODNiun8Y=.png&quot; alt=&quot;Passwords icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.css_apps_m3.password_manager&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/CodeSpire-Solutions/Password-Manager-Materiel-3-Expressive&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.css_apps_m3.password_manager/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Ciyue — A simple mdict dictionary [F-Droid]</title>
-      <link>https://github.com/mumu-lhl/Ciyue</link>
-      <guid isPermaLink="false">org.eu.mumulhl.ciyue@fdroid</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.eu.mumulhl.ciyue/en-US/icon_7Z4e9wHnkdE7bbN5EaUE6QTaoCrog0m6QAT6apCpt3A=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.eu.mumulhl.ciyue/en-US/icon_7Z4e9wHnkdE7bbN5EaUE6QTaoCrog0m6QAT6apCpt3A=.png&quot; alt=&quot;Ciyue icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.eu.mumulhl.ciyue&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/mumu-lhl/Ciyue&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.eu.mumulhl.ciyue/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>BetterCounter — A simple, multi-purpose counter app [F-Droid]</title>
-      <link>https://github.com/albertvaka/bettercounter</link>
-      <guid isPermaLink="false">org.kde.bettercounter@fdroid</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.kde.bettercounter/en-US/icon_NjF7fbEYDtMsjV1W7YUX-Exl3wyJanZSw6IROR01D0E=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.kde.bettercounter/en-US/icon_NjF7fbEYDtMsjV1W7YUX-Exl3wyJanZSw6IROR01D0E=.png&quot; alt=&quot;BetterCounter icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.kde.bettercounter&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/albertvaka/bettercounter&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.kde.bettercounter/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>flabr — client for habr.com [F-Droid]</title>
-      <link>https://github.com/iska9der/flabr</link>
-      <guid isPermaLink="false">ru.iska9der.flabr@fdroid</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/ru.iska9der.flabr/en-US/icon_IH2ZOi6-xKp5uibBjWxFs3qA1b3GLxkY311tzYPcIT0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/ru.iska9der.flabr/en-US/icon_IH2ZOi6-xKp5uibBjWxFs3qA1b3GLxkY311tzYPcIT0=.png&quot; alt=&quot;flabr icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ru.iska9der.flabr&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/iska9der/flabr&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/ru.iska9der.flabr/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Image Toolbox — Edit, create &amp;amp; convert images with powerful AI â your all-in-one studio [F-Droid]</title>
-      <link>https://github.com/T8RIN/ImageResizer</link>
-      <guid isPermaLink="false">ru.tech.imageresizershrinker@fdroid</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:11 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/ru.tech.imageresizershrinker/en-US/icon_MzftrcJwoYw-6klvTiuXRW1gOAMeQPCafaMwyprO-f0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/ru.tech.imageresizershrinker/en-US/icon_MzftrcJwoYw-6klvTiuXRW1gOAMeQPCafaMwyprO-f0=.png&quot; alt=&quot;Image Toolbox icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ru.tech.imageresizershrinker&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/T8RIN/ImageResizer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/ru.tech.imageresizershrinker/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
