@@ -11,6 +11,7 @@ ai.privatebydesign.albi
 app.alextran.immich
 app.areada
 app.atrium
+app.auriel.nocean
 app.bitbag
 app.chompass
 app.clauncher
@@ -25,6 +26,7 @@ app.fluffy
 app.getknit.knit
 app.gridlink
 app.lonecloud.prism
+app.marlboroadvance.mpvex
 app.marmalade.tts
 app.maskan.chat
 app.mcevoy.syncrecordapp
@@ -311,6 +313,7 @@ com.flauschcode.broccoli
 com.flux
 com.flx_apps.digitaldetox
 com.flxrs.dankchat
+com.focus.launcher
 com.foobnix.pro.pdf.reader
 com.food.opencook
 com.forrestguice.suntimescalendars
@@ -450,6 +453,7 @@ com.kiber_bomzh.songbook
 com.kinetica.keyboard
 com.kingzcheung.xime
 com.kitsumed.shizucallrecorder
+com.klee.sapio
 com.klee.volumelockr
 com.kolakek.pimiwidget
 com.kompact
@@ -504,6 +508,7 @@ com.megamaced.nccollectives
 com.mendhak.gpslogger
 com.metrolist.music
 com.metromusic
+com.michaeltroger.gruenerpass
 com.milki.launcher
 com.mine.autoshine
 com.minimo.launcher
@@ -542,6 +547,7 @@ com.nextcloud.talk2
 com.nextgis.mobile
 com.nfcalarmclock
 com.nfcarchiver.banana_split
+com.nfcarchiver.nfc_archiver
 com.nicue.onetwo
 com.nikhil.yt
 com.nima.mymood
@@ -572,6 +578,7 @@ com.owncloud.android
 com.paranoiaworks.unicus.android.sse
 com.paranoid.privacylock
 com.pcapdroid.mitm
+com.pebblentn.app
 com.peer.topeer.global_send
 com.pennywiseai.tracker
 com.perol.pixez
@@ -657,6 +664,7 @@ com.shinydiscoballsdev.kifossk
 com.shub39.grit
 com.shub39.rush
 com.shubhang.loophole
+com.siarheikuchuk.ftpsserver
 com.siddharthagolu.fastlog
 com.sidhant.arrowescape
 com.sidhant.blockblast
@@ -794,6 +802,7 @@ com.yash.xpenc
 com.yepgoryo.CaptureCap
 com.yourname.pdftoolkit
 com.yubico.yubioath
+com.z3itt.feels
 com.zaelio.app
 com.zaifears.locreminder
 com.zaneschepke.wireguardautotunnel
@@ -840,6 +849,7 @@ de.kaiserdragon.iconrequest
 de.kewl.boatspeedy
 de.killi199.timetracking
 de.kitshn.android
+de.kromke.andreas.cameradatefolders
 de.lolo.rssreader
 de.luhmer.owncloudnewsreader
 de.marionoll.wgautoconnect
@@ -867,6 +877,7 @@ de.reimardoeffinger.quickdic
 de.rwth_aachen.phyphox
 de.saschahlusiak.freebloks
 de.schildbach.oeffi
+de.schliweb.makeacopy
 de.schwarz.boardgamepal
 de.seemoo.at_tracking_detection
 de.sesu8642.feudaltactics
@@ -1074,12 +1085,14 @@ io.github.exclude0122.xivpn
 io.github.ezberlin.keinplan
 io.github.friesi23.mhabit
 io.github.giuig.auraninja
+io.github.giuig.decisioninja
 io.github.gracethings.bubblenotice
 io.github.herrerad85.tallybook
 io.github.janekbt.Meditate
 io.github.jbinder.sprawlrun
 io.github.jd1378.otphelper
 io.github.jeffin_v.apiflow
+io.github.jens_3.socialdeductiongame
 io.github.johnathan.minesweeper
 io.github.jqssun.airplay
 io.github.jrichter24.moldqueen
@@ -1345,6 +1358,7 @@ org.opendataensemble.formulus
 org.osservatorionessuno.bugbane.beta
 org.paperwise.app
 org.piepmeyer.gauguin
+org.playhex.twa
 org.quantumbadger.redreader
 org.ranobe.ranobe
 org.sbv.pockettracker
@@ -1369,6 +1383,7 @@ org.unifiedpush.distributor.fcm
 org.unifiedpush.distributor.nextpush
 org.unifiedpush.distributor.sunup
 org.unifiedpush.example
+org.venkado.relagent
 org.wesnoth.Wesnoth
 org.wikipedia
 org.wisso.newpipematerial
@@ -1401,6 +1416,7 @@ rkr.simplekeyboard.inputmethod
 rocks.mm_dev.audav
 rocks.mucke
 rocks.mucke.github
+rocks.poopjournal.flashy
 rocks.poopjournal.fucksgiven
 rs.in.dbase.downloader
 rs.ruffle
