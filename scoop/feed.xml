@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 20:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:23:36 +0000</lastBuildDate>
+    <item>
+      <title>mpf — GUI for redumper/Aaru/DiscImageCreator. [Extras] (v3.10.0)</title>
+      <link>https://github.com/SabreTools/MPF</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SabreTools/MPF&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/mpf.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 21:44:04 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-mpf-3.10.0</guid>
+    </item>
     <item>
       <title>obscura — The headless browser for AI agents and web scraping [Main] (v0.2.2)</title>
       <link>https://obscura.sh</link>
