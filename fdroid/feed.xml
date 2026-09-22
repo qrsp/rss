@@ -5,8 +5,99 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 21:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:36:42 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OTG Master — Mount VeraCrypt-encrypted USB drives on non-rooted Android [F-Droid]</title>
+      <link>https://github.com/moylali/OTGMaster</link>
+      <guid isPermaLink="false">app.fayaz.otgmaster@fdroid</guid>
+      <pubDate>Tue, 22 Sep 2026 10:36:37 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/app.fayaz.otgmaster/en-US/icon_mw3KKDbwM0Pskvoduv-d7kqqV3cqr5jo6D69ta4hDIo=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/app.fayaz.otgmaster/en-US/icon_mw3KKDbwM0Pskvoduv-d7kqqV3cqr5jo6D69ta4hDIo=.png&quot; alt=&quot;OTG Master icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.fayaz.otgmaster&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/moylali/OTGMaster&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.fayaz.otgmaster/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Sound Center — Local music, podcast, stream and cloud player, built to enhance your quality of [F-Droid] [Local Media Player]</title>
+      <link>https://github.com/Azare77/sound_center</link>
+      <guid isPermaLink="false">app.soundcenter.player@fdroid</guid>
+      <pubDate>Tue, 22 Sep 2026 10:36:37 +0000</pubDate>
+      <category>Local Media Player</category>
+      <category>Online Media Player</category>
+      <category>Podcast</category>
+      <category>Radio</category>
+      <enclosure url="https://f-droid.org/repo/app.soundcenter.player/en-US/icon_EoiEonhOhaAHzy_VCok4mHWbEn2YGsz8wSrgJnXCHiY=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/app.soundcenter.player/en-US/icon_EoiEonhOhaAHzy_VCok4mHWbEn2YGsz8wSrgJnXCHiY=.png&quot; alt=&quot;Sound Center icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.soundcenter.player&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Azare77/sound_center&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.soundcenter.player/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>AniSync — Offline-first AniList client for anime and manga tracking with widgets [F-Droid]</title>
+      <link>https://github.com/Marco-9456/AniSync</link>
+      <guid isPermaLink="false">com.anisync.android@fdroid</guid>
+      <pubDate>Tue, 22 Sep 2026 10:36:37 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/com.anisync.android/en-US/icon_sTE4bvrQu9EJiQS4xXY16fIqINMml_icqi7SnlELu2Q=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.anisync.android/en-US/icon_sTE4bvrQu9EJiQS4xXY16fIqINMml_icqi7SnlELu2Q=.png&quot; alt=&quot;AniSync icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.anisync.android&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Marco-9456/AniSync&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.anisync.android/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Zabb — Mobile client for Zabbix monitoring [F-Droid] [Internet]</title>
+      <link>https://github.com/VitexSoftware/Zabb</link>
+      <guid isPermaLink="false">com.vitexsoftware.zabb@fdroid</guid>
+      <pubDate>Tue, 22 Sep 2026 10:36:37 +0000</pubDate>
+      <category>Internet</category>
+      <category>System</category>
+      <enclosure url="https://f-droid.org/repo/icons/com.vitexsoftware.zabb.113.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/icons/com.vitexsoftware.zabb.113.png&quot; alt=&quot;Zabb icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.vitexsoftware.zabb&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/VitexSoftware/Zabb&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.vitexsoftware.zabb/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>8-Bit Wonders — Flexible and easy to use Commodore 8-bit emulation with builtin games [F-Droid]</title>
+      <link>https://gitlab.com/eightbitwonders/app</link>
+      <guid isPermaLink="false">de.rainerhock.eightbitwonders@fdroid</guid>
+      <pubDate>Tue, 22 Sep 2026 10:36:37 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/de.rainerhock.eightbitwonders/en-US/icon_YYUAR0HYx352Cxqpv3C_1-AyefPCH-N58FrtUheVXyQ=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/de.rainerhock.eightbitwonders/en-US/icon_YYUAR0HYx352Cxqpv3C_1-AyefPCH-N58FrtUheVXyQ=.png&quot; alt=&quot;8-Bit Wonders icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.rainerhock.eightbitwonders&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitlab.com/eightbitwonders/app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/de.rainerhock.eightbitwonders/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Material Files — Open source Material Design file manager [F-Droid]</title>
+      <link>https://github.com/zhanghai/MaterialFiles</link>
+      <guid isPermaLink="false">me.zhanghai.android.files@fdroid</guid>
+      <pubDate>Tue, 22 Sep 2026 10:36:37 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png&quot; alt=&quot;Material Files icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;me.zhanghai.android.files&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zhanghai/MaterialFiles&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/me.zhanghai.android.files/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>FairScan â PDF Scanner — Scan a document and get a clean PDF you can save or share instantly [F-Droid]</title>
+      <link>https://github.com/pynicolas/FairScan</link>
+      <guid isPermaLink="false">org.fairscan.app@fdroid</guid>
+      <pubDate>Tue, 22 Sep 2026 10:36:37 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/org.fairscan.app/en-US/icon_jXreg-23j73Q35sj5mioXnOD8m6Y9V6kLjX037gxq00=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/org.fairscan.app/en-US/icon_jXreg-23j73Q35sj5mioXnOD8m6Y9V6kLjX037gxq00=.png&quot; alt=&quot;FairScan â PDF Scanner icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.fairscan.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/pynicolas/FairScan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.fairscan.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Nocean — Offline rich-text notes with fonts, media and no cloud [F-Droid] [Note]</title>
       <link>https://github.com/AurielSolaris/Nocean</link>
@@ -6325,92 +6416,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/io.timelimit.android.aosp.direct/en-US/icon_PaxylMiI-rzWjB0htPOybrteCvWUw53r2aMbnCc10FA=.png&quot; alt=&quot;TimeLimit.io icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.timelimit.android.aosp.direct&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://codeberg.org/timelimit/timelimit-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.timelimit.android.aosp.direct/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Productivity System - timeto.me — Goals, checklists, tasks, repetitive tasks, calendar and 24/7 time tracking. [F-Droid]</title>
-      <link>https://github.com/Medvedev91/timeto.me</link>
-      <guid isPermaLink="false">me.timeto.app@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/me.timeto.app/en-US/icon_0ucTHMrHBG9WlfuTd20-8I9zNjbJdUO4oxYtIKv6nhU=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/me.timeto.app/en-US/icon_0ucTHMrHBG9WlfuTd20-8I9zNjbJdUO4oxYtIKv6nhU=.png&quot; alt=&quot;Productivity System - timeto.me icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;me.timeto.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Medvedev91/timeto.me&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/me.timeto.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Tjoeke — Quick Dutch train departures for your daily route [F-Droid] [Public Transport]</title>
-      <link>https://git.pondr.nl/douwe/Tjoeke-Android</link>
-      <guid isPermaLink="false">nl.tjoeke.android@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <category>Public Transport</category>
-      <enclosure url="https://f-droid.org/repo/nl.tjoeke.android/en-US/icon_ei-JjYEpaObGaGFXmCV9by-GY-Z1UgiPcUWv3PaOE5c=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/nl.tjoeke.android/en-US/icon_ei-JjYEpaObGaGFXmCV9by-GY-Z1UgiPcUWv3PaOE5c=.png&quot; alt=&quot;Tjoeke icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;nl.tjoeke.android&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://git.pondr.nl/douwe/Tjoeke-Android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/nl.tjoeke.android/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Remote Video Camera — Remote Video Cam transforms two Android devices into a secure, portable audio/video streaming system. [F-Droid]</title>
-      <link>https://github.com/izivkov/RemoteVideoCam</link>
-      <guid isPermaLink="false">org.avmedia.remotevideocam@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.avmedia.remotevideocam/en-US/icon_iMIgymg2of4TLmRNMnNzyDQ_15pLcni0jSD1CFGGJks=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.avmedia.remotevideocam/en-US/icon_iMIgymg2of4TLmRNMnNzyDQ_15pLcni0jSD1CFGGJks=.png&quot; alt=&quot;Remote Video Camera icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.avmedia.remotevideocam&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/izivkov/RemoteVideoCam&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.avmedia.remotevideocam/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Usagi — Open-source manga reader for Android [F-Droid]</title>
-      <link>https://github.com/UsagiApp/Usagi</link>
-      <guid isPermaLink="false">org.draken.usagi@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.draken.usagi/en-US/icon_Xeaj2eA035ca1BmhCoUN65rxjc7ghnuMhVf1-cX3ATU=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.draken.usagi/en-US/icon_Xeaj2eA035ca1BmhCoUN65rxjc7ghnuMhVf1-cX3ATU=.png&quot; alt=&quot;Usagi icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.draken.usagi&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/UsagiApp/Usagi&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.draken.usagi/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Cantonese Keyboard - Jyutping — Easy-to-use Cantonese input method with pronunciation lookup and dictionary. [F-Droid]</title>
-      <link>https://github.com/yuetyam/jyutping-android</link>
-      <guid isPermaLink="false">org.jyutping.jyutping@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.jyutping.jyutping/en-US/icon__r7Iyj0DQOlIFvMqh1lUPAzjzxepHb3K6fDvk0GQxVI=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.jyutping.jyutping/en-US/icon__r7Iyj0DQOlIFvMqh1lUPAzjzxepHb3K6fDvk0GQxVI=.png&quot; alt=&quot;Cantonese Keyboard - Jyutping icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.jyutping.jyutping&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/yuetyam/jyutping-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.jyutping.jyutping/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Voxscribe - Offline Voice Input — Voxscribe is an offline voice keyboard that transcribes speech on-device. [F-Droid]</title>
-      <link>https://codeberg.org/y20k/voxscribe</link>
-      <guid isPermaLink="false">org.y20k.voxscribe@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.y20k.voxscribe/en-US/icon__SHucbtS8Lcd9o94BAnClKcbpIOOwpo6gzleTqn4OxE=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.y20k.voxscribe/en-US/icon__SHucbtS8Lcd9o94BAnClKcbpIOOwpo6gzleTqn4OxE=.png&quot; alt=&quot;Voxscribe - Offline Voice Input icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.y20k.voxscribe&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/y20k/voxscribe&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.y20k.voxscribe/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Ruffle — An Android application for ruffle.rs [F-Droid]</title>
-      <link>https://github.com/ruffle-rs/ruffle-android</link>
-      <guid isPermaLink="false">rs.ruffle@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/rs.ruffle/en-US/icon_bQ_yOJtIW_1yIHpvXy6Y1s9nmS_2ZPXbqXO6yJna6b8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/rs.ruffle/en-US/icon_bQ_yOJtIW_1yIHpvXy6Y1s9nmS_2ZPXbqXO6yJna6b8=.png&quot; alt=&quot;Ruffle icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;rs.ruffle&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ruffle-rs/ruffle-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/rs.ruffle/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
