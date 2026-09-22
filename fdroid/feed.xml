@@ -5,8 +5,44 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:40:12 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ChronoRover — Accurate time signal generator for radio-controlled watches. [IzzyOnDroid]</title>
+      <link>https://github.com/cho3ek89/ChronoRover</link>
+      <guid isPermaLink="false">com.cho3ek89.ChronoRover@izzy</guid>
+      <pubDate>Tue, 22 Sep 2026 20:40:07 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.cho3ek89.ChronoRover/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.cho3ek89.ChronoRover/en-US/icon.png&quot; alt=&quot;ChronoRover icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.cho3ek89.ChronoRover&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/cho3ek89/ChronoRover&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.cho3ek89.ChronoRover&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Open Notes — A minimalist, secure, and fully offline notes app. [IzzyOnDroid]</title>
+      <link>https://github.com/Fandroid745/Open-notes</link>
+      <guid isPermaLink="false">com.opennotes@izzy</guid>
+      <pubDate>Tue, 22 Sep 2026 20:40:07 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.opennotes/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.opennotes/en-US/icon.png&quot; alt=&quot;Open Notes icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.opennotes&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Fandroid745/Open-notes&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.opennotes&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Otraku — An unofficial AniList client for Android and iOS [IzzyOnDroid]</title>
+      <link>https://github.com/lotusprey/otraku</link>
+      <guid isPermaLink="false">com.otraku.app@izzy</guid>
+      <pubDate>Tue, 22 Sep 2026 20:40:07 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.otraku.app/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.otraku.app/en-US/icon.png&quot; alt=&quot;Otraku icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.otraku.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/lotusprey/otraku&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.otraku.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>OTG Master — Mount VeraCrypt-encrypted USB drives on non-rooted Android [F-Droid]</title>
       <link>https://github.com/moylali/OTGMaster</link>
@@ -6380,42 +6416,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/host.stjin.anonaddy/en-US/icon_zTHt6vHUXRmBW7XkHuMUK2T01n5qM-hAo2veDvn9cNE=.png&quot; alt=&quot;addy.io icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;host.stjin.anonaddy&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/anonaddy/addy-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/host.stjin.anonaddy/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>MRMCD 2026 Schedule — Schedule for the MRMCD conference MRMCD e.V. [F-Droid]</title>
-      <link>https://github.com/johnjohndoe/CampFahrplan</link>
-      <guid isPermaLink="false">info.metadude.android.mrmcd.schedule@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/info.metadude.android.mrmcd.schedule/en-US/icon_947GAQOQOOI6r2t6besz2rARxbLmJ5dNreEMQA4FmJc=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/info.metadude.android.mrmcd.schedule/en-US/icon_947GAQOQOOI6r2t6besz2rARxbLmJ5dNreEMQA4FmJc=.png&quot; alt=&quot;MRMCD 2026 Schedule icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;info.metadude.android.mrmcd.schedule&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/johnjohndoe/CampFahrplan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/info.metadude.android.mrmcd.schedule/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Tower Collector — Tower Collector gives you opportunity to contribute in OpenCellID.org, BeaconDB and @t0stbrot projects by uploading GPS locations of GSM/UMTS/LTE/CDMA/TD-SCDMA/5G (NR) cell towers from your area. [F-Droid]</title>
-      <link>https://github.com/zamojski/TowerCollector</link>
-      <guid isPermaLink="false">info.zamojski.soft.towercollector@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/info.zamojski.soft.towercollector/en-US/icon_gxbFYVb9_rOfvhWDfMb1ZhkBFzQ95rz-WIK-8VWSHZ4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/info.zamojski.soft.towercollector/en-US/icon_gxbFYVb9_rOfvhWDfMb1ZhkBFzQ95rz-WIK-8VWSHZ4=.png&quot; alt=&quot;Tower Collector icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;info.zamojski.soft.towercollector&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/zamojski/TowerCollector&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/info.zamojski.soft.towercollector/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>TimeLimit.io — Flexibly limit the usage duration [F-Droid]</title>
-      <link>https://codeberg.org/timelimit/timelimit-android</link>
-      <guid isPermaLink="false">io.timelimit.android.aosp.direct@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/io.timelimit.android.aosp.direct/en-US/icon_PaxylMiI-rzWjB0htPOybrteCvWUw53r2aMbnCc10FA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.timelimit.android.aosp.direct/en-US/icon_PaxylMiI-rzWjB0htPOybrteCvWUw53r2aMbnCc10FA=.png&quot; alt=&quot;TimeLimit.io icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.timelimit.android.aosp.direct&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/timelimit/timelimit-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.timelimit.android.aosp.direct/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
