@@ -4,7 +4,7 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 21:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:22:36 +0000</lastBuildDate>
     <item>
       <title>smimesign — An S/MIME signing utility compatible with Git that allows developers to sign their commits and tags using X.509 certificates [Main] (v0.2.0)</title>
       <link>https://github.com/github/smimesign</link>
