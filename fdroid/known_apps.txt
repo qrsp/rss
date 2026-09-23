@@ -45,6 +45,7 @@ app.passwordstore.pando85
 app.pwhs.universalinstaller
 app.quorumpony
 app.rapidsplit
+app.scratchpad.launcher
 app.simple.felicity
 app.simple.inure
 app.simple.peri
@@ -159,6 +160,7 @@ com.arslandaim.playtube
 com.artifex.mupdf.mini.app
 com.artifex.mupdf.viewer.app
 com.aryan.reader.oss
+com.aryanyadav.mylexicon
 com.ashkanrafiee.balance
 com.ashkanrafiee.librecontactsbackup
 com.asksakis.freegate
@@ -171,6 +173,7 @@ com.autopi
 com.aw.huda
 com.axiel7.anihyou
 com.b44t.messenger
+com.babytouchlock
 com.bald.uriah.baldphone
 com.baluchon.app
 com.baly_groceries_tracker.app
@@ -186,6 +189,7 @@ com.binauralbeat
 com.bintianqi.owndroid
 com.bithack.principia
 com.bitmavrick.lumolight
+com.blackbox.app
 com.blankdev.sidestep
 com.blockdrop.game
 com.blogspot.developersu.ns_usbloader
@@ -215,6 +219,7 @@ com.chatroom.app
 com.checkmk.unofficial_checkmk_monitoring
 com.chiller3.basicsync
 com.chiller3.rsaf
+com.chiranth7.vaultx
 com.chmouel.liseur
 com.chmouel.noisetimer
 com.cho3ek89.ChronoRover
@@ -225,6 +230,7 @@ com.cliambrown.easynoise
 com.cliambrown.pilltime
 com.cliffracertech.soundaura
 com.co3
+com.cocode.battleship
 com.codesail.market_monk
 com.cogwheel.LuCIMobile
 com.colourswift.safehaven
@@ -583,6 +589,7 @@ com.oppzippy.openscq30
 com.orgzlyrevived
 com.osfans.trime
 com.otraku.app
+com.ounben.amaradio
 com.owncloud.android
 com.paranoiaworks.unicus.android.sse
 com.paranoid.privacylock
@@ -676,6 +683,7 @@ com.shubhang.loophole
 com.siarheikuchuk.ftpsserver
 com.siddharthagolu.fastlog
 com.sidhant.arrowescape
+com.sidhant.binarypuzzle
 com.sidhant.blockblast
 com.sidhant.bubbleshooter
 com.sidhant.einsteinriddle
@@ -1122,7 +1130,9 @@ io.github.mouse233.localsendkotlin
 io.github.mrjohn6774.skypulse
 io.github.muntashirakon.AppManager
 io.github.munzzyy.magpie
+io.github.nikitasud.latentjam.kmp
 io.github.nyxar77.pulse
+io.github.ouj4k2q5.minlauncher
 io.github.padconnect
 io.github.pic38.veilleuse
 io.github.poretsky.tuningfork
@@ -1236,6 +1246,7 @@ net.gmartin.paperlessngx_uploader
 net.helcel.beans
 net.helcel.cowspent
 net.helcel.fidelity
+net.hilson.qrieux
 net.hyx.app.volumenotification
 net.kollnig.greasemilkyway
 net.koofr.vault
@@ -1276,6 +1287,7 @@ nodomain.freeyourgadget.internethelper
 nz.eloque.foss_wallet
 nz.eloque.quits
 om.sstvencoder
+omnibeat.app
 org.akanework.gramophone
 org.anonomi.android
 org.app.geotagvideocamera
