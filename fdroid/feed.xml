@@ -5,8 +5,131 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:52:36 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Flicky — Unofficial Fdroid client (for Android TV) [IzzyOnDroid]</title>
+      <link>https://github.com/mlm-games/flicky</link>
+      <guid isPermaLink="false">app.flicky@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.flicky/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.flicky/en-US/icon.png&quot; alt=&quot;Flicky icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.flicky&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mlm-games/flicky&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.flicky&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>ZXTune - Chiptunes player — Player of computer music from ZX Spectrum, Amiga, Atari, Commodore and more! [IzzyOnDroid]</title>
+      <link>https://github.com/vitamin-caig/zxtune</link>
+      <guid isPermaLink="false">app.zxtune.fdroid@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.zxtune.fdroid/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.zxtune.fdroid/en-US/icon.png&quot; alt=&quot;ZXTune - Chiptunes player icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.zxtune.fdroid&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/vitamin-caig/zxtune&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.zxtune.fdroid&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>W Launcher — W Launcher is a fast, lightweight launcher inspired by Palm webOS. [IzzyOnDroid]</title>
+      <link>https://github.com/achunt2143/W-Launcher</link>
+      <guid isPermaLink="false">com.achunt.weboslauncher@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.achunt.weboslauncher/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.achunt.weboslauncher/en-US/icon.png&quot; alt=&quot;W Launcher icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.achunt.weboslauncher&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/achunt2143/W-Launcher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.achunt.weboslauncher&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Pure Link: URL Sanitizer — Pure Link is the ultimate &quot;Swiss Army Knife&quot; for privacy-conscious users and developers. [IzzyOnDroid]</title>
+      <link>https://github.com/ahmedthebest31/PureLink-Android</link>
+      <guid isPermaLink="false">com.ahmedsamy.purelink@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.ahmedsamy.purelink/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.ahmedsamy.purelink/en-US/icon.png&quot; alt=&quot;Pure Link: URL Sanitizer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ahmedsamy.purelink&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ahmedthebest31/PureLink-Android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.ahmedsamy.purelink&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>MTG Familiar — MTG Familiar is a collection of utilities for playing [IzzyOnDroid]</title>
+      <link>https://github.com/AEFeinstein/mtg-familiar</link>
+      <guid isPermaLink="false">com.gelakinetic.mtgfam@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.gelakinetic.mtgfam/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.gelakinetic.mtgfam/en-US/icon.png&quot; alt=&quot;MTG Familiar icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.gelakinetic.mtgfam&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/AEFeinstein/mtg-familiar&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.gelakinetic.mtgfam&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>StationAccessSupporter — Real-time notifications of the nearest station in Japan. [IzzyOnDroid]</title>
+      <link>https://github.com/Masterisk-F/StationAccessSupporter</link>
+      <guid isPermaLink="false">com.masterisk_f.accesssupporter@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.masterisk_f.accesssupporter/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.masterisk_f.accesssupporter/en-US/icon.png&quot; alt=&quot;StationAccessSupporter icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.masterisk_f.accesssupporter&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Masterisk-F/StationAccessSupporter&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.masterisk_f.accesssupporter&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>QuranApp — read and explore the Holy Qur'an with multiple translations [IzzyOnDroid]</title>
+      <link>https://github.com/AlfaazPlus/QuranApp</link>
+      <guid isPermaLink="false">com.quranapp.android@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.quranapp.android/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.quranapp.android/en-US/icon.png&quot; alt=&quot;QuranApp icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.quranapp.android&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/AlfaazPlus/QuranApp&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.quranapp.android&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SMS Telebot — Forward SMS, calls, and battery alerts to Telegram, ntfy, email, or SMS [IzzyOnDroid] [Phone &amp; SMS]</title>
+      <link>https://github.com/teslor/sms-telebot</link>
+      <guid isPermaLink="false">com.teslor.sms_telebot@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <category>Phone &amp; SMS</category>
+      <category>Messaging</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.teslor.sms_telebot/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.teslor.sms_telebot/en-US/icon.png&quot; alt=&quot;SMS Telebot icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.teslor.sms_telebot&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/teslor/sms-telebot&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.teslor.sms_telebot&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Treasure Hunt — This is an outdoor app that will let you or somebody you like experience a treasure hunt. [IzzyOnDroid]</title>
+      <link>https://codeberg.org/neonbranch/treasurehunt</link>
+      <guid isPermaLink="false">nodomain.neonbranch.treasurehunt@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/nodomain.neonbranch.treasurehunt/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/nodomain.neonbranch.treasurehunt/en-US/icon.png&quot; alt=&quot;Treasure Hunt icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;nodomain.neonbranch.treasurehunt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/neonbranch/treasurehunt&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/nodomain.neonbranch.treasurehunt&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fossify Calendar — Securely plan, schedule, and set reminders with our private calendar app. [IzzyOnDroid]</title>
+      <link>https://github.com/FossifyOrg/Calendar</link>
+      <guid isPermaLink="false">org.fossify.calendar@izzy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:52:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.fossify.calendar/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.fossify.calendar/en-US/icon.png&quot; alt=&quot;Fossify Calendar icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.fossify.calendar&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/FossifyOrg/Calendar&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.fossify.calendar&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Scratchpad Launcher — A minimal launcher with an always-visible scratchpad. Zero ads. [F-Droid] [Launcher]</title>
       <link>https://github.com/mstcgalis/scratchpad-launcher</link>
@@ -6328,124 +6451,6 @@
       <description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.warren_bank.mock_location.service.microg_nlp_backend&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/warren-bank/Android-Mock-Location&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.warren_bank.mock_location.service.microg_nlp_backend&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mock Silently — mock the GPS and Network location providers [IzzyOnDroid]</title>
-      <link>https://github.com/warren-bank/Android-Mock-Location</link>
-      <guid isPermaLink="false">com.github.warren_bank.mock_location.silently@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <description>&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.warren_bank.mock_location.silently&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/warren-bank/Android-Mock-Location&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.warren_bank.mock_location.silently&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>NFC Alarm Clock — Customizable and feature-rich alarm clock app. [IzzyOnDroid]</title>
-      <link>https://github.com/gabeg805/NFC-Alarm-Clock</link>
-      <guid isPermaLink="false">com.nfcalarmclock@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.nfcalarmclock/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.nfcalarmclock/en-US/icon.png&quot; alt=&quot;NFC Alarm Clock icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.nfcalarmclock&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/gabeg805/NFC-Alarm-Clock&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.nfcalarmclock&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>XtMapper — Keyboard and mouse input to touch mapper [IzzyOnDroid]</title>
-      <link>https://github.com/Xtr126/XtMapper</link>
-      <guid isPermaLink="false">xtr.keymapper@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/xtr.keymapper/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/xtr.keymapper/en-US/icon.png&quot; alt=&quot;XtMapper icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xtr.keymapper&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Xtr126/XtMapper&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/xtr.keymapper&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Aegis Authenticator — Free, secure and open source 2FA app to manage tokens for your online services [IzzyOnDroid]</title>
-      <link>https://github.com/beemdevelopment/Aegis</link>
-      <guid isPermaLink="false">com.beemdevelopment.aegis@izzy</guid>
-      <pubDate>Sun, 06 Sep 2026 19:46:59 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.beemdevelopment.aegis/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.beemdevelopment.aegis/en-US/icon.png&quot; alt=&quot;Aegis Authenticator icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.beemdevelopment.aegis&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/beemdevelopment/Aegis&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.beemdevelopment.aegis&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Synkplay — Watch videos together, in sync, on Android, iOS and desktop [IzzyOnDroid]</title>
-      <link>https://github.com/yuroyami/syncplay-mobile</link>
-      <guid isPermaLink="false">com.reddnek.syncplay@izzy</guid>
-      <pubDate>Sun, 06 Sep 2026 19:46:59 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.reddnek.syncplay/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.reddnek.syncplay/en-US/icon.png&quot; alt=&quot;Synkplay icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.reddnek.syncplay&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/yuroyami/syncplay-mobile&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.reddnek.syncplay&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sobuu — Track books reading and organise your readings [IzzyOnDroid]</title>
-      <link>https://gitlab.com/sobuu/sobuu</link>
-      <guid isPermaLink="false">com.sobuumedia.sobuu@izzy</guid>
-      <pubDate>Sun, 06 Sep 2026 19:46:59 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.sobuumedia.sobuu/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.sobuumedia.sobuu/en-US/icon.png&quot; alt=&quot;Sobuu icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sobuumedia.sobuu&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/sobuu/sobuu&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.sobuumedia.sobuu&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>QRServ — Transfer files with ease over a network. [IzzyOnDroid]</title>
-      <link>https://github.com/uintdev/qrserv</link>
-      <guid isPermaLink="false">dev.uint.qrserv@izzy</guid>
-      <pubDate>Sun, 06 Sep 2026 19:46:59 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.uint.qrserv/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.uint.qrserv/en-US/icon.png&quot; alt=&quot;QRServ icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.uint.qrserv&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/uintdev/qrserv&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.uint.qrserv&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Gallery Go - Photos &amp; Videos — Fast, simple gallery to view, organize, edit, &amp; manage photos, videos, and GIFs. [IzzyOnDroid]</title>
-      <link>https://github.com/googol-apps/Gallery</link>
-      <guid isPermaLink="false">com.zs.android.apps.photos@izzy</guid>
-      <pubDate>Sat, 05 Sep 2026 19:43:31 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.zs.android.apps.photos/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.zs.android.apps.photos/en-US/icon.png&quot; alt=&quot;Gallery Go - Photos &amp; Videos icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.zs.android.apps.photos&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/googol-apps/Gallery&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.zs.android.apps.photos&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Karui ToDo — An open source, privacy focussed, 64kB aesthetic todo list app to quickly jot down things to do. [IzzyOnDroid]</title>
-      <link>https://github.com/ronynn/karui</link>
-      <guid isPermaLink="false">io.github.ronynn.karui@izzy</guid>
-      <pubDate>Sat, 05 Sep 2026 19:43:31 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.ronynn.karui/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.ronynn.karui/en-US/icon.png&quot; alt=&quot;Karui ToDo icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.ronynn.karui&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ronynn/karui&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.ronynn.karui&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mastodon — Where conversations happen [IzzyOnDroid]</title>
-      <link>https://github.com/mastodon/mastodon-android</link>
-      <guid isPermaLink="false">org.joinmastodon.android@izzy</guid>
-      <pubDate>Sat, 05 Sep 2026 19:43:31 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.joinmastodon.android/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.joinmastodon.android/en-US/icon.png&quot; alt=&quot;Mastodon icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.joinmastodon.android&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/mastodon/mastodon-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.joinmastodon.android&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
