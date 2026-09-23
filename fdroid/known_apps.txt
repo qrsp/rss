@@ -19,6 +19,7 @@ app.clearsms
 app.comaps
 app.comaps.fdroid
 app.crossword.yourealwaysbe.forkyz
+app.devswitch
 app.dumdum
 app.familygem
 app.fayaz.otgmaster
@@ -335,6 +336,7 @@ com.futsch1.medtimer
 com.galagidae.broadboard
 com.galaxyrio.sudokusolver
 com.gasperpintar.smokingtracker
+com.gdf.hema_timer
 com.geauxweather.app
 com.geeksville.mesh
 com.gemwallet.android
@@ -559,6 +561,7 @@ com.nkls.nekovideo
 com.nononsenseapps.feeder
 com.nononsenseapps.feeder.play
 com.noorconnect.app
+com.norsehorse.scrubpony
 com.nothingsecure
 com.noty.app
 com.novadial.phone
@@ -743,6 +746,7 @@ com.trapplab.nfc_radio
 com.tre.openseptamap
 com.tre.openstreetmapwiki
 com.tre.tokiponadict
+com.trevornk.ramblr
 com.tripperdee.salmontracker
 com.tristinbaker.defide
 com.tristinbaker.idlefantasy
@@ -1121,6 +1125,7 @@ io.github.munzzyy.magpie
 io.github.nyxar77.pulse
 io.github.padconnect
 io.github.pic38.veilleuse
+io.github.poretsky.tuningfork
 io.github.probably_oxy.drift
 io.github.quillpad
 io.github.rajnishkmehta.dhwanicontrol
@@ -1345,6 +1350,7 @@ org.lichess.mobileV2
 org.localsend.localsend_app
 org.lyrion.squeezelite
 org.maegley.megrim
+org.magicgrants.skylight
 org.mapcomplete
 org.mcxa.softsound
 org.mian.gitnex

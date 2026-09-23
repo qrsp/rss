@@ -5,8 +5,88 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 20:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 02:29:56 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DevSwitch — Toggle developer options, USB and wireless debugging, with Quick Settings tiles [F-Droid] [Development]</title>
+      <link>https://github.com/retransmit/DevSwitch</link>
+      <guid isPermaLink="false">app.devswitch@fdroid</guid>
+      <pubDate>Wed, 23 Sep 2026 02:29:52 +0000</pubDate>
+      <category>Development</category>
+      <category>System</category>
+      <enclosure url="https://f-droid.org/repo/app.devswitch/en-US/icon_KB8ln6briq5Se3pufzDCr5B0jUzlT6yzgRJcxUyTV6w=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/app.devswitch/en-US/icon_KB8ln6briq5Se3pufzDCr5B0jUzlT6yzgRJcxUyTV6w=.png&quot; alt=&quot;DevSwitch icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.devswitch&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/retransmit/DevSwitch&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.devswitch/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>GDF HEMA Timer — A precise and minimal timer for HEMA training and sparring. [F-Droid]</title>
+      <link>https://github.com/kstepanovdev/gdf_hema_timer</link>
+      <guid isPermaLink="false">com.gdf.hema_timer@fdroid</guid>
+      <pubDate>Wed, 23 Sep 2026 02:29:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/com.gdf.hema_timer/en-US/icon_6GoaTL1R2aOBoYqe83pw4uZDrb4hdrisG76thhCUGJQ=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.gdf.hema_timer/en-US/icon_6GoaTL1R2aOBoYqe83pw4uZDrb4hdrisG76thhCUGJQ=.png&quot; alt=&quot;GDF HEMA Timer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.gdf.hema_timer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/kstepanovdev/gdf_hema_timer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.gdf.hema_timer/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>ScrubPony — Strip GPS and metadata from JPEG, PNG, WebP and HEIC photos, on your device. [F-Droid] [Graphics]</title>
+      <link>https://github.com/norsehorse-dev/ScrubPonyAndroid</link>
+      <guid isPermaLink="false">com.norsehorse.scrubpony@fdroid</guid>
+      <pubDate>Wed, 23 Sep 2026 02:29:52 +0000</pubDate>
+      <category>Graphics</category>
+      <enclosure url="https://f-droid.org/repo/com.norsehorse.scrubpony/en-US/icon_nHi9vre0bUpiUfYsA6OQT_zDAIRTuJh9hHMZjlPiW5c=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.norsehorse.scrubpony/en-US/icon_nHi9vre0bUpiUfYsA6OQT_zDAIRTuJh9hHMZjlPiW5c=.png&quot; alt=&quot;ScrubPony icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.norsehorse.scrubpony&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/norsehorse-dev/ScrubPonyAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.norsehorse.scrubpony/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Ramblr — Tap, ramble, tap. Clean dictated text lands wherever your cursor is. [F-Droid] [Keyboard &amp; IME]</title>
+      <link>https://github.com/trevornk/ramblr</link>
+      <guid isPermaLink="false">com.trevornk.ramblr@fdroid</guid>
+      <pubDate>Wed, 23 Sep 2026 02:29:52 +0000</pubDate>
+      <category>Keyboard &amp; IME</category>
+      <category>Speech Recognizer</category>
+      <enclosure url="https://f-droid.org/repo/com.trevornk.ramblr/en-US/icon_fHezMN92Xcyu-67cDcUZXkM4rvVPlg_N7IB0O9SmIn4=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.trevornk.ramblr/en-US/icon_fHezMN92Xcyu-67cDcUZXkM4rvVPlg_N7IB0O9SmIn4=.png&quot; alt=&quot;Ramblr icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.trevornk.ramblr&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/trevornk/ramblr&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.trevornk.ramblr/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Tuning fork — Reference tones source for musical instruments tuning [F-Droid]</title>
+      <link>https://github.com/poretsky/TuningFork</link>
+      <guid isPermaLink="false">io.github.poretsky.tuningfork@fdroid</guid>
+      <pubDate>Wed, 23 Sep 2026 02:29:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/io.github.poretsky.tuningfork/en-US/icon_UasSNh5ZZkW1wyqBN-BCy72kbdou93QWgRS9qZNkU1Y=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/io.github.poretsky.tuningfork/en-US/icon_UasSNh5ZZkW1wyqBN-BCy72kbdou93QWgRS9qZNkU1Y=.png&quot; alt=&quot;Tuning fork icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.poretsky.tuningfork&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/poretsky/TuningFork&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.poretsky.tuningfork/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Skylight Wallet — A Monero light-wallet [F-Droid]</title>
+      <link>https://github.com/magicgrants/skylight-wallet</link>
+      <guid isPermaLink="false">org.magicgrants.skylight@fdroid</guid>
+      <pubDate>Wed, 23 Sep 2026 02:29:52 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/org.magicgrants.skylight/en-US/icon_CqF0pxDO2aVBfAfKTflKhM8U3EColnyEclBJcu-VQaE=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/org.magicgrants.skylight/en-US/icon_CqF0pxDO2aVBfAfKTflKhM8U3EColnyEclBJcu-VQaE=.png&quot; alt=&quot;Skylight Wallet icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.magicgrants.skylight&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/magicgrants/skylight-wallet&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.magicgrants.skylight/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>ChronoRover — Accurate time signal generator for radio-controlled watches. [IzzyOnDroid]</title>
       <link>https://github.com/cho3ek89/ChronoRover</link>
@@ -6342,80 +6422,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.zygisk_enc.notivault/en-US/icon_2pyxY8dtcst7IF6oX60E8QDktJFzpYQ_JtyS34ZQsT0=.png&quot; alt=&quot;Notification Vault icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.zygisk_enc.notivault&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/snap24/notification-vault&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.zygisk_enc.notivault/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Periodical — A menstrual calender with calculation of fertile days according to Knaus-Ogino. [F-Droid]</title>
-      <link>https://codeberg.org/askaaron/periodical</link>
-      <guid isPermaLink="false">de.arnowelzel.android.periodical@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/de.arnowelzel.android.periodical/en-US/icon_IxCj63gZBKCZSa2EdhSum32KKhSEgIm1waqqNEemAh8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/de.arnowelzel.android.periodical/en-US/icon_IxCj63gZBKCZSa2EdhSum32KKhSEgIm1waqqNEemAh8=.png&quot; alt=&quot;Periodical icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.arnowelzel.android.periodical&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/askaaron/periodical&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/de.arnowelzel.android.periodical/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>WG Auto Connect — Auto connect to a WireGuard tunnel [F-Droid]</title>
-      <link>https://github.com/MarioNoll/WG-Auto-Connect</link>
-      <guid isPermaLink="false">de.marionoll.wgautoconnect@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/de.marionoll.wgautoconnect/en-US/icon_0DWXqOkGHbDhjcPHQtzrq2FTHMyoZ9MkoOCvmh2r8Lk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/de.marionoll.wgautoconnect/en-US/icon_0DWXqOkGHbDhjcPHQtzrq2FTHMyoZ9MkoOCvmh2r8Lk=.png&quot; alt=&quot;WG Auto Connect icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.marionoll.wgautoconnect&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/MarioNoll/WG-Auto-Connect&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/de.marionoll.wgautoconnect/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Competition Radio Trainer HFLÃ — Training for the Hessische FW-LeistungsÃ¼bung: practice key calls and commands. [F-Droid]</title>
-      <link>https://gitlab.com/funktrainer/wettkampf_funk_trainer</link>
-      <guid isPermaLink="false">de.questmaster.wettkampf_funk_trainer@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/de.questmaster.wettkampf_funk_trainer/en-US/icon_izor_4LjooWOavtdScZH8yKNTYkymCpiq_a9KRmY4S0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/de.questmaster.wettkampf_funk_trainer/en-US/icon_izor_4LjooWOavtdScZH8yKNTYkymCpiq_a9KRmY4S0=.png&quot; alt=&quot;Competition Radio Trainer HFLÃ icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.questmaster.wettkampf_funk_trainer&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/funktrainer/wettkampf_funk_trainer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/de.questmaster.wettkampf_funk_trainer/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Étagère — Browse a Calibre library on your Nextcloud and download EPUBs [F-Droid] [Reading]</title>
-      <link>https://framagit.org/android1/etagere</link>
-      <guid isPermaLink="false">fr.framagit.jeromeo.etagere@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <category>Reading</category>
-      <enclosure url="https://f-droid.org/repo/fr.framagit.jeromeo.etagere/en-US/icon_0QTNjUKpk4HMQT7OhuDcvkj9njh8572OxcoJaH2HSqU=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/fr.framagit.jeromeo.etagere/en-US/icon_0QTNjUKpk4HMQT7OhuDcvkj9njh8572OxcoJaH2HSqU=.png&quot; alt=&quot;Étagère icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;fr.framagit.jeromeo.etagere&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://framagit.org/android1/etagere&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/fr.framagit.jeromeo.etagere/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Souvenirs — Make photo albums and share them on Nextcloud. Support for image, sound, video, [F-Droid]</title>
-      <link>https://github.com/zorgluf/souvenirs-android</link>
-      <guid isPermaLink="false">fr.nuage.souvenirs@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/fr.nuage.souvenirs/en-US/icon_UrrCUf9V5OWYmfyShHRz-SOKAyHIG55kb_w1BO7Nu00=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/fr.nuage.souvenirs/en-US/icon_UrrCUf9V5OWYmfyShHRz-SOKAyHIG55kb_w1BO7Nu00=.png&quot; alt=&quot;Souvenirs icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;fr.nuage.souvenirs&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/zorgluf/souvenirs-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/fr.nuage.souvenirs/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>addy.io — Easily create and manage your addy.io aliases, recipients and more from your phone, tablet or wearable with the addy.io app. [F-Droid]</title>
-      <link>https://github.com/anonaddy/addy-android</link>
-      <guid isPermaLink="false">host.stjin.anonaddy@fdroid</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:48 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/host.stjin.anonaddy/en-US/icon_zTHt6vHUXRmBW7XkHuMUK2T01n5qM-hAo2veDvn9cNE=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/host.stjin.anonaddy/en-US/icon_zTHt6vHUXRmBW7XkHuMUK2T01n5qM-hAo2veDvn9cNE=.png&quot; alt=&quot;addy.io icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;host.stjin.anonaddy&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/anonaddy/addy-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/host.stjin.anonaddy/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
