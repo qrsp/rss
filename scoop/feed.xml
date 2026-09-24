@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 11:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:31:36 +0000</lastBuildDate>
+    <item>
+      <title>codebase-memory-mcp — Code intelligence knowledge graph MCP server for AI coding agents [Main] (v0.11.0)</title>
+      <link>https://deusdata.github.io/codebase-memory-mcp/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; To register this MCP server with your clients, run `codebase-memory-mcp install` after install.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deusdata.github.io/codebase-memory-mcp/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/codebase-memory-mcp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 12:45:14 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-codebase-memory-mcp-0.11.0</guid>
+    </item>
+    <item>
+      <title>kurrentdb — A database that's engineered for modern software applications and event-driven architectures (Formerly known as EventStoreDB). [Main] (v26.1.2)</title>
+      <link>https://kurrentdb.kurrent.io/kurrentdb/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; KLv1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Database files are stored in &quot;$persist_dir\db&quot;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kurrentdb.kurrent.io/kurrentdb/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/kurrentdb.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 11:28:52 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-kurrentdb-26.1.2</guid>
+    </item>
     <item>
       <title>lame — High quality MPEG Audio Layer III (MP3) encoder [Main] (v4.0-q4-patched)</title>
       <link>https://lame.sourceforge.io/</link>
