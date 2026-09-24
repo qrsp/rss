@@ -5,8 +5,159 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:46:10 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Starling — End to end encrypted location sharing. No accounts, no tracking. [F-Droid] [Location Tracker &amp; Sharer]</title>
+      <link>https://github.com/munzzyy/starling</link>
+      <guid isPermaLink="false">app.starlingmap@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <category>Location Tracker &amp; Sharer</category>
+      <enclosure url="https://f-droid.org/repo/app.starlingmap/en-US/icon_8ijsagL83D7ZKZBEMGCSNeBoG4du6SRokPc0eaXnRIQ=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/app.starlingmap/en-US/icon_8ijsagL83D7ZKZBEMGCSNeBoG4du6SRokPc0eaXnRIQ=.png&quot; alt=&quot;Starling icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.starlingmap&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/munzzyy/starling&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.starlingmap/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Screen Time — Easily track the time you spend on your device and apps. [F-Droid]</title>
+      <link>https://gitlab.com/Atharok/ScreenTime</link>
+      <guid isPermaLink="false">com.atharok.screentime@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/com.atharok.screentime/en-US/icon_QRdou_AAaTkUvQ77LFRdUFm4Q-Q6B9HfFZDBoHmxyl0=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.atharok.screentime/en-US/icon_QRdou_AAaTkUvQ77LFRdUFm4Q-Q6B9HfFZDBoHmxyl0=.png&quot; alt=&quot;Screen Time icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.atharok.screentime&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitlab.com/Atharok/ScreenTime&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.atharok.screentime/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>WebStack — Visual bookmark stack and website manager for Android with offline snapshots. [F-Droid] [Bookmark]</title>
+      <link>https://github.com/Chiranth-Janardhan-moger/webstack</link>
+      <guid isPermaLink="false">com.chiranth7.webstack@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <category>Bookmark</category>
+      <category>Internet</category>
+      <enclosure url="https://f-droid.org/repo/com.chiranth7.webstack/en-US/icon_jZg6NV4Behlbd6m7wH9qRheQSWhd1RnRGUmEl7uKhx4=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.chiranth7.webstack/en-US/icon_jZg6NV4Behlbd6m7wH9qRheQSWhd1RnRGUmEl7uKhx4=.png&quot; alt=&quot;WebStack icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.chiranth7.webstack&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Chiranth-Janardhan-moger/webstack&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.chiranth7.webstack/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Gitling — Git client built with Jetpack Compose and Material 3 Expressive [F-Droid]</title>
+      <link>https://github.com/maneeshacooray/Gitling</link>
+      <guid isPermaLink="false">com.maneeshacooray.gitling@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/icons/com.maneeshacooray.gitling.61.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/icons/com.maneeshacooray.gitling.61.png&quot; alt=&quot;Gitling icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.maneeshacooray.gitling&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/maneeshacooray/Gitling&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.maneeshacooray.gitling/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>reReminder — Open-source recurring reminders, many timers, own schedules, no tracking. [F-Droid]</title>
+      <link>https://github.com/ProfessorQuantumUniverse/reReminder</link>
+      <guid isPermaLink="false">com.olaf.rereminder@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/com.olaf.rereminder/en-US/icon_aiOSb0fdfk1h7O19yluROnyuQXCTRj71hDcih8BUEig=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.olaf.rereminder/en-US/icon_aiOSb0fdfk1h7O19yluROnyuQXCTRj71hDcih8BUEig=.png&quot; alt=&quot;reReminder icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.olaf.rereminder&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ProfessorQuantumUniverse/reReminder&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.olaf.rereminder/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Colorgram — A free, open-source color logic puzzle game with no ads or tracking [F-Droid] [Puzzle Game]</title>
+      <link>https://github.com/sidhant947/Colorgram</link>
+      <guid isPermaLink="false">com.sidhant.colorgram@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <category>Puzzle Game</category>
+      <enclosure url="https://f-droid.org/repo/com.sidhant.colorgram/en-US/icon_masAz3fPa0MCm6X_ANsygh99Tw7Gy2pRdTnuprSDDwg=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.sidhant.colorgram/en-US/icon_masAz3fPa0MCm6X_ANsygh99Tw7Gy2pRdTnuprSDDwg=.png&quot; alt=&quot;Colorgram icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.colorgram&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/Colorgram&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.sidhant.colorgram/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bruno&amp;x27;s Meditation Timer — Bruno's Meditation Timer is a simple, offline meditation and pranayama timer. [F-Droid]</title>
+      <link>https://github.com/brunoloff/meditation-timer</link>
+      <guid isPermaLink="false">com.wordpress.brunoloff.meditationtimer@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/com.wordpress.brunoloff.meditationtimer/en-US/icon_dfmqjE9qbsCo8SGEq6e8UJmikxT5oID93bbIso84C5s=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.wordpress.brunoloff.meditationtimer/en-US/icon_dfmqjE9qbsCo8SGEq6e8UJmikxT5oID93bbIso84C5s=.png&quot; alt=&quot;Bruno&amp;x27;s Meditation Timer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.wordpress.brunoloff.meditationtimer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/brunoloff/meditation-timer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.wordpress.brunoloff.meditationtimer/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>å¼å±è·³è¿ — Skip opening-screen ads in apps [F-Droid]</title>
+      <link>https://github.com/zfdang/Android-Touch-Helper</link>
+      <guid isPermaLink="false">com.zfdang.touchhelper@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;å¼å±è·³è¿ icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.zfdang.touchhelper&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zfdang/Android-Touch-Helper&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.zfdang.touchhelper/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>QUIK SMS — Open source replacement to the stock SMS app on Android. A revival of QKSMS. [F-Droid]</title>
+      <link>https://github.com/quik-sms/quik</link>
+      <guid isPermaLink="false">dev.octoshrimpy.quik.fdroid@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/dev.octoshrimpy.quik.fdroid/en-US/icon_kCgyQXnGa9pHI__viPizeSnseNk7WMXDxmm9UTU27fo=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/dev.octoshrimpy.quik.fdroid/en-US/icon_kCgyQXnGa9pHI__viPizeSnseNk7WMXDxmm9UTU27fo=.png&quot; alt=&quot;QUIK SMS icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.octoshrimpy.quik.fdroid&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/quik-sms/quik&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/dev.octoshrimpy.quik.fdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>UnicodePad — Input every character in Unicode [F-Droid]</title>
+      <link>https://github.com/Ryosuke839/UnicodePad</link>
+      <guid isPermaLink="false">jp.ddo.hotmist.unicodepad@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/icons/jp.ddo.hotmist.unicodepad.81.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/icons/jp.ddo.hotmist.unicodepad.81.png&quot; alt=&quot;UnicodePad icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;jp.ddo.hotmist.unicodepad&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Ryosuke839/UnicodePad&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/jp.ddo.hotmist.unicodepad/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Drawpile — A collaborative drawing program [F-Droid]</title>
+      <link>https://github.com/drawpile/Drawpile</link>
+      <guid isPermaLink="false">net.drawpile@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/net.drawpile/en-US/icon_pUFH6XW2FE8njsHL_4_yA9lvQlehVuHZP6XIyZFAe58=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/net.drawpile/en-US/icon_pUFH6XW2FE8njsHL_4_yA9lvQlehVuHZP6XIyZFAe58=.png&quot; alt=&quot;Drawpile icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.drawpile&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/drawpile/Drawpile&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.drawpile/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OONI Probe — Measure Internet Censorship, Speed &amp;amp; Performance [F-Droid]</title>
+      <link>https://github.com/ooni/probe-multiplatform</link>
+      <guid isPermaLink="false">org.openobservatory.ooniprobe@fdroid</guid>
+      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/org.openobservatory.ooniprobe/en-US/icon_6ltDiZ22Jc0liWimv4JUVMCF4mLM5-m3ookQ1Z8q3qY=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/org.openobservatory.ooniprobe/en-US/icon_6ltDiZ22Jc0liWimv4JUVMCF4mLM5-m3ookQ1Z8q3qY=.png&quot; alt=&quot;OONI Probe icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.openobservatory.ooniprobe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ooni/probe-multiplatform&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.openobservatory.ooniprobe/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Flicky — Unofficial Fdroid client (for Android TV) [IzzyOnDroid]</title>
       <link>https://github.com/mlm-games/flicky</link>
@@ -6300,157 +6451,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/org.documentfoundation.libreoffice/en-US/icon_erWru3ZEzy7MkvEN8042srNPjd4IFFSXaonTuCGGevQ=.png&quot; alt=&quot;LibreOffice Viewer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.documentfoundation.libreoffice&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://git.libreoffice.org/core&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.documentfoundation.libreoffice/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Soft Sound — Play relaxing sounds [F-Droid] [Ambient Sound]</title>
-      <link>https://codeberg.org/boxedtoast/Soft-Sound</link>
-      <guid isPermaLink="false">org.mcxa.softsound@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Ambient Sound</category>
-      <enclosure url="https://f-droid.org/repo/icons/org.mcxa.softsound.1.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/org.mcxa.softsound.1.png&quot; alt=&quot;Soft Sound icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.mcxa.softsound&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/boxedtoast/Soft-Sound&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.mcxa.softsound/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>OpenKeychain: Easy PGP — Encrypt your Files and Communications. Compatible with the OpenPGP Standard. [F-Droid] [Security]</title>
-      <link>https://github.com/open-keychain/open-keychain</link>
-      <guid isPermaLink="false">org.sufficientlysecure.keychain@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Security</category>
-      <category>Text Encryption</category>
-      <enclosure url="https://f-droid.org/repo/org.sufficientlysecure.keychain/en-US/icon_7CVWLf-lztDVEl2HY_TnF0d98nwq__xr05Yu8lLZoV4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.sufficientlysecure.keychain/en-US/icon_7CVWLf-lztDVEl2HY_TnF0d98nwq__xr05Yu8lLZoV4=.png&quot; alt=&quot;OpenKeychain: Easy PGP icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.sufficientlysecure.keychain&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/open-keychain/open-keychain&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.sufficientlysecure.keychain/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Therapiefinder — support in search of a therapy [F-Droid] [Mental Health]</title>
-      <link>https://codeberg.org/Therapiefinder/Therapiefinder</link>
-      <guid isPermaLink="false">org.therapiefinder@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Mental Health</category>
-      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;Therapiefinder icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.therapiefinder&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/Therapiefinder/Therapiefinder&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.therapiefinder/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Telegram X FOSS — An unofficial FOSS-friendly fork of Telegram X [F-Droid] [Internet]</title>
-      <link>https://github.com/AmanoTeam/Telegram-X-FOSS</link>
-      <guid isPermaLink="false">org.thunderdog.challegram@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Internet</category>
-      <category>Messaging</category>
-      <enclosure url="https://f-droid.org/repo/org.thunderdog.challegram/en-US/icon_I0hmfnVlonL6mcORt6DWUcyx3dJVLlETipYG8SfheM8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.thunderdog.challegram/en-US/icon_I0hmfnVlonL6mcORt6DWUcyx3dJVLlETipYG8SfheM8=.png&quot; alt=&quot;Telegram X FOSS icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.thunderdog.challegram&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/AmanoTeam/Telegram-X-FOSS&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.thunderdog.challegram/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Fucks Given — ï»¿Self-love is the greatest middle finger of all time. [F-Droid] [Mental Health]</title>
-      <link>https://github.com/Crazy-Marvin/FucksGiven</link>
-      <guid isPermaLink="false">rocks.poopjournal.fucksgiven@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Mental Health</category>
-      <enclosure url="https://f-droid.org/repo/rocks.poopjournal.fucksgiven/en-US/icon_YCIwKb3mPGmMcdm6gDvkfFC7wyL6Wn7oxvJZTWmUtWA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/rocks.poopjournal.fucksgiven/en-US/icon_YCIwKb3mPGmMcdm6gDvkfFC7wyL6Wn7oxvJZTWmUtWA=.png&quot; alt=&quot;Fucks Given icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;rocks.poopjournal.fucksgiven&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Crazy-Marvin/FucksGiven&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/rocks.poopjournal.fucksgiven/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Monica F-Droid — Open-source password manager: local encryption, autofill, TOTP, Passkey [F-Droid] [Password &amp; 2FA]</title>
-      <link>https://github.com/Monica-Pass/Monica-Fdroid</link>
-      <guid isPermaLink="false">takagi.ru.monica.fdroid@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Password &amp; 2FA</category>
-      <category>Security</category>
-      <enclosure url="https://f-droid.org/repo/takagi.ru.monica.fdroid/en-US/icon_2R3EQE1MLu2hCQhnfk-fEXImQkk2AzzbfNS_yu-p3xo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/takagi.ru.monica.fdroid/en-US/icon_2R3EQE1MLu2hCQhnfk-fEXImQkk2AzzbfNS_yu-p3xo=.png&quot; alt=&quot;Monica F-Droid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;takagi.ru.monica.fdroid&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Monica-Pass/Monica-Fdroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/takagi.ru.monica.fdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Nearby Glasses — This app attempts to detect smart glasses nearby and warn you.⚠WARNING!⚠HARASSING someone because you think they are wearing a covert surveillance device can be a criminal offence. [IzzyOnDroid]</title>
-      <link>https://github.com/yjeanrenaud/yj_nearbyglasses</link>
-      <guid isPermaLink="false">ch.pocketpc.nearbyglasses@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/ch.pocketpc.nearbyglasses/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/ch.pocketpc.nearbyglasses/en-US/icon.png&quot; alt=&quot;Nearby Glasses icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ch.pocketpc.nearbyglasses&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/yjeanrenaud/yj_nearbyglasses&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/ch.pocketpc.nearbyglasses&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>APK Explorer &amp; Editor — An open-source APK explorer/Editor &amp; Split APK/App bundle Installer for Android! [IzzyOnDroid]</title>
-      <link>https://github.com/apk-editor/APK-Explorer-Editor</link>
-      <guid isPermaLink="false">com.apk.editor@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.apk.editor/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.apk.editor/en-US/icon.png&quot; alt=&quot;APK Explorer &amp; Editor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.apk.editor&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/apk-editor/APK-Explorer-Editor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.apk.editor&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>YTDLnis — Android Video/Audio Downloader app using yt-dlp [IzzyOnDroid]</title>
-      <link>https://github.com/deniscerri/ytdlnis</link>
-      <guid isPermaLink="false">com.deniscerri.ytdl@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.deniscerri.ytdl/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.deniscerri.ytdl/en-US/icon.png&quot; alt=&quot;YTDLnis icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.deniscerri.ytdl&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/deniscerri/ytdlnis&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.deniscerri.ytdl&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Floating Mute — Quickly mute and unmute your device. [IzzyOnDroid]</title>
-      <link>https://github.com/al-mode/FloatingMute</link>
-      <guid isPermaLink="false">com.github.mkalmousli.floating_mute@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.github.mkalmousli.floating_mute/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.github.mkalmousli.floating_mute/en-US/icon.png&quot; alt=&quot;Floating Mute icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.mkalmousli.floating_mute&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/al-mode/FloatingMute&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.mkalmousli.floating_mute&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mock my GPS — mock the GPS and Network location providers [IzzyOnDroid]</title>
-      <link>https://github.com/warren-bank/Android-Mock-Location</link>
-      <guid isPermaLink="false">com.github.warren_bank.mock_location@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <description>&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.warren_bank.mock_location&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/warren-bank/Android-Mock-Location&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.warren_bank.mock_location&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mock my GPS UnifiedNlp Backend — mock the GPS and Network location providers [IzzyOnDroid]</title>
-      <link>https://github.com/warren-bank/Android-Mock-Location</link>
-      <guid isPermaLink="false">com.github.warren_bank.mock_location.service.microg_nlp_backend@izzy</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <description>&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.warren_bank.mock_location.service.microg_nlp_backend&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/warren-bank/Android-Mock-Location&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.warren_bank.mock_location.service.microg_nlp_backend&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>

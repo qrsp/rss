@@ -53,6 +53,7 @@ app.simple.peri
 app.smallthingz.reverb
 app.smarttube.fdroid
 app.soundcenter.player
+app.starlingmap
 app.status.mobile
 app.sterna
 app.tryst
@@ -170,6 +171,7 @@ com.ashkanrafiee.librecontactsbackup
 com.asksakis.freegate
 com.astroloop.game
 com.atharok.btremote
+com.atharok.screentime
 com.attenomy.janken
 com.audiobookshelf.app
 com.autismprime.fall
@@ -224,6 +226,7 @@ com.checkmk.unofficial_checkmk_monitoring
 com.chiller3.basicsync
 com.chiller3.rsaf
 com.chiranth7.vaultx
+com.chiranth7.webstack
 com.chmouel.liseur
 com.chmouel.noisetimer
 com.cho3ek89.ChronoRover
@@ -505,6 +508,7 @@ com.ma.tehro
 com.machiav3lli.fdroid
 com.madlonkay.orgro
 com.malarm
+com.maneeshacooray.gitling
 com.mardous.booming
 com.markleaf.notes
 com.markreader
@@ -582,6 +586,7 @@ com.nvllz.piggsy
 com.nyx.custom_uploader
 com.offlinecurrencyconverter.app
 com.oksigenia.oksigenia_sos
+com.olaf.rereminder
 com.om1cael.hidroly
 com.omaawr.tuisku
 com.onekeepassmobile
@@ -693,6 +698,7 @@ com.sidhant.arrowescape
 com.sidhant.binarypuzzle
 com.sidhant.blockblast
 com.sidhant.bubbleshooter
+com.sidhant.colorgram
 com.sidhant.einsteinriddle
 com.sidhant.huesort
 com.sidhant.huespill
@@ -820,6 +826,7 @@ com.wire
 com.wirelessalien.android.moviedb
 com.wmstein.tourcount
 com.wmstein.transektcount
+com.wordpress.brunoloff.meditationtimer
 com.xmission.trevin.android.tangram
 com.xmrchat.xmrpod
 com.xnotes
@@ -837,6 +844,7 @@ com.zell_mbc.medilog
 com.zell_mbc.medilog.fdroid
 com.zell_mbc.publicartexplorer.foss
 com.zengtao.fortunetelling
+com.zfdang.touchhelper
 com.zoffcc.applications.toloshare
 com.zoffcc.applications.trifa
 com.zoffcc.applications.undereat
@@ -980,6 +988,7 @@ dev.mlm.wifi_exporter
 dev.msbs.cyclauncher
 dev.msfjarvis.claw.android
 dev.norsehorse.vaultpony
+dev.octoshrimpy.quik.fdroid
 dev.otaj.zelp
 dev.pgaxis.musicaxs
 dev.renkinProject.renkin
@@ -1198,6 +1207,7 @@ jdm.apps.cryptotracker
 jdm.apps.quizflow
 jdm.apps.reciper
 joshuatee.wx
+jp.ddo.hotmist.unicodepad
 jp.nonbili.meron
 jp.nonbili.nora
 jp.nonbili.nori
@@ -1249,6 +1259,7 @@ net.clench.wallet
 net.cozic.joplin
 net.dege.salmon
 net.diffengine.romandigitalclock
+net.drawpile
 net.foucry.pilldroid
 net.gmartin.paperlessngx_uploader
 net.helcel.beans
@@ -1393,6 +1404,7 @@ org.ojrandom.paiesque
 org.onekash.kashcal
 org.openavisio.app
 org.opendataensemble.formulus
+org.openobservatory.ooniprobe
 org.osservatorionessuno.bugbane.beta
 org.paperwise.app
 org.piepmeyer.gauguin
