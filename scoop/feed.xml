@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 16:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:09:48 +0000</lastBuildDate>
+    <item>
+      <title>mirthsync — Command-line tool that pulls and pushes Mirth Connect / Open Integration Engine channels, code templates and configuration to a Git repository [Extras] (v3.7.1)</title>
+      <link>https://saga-it.com/products/mirthsync</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; EPL-1.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://saga-it.com/products/mirthsync&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/mirthsync.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 20:32:25 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-mirthsync-3.7.1</guid>
+    </item>
+    <item>
+      <title>redasm — Interactive, multiarchitecture disassembler [Extras] (v2.1.1)</title>
+      <link>https://redasm.dev</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://redasm.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/redasm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 19:33:07 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-redasm-2.1.1</guid>
+    </item>
+    <item>
+      <title>logseq-og — A privacy-first platform for knowledge sharing and management (OG, file-based) [Extras] (v1.0.0)</title>
+      <link>https://logseq.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://logseq.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/logseq-og.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 17:36:25 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-logseq-og-1.0.0</guid>
+    </item>
     <item>
       <title>codebase-memory-mcp — Code intelligence knowledge graph MCP server for AI coding agents [Main] (v0.11.0)</title>
       <link>https://deusdata.github.io/codebase-memory-mcp/</link>
