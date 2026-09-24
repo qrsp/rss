@@ -5,8 +5,68 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:56:48 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ETH &amp; UZH mensa Zürich — Menus of the mensas at ETH and UZH [IzzyOnDroid]</title>
+      <link>https://github.com/fflopsi/mensa-zh</link>
+      <guid isPermaLink="false">ch.famoser.mensa@izzy</guid>
+      <pubDate>Thu, 24 Sep 2026 20:56:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/ch.famoser.mensa/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/ch.famoser.mensa/en-US/icon.png&quot; alt=&quot;ETH &amp; UZH mensa Zürich icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ch.famoser.mensa&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/fflopsi/mensa-zh&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/ch.famoser.mensa&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>MoeList — MoeList is an unofficial MAL (MyAnimeList) client, with this app you can easily track, rate, organize and discover new Anime &amp;amp; Manga. [IzzyOnDroid]</title>
+      <link>https://github.com/axiel7/MoeListKMP</link>
+      <guid isPermaLink="false">com.axiel7.moelist@izzy</guid>
+      <pubDate>Thu, 24 Sep 2026 20:56:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.axiel7.moelist/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.axiel7.moelist/en-US/icon.png&quot; alt=&quot;MoeList icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.axiel7.moelist&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/axiel7/MoeListKMP&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.axiel7.moelist&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Operator — List and kill processes that consume a lot of resources [IzzyOnDroid]</title>
+      <link>https://github.com/by-architect/Operator</link>
+      <guid isPermaLink="false">com.byarchitect.operator@izzy</guid>
+      <pubDate>Thu, 24 Sep 2026 20:56:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.byarchitect.operator/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.byarchitect.operator/en-US/icon.png&quot; alt=&quot;Operator icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.byarchitect.operator&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/by-architect/Operator&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.byarchitect.operator&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>VPN Inspector — Security auditing tool to detect and analyze VPN/Proxy detection methods [IzzyOnDroid]</title>
+      <link>https://github.com/Kasumicic/vpn-inspector</link>
+      <guid isPermaLink="false">com.kasumic.vpndetector@izzy</guid>
+      <pubDate>Thu, 24 Sep 2026 20:56:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.kasumic.vpndetector/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.kasumic.vpndetector/en-US/icon.png&quot; alt=&quot;VPN Inspector icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.kasumic.vpndetector&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Kasumicic/vpn-inspector&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.kasumic.vpndetector&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>AlternativeUnlockXposed — AlternativeUnlockXposed provides an reliable way to run something when providing a specific, wrong PIN on your Android lock screen. [IzzyOnDroid]</title>
+      <link>https://github.com/leohearts/AlternativeUnlockXposed</link>
+      <guid isPermaLink="false">com.leohearts.alternativeUnlockHook@izzy</guid>
+      <pubDate>Thu, 24 Sep 2026 20:56:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.leohearts.alternativeUnlockHook/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.leohearts.alternativeUnlockHook/en-US/icon.png&quot; alt=&quot;AlternativeUnlockXposed icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.leohearts.alternativeUnlockHook&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/leohearts/AlternativeUnlockXposed&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.leohearts.alternativeUnlockHook&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Starling — End to end encrypted location sharing. No accounts, no tracking. [F-Droid] [Location Tracker &amp; Sharer]</title>
       <link>https://github.com/munzzyy/starling</link>
@@ -6389,68 +6449,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;jp.nonbili.meron&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/nonbili/meron&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/jp.nonbili.meron/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Joplin — A note taking and to-do app with sync between Linux, macOS, Windows, and mobile [F-Droid]</title>
-      <link>https://github.com/laurent22/joplin</link>
-      <guid isPermaLink="false">net.cozic.joplin@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/net.cozic.joplin/en-US/icon_4ZwOYOFQVDhqRaKMUYxpj6hJJLijV8EYZJ7gWBML6ZM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/net.cozic.joplin/en-US/icon_4ZwOYOFQVDhqRaKMUYxpj6hJJLijV8EYZJ7gWBML6ZM=.png&quot; alt=&quot;Joplin icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.cozic.joplin&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/laurent22/joplin&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.cozic.joplin/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Pilldroid — Pilldroid is a theoretical medication stock manager. &amp;lt;em&amp;gt;It&amp;x27;s in french and uses [F-Droid] [Medication]</title>
-      <link>https://archive.softwareheritage.org/browse/origin/https://github.com/jfoucry/pilldroid/directory/</link>
-      <guid isPermaLink="false">net.foucry.pilldroid@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Medication</category>
-      <enclosure url="https://f-droid.org/repo/net.foucry.pilldroid/en-US/icon_20ZA-nNVCZ9WNR2mGyzoT_7ZGavlrCd2vmTiFU4MTxs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/net.foucry.pilldroid/en-US/icon_20ZA-nNVCZ9WNR2mGyzoT_7ZGavlrCd2vmTiFU4MTxs=.png&quot; alt=&quot;Pilldroid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.foucry.pilldroid&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://archive.softwareheritage.org/browse/origin/https://github.com/jfoucry/pilldroid/directory/&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.foucry.pilldroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ChromaDoze — Noise generator [F-Droid] [Ambient Sound]</title>
-      <link>https://github.com/pmarks-net/chromadoze</link>
-      <guid isPermaLink="false">net.pmarks.chromadoze@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Ambient Sound</category>
-      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;ChromaDoze icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.pmarks.chromadoze&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/pmarks-net/chromadoze&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.pmarks.chromadoze/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>LANShield — Protect your LAN by managing app access to your local network. [F-Droid]</title>
-      <link>https://github.com/DistriNet/lanshield</link>
-      <guid isPermaLink="false">org.distrinet.lanshield@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.distrinet.lanshield/en-US/icon_eQXWW22BeU3_xTqv7f-6wTs8HTdZ9w-m3NN1MLchKdQ=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.distrinet.lanshield/en-US/icon_eQXWW22BeU3_xTqv7f-6wTs8HTdZ9w-m3NN1MLchKdQ=.png&quot; alt=&quot;LANShield icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.distrinet.lanshield&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/DistriNet/lanshield&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.distrinet.lanshield/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>LibreOffice Viewer — Document Viewer [F-Droid]</title>
-      <link>https://git.libreoffice.org/core</link>
-      <guid isPermaLink="false">org.documentfoundation.libreoffice@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.documentfoundation.libreoffice/en-US/icon_erWru3ZEzy7MkvEN8042srNPjd4IFFSXaonTuCGGevQ=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.documentfoundation.libreoffice/en-US/icon_erWru3ZEzy7MkvEN8042srNPjd4IFFSXaonTuCGGevQ=.png&quot; alt=&quot;LibreOffice Viewer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.documentfoundation.libreoffice&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://git.libreoffice.org/core&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.documentfoundation.libreoffice/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
