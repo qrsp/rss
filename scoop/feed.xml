@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 03:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:08:07 +0000</lastBuildDate>
+    <item>
+      <title>lame — High quality MPEG Audio Layer III (MP3) encoder [Main] (v4.0-q4-patched)</title>
+      <link>https://lame.sourceforge.io/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; LGPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://lame.sourceforge.io/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/lame.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 09:37:47 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-lame-4.0-q4-patched</guid>
+    </item>
     <item>
       <title>psake — A build automation tool, now with less XML. [Main] (v5.0.4)</title>
       <link>https://github.com/psake/psake</link>
