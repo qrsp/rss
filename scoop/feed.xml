@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 11:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:34:22 +0000</lastBuildDate>
+    <item>
+      <title>xfetch — A fast, customizable system information fetch tool for the terminal [Extras] (v1.0.0)</title>
+      <link>https://github.com/xfetch-cli/xfetch</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xfetch-cli/xfetch&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/xfetch.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 14:36:54 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-xfetch-1.0.0</guid>
+    </item>
+    <item>
+      <title>tty7 — A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty. [Extras] (v26.9.3)</title>
+      <link>https://tty7.io</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Portable build (marker file .tty7-portable is bundled).&lt;br/&gt;Run 'tty7' to launch the GUI. The same binary also acts as a CLI for coding agents (e.g. 'tty7 ls', 'tty7 status', 'tty7 capture --json').&lt;br/&gt;Run 'tty7-app' to launch the GUI directly without the CLI shim, and 'tty7-updater' to update manually.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://tty7.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/tty7.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 12:58:04 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-tty7-26.9.3</guid>
+    </item>
+    <item>
+      <title>sifty — AI-assisted Windows maintenance CLI/TUI - sift junk, analyze disks, manage apps, updates and files. [Extras] (v0.9.0)</title>
+      <link>https://sifty.tech/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sifty.tech/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/sifty.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 12:10:02 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-sifty-0.9.0</guid>
+    </item>
     <item>
       <title>rayburst — A full-featured download manager — rebuilt from the ground up (Formerly known as Motrix Next). [Extras] (v4.0.0)</title>
       <link>https://rayburst.pages.dev</link>
