@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 03:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:11:06 +0000</lastBuildDate>
+    <item>
+      <title>rayburst — A full-featured download manager — rebuilt from the ground up (Formerly known as Motrix Next). [Extras] (v4.0.0)</title>
+      <link>https://rayburst.pages.dev</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rayburst.pages.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/rayburst.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 08:20:17 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-rayburst-4.0.0</guid>
+    </item>
+    <item>
+      <title>libredb-studio — Self-hosted, browser-based SQL IDE for cloud-native teams, covering sixteen database engines with AI-assisted query writing and ER diagrams. [Extras] (v0.16.2)</title>
+      <link>https://libredb.org</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Run 'libredb-studio' and browse to http://localhost:3000&lt;br/&gt;The first run prints generated admin credentials to the terminal.&lt;br/&gt;The server binds to the loopback interface only. Set LIBREDB_BIND=0.0.0.0 to expose it on the network.&lt;br/&gt;Server-side state is kept under %LOCALAPPDATA%\LibreDB\Studio, outside the install directory, so it survives 'scoop update'.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://libredb.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/libredb-studio.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 06:40:25 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-libredb-studio-0.16.2</guid>
+    </item>
     <item>
       <title>mirthsync — Command-line tool that pulls and pushes Mirth Connect / Open Integration Engine channels, code templates and configuration to a Git repository [Extras] (v3.7.1)</title>
       <link>https://saga-it.com/products/mirthsync</link>
