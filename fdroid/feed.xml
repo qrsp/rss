@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 20:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:52:45 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MonsterMusic — Offline music player with native C DSP engine, studio effects, visualizers &amp; lyr [IzzyOnDroid]</title>
+      <link>https://github.com/ZTFtrue/MonsterMusic</link>
+      <guid isPermaLink="false">com.ztftrue.music@izzy</guid>
+      <pubDate>Fri, 25 Sep 2026 20:52:40 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.ztftrue.music/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.ztftrue.music/en-US/icon.png&quot; alt=&quot;MonsterMusic icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ztftrue.music&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ZTFtrue/MonsterMusic&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.ztftrue.music&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>ETH &amp; UZH mensa Zürich — Menus of the mensas at ETH and UZH [IzzyOnDroid]</title>
       <link>https://github.com/fflopsi/mensa-zh</link>
@@ -6435,20 +6447,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/io.perfice.app/en-US/icon_kntLjoUb_3Yzg1gc-4kr3WgLFk-ayoFs_aku0LwXBTA=.png&quot; alt=&quot;Perfice icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.perfice.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/p0lloc/perfice&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.perfice.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Meron — Mail app that sparks joy [F-Droid] [Email]</title>
-      <link>https://github.com/nonbili/meron</link>
-      <guid isPermaLink="false">jp.nonbili.meron@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Email</category>
-      <enclosure url="https://f-droid.org/repo/icons/jp.nonbili.meron.31.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/jp.nonbili.meron.31.png&quot; alt=&quot;Meron icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;jp.nonbili.meron&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/nonbili/meron&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/jp.nonbili.meron/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
