@@ -23,6 +23,7 @@ app.devswitch
 app.dumdum
 app.familygem
 app.fayaz.otgmaster
+app.fedilab.castlab
 app.flicky
 app.floatdeck
 app.fluffy
@@ -43,6 +44,7 @@ app.organicmaps
 app.pachli
 app.passwordstore.agrahn
 app.passwordstore.pando85
+app.podiumpodcasts.podium
 app.pwhs.universalinstaller
 app.quorumpony
 app.rapidsplit
@@ -440,6 +442,7 @@ com.ismartcoding.plain
 com.isotjs.todosian
 com.ivanovsky.passnotes
 com.ivylopez.authsrng
+com.iwadjp.pixeltagdrawer
 com.iyps
 com.jabstone.jabtalk.basic
 com.jaimegonzalezfabregas.shoppinglist
@@ -1328,6 +1331,7 @@ org.b3log.siyuan
 org.billthefarmer.buses
 org.billthefarmer.gridle
 org.birthdayadapter
+org.bitanon.studfinder
 org.bitsrc.schussel
 org.breezyweather
 org.briarproject.briar.android
@@ -1376,6 +1380,8 @@ org.jellyfin.androidtv
 org.jellyfin.mobile
 org.jimvixx.smsecure
 org.joinmastodon.android
+org.jpi59.ethicnotes
+org.jpi59.ethicqrscanner
 org.juanro.autumandu
 org.jumascola.filmflip
 org.jyutping.jyutping

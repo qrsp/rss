@@ -5,8 +5,87 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:52:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 02:37:28 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CastLab — Cast your media to DLNA/UPnP and FCast devices [F-Droid]</title>
+      <link>https://codeberg.org/tom79/CastLab</link>
+      <guid isPermaLink="false">app.fedilab.castlab@fdroid</guid>
+      <pubDate>Sat, 26 Sep 2026 02:37:25 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/app.fedilab.castlab/en-US/icon_tD7ds1bZl4aiilQk_yY68x1t7gz3c9-DxHH1MWM4Sik=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/app.fedilab.castlab/en-US/icon_tD7ds1bZl4aiilQk_yY68x1t7gz3c9-DxHH1MWM4Sik=.png&quot; alt=&quot;CastLab icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.fedilab.castlab&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/tom79/CastLab&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.fedilab.castlab/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>podium (Podcasts) — A modern, open-source Podcast app for Android. [F-Droid]</title>
+      <link>https://github.com/aimok04/podium</link>
+      <guid isPermaLink="false">app.podiumpodcasts.podium@fdroid</guid>
+      <pubDate>Sat, 26 Sep 2026 02:37:25 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/app.podiumpodcasts.podium/en-US/icon_Y7iJrG-1NQdpj6QN58Mp8my6NhkV3kQhqm8aeaLDy4o=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/app.podiumpodcasts.podium/en-US/icon_Y7iJrG-1NQdpj6QN58Mp8my6NhkV3kQhqm8aeaLDy4o=.png&quot; alt=&quot;podium (Podcasts) icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.podiumpodcasts.podium&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/aimok04/podium&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.podiumpodcasts.podium/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Pixel Tag Drawer — Organize and launch Android apps with tags and usage-based sorting. [F-Droid] [App Manager]</title>
+      <link>https://github.com/iwadjp/pixel-tag-drawer</link>
+      <guid isPermaLink="false">com.iwadjp.pixeltagdrawer@fdroid</guid>
+      <pubDate>Sat, 26 Sep 2026 02:37:25 +0000</pubDate>
+      <category>App Manager</category>
+      <enclosure url="https://f-droid.org/repo/com.iwadjp.pixeltagdrawer/en-US/icon_dQC7y5nkP6G3rut76kthx9pzs4ahaAAsOZUM8mjVaSg=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/com.iwadjp.pixeltagdrawer/en-US/icon_dQC7y5nkP6G3rut76kthx9pzs4ahaAAsOZUM8mjVaSg=.png&quot; alt=&quot;Pixel Tag Drawer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.iwadjp.pixeltagdrawer&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/iwadjp/pixel-tag-drawer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.iwadjp.pixeltagdrawer/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>StudFinder - Stud Finder for Android — StudFinder uses your Android phone's built-in magnetometer (compass sensor) to detect metal screws and nails inside wall studs. [F-Droid]</title>
+      <link>https://github.com/toadlyBroodle/StudFinderAndroid</link>
+      <guid isPermaLink="false">org.bitanon.studfinder@fdroid</guid>
+      <pubDate>Sat, 26 Sep 2026 02:37:25 +0000</pubDate>
+      <enclosure url="https://f-droid.org/repo/org.bitanon.studfinder/en-US/icon_Pwntz3Aqi3549EH4NXp-HIOSFV2Yk9cUTm4EyrRdKKw=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/org.bitanon.studfinder/en-US/icon_Pwntz3Aqi3549EH4NXp-HIOSFV2Yk9cUTm4EyrRdKKw=.png&quot; alt=&quot;StudFinder - Stud Finder for Android icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.bitanon.studfinder&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/toadlyBroodle/StudFinderAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.bitanon.studfinder/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Ethic Notes — Private, offline, zero-permission notes application. [F-Droid] [Note]</title>
+      <link>https://github.com/jpi59/ethic-notes</link>
+      <guid isPermaLink="false">org.jpi59.ethicnotes@fdroid</guid>
+      <pubDate>Sat, 26 Sep 2026 02:37:25 +0000</pubDate>
+      <category>Note</category>
+      <category>Writing</category>
+      <enclosure url="https://f-droid.org/repo/org.jpi59.ethicnotes/en-US/icon_IYLGmC8WPX-3AmY__E6Cc70rh1OGp4NfmE-gw7ATmKo=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/org.jpi59.ethicnotes/en-US/icon_IYLGmC8WPX-3AmY__E6Cc70rh1OGp4NfmE-gw7ATmKo=.png&quot; alt=&quot;Ethic Notes icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.jpi59.ethicnotes&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jpi59/ethic-notes&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.jpi59.ethicnotes/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Ethic QR Scanner — An offline QR and barcode scanner that never opens links automatically. [F-Droid] [Internet]</title>
+      <link>https://github.com/jpi59/ethic-qr-scanner</link>
+      <guid isPermaLink="false">org.jpi59.ethicqrscanner@fdroid</guid>
+      <pubDate>Sat, 26 Sep 2026 02:37:25 +0000</pubDate>
+      <category>Internet</category>
+      <enclosure url="https://f-droid.org/repo/org.jpi59.ethicqrscanner/en-US/icon_YJ_Ia6_i9u0JH1H-SdG0qfvxfRk5iRn_YAGcy58IpK0=.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://f-droid.org/repo/org.jpi59.ethicqrscanner/en-US/icon_YJ_Ia6_i9u0JH1H-SdG0qfvxfRk5iRn_YAGcy58IpK0=.png&quot; alt=&quot;Ethic QR Scanner icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.jpi59.ethicqrscanner&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jpi59/ethic-qr-scanner&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.jpi59.ethicqrscanner/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>MonsterMusic — Offline music player with native C DSP engine, studio effects, visualizers &amp; lyr [IzzyOnDroid]</title>
       <link>https://github.com/ZTFtrue/MonsterMusic</link>
@@ -6367,86 +6446,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/io.github.anrinion.baseline/en-US/icon_05GuAyIPNYbN-Q-UsnKZno2DI9jwBIAh7-5E-SDrrtA=.png&quot; alt=&quot;Baseline icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.anrinion.baseline&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/anrinion/baseline&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.anrinion.baseline/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Veilleuse — Minimal OLED night light, flash or screen, scheduled shutdown. [F-Droid] [Flashlight]</title>
-      <link>https://github.com/pic38/Veilleuse</link>
-      <guid isPermaLink="false">io.github.pic38.veilleuse@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Flashlight</category>
-      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;Veilleuse icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.pic38.veilleuse&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/pic38/Veilleuse&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.pic38.veilleuse/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Drift // Audio — Ambient sound mixer for sleep and focus on long nights and long flights [F-Droid] [Ambient Sound]</title>
-      <link>https://github.com/probably-oxy/drift-audio</link>
-      <guid isPermaLink="false">io.github.probably_oxy.drift@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Ambient Sound</category>
-      <enclosure url="https://f-droid.org/repo/io.github.probably_oxy.drift/en-US/phoneScreenshots/icon_T72BPaFL0b5FDc3iHMdrad0SBEjsovFHPrs-CO-uB2s=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.probably_oxy.drift/en-US/phoneScreenshots/icon_T72BPaFL0b5FDc3iHMdrad0SBEjsovFHPrs-CO-uB2s=.png&quot; alt=&quot;Drift // Audio icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.probably_oxy.drift&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/probably-oxy/drift-audio&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.probably_oxy.drift/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>AndroidMic — Use your Android phone as a microphone for your PC [F-Droid]</title>
-      <link>https://github.com/teamclouday/AndroidMic</link>
-      <guid isPermaLink="false">io.github.teamclouday.AndroidMic@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/io.github.teamclouday.AndroidMic/en-US/icon_mm-h1mqYe-WgPjuBUxqXgMzGkeOWOPEBs9CiVTDu5f0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.teamclouday.AndroidMic/en-US/icon_mm-h1mqYe-WgPjuBUxqXgMzGkeOWOPEBs9CiVTDu5f0=.png&quot; alt=&quot;AndroidMic icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.teamclouday.AndroidMic&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/teamclouday/AndroidMic&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.teamclouday.AndroidMic/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Whisper Noise — A calming white noise generator for better sleep and focus [F-Droid] [Ambient Sound]</title>
-      <link>https://gitlab.com/the-phoenix-project0/whisper-noise</link>
-      <guid isPermaLink="false">io.gitlab.the_phoenix_project0.whisper_noise@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Ambient Sound</category>
-      <enclosure url="https://f-droid.org/repo/icons/io.gitlab.the_phoenix_project0.whisper_noise.33.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/io.gitlab.the_phoenix_project0.whisper_noise.33.png&quot; alt=&quot;Whisper Noise icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.gitlab.the_phoenix_project0.whisper_noise&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/the-phoenix-project0/whisper-noise&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.gitlab.the_phoenix_project0.whisper_noise/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Oversec — Privacy for All Apps! Encrypt and Disguise Messages in All Your Apps! [F-Droid] [Text Encryption]</title>
-      <link>https://github.com/oversecio/oversec</link>
-      <guid isPermaLink="false">io.oversec.one@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Text Encryption</category>
-      <enclosure url="https://f-droid.org/repo/io.oversec.one/en-US/icon_ZtcJR11x1eXhAt7yq_Rqta2RIrcgzwRDn8YUJ7VeWGs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.oversec.one/en-US/icon_ZtcJR11x1eXhAt7yq_Rqta2RIrcgzwRDn8YUJ7VeWGs=.png&quot; alt=&quot;Oversec icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.oversec.one&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/oversecio/oversec&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.oversec.one/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Perfice — Track anything, find the patterns that shape your life [F-Droid] [Diet]</title>
-      <link>https://github.com/p0lloc/perfice</link>
-      <guid isPermaLink="false">io.perfice.app@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Diet</category>
-      <category>Mental Health</category>
-      <category>Workout</category>
-      <enclosure url="https://f-droid.org/repo/io.perfice.app/en-US/icon_kntLjoUb_3Yzg1gc-4kr3WgLFk-ayoFs_aku0LwXBTA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.perfice.app/en-US/icon_kntLjoUb_3Yzg1gc-4kr3WgLFk-ayoFs_aku0LwXBTA=.png&quot; alt=&quot;Perfice icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.perfice.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/p0lloc/perfice&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.perfice.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
