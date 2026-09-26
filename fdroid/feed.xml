@@ -5,8 +5,68 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 02:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:23:27 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2fa — The modern privacy and security focused two factor authenticator [IzzyOnDroid]</title>
+      <link>https://codeberg.org/979/2fa</link>
+      <guid isPermaLink="false">app.ninesevennine.twofactorauthenticator@izzy</guid>
+      <pubDate>Sat, 26 Sep 2026 20:23:22 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.ninesevennine.twofactorauthenticator/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.ninesevennine.twofactorauthenticator/en-US/icon.png&quot; alt=&quot;2fa icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.ninesevennine.twofactorauthenticator&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/979/2fa&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.ninesevennine.twofactorauthenticator&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Petals: Cannabis Use Tracker — Weed tracker to quit, cut down or understand your cannabis use. Open source. [IzzyOnDroid]</title>
+      <link>https://github.com/LeoColman/Petals</link>
+      <guid isPermaLink="false">br.com.colman.petals@izzy</guid>
+      <pubDate>Sat, 26 Sep 2026 20:23:22 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/br.com.colman.petals/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/br.com.colman.petals/en-US/icon.png&quot; alt=&quot;Petals: Cannabis Use Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;br.com.colman.petals&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/LeoColman/Petals&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/br.com.colman.petals&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Vanilla — A cute and elegant calculator app for Android [IzzyOnDroid]</title>
+      <link>https://github.com/sosauce/Vanilla</link>
+      <guid isPermaLink="false">com.sosauce.cutecalc@izzy</guid>
+      <pubDate>Sat, 26 Sep 2026 20:23:22 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.sosauce.cutecalc/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.sosauce.cutecalc/en-US/icon.png&quot; alt=&quot;Vanilla icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sosauce.cutecalc&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sosauce/Vanilla&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.sosauce.cutecalc&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Recurring Expense Tracker — Keep track of your monthly spending [IzzyOnDroid]</title>
+      <link>https://github.com/DennisBauer/RecurringExpenseTracker</link>
+      <guid isPermaLink="false">de.dbauer.expensetracker@izzy</guid>
+      <pubDate>Sat, 26 Sep 2026 20:23:22 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/de.dbauer.expensetracker/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/de.dbauer.expensetracker/en-US/icon.png&quot; alt=&quot;Recurring Expense Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.dbauer.expensetracker&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/DennisBauer/RecurringExpenseTracker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/de.dbauer.expensetracker&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>FlickBoard — The Predictable Keyboard [IzzyOnDroid]</title>
+      <link>https://codeberg.org/natkr/flickboard</link>
+      <guid isPermaLink="false">se.nullable.flickboard@izzy</guid>
+      <pubDate>Sat, 26 Sep 2026 20:23:22 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/se.nullable.flickboard/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/se.nullable.flickboard/en-US/icon.png&quot; alt=&quot;FlickBoard icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;se.nullable.flickboard&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/natkr/flickboard&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/se.nullable.flickboard&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>CastLab — Cast your media to DLNA/UPnP and FCast devices [F-Droid]</title>
       <link>https://codeberg.org/tom79/CastLab</link>
@@ -6375,77 +6435,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/dev.mariinkys.OpenPillReminder/en-US/icon_exoHcYaVnotCp2glWIqEb5XLK7aBswqL3c_FaVvTnDM=.png&quot; alt=&quot;OpenPillReminder: Birth Control Pill Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.mariinkys.OpenPillReminder&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/mariinkys/OpenPillReminder&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/dev.mariinkys.OpenPillReminder/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Encrypt Text — Minimalistic application to encrypt plain text using AES 256. [F-Droid] [Text Encryption]</title>
-      <link>https://github.com/JanmanX/EncryptTextApp</link>
-      <guid isPermaLink="false">dk.meznik.jan.encrypttext@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Text Encryption</category>
-      <enclosure url="https://f-droid.org/repo/dk.meznik.jan.encrypttext/en-US/icon_rL1-k6iYN0ev_cLktasXVVkeSVOQkiIifMjwhBUoiPQ=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/dk.meznik.jan.encrypttext/en-US/icon_rL1-k6iYN0ev_cLktasXVVkeSVOQkiIifMjwhBUoiPQ=.png&quot; alt=&quot;Encrypt Text icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dk.meznik.jan.encrypttext&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/JanmanX/EncryptTextApp&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/dk.meznik.jan.encrypttext/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>PixelKnot: Hidden Messages — Have a secret that you want to share? Why not hide it in a picture? [F-Droid] [Security]</title>
-      <link>https://github.com/guardianproject/PixelKnot</link>
-      <guid isPermaLink="false">info.guardianproject.pixelknot@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Security</category>
-      <category>Text Encryption</category>
-      <enclosure url="https://f-droid.org/repo/info.guardianproject.pixelknot/en-US/icon_xvdwiCXWYRYFGzkEg2NCLK3CM5U_6q1EGbMnZnp-pOo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/info.guardianproject.pixelknot/en-US/icon_xvdwiCXWYRYFGzkEg2NCLK3CM5U_6q1EGbMnZnp-pOo=.png&quot; alt=&quot;PixelKnot: Hidden Messages icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;info.guardianproject.pixelknot&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/guardianproject/PixelKnot&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/info.guardianproject.pixelknot/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>The Last Carrot — A cheerful tower defence game with no ads, no trackers and no permissions [F-Droid] [Strategy Game]</title>
-      <link>https://github.com/AcideFluorhydrique/carrot</link>
-      <guid isPermaLink="false">io.github.acidefluorhydrique.carrot@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Strategy Game</category>
-      <enclosure url="https://f-droid.org/repo/io.github.acidefluorhydrique.carrot/en-US/icon_vcQ1JGDrC6FfBfRkj_IS0WquQ-P629AFBEG7LnKS4T8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.acidefluorhydrique.carrot/en-US/icon_vcQ1JGDrC6FfBfRkj_IS0WquQ-P629AFBEG7LnKS4T8=.png&quot; alt=&quot;The Last Carrot icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.acidefluorhydrique.carrot&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/AcideFluorhydrique/carrot&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.acidefluorhydrique.carrot/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Tumblr Downloader — Download images and videos from Tumblr posts [F-Droid] [Download]</title>
-      <link>https://github.com/AkariMarisa/Tumblr-Downloader</link>
-      <guid isPermaLink="false">io.github.akarimarisa.tumblrdownloader@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Download</category>
-      <enclosure url="https://f-droid.org/repo/io.github.akarimarisa.tumblrdownloader/en-US/icon_uTlnJ3hErl2x8XOXsrg8R0ewaTh-3LsZMlC5_iu7vl8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.akarimarisa.tumblrdownloader/en-US/icon_uTlnJ3hErl2x8XOXsrg8R0ewaTh-3LsZMlC5_iu7vl8=.png&quot; alt=&quot;Tumblr Downloader icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.akarimarisa.tumblrdownloader&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/AkariMarisa/Tumblr-Downloader&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.akarimarisa.tumblrdownloader/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Baseline — Gentle self-care for depression, disability, chronic illness, or burnout [F-Droid] [Diet]</title>
-      <link>https://github.com/anrinion/baseline</link>
-      <guid isPermaLink="false">io.github.anrinion.baseline@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Diet</category>
-      <category>Health Manager</category>
-      <category>Medication</category>
-      <category>Mental Health</category>
-      <enclosure url="https://f-droid.org/repo/io.github.anrinion.baseline/en-US/icon_05GuAyIPNYbN-Q-UsnKZno2DI9jwBIAh7-5E-SDrrtA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.anrinion.baseline/en-US/icon_05GuAyIPNYbN-Q-UsnKZno2DI9jwBIAh7-5E-SDrrtA=.png&quot; alt=&quot;Baseline icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.anrinion.baseline&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/anrinion/baseline&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.anrinion.baseline/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>

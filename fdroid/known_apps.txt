@@ -38,6 +38,7 @@ app.michaelwuensch.bitbanana
 app.mlauncher
 app.murinelauncher
 app.nightdrop
+app.ninesevennine.twofactorauthenticator
 app.olauncher
 app.openkuma
 app.organicmaps
@@ -77,6 +78,7 @@ be.robinj.distrohopper
 bilalsul.rzr
 bitscoper.bitscoper_cyberkit
 biz.binarysolutions.mindfulscale
+br.com.colman.petals
 br.com.gualandi.dailypill
 br.com.jotdown
 ca.asmat.foggymaps
@@ -732,6 +734,7 @@ com.smartpack.packagemanager
 com.smokingtracker
 com.sobuumedia.sobuu
 com.solar.aquarellnotes
+com.sosauce.cutecalc
 com.sosauce.cutemusic
 com.soul_99.suIMD
 com.srkovnar.legacyphotoframe
@@ -872,6 +875,7 @@ de.bloosberg.basti.childresuscalc
 de.chadenas.cpudefense
 de.circle_dev.flux_news
 de.danoeh.antennapod
+de.dbauer.expensetracker
 de.dennisguse.opentracks
 de.dennisguse.opentracks.playstore
 de.doen1el.calibreWebCompanion
@@ -1490,6 +1494,7 @@ ru.wohlsoft.opnmidiplayer
 ru.yanus171.feedexfork
 ru.yourok.torrserve
 s1m.hwfido2provider
+se.nullable.flickboard
 sh.haven.app
 shub39.momentum
 si.jakobkreft.exifremove
