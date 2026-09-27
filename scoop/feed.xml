@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 20:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 03:44:49 +0000</lastBuildDate>
+    <item>
+      <title>wakemeonlan — Turn on one or more computers remotely by sending Wake-on-LAN (WOL) packet [Nirsoft] (v1.96)</title>
+      <link>https://www.nirsoft.net/utils/wake_on_lan.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wake_on_lan.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wakemeonlan.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 01:55:27 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wakemeonlan-1.96</guid>
+    </item>
     <item>
       <title>rapidee — Environment variables editor. [Extras] (v10.0.0)</title>
       <link>https://www.rapidee.com/en/about</link>
