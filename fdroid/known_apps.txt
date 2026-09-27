@@ -184,6 +184,7 @@ com.audiobookshelf.app
 com.autismprime.fall
 com.autopi
 com.aw.huda
+com.awagam.android
 com.axiel7.anihyou
 com.axiel7.moelist
 com.b44t.messenger
@@ -405,6 +406,7 @@ com.googol.android.apps.oneplayer
 com.gorunjinian.metrovault
 com.goushik.upiwallet
 com.governikus.ausweisapp2
+com.gpgapp
 com.gpl.rpg.AndorsTrail
 com.graphhopper.maps
 com.grappim.taigamobile.fdroid
@@ -432,6 +434,8 @@ com.hicorenational.wikipedia
 com.hmdm.launcher
 com.hugo.theuniversedecides
 com.hwanderer.entropysdefiance
+com.hwloc.lstopo
+com.iakmds.librecamera
 com.ichi2.anki
 com.idunnololz.summit.fdroid
 com.igisw.openmoneybox
@@ -613,6 +617,7 @@ com.openappslabs.coffee
 com.openappslabs.fiveg
 com.openappslabs.jotter
 com.opennotes
+com.openrecorder.app
 com.oppzippy.openscq30
 com.orgzlyrevived
 com.osfans.trime
@@ -651,6 +656,7 @@ com.qfs.pagan
 com.quantum_prof.vtscansuite
 com.quietgrid.app
 com.quitter.app
+com.quran.aya
 com.quranapp.android
 com.r57zone.easynotes
 com.raiiware.forcestophelper
@@ -664,6 +670,7 @@ com.readwide.manager
 com.reddnek.syncplay
 com.relaypony.android
 com.remotephone
+com.resonance.music
 com.resurrect.flac_r
 com.resurrect.lrc_r
 com.resurrection.blowtorch2
@@ -720,6 +727,7 @@ com.sidhant.einsteinriddle
 com.sidhant.huesort
 com.sidhant.huespill
 com.sidhant.jigsaw
+com.sidhant.kakuro
 com.sidhant.learnmath
 com.sidhant.ludo
 com.sidhant.mahjong
@@ -876,6 +884,7 @@ com.zygisk_enc.notivault
 compress.joshattic.us
 cos.premy.mines
 cube.run
+cz.kyblsoft.meshcore.signaltester
 cz.mts.phone
 de.HS_Aalen.don
 de.arnowelzel.android.periodical
@@ -892,6 +901,7 @@ de.dennisguse.opentracks.playstore
 de.doen1el.calibreWebCompanion
 de.ericz.worldclockv2
 de.fampopprol.dhbwhorb
+de.froehlichmedia.adaptkey
 de.georgelsas.tuttocounter
 de.georgsieber.customerdb
 de.godisch.potillus
@@ -902,6 +912,7 @@ de.hbch.traewelling
 de.herk.kfza
 de.herk.kfzd
 de.hexenwoche.audiolex
+de.hohnepeople.keepadb
 de.huepping.wortmuehle
 de.jeanlucmakiola.calendula
 de.kaiserdragon.iconrequest
@@ -911,6 +922,7 @@ de.kitshn.android
 de.kromke.andreas.cameradatefolders
 de.lolo.rssreader
 de.luhmer.owncloudnewsreader
+de.maniac103.squeezeclient
 de.marionoll.wgautoconnect
 de.markusfisch.android.binaryeye
 de.metager.metagerapp.fdroid
@@ -927,6 +939,7 @@ de.nulide.findmydevice.edge
 de.nulide.shiftcal
 de.obsp.hostlookup
 de.oeffisounds.app
+de.pascalstier.fossyprotokoll
 de.ph1b.audiobook
 de.quantumphysique.trale
 de.questmaster.wettkampf_funk_trainer
@@ -1029,6 +1042,7 @@ dev.victorialauncher
 dev.xitee.sleeptimer
 devs.org.calculator
 dk.bjoerckbraun.deltasync
+dk.cocode.chess
 dk.meznik.jan.encrypttext
 duress.keyboard
 duress.keyboard.lite
@@ -1395,6 +1409,8 @@ org.godotengine.editor.v4
 org.grakovne.lissen
 org.handmadeideas.floccus
 org.hlwd.bible
+org.hwyl.sexytopo
+org.hyperstarit.keepitapp
 org.hzontal.tellaFOSS
 org.irmacard.cardemu
 org.jarsi.devicewatch
@@ -1457,6 +1473,7 @@ org.stypox.dicio
 org.sufficientlysecure.keychain
 org.t2decode.app
 org.tasks
+org.thayyil.spring.launcher
 org.therapiefinder
 org.thosp.yourlocalweather
 org.thunderdog.challegram
