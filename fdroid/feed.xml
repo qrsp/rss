@@ -5,8 +5,32 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 16:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:38:01 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Path : Step Counter — Lightweight, privacy-first step tracker. No tracking, no ads, 100% open source. [IzzyOnDroid]</title>
+      <link>https://github.com/sidhant947/Path</link>
+      <guid isPermaLink="false">com.sidhant.path@izzy</guid>
+      <pubDate>Sun, 27 Sep 2026 20:37:57 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.sidhant.path/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.sidhant.path/en-US/icon.png&quot; alt=&quot;Path : Step Counter icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.path&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/Path&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.sidhant.path&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>DDNS Updater — Simple Dynamic DNS Updater [IzzyOnDroid]</title>
+      <link>https://codeberg.org/phileix/ddns-android</link>
+      <guid isPermaLink="false">xyz.philei.ddnsupdater@izzy</guid>
+      <pubDate>Sun, 27 Sep 2026 20:37:57 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/xyz.philei.ddnsupdater/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/xyz.philei.ddnsupdater/en-US/icon.png&quot; alt=&quot;DDNS Updater icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xyz.philei.ddnsupdater&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/phileix/ddns-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/xyz.philei.ddnsupdater&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>AWAGAM TLD and Domain Blocker — Block TLDs and domains at the DNS level using your own blocklists [F-Droid] [DNS &amp; Hosts]</title>
       <link>https://github.com/iadefensa/awagam-android</link>
@@ -6392,33 +6416,6 @@
 &lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;Binaural Beat icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.binauralbeat&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://gitlab.com/jave/binauralbeat&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.binauralbeat/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Rivia — Rivia is the ultimate encryption tool [F-Droid] [Text Encryption]</title>
-      <link>https://github.com/loooltooot/rivia</link>
-      <guid isPermaLink="false">com.catalin.rivia@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Text Encryption</category>
-      <enclosure url="https://f-droid.org/repo/com.catalin.rivia/en-US/icon_OOF0E_V007sMmmgd2s4iJsM4C47Tm_xz7P8IcbKq3Gg=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.catalin.rivia/en-US/icon_OOF0E_V007sMmmgd2s4iJsM4C47Tm_xz7P8IcbKq3Gg=.png&quot; alt=&quot;Rivia icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.catalin.rivia&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/loooltooot/rivia&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.catalin.rivia/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Noise Timer — Calming white, pink, and brown noise with a sleep timer [F-Droid] [Ambient Sound]</title>
-      <link>https://github.com/chmouel/noise-timer</link>
-      <guid isPermaLink="false">com.chmouel.noisetimer@fdroid</guid>
-      <pubDate>Mon, 07 Sep 2026 20:55:26 +0000</pubDate>
-      <category>Ambient Sound</category>
-      <category>Timer</category>
-      <enclosure url="https://f-droid.org/repo/com.chmouel.noisetimer/en-US/icon_2WoGHWUJzDKpEHJWZ2_hvrkKuLlocCV59IJrSFV4z7k=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.chmouel.noisetimer/en-US/icon_2WoGHWUJzDKpEHJWZ2_hvrkKuLlocCV59IJrSFV4z7k=.png&quot; alt=&quot;Noise Timer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.chmouel.noisetimer&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/chmouel/noise-timer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.chmouel.noisetimer/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>

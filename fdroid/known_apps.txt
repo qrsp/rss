@@ -734,6 +734,7 @@ com.sidhant.mahjong
 com.sidhant.match3
 com.sidhant.matrixpuzzle
 com.sidhant.nonogram
+com.sidhant.path
 com.sidhant.puzzle
 com.sidhant.queens
 com.sidhant.screwjam
@@ -1573,5 +1574,6 @@ xyz.lepisma.harp
 xyz.linerly.nontrinsic
 xyz.malkki.neostumbler.fdroid
 xyz.metiq
+xyz.philei.ddnsupdater
 xyz.waozi.inbe
 zip.arcanum
