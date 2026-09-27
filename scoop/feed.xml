@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 16:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:54:03 +0000</lastBuildDate>
+    <item>
+      <title>mach2 — Feature Control Multi-tool for Windows 10 [Main] (v0.7.0.0)</title>
+      <link>https://github.com/riverar/mach2</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/riverar/mach2&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/mach2.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 19:41:35 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-mach2-0.7.0.0</guid>
+    </item>
     <item>
       <title>ninja-kitware — A small build system with a focus on speed (Kitware fork with jobserver support). [Main] (v1.11.1.g95dee.kitware.jobserver-1)</title>
       <link>https://github.com/Kitware/ninja</link>
