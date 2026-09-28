@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 12:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:56:24 +0000</lastBuildDate>
+    <item>
+      <title>cangjie-lts — A general-purpose programming language designed for all-scenario application development. (Long Term Support) [Main] (v1.0.5)</title>
+      <link>https://cangjie-lang.cn/en</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cangjie-lang.cn/en&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/cangjie-lts.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 21:06:36 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-cangjie-lts-1.0.5</guid>
+    </item>
+    <item>
+      <title>minishift — Minishift is a tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM. You can try out OpenShift or develop with it, day-to-day, on your local host. [Main] (v1.34.3)</title>
+      <link>https://www.openshift.org/minishift</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.openshift.org/minishift&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/minishift.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 21:06:36 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-minishift-1.34.3</guid>
+    </item>
+    <item>
+      <title>msmpi — Microsoft implementation of the Message Passing Interface standard for developing and running parallel applications on the Windows platform. [Main] (v10.1.1)</title>
+      <link>https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/msmpi.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 21:06:36 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-msmpi-10.1.1</guid>
+    </item>
     <item>
       <title>osmosis — A command line Java application for processing OSM data. [Main] (v0.49.2)</title>
       <link>https://wiki.openstreetmap.org/wiki/Osmosis</link>
