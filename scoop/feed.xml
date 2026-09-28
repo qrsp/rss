@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 03:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:56:46 +0000</lastBuildDate>
+    <item>
+      <title>osmosis — A command line Java application for processing OSM data. [Main] (v0.49.2)</title>
+      <link>https://wiki.openstreetmap.org/wiki/Osmosis</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Public Domain&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://wiki.openstreetmap.org/wiki/Osmosis&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/osmosis.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 07:40:28 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-osmosis-0.49.2</guid>
+    </item>
     <item>
       <title>mach2 — Feature Control Multi-tool for Windows 10 [Main] (v0.7.0.0)</title>
       <link>https://github.com/riverar/mach2</link>
