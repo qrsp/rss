@@ -90,6 +90,7 @@ cat.mvmike.minimalcalendarwidget
 cc.kafuu.bilidownload
 cc.narumi.chaldea.fdroid
 cc.polysfaer.stochapop
+cc.sovellus.vrcaa
 cc.zachy.pulse
 ch.abertschi.adfree
 ch.cryptobit.letterbox
@@ -140,6 +141,7 @@ com.aipos.aipospm
 com.aistra.hail
 com.aistudio.snoredetector.afkwd
 com.aka.alarm
+com.akylas.aard2
 com.akylas.cardwallet
 com.akylas.documentscanner
 com.akylas.weather
@@ -398,6 +400,7 @@ com.github.warren_bank.mock_location.silently
 com.github.xiaoshihou.jiyi
 com.gitlab.mudlej.MjPdfReader
 com.gitlab.uak.mobile_paper_wallet
+com.glosdalen.app
 com.gokadzev.musify
 com.gokadzev.musify.fdroid
 com.goldmaster.im2sms
@@ -409,6 +412,7 @@ com.governikus.ausweisapp2
 com.gpgapp
 com.gpl.rpg.AndorsTrail
 com.graphhopper.maps
+com.grappim.hateitorrateit.fdroid
 com.grappim.taigamobile.fdroid
 com.greenaddress.greenbits_android_wallet
 com.greenart7c3.citrine
@@ -468,6 +472,7 @@ com.jayc180.rhythmengine
 com.jbgsoft.ambio
 com.je.dejpeg
 com.jens.automation2
+com.jherkenhoff.qalculate
 com.jiaqifeng.hacki
 com.jksalcedo.librefind
 com.jksalcedo.passvault
@@ -486,9 +491,11 @@ com.kazumaproject.markdownhelperkeyboard.lite.fdroid
 com.kbul.spicycrab
 com.kelani.sbdtracker
 com.kepat.unscopemydata
+com.kgurgul.cpuinfo
 com.ki_bun.pioneer
 com.kiber_bomzh.songbook
 com.kinetica.keyboard
+com.kingalexgilbert.kingpost
 com.kingzcheung.xime
 com.kitsumed.shizucallrecorder
 com.klee.sapio
@@ -672,6 +679,7 @@ com.relaypony.android
 com.remotephone
 com.resonance.music
 com.resurrect.flac_r
+com.resurrect.grove
 com.resurrect.lrc_r
 com.resurrection.blowtorch2
 com.reteclock
@@ -739,6 +747,7 @@ com.sidhant.puzzle
 com.sidhant.queens
 com.sidhant.screwjam
 com.sidhant.shikaku
+com.sidhant.slitherlink
 com.sidhant.tents
 com.sidhant.triplematch
 com.sidhant.wallet
@@ -953,6 +962,7 @@ de.rwth_aachen.phyphox
 de.saschahlusiak.freebloks
 de.schildbach.oeffi
 de.schliweb.makeacopy
+de.schliweb.sambalite
 de.schwarz.boardgamepal
 de.seemoo.at_tracking_detection
 de.sesu8642.feudaltactics
@@ -1045,6 +1055,7 @@ devs.org.calculator
 dk.bjoerckbraun.deltasync
 dk.cocode.chess
 dk.meznik.jan.encrypttext
+dnsfilter.android
 duress.keyboard
 duress.keyboard.lite
 duress.ultimate
@@ -1310,6 +1321,7 @@ net.helcel.cowspent
 net.helcel.fidelity
 net.hilson.qrieux
 net.hyx.app.volumenotification
+net.ibbaa.keepitup
 net.kollnig.greasemilkyway
 net.koofr.vault
 net.millaguie.cosmovisor
@@ -1514,6 +1526,7 @@ player.efis.pfd
 player.efis.pfd.ink
 pro.kherel.selfprivacy
 protectedwp.safespace
+razertexz.aninspector
 remix.myplayer
 rkr.simplekeyboard.inputmethod
 rocks.mm_dev.audav
@@ -1555,6 +1568,7 @@ top.yztz.msggo
 trailence.org
 ua.com.radiokot.photoprism
 uk.nktnet.webviewkiosk
+uk.org.retallack.onvifcamera
 uk.org.retallack.slimbook
 universe.constellation.orion.viewer
 unlicense.launcher
