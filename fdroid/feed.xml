@@ -5,8 +5,30 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 22:46:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:40:17 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ExoAirPlayer — play video/audio cast via stateless HTML API [IzzyOnDroid]</title>
+      <link>https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver</link>
+      <guid isPermaLink="false">com.github.warren_bank.exoplayer_airplay_receiver@izzy</guid>
+      <pubDate>Tue, 29 Sep 2026 21:40:13 +0000</pubDate>
+      <description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.warren_bank.exoplayer_airplay_receiver&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.warren_bank.exoplayer_airplay_receiver&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Showly — an open source TV Shows &amp; Movies tracker app that works with Trakt [IzzyOnDroid]</title>
+      <link>https://github.com/trakt/showly</link>
+      <guid isPermaLink="false">com.michaldrabik.showly2@izzy</guid>
+      <pubDate>Tue, 29 Sep 2026 21:40:13 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.michaldrabik.showly2/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.michaldrabik.showly2/en-US/icon.png&quot; alt=&quot;Showly icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.michaldrabik.showly2&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/trakt/showly&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly2&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>VRChat Android Assistant — VRChat Friend Management Application for Android devices. [F-Droid]</title>
       <link>https://github.com/Nyabsi/VRCAA</link>
@@ -6389,30 +6411,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.metrolist.music/en-US/icon.png&quot; alt=&quot;Metrolist icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.metrolist.music&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/MetrolistGroup/Metrolist&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Piggsy — Piggy banks for tracking your goals [IzzyOnDroid]</title>
-      <link>https://github.com/nvllz/piggsy</link>
-      <guid isPermaLink="false">com.nvllz.piggsy@izzy</guid>
-      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.nvllz.piggsy/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.nvllz.piggsy/en-US/icon.png&quot; alt=&quot;Piggsy icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.nvllz.piggsy&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/nvllz/piggsy&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.nvllz.piggsy&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Hidroly: Water Reminder — Track your water intake, privately. [IzzyOnDroid]</title>
-      <link>https://github.com/om1cael/Hidroly</link>
-      <guid isPermaLink="false">com.om1cael.hidroly@izzy</guid>
-      <pubDate>Tue, 08 Sep 2026 20:30:19 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.om1cael.hidroly/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.om1cael.hidroly/en-US/icon.png&quot; alt=&quot;Hidroly: Water Reminder icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.om1cael.hidroly&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/om1cael/Hidroly&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.om1cael.hidroly&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
