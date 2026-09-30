@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 17:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:53:08 +0000</lastBuildDate>
+    <item>
+      <title>pycharm-community — Cross-Platform IDE for Python by JetBrains (Open Source Community Edition). [Extras] (v2026.2.3)</title>
+      <link>https://github.com/JetBrains/intellij-community</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JetBrains/intellij-community&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/pycharm-community.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 19:06:05 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-pycharm-community-2026.2.3</guid>
+    </item>
+    <item>
+      <title>bili23-downloader — Open source, cross-platform Bilibili video downloader. [Extras] (v2.20.0)</title>
+      <link>https://bili23.scott-sloan.cn</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bili23.scott-sloan.cn&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/bili23-downloader.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 18:57:50 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-bili23-downloader-2.20.0</guid>
+    </item>
     <item>
       <title>vigolium — Web vulnerability scanner and traffic analysis CLI [Main] (v0.5.1)</title>
       <link>https://vigolium.com</link>
