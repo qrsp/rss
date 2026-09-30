@@ -4,7 +4,42 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 11:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:45:10 +0000</lastBuildDate>
+    <item>
+      <title>vigolium — Web vulnerability scanner and traffic analysis CLI [Main] (v0.5.1)</title>
+      <link>https://vigolium.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://vigolium.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/vigolium.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:06:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-vigolium-0.5.1</guid>
+    </item>
+    <item>
+      <title>magpie-ai — Unified model, provider, and gateway manager for AI coding agents. [Extras] (v0.1.518)</title>
+      <link>https://usemagpie.ai</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://usemagpie.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/magpie-ai.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:36:23 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-magpie-ai-0.1.518</guid>
+    </item>
+    <item>
+      <title>namida — Multiplatform desktop and mobile media player with YouTube support. [Extras] (v7.1.2)</title>
+      <link>https://github.com/namidaco/namida</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/namidaco/namida&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/namida.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:12:51 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-namida-7.1.2</guid>
+    </item>
+    <item>
+      <title>voicestudio — Open-source voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. [Extras] (v0.5.6)</title>
+      <link>https://voicestudio.sh</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://voicestudio.sh&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/voicestudio.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:38:05 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-voicestudio-0.5.6</guid>
+    </item>
+    <item>
+      <title>paseo — Orchestrate multiple coding agents from desktop and mobile [Extras] (v0.10.2)</title>
+      <link>https://paseo.sh</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://paseo.sh&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/paseo.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:05:40 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-paseo-0.10.2</guid>
+    </item>
     <item>
       <title>magpie-ai-cli — Unified model, provider, and gateway manager for AI coding agents (CLI version). [Main] (v0.1.477)</title>
       <link>https://usemagpie.ai</link>
