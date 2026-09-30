@@ -5,8 +5,44 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 11:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:40:48 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ad-silence — Silence ads in Accuradio, Spotify.. or any Custom App. Lightweight under 150KB. [IzzyOnDroid]</title>
+      <link>https://github.com/aghontpi/ad-silence</link>
+      <guid isPermaLink="false">bluepie.ad_silence@izzy</guid>
+      <pubDate>Wed, 30 Sep 2026 21:40:44 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/bluepie.ad_silence/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/bluepie.ad_silence/en-US/icon.png&quot; alt=&quot;Ad-silence icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;bluepie.ad_silence&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/aghontpi/ad-silence&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/bluepie.ad_silence&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OpenWrt Manager — Manage your OpenWRT device from your phone [IzzyOnDroid]</title>
+      <link>https://github.com/hagaygo/OpenWrtManager</link>
+      <guid isPermaLink="false">com.hg.openwrtmanager@izzy</guid>
+      <pubDate>Wed, 30 Sep 2026 21:40:44 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.hg.openwrtmanager/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.hg.openwrtmanager/en-US/icon.png&quot; alt=&quot;OpenWrt Manager icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hg.openwrtmanager&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/hagaygo/OpenWrtManager&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.hg.openwrtmanager&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>music player auto — music player that auto pulls art work [IzzyOnDroid]</title>
+      <link>https://github.com/steel101/music-player-</link>
+      <guid isPermaLink="false">com.steel101.musicplayer@izzy</guid>
+      <pubDate>Wed, 30 Sep 2026 21:40:44 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.steel101.musicplayer/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.steel101.musicplayer/en-US/icon.png&quot; alt=&quot;music player auto icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.steel101.musicplayer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/steel101/music-player-&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.steel101.musicplayer&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Mushroom Compass — A compass that show you the way to your stored mushroom spots [F-Droid] [Navigation]</title>
       <link>https://github.com/duelago/svampkompass</link>
@@ -6378,44 +6414,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.bubbleshooter&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/BubbleShooter&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.sidhant.bubbleshooter/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Hue Sort — A color sorting puzzle game. Swap tiles to reconstruct the hidden gradient. [F-Droid] [Puzzle Game]</title>
-      <link>https://github.com/sidhant947/HueSort</link>
-      <guid isPermaLink="false">com.sidhant.huesort@fdroid</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:38 +0000</pubDate>
-      <category>Puzzle Game</category>
-      <enclosure url="https://f-droid.org/repo/com.sidhant.huesort/en-US/icon_7O-d4r3JjKOh3pZa1kOWiIyWDnq_8bgIMwkBgxrmOHI=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.sidhant.huesort/en-US/icon_7O-d4r3JjKOh3pZa1kOWiIyWDnq_8bgIMwkBgxrmOHI=.png&quot; alt=&quot;Hue Sort icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.huesort&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/HueSort&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.sidhant.huesort/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>InstaDownload — Download Instagram media to your device [F-Droid]</title>
-      <link>https://github.com/Orang-Studio/InstaDownload</link>
-      <guid isPermaLink="false">com.vakarux.instadownload@fdroid</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.vakarux.instadownload/en-US/icon_ApbJ0GNXOQPQNzgSUEWOG5CgbwS_wRDT6R07F1yrI8E=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.vakarux.instadownload/en-US/icon_ApbJ0GNXOQPQNzgSUEWOG5CgbwS_wRDT6R07F1yrI8E=.png&quot; alt=&quot;InstaDownload icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.vakarux.instadownload&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Orang-Studio/InstaDownload&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.vakarux.instadownload/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Prayer mode — Are you tired of remembering to silence your phone before every prayer? [F-Droid]</title>
-      <link>https://github.com/prayermode/prayermode</link>
-      <guid isPermaLink="false">com.yahyaoui.prayermode@fdroid</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.yahyaoui.prayermode/en-US/icon_6NIa4DLCElKXRVC37xvEkfokHRy656tHRRPmzufM4U8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.yahyaoui.prayermode/en-US/icon_6NIa4DLCElKXRVC37xvEkfokHRy656tHRRPmzufM4U8=.png&quot; alt=&quot;Prayer mode icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.yahyaoui.prayermode&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/prayermode/prayermode&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.yahyaoui.prayermode/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
