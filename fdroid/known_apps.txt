@@ -76,6 +76,7 @@ background.work.around
 be.martinelli.miniflutt
 be.ppareit.swiftp_free
 be.robinj.distrohopper
+bengtsson.net.svampkompass
 bilalsul.rzr
 bitscoper.bitscoper_cyberkit
 biz.binarysolutions.mindfulscale
@@ -115,6 +116,7 @@ code.name.monkey.retromusic
 codes.swistak.batterymonitor
 com.Colota
 com.DartChecker
+com.LAPARCELA.nihonoari
 com.StudyDesk.app
 com.a4a.g8invoicing
 com.aa.mynotes
@@ -161,8 +163,10 @@ com.anisync.android
 com.anopticlabs.gravel
 com.anthonyla.paperize
 com.antivocale.app
+com.antony.muzei.pixiv
 com.anysoftkeyboard.janus
 com.apk.editor
+com.app.dailylog
 com.app.equran
 com.appmindlab.nano
 com.aradar.vibecheck
@@ -270,6 +274,7 @@ com.cyb3rko.flashdim
 com.daemon.ssh
 com.daklok.biblelockscreen
 com.daniebeler.pfpixelix
+com.danilolutz.cubetimer
 com.darkrockstudios.apps.hammer.android
 com.dash1971.maia_chess
 com.david.waterreminder
@@ -309,6 +314,7 @@ com.dt.opnsense_manager
 com.dtsykunov.pause
 com.duckduckgo.mobile.android
 com.duetto
+com.easyfitness
 com.eblan.launcher
 com.econverter.app
 com.eddyizm.degoogled.tempus
@@ -344,6 +350,7 @@ com.flauschcode.broccoli
 com.flux
 com.flx_apps.digitaldetox
 com.flxrs.dankchat
+com.flyboybyte.dragtree
 com.focus.launcher
 com.foobnix.pro.pdf.reader
 com.food.opencook
@@ -469,6 +476,7 @@ com.jarsilio.android.magnifica
 com.jarsilio.android.pingoff
 com.jarsilio.android.scrambledeggsif
 com.jarsilio.android.waveup
+com.jarves.mh
 com.jayc180.rhythmengine
 com.jbgsoft.ambio
 com.je.dejpeg
@@ -480,6 +488,7 @@ com.jksalcedo.passvault
 com.jlindemann.science
 com.joaohouto.assistivemenutool
 com.joeld.minesweeper
+com.juliencardoux.ratafuel
 com.jvdegithub.aiscatcher
 com.k2040.escaagnellis
 com.k2040.geojoystick
@@ -492,10 +501,12 @@ com.kazumaproject.markdownhelperkeyboard.lite.fdroid
 com.kbul.spicycrab
 com.kelani.sbdtracker
 com.kepat.unscopemydata
+com.keylesspalace.tusky
 com.kgurgul.cpuinfo
 com.ki_bun.pioneer
 com.kiber_bomzh.songbook
 com.kinetica.keyboard
+com.kingalex.kingpong
 com.kingalexgilbert.kingpost
 com.kingzcheung.xime
 com.kitsumed.shizucallrecorder
@@ -520,6 +531,7 @@ com.leekleak.trafficlight
 com.lenshrv.foss
 com.leohearts.alternativeUnlockHook
 com.likhithpraveenk.storii
+com.likhithpraveenk.sudoku
 com.limecore.nexus
 com.limecore.workouttracker
 com.livefast.eattrash.raccoonforfriendica
@@ -635,10 +647,13 @@ com.ounben.amaradio
 com.owncloud.android
 com.paranoiaworks.unicus.android.sse
 com.paranoid.privacylock
+com.pasich.encly
 com.pcapdroid.mitm
 com.pebblentn.app
+com.pebblerecorder.app
 com.peer.topeer.global_send
 com.pennywiseai.tracker
+com.perol.asdpl.play.pixivez.libre
 com.perol.pixez
 com.personx.cryptx
 com.pg_axis.ytcnv
@@ -900,7 +915,9 @@ cz.kyblsoft.meshcore.signaltester
 cz.mts.phone
 de.HS_Aalen.don
 de.arnowelzel.android.periodical
+de.attarsherz.auvae
 de.baumann.browser
+de.bgg_home.texslate
 de.bixilon.unithen
 de.blinkt.openvpn
 de.bloosberg.basti.childresuscalc
@@ -1165,6 +1182,7 @@ io.github.chayanforyou.quickball
 io.github.cheesymoon.drausible
 io.github.choganhq.chogan
 io.github.customroutes.app
+io.github.d_rk.openpatience
 io.github.danxi_dev.dan_xi
 io.github.davidchilin.werewolves_game
 io.github.derweh.bayesianbahn
@@ -1317,6 +1335,7 @@ net.dege.salmon
 net.diffengine.romandigitalclock
 net.drawpile
 net.foucry.pilldroid
+net.gcompris.full
 net.gmartin.paperlessngx_uploader
 net.helcel.beans
 net.helcel.cowspent
@@ -1414,6 +1433,7 @@ org.fossify.documents
 org.framasoft.peertube
 org.freeminer.freeminer
 org.ftena.openshelf
+org.ghostsinthelab.apps.guilelessbopomofo
 org.girino.frac.android.foss
 org.github.nynosy.adiresy_mobile
 org.glpi.inventory.agent
@@ -1473,6 +1493,7 @@ org.openobservatory.ooniprobe
 org.osservatorionessuno.bugbane.beta
 org.paperwise.app
 org.piepmeyer.gauguin
+org.pinpoint
 org.playhex.twa
 org.quantumbadger.redreader
 org.ranobe.ranobe
@@ -1539,6 +1560,7 @@ rocks.poopjournal.fucksgiven
 rs.in.dbase.downloader
 rs.ruffle
 ru.application.homemedkit
+ru.hugeping.reinstead
 ru.iska9der.flabr
 ru.tech.imageresizershrinker
 ru.wohlsoft.adlmidiplayer
@@ -1547,6 +1569,7 @@ ru.yanus171.feedexfork
 ru.yourok.torrserve
 s1m.hwfido2provider
 se.nullable.flickboard
+sh.fhs.ksre
 sh.haven.app
 shub39.momentum
 si.jakobkreft.exifremove
