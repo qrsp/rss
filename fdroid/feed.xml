@@ -5,8 +5,68 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 21:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:11:33 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ClearClipboard — The app is a quick way to clear the content of the clipboard with just one tap on the icon.Note: Only the current content of the clipboard is cleared, this app has no effect on other apps which manage your clipboard. [IzzyOnDroid]</title>
+      <link>https://github.com/amnesica/ClearClipboard</link>
+      <guid isPermaLink="false">com.amnesica.clearclipboard@izzy</guid>
+      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.amnesica.clearclipboard/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.amnesica.clearclipboard/en-US/icon.png&quot; alt=&quot;ClearClipboard icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.amnesica.clearclipboard&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/amnesica/ClearClipboard&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.amnesica.clearclipboard&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OpenScan — Scan documents into a PDF or a bunch of images and share it with your contacts [IzzyOnDroid]</title>
+      <link>https://github.com/ethereal-developers/OpenScan</link>
+      <guid isPermaLink="false">com.ethereal.openscan@izzy</guid>
+      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.ethereal.openscan/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.ethereal.openscan/en-US/icon.png&quot; alt=&quot;OpenScan icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ethereal.openscan&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ethereal-developers/OpenScan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>HopToDesk — Remote Desktop Software For Personal and Business use. [IzzyOnDroid]</title>
+      <link>https://gitlab.com/hoptodesk/hoptodesk</link>
+      <guid isPermaLink="false">com.hoptodesk.app@izzy</guid>
+      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.hoptodesk.app/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.hoptodesk.app/en-US/icon.png&quot; alt=&quot;HopToDesk icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hoptodesk.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitlab.com/hoptodesk/hoptodesk&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.hoptodesk.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>ScrcpyForAndroid — mirror display and touch control between Android devices [IzzyOnDroid]</title>
+      <link>https://github.com/zwc456baby/ScrcpyForAndroid</link>
+      <guid isPermaLink="false">org.client.scrcpy@izzy</guid>
+      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.client.scrcpy/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.client.scrcpy/en-US/icon.png&quot; alt=&quot;ScrcpyForAndroid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.client.scrcpy&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zwc456baby/ScrcpyForAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.client.scrcpy&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>MediTrak — keep track of your medications [IzzyOnDroid]</title>
+      <link>https://github.com/AdamGuidarini/MediTrak</link>
+      <guid isPermaLink="false">projects.medicationtracker@izzy</guid>
+      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/projects.medicationtracker/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/projects.medicationtracker/en-US/icon.png&quot; alt=&quot;MediTrak icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;projects.medicationtracker&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/AdamGuidarini/MediTrak&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/projects.medicationtracker&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Ad-silence — Silence ads in Accuradio, Spotify.. or any Custom App. Lightweight under 150KB. [IzzyOnDroid]</title>
       <link>https://github.com/aghontpi/ad-silence</link>
@@ -6347,73 +6407,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.poppingmoon.aria/en-US/icon_nKGYjQuir4PxWAkdmuR1hbe9QAaUXGe0y2SR3dcTMv8=.png&quot; alt=&quot;Aria for Misskey icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.poppingmoon.aria&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/poppingmoon/aria&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.poppingmoon.aria/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Veto — Open source, native VirusTotal client. Scan files, links and apps in style. [F-Droid] [Security]</title>
-      <link>https://github.com/ProfessorQuantumUniverse/Veto</link>
-      <guid isPermaLink="false">com.quantum_prof.vtscansuite@fdroid</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:38 +0000</pubDate>
-      <category>Security</category>
-      <enclosure url="https://f-droid.org/repo/com.quantum_prof.vtscansuite/en-US/icon_f3GMSe5Xfp_bF3UOaG2F5KfQdky_LeztA00jTSKGrMo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.quantum_prof.vtscansuite/en-US/icon_f3GMSe5Xfp_bF3UOaG2F5KfQdky_LeztA00jTSKGrMo=.png&quot; alt=&quot;Veto icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.quantum_prof.vtscansuite&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ProfessorQuantumUniverse/Veto&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.quantum_prof.vtscansuite/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Dosezy — Simple medicine tracker &amp; reminders. Enter details, we'll handle the rest. [F-Droid] [Health Manager]</title>
-      <link>https://github.com/saad2134/dosezy</link>
-      <guid isPermaLink="false">com.saad2134.dosezy@fdroid</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:38 +0000</pubDate>
-      <category>Health Manager</category>
-      <enclosure url="https://f-droid.org/repo/com.saad2134.dosezy/en-US/icon_T6-nCZ560htvbAtlNrXJVAsygCgl3x3hbz9_IbUP2Yc=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.saad2134.dosezy/en-US/icon_T6-nCZ560htvbAtlNrXJVAsygCgl3x3hbz9_IbUP2Yc=.png&quot; alt=&quot;Dosezy icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.saad2134.dosezy&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/saad2134/dosezy&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.saad2134.dosezy/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>KeyStoreViewer — Quickly view MD5, SHA1, and Public Keys for App Signatures. [F-Droid]</title>
-      <link>https://github.com/qdsfdhvh/KeyStoreViewer</link>
-      <guid isPermaLink="false">com.seiko.keystoreviewer@fdroid</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.seiko.keystoreviewer/en-US/icon_KaEmEibJiTtNbI-kq-3vXPNrslvR0-KXoHNpuRBaz4I=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.seiko.keystoreviewer/en-US/icon_KaEmEibJiTtNbI-kq-3vXPNrslvR0-KXoHNpuRBaz4I=.png&quot; alt=&quot;KeyStoreViewer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.seiko.keystoreviewer&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/qdsfdhvh/KeyStoreViewer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.seiko.keystoreviewer/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>FastLog — An opinionated, fast, native android app for Logseq [F-Droid]</title>
-      <link>https://codeberg.org/siddharthagolu/fastlog</link>
-      <guid isPermaLink="false">com.siddharthagolu.fastlog@fdroid</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:38 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.siddharthagolu.fastlog/en-US/icon_S4pdE_bqFCRKzGM7xWx4E0TgfOUVphYnF0q0Lkey7gM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.siddharthagolu.fastlog/en-US/icon_S4pdE_bqFCRKzGM7xWx4E0TgfOUVphYnF0q0Lkey7gM=.png&quot; alt=&quot;FastLog icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.siddharthagolu.fastlog&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/siddharthagolu/fastlog&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.siddharthagolu.fastlog/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Bubble Shooter — A modern 2D bubble shooter puzzle game [F-Droid] [Casual Game]</title>
-      <link>https://github.com/sidhant947/BubbleShooter</link>
-      <guid isPermaLink="false">com.sidhant.bubbleshooter@fdroid</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:38 +0000</pubDate>
-      <category>Casual Game</category>
-      <category>Puzzle Game</category>
-      <enclosure url="https://f-droid.org/repo/com.sidhant.bubbleshooter/en-US/icon_ISrF7dyODkW0oJZzgUtBDsfiqtZBcDWsEwGbJ5ZuuZA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.sidhant.bubbleshooter/en-US/icon_ISrF7dyODkW0oJZzgUtBDsfiqtZBcDWsEwGbJ5ZuuZA=.png&quot; alt=&quot;Bubble Shooter icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.bubbleshooter&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/BubbleShooter&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.sidhant.bubbleshooter/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
