@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 12:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:21:20 +0000</lastBuildDate>
+    <item>
+      <title>gersemi — A formatter to make your CMake code the real treasure [Extras] (v0.29.2)</title>
+      <link>https://github.com/BlankSpruce/gersemi</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MPL-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/BlankSpruce/gersemi&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/gersemi.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 20:20:49 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-gersemi-0.29.2</guid>
+    </item>
     <item>
       <title>slumber — Terminal-based HTTP/REST client. [Main] (v5.3.0)</title>
       <link>https://slumber.lucaspickering.me</link>
