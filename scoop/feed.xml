@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 04:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:28:13 +0000</lastBuildDate>
+    <item>
+      <title>slumber — Terminal-based HTTP/REST client. [Main] (v5.3.0)</title>
+      <link>https://slumber.lucaspickering.me</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; On first run, please run slumber new to generate a sample collection file.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://slumber.lucaspickering.me&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/slumber.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 11:08:32 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-slumber-5.3.0</guid>
+    </item>
+    <item>
+      <title>dekit — Process manager for dev and prod. [Main] (v0.10.0)</title>
+      <link>https://dekit.run</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://dekit.run&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dekit.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 10:20:55 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-dekit-0.10.0</guid>
+    </item>
     <item>
       <title>pycharm-community — Cross-Platform IDE for Python by JetBrains (Open Source Community Edition). [Extras] (v2026.2.3)</title>
       <link>https://github.com/JetBrains/intellij-community</link>
