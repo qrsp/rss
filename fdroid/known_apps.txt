@@ -63,6 +63,7 @@ app.sterna
 app.tryst
 app.vger.voyager
 app.xcy7e.contextium
+app.zornslemma.mypricelog
 app.zxtune.fdroid
 art.tessell.editor
 askanimus.arbeitszeiterfassung2
@@ -124,6 +125,7 @@ com.aa.mynotes
 com.achunt.weboslauncher
 com.acktarius.concealauthenticator
 com.acszo.redomi.repo
+com.activitymanager
 com.activitytrace
 com.acutis.firewall
 com.addev.listaspam
@@ -249,6 +251,7 @@ com.chiranth7.webstack
 com.chmouel.liseur
 com.chmouel.noisetimer
 com.cho3ek89.ChronoRover
+com.chrbayer.mathe_trainer
 com.circadiandisplay.app
 com.clavierhaus.gnubg
 com.clearevo.bluetooth_gnss
@@ -257,6 +260,8 @@ com.cliambrown.pilltime
 com.cliffracertech.soundaura
 com.co3
 com.cocode.battleship
+com.codedead.advancedportchecker
+com.codedead.deadhash
 com.codesail.market_monk
 com.cogwheel.LuCIMobile
 com.colourswift.safehaven
@@ -650,6 +655,7 @@ com.osfans.trime
 com.otraku.app
 com.ounben.amaradio
 com.owncloud.android
+com.paperknife.app
 com.paranoiaworks.unicus.android.sse
 com.paranoid.privacylock
 com.pasich.encly
@@ -677,6 +683,7 @@ com.pranshulgg.weather_master_app
 com.prayer_times
 com.presley.fit_book
 com.presley.flexify
+com.privateinternetaccess.android
 com.procrastilearn.app
 com.prof18.feedflow
 com.professor.zerion
@@ -735,6 +742,7 @@ com.scalepractice
 com.schwegelbin.openbible
 com.seafile.seadroid2
 com.searchlauncher.app
+com.secninjaz.octolab
 com.seiko.keystoreviewer
 com.serranoie.app.minus
 com.shalenmathew.movieflix
@@ -1052,6 +1060,7 @@ dev.lbeernaert.youhavemail
 dev.leonlatsch.photok
 dev.lexip.hecate
 dev.librenotes.app
+dev.linwood.butterfly
 dev.linwood.butterfly.nightly
 dev.linwood.flow.nightly
 dev.lojcs.tsacdop
@@ -1075,6 +1084,7 @@ dev.synapsetech.compass
 dev.tulis.readbear
 dev.uint.qrserv
 dev.victorialauncher
+dev.x56.verify
 dev.xitee.sleeptimer
 devs.org.calculator
 dk.bjoerckbraun.deltasync
@@ -1175,6 +1185,7 @@ io.freetubeapp.freetube
 io.github.RealEarthling.epoch
 io.github.acidefluorhydrique.carrot
 io.github.acidefluorhydrique.geminiassist
+io.github.acidefluorhydrique.voicememos
 io.github.adithya_jayan.myrepertoirapp.fdroid
 io.github.aedev.flow
 io.github.aerocyber.sitemarker
@@ -1217,6 +1228,7 @@ io.github.landwarderer.futon
 io.github.leonidius20.recorder.lite
 io.github.lordofpolls.shellwave
 io.github.luantak.fokuslauncher
+io.github.lydavid.musicsearch
 io.github.mgdx.rouelibre
 io.github.mickaelmagniez.windbubble
 io.github.mimoguz.tripeaksneue
@@ -1261,6 +1273,7 @@ io.gitlab.jrock902.cypherleaf
 io.gitlab.libre_librivox_listener
 io.gitlab.the_phoenix_project0.whisper_noise
 io.gothub.boxorg
+io.homeassistant.companion.android.minimal
 io.horizontalsystems.bankwallet
 io.keepalive.android
 io.keepalive.lite.android
@@ -1293,6 +1306,7 @@ jp.nonbili.nori
 jp.nonbili.noutube
 juloo.keyboard2
 jwtc.android.chess
+k4ustu3h.monocons.izzy
 kapoue.hestia
 life.andre.message487
 live.pageless.mobile
@@ -1327,6 +1341,7 @@ me.zhanghai.android.files
 micro.repl.ma7moud3ly
 montafra.beam
 nabu.iris.keyboard
+neion.nlchr2
 net.activitywatch.android
 net.aliasvault.app
 net.basov.omngo.fdroid
@@ -1390,6 +1405,7 @@ nz.eloque.foss_wallet
 nz.eloque.quits
 om.sstvencoder
 omnibeat.app
+org.adrianvictor.geleia
 org.akanework.gramophone
 org.anonomi.android
 org.app.geotagvideocamera
@@ -1406,13 +1422,16 @@ org.billthefarmer.gridle
 org.birthdayadapter
 org.bitanon.studfinder
 org.bitsrc.schussel
+org.blitzortung.android.app
 org.breezyweather
 org.briarproject.briar.android
 org.broguece.game
 org.btcmap
+org.c_base.c_beam
 org.client.scrcpy
 org.codeberg.scovillo.bubble
 org.codeberg.theoden8.webspace
+org.comunes.g1nkgo
 org.comunes.tane
 org.courville.nova
 org.css_apps_m3.password_manager
@@ -1425,6 +1444,7 @@ org.documentfoundation.libreoffice
 org.draken.usagi
 org.electrum.electrum
 org.elnix.dragonlauncher
+org.emunix.insteadlauncher
 org.emunix.unipatcher
 org.epstudios.epmobile
 org.eu.mumulhl.ciyue
@@ -1512,6 +1532,8 @@ org.sensors2.osc
 org.shano.assistral
 org.sherpr.app
 org.shou.switchmyslot
+org.smc.inputmethod.indic
+org.staacks.alpharemote
 org.stypox.dicio
 org.sufficientlysecure.keychain
 org.t2decode.app
