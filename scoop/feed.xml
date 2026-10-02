@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 04:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:54:27 +0000</lastBuildDate>
+    <item>
+      <title>easycliproxyapi — Cross-platform GUI desktop management client for CLIProxyAPI [Extras] (v0.3.12)</title>
+      <link>https://github.com/router-for-me/EasyCLIProxyAPI</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/router-for-me/EasyCLIProxyAPI&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/easycliproxyapi.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 08:57:04 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-easycliproxyapi-0.3.12</guid>
+    </item>
     <item>
       <title>gersemi — A formatter to make your CMake code the real treasure [Extras] (v0.29.2)</title>
       <link>https://github.com/BlankSpruce/gersemi</link>
