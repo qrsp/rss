@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 21:49:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 03:51:00 +0000</lastBuildDate>
+    <item>
+      <title>proton-pass-cli — Command-line interface for Proton Pass. [Main] (v2.4.2)</title>
+      <link>https://protonpass.github.io/pass-cli/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Update with 'scoop update proton-pass-cli', not 'pass-cli update'.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://protonpass.github.io/pass-cli/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/proton-pass-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 22:16:23 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-proton-pass-cli-2.4.2</guid>
+    </item>
     <item>
       <title>ctop — Top-like interface for container metrics. [Main] (v0.7.7)</title>
       <link>https://github.com/bcicen/ctop</link>
