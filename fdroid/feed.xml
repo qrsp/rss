@@ -5,8 +5,44 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 21:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:21:35 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UPnP Kino by naiveHA — Uncomplicated simple: stream your video (mp4, mkv, mov, webm) and/or audio (mp3, m4a, aac, flac, wav, opus) files stored on your Android phone to another phone, tablet, computer or TV set running a compatible video player.UPnP Kino is compatible with VLC, eezUPnP, Kodi and other upnp enabled players and control points.How does it work?Make sure you are connected to WiFi, select a folder containing your video files and/or a folder containing your audio files and press &quot;Start UPnP Kino&quot;. [IzzyOnDroid]</title>
+      <link>https://github.com/naive-HA/UpnpKino</link>
+      <guid isPermaLink="false">acab.naiveha.upnpkino@izzy</guid>
+      <pubDate>Sat, 03 Oct 2026 20:21:30 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/acab.naiveha.upnpkino/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/acab.naiveha.upnpkino/en-US/icon.png&quot; alt=&quot;UPnP Kino by naiveHA icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;acab.naiveha.upnpkino&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/naive-HA/UpnpKino&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/acab.naiveha.upnpkino&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Habo — Habo is a simple, open-source habit tracker for everyone. [IzzyOnDroid]</title>
+      <link>https://github.com/xpavle00/Habo</link>
+      <guid isPermaLink="false">com.pavlenko.Habo@izzy</guid>
+      <pubDate>Sat, 03 Oct 2026 20:21:30 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.pavlenko.Habo/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.pavlenko.Habo/en-US/icon.png&quot; alt=&quot;Habo icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.pavlenko.Habo&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/xpavle00/Habo&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.pavlenko.Habo&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>KoreMD (Really)? — Simple Markdown editor supporting Moldova 🇲🇩 [IzzyOnDroid]</title>
+      <link>https://github.com/PYU224/koremd</link>
+      <guid isPermaLink="false">com.pyu.koremd@izzy</guid>
+      <pubDate>Sat, 03 Oct 2026 20:21:30 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.pyu.koremd/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.pyu.koremd/en-US/icon.png&quot; alt=&quot;KoreMD (Really)? icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.pyu.koremd&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/PYU224/koremd&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.pyu.koremd&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>OpenOdo — Private offline vehicle logs, reminders, fuel and expense history [F-Droid] [Finance Manager]</title>
       <link>https://github.com/cyberengma/openodo</link>
@@ -6371,48 +6407,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/io.github.davidchilin.werewolves_game/en-US/icon_OFnKpcTmMBpoB7p1jsdwjeNkGof4BQNcS4aEeikINEQ=.png&quot; alt=&quot;werewolvesgame icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.davidchilin.werewolves_game&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/davidchilin/werewolves_game&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.davidchilin.werewolves_game/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Minesweeper — Beautiful Minesweeper. No ads, no trackers, no permissions. [F-Droid]</title>
-      <link>https://github.com/john-athan/minesweeper</link>
-      <guid isPermaLink="false">io.github.johnathan.minesweeper@fdroid</guid>
-      <pubDate>Fri, 11 Sep 2026 10:15:35 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/io.github.johnathan.minesweeper/en-US/icon_w64bbni9FlmRvNy0Ydwds11cHCRz2frr0zB-g4sl15Y=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.johnathan.minesweeper/en-US/icon_w64bbni9FlmRvNy0Ydwds11cHCRz2frr0zB-g4sl15Y=.png&quot; alt=&quot;Minesweeper icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.johnathan.minesweeper&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/john-athan/minesweeper&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.johnathan.minesweeper/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Keep Alive — Notify others if you haven&amp;x27;t used your device in a given period of time [F-Droid] [Emergency Action]</title>
-      <link>https://github.com/keepalivedev/KeepAlive</link>
-      <guid isPermaLink="false">io.keepalive.android@fdroid</guid>
-      <pubDate>Fri, 11 Sep 2026 10:15:35 +0000</pubDate>
-      <category>Emergency Action</category>
-      <category>Phone &amp; SMS</category>
-      <category>Sports &amp; Health</category>
-      <enclosure url="https://f-droid.org/repo/io.keepalive.android/en-US/icon_CqMgWagASR3bMHILCmmld0DsznDeOth79pqRRc177xw=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.keepalive.android/en-US/icon_CqMgWagASR3bMHILCmmld0DsznDeOth79pqRRc177xw=.png&quot; alt=&quot;Keep Alive icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.keepalive.android&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/keepalivedev/KeepAlive&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.keepalive.android/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Keep Alive Lite — Notify others if you haven&amp;x27;t used your device in a given period of time [F-Droid] [Emergency Action]</title>
-      <link>https://github.com/keepalivedev/KeepAlive</link>
-      <guid isPermaLink="false">io.keepalive.lite.android@fdroid</guid>
-      <pubDate>Fri, 11 Sep 2026 10:15:35 +0000</pubDate>
-      <category>Emergency Action</category>
-      <category>Phone &amp; SMS</category>
-      <category>Sports &amp; Health</category>
-      <enclosure url="https://f-droid.org/repo/io.keepalive.lite.android/en-US/icon_CqMgWagASR3bMHILCmmld0DsznDeOth79pqRRc177xw=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.keepalive.lite.android/en-US/icon_CqMgWagASR3bMHILCmmld0DsznDeOth79pqRRc177xw=.png&quot; alt=&quot;Keep Alive Lite icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.keepalive.lite.android&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/keepalivedev/KeepAlive&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.keepalive.lite.android/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
