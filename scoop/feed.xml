@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:22:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:47:57 +0000</lastBuildDate>
+    <item>
+      <title>snowshot — A screenshot utility for capturing, annotating, pinning, and recognizing screen content. [Extras] (v1.2.2)</title>
+      <link>https://snowshot.top</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Quit Snow Shot before upgrading. Use scoop update snowshot instead of the built-in updater.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://snowshot.top&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/snowshot.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 10:46:13 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-snowshot-1.2.2</guid>
+    </item>
     <item>
       <title>proton-pass-cli — Command-line interface for Proton Pass. [Main] (v2.4.2)</title>
       <link>https://protonpass.github.io/pass-cli/</link>
