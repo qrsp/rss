@@ -5,8 +5,60 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 03:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:39:45 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BlockAds: Clean Internet — Block ads &amp; trackers system-wide. Firewall, SafeSearch, profiles [IzzyOnDroid]</title>
+      <link>https://github.com/pass-with-high-score/blockads-android</link>
+      <guid isPermaLink="false">app.pwhs.blockads@izzy</guid>
+      <pubDate>Sun, 04 Oct 2026 20:39:40 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.pwhs.blockads/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.pwhs.blockads/en-US/icon.png&quot; alt=&quot;BlockAds: Clean Internet icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.pwhs.blockads&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/pass-with-high-score/blockads-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.pwhs.blockads&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Jaliscope — A vectorscope program centered around performance, accuracy, and customizability [IzzyOnDroid] [Graphics]</title>
+      <link>https://codeberg.org/CalibratedMind/Jaliscope</link>
+      <guid isPermaLink="false">com.audiosoftware.jaliscope@izzy</guid>
+      <pubDate>Sun, 04 Oct 2026 20:39:40 +0000</pubDate>
+      <category>Graphics</category>
+      <category>Multimedia</category>
+      <category>Science &amp; Education</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.audiosoftware.jaliscope/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.audiosoftware.jaliscope/en-US/icon.png&quot; alt=&quot;Jaliscope icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.audiosoftware.jaliscope&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/CalibratedMind/Jaliscope&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.audiosoftware.jaliscope&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bura — Modern weather app with graphs and thoughtful data visualization [IzzyOnDroid]</title>
+      <link>https://github.com/davidtakac/bura</link>
+      <guid isPermaLink="false">com.davidtakac.bura@izzy</guid>
+      <pubDate>Sun, 04 Oct 2026 20:39:40 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.davidtakac.bura/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.davidtakac.bura/en-US/icon.png&quot; alt=&quot;Bura icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.davidtakac.bura&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/davidtakac/bura&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.davidtakac.bura&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>org.tagspaces.mobileapp — organize, tag and browse your files, photos and documents [IzzyOnDroid]</title>
+      <link>https://github.com/tagspaces/tagspaces</link>
+      <guid isPermaLink="false">org.tagspaces.mobileapp@izzy</guid>
+      <pubDate>Sun, 04 Oct 2026 20:39:40 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.tagspaces.mobileapp/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.tagspaces.mobileapp/en-US/icon.png&quot; alt=&quot;org.tagspaces.mobileapp icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.tagspaces.mobileapp&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tagspaces/tagspaces&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.tagspaces.mobileapp&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Count for me — An interval timer you write, not one you just set. [F-Droid] [Workout]</title>
       <link>https://github.com/ether-strannik/CountForMe</link>
@@ -6378,54 +6430,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.akylas.documentscanner/en-US/icon.png&quot; alt=&quot;OSS Document Scanner icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.akylas.documentscanner&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/ossappscollective/OSS-DocumentScanner&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Clock You — Privacy focused clock app build with MD3 [IzzyOnDroid]</title>
-      <link>https://github.com/you-apps/ClockYou</link>
-      <guid isPermaLink="false">com.bnyro.clock@izzy</guid>
-      <pubDate>Fri, 11 Sep 2026 20:13:37 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.bnyro.clock/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.bnyro.clock/en-US/icon.png&quot; alt=&quot;Clock You icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.bnyro.clock&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/you-apps/ClockYou&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.bnyro.clock&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Reckoner — Privacy respecting personal financial tracker [IzzyOnDroid]</title>
-      <link>https://codeberg.org/Reckoner/app</link>
-      <guid isPermaLink="false">finance.reckoner.app@izzy</guid>
-      <pubDate>Fri, 11 Sep 2026 20:13:37 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/finance.reckoner.app/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/finance.reckoner.app/en-US/icon.png&quot; alt=&quot;Reckoner icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;finance.reckoner.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/Reckoner/app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/finance.reckoner.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>aShell — aShell: A local ADB shell for Shizuku powered android devices [IzzyOnDroid]</title>
-      <link>https://gitlab.com/sunilpaulmathew/ashell</link>
-      <guid isPermaLink="false">in.sunilpaulmathew.ashell@izzy</guid>
-      <pubDate>Fri, 11 Sep 2026 20:13:37 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/in.sunilpaulmathew.ashell/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/in.sunilpaulmathew.ashell/en-US/icon.png&quot; alt=&quot;aShell icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;in.sunilpaulmathew.ashell&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/sunilpaulmathew/ashell&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/in.sunilpaulmathew.ashell&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>UT.urn - YouTube facilitator for Podcini.A — A service app providing YouTube contents to Podcini.A [F-Droid]</title>
-      <link>https://github.com/XilinJia/UT.urn</link>
-      <guid isPermaLink="false">ac.stresa.uturn@fdroid</guid>
-      <pubDate>Fri, 11 Sep 2026 10:15:35 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/ac.stresa.uturn/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/ac.stresa.uturn/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png&quot; alt=&quot;UT.urn - YouTube facilitator for Podcini.A icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ac.stresa.uturn&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/XilinJia/UT.urn&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/ac.stresa.uturn/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>

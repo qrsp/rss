@@ -48,6 +48,7 @@ app.pachli
 app.passwordstore.agrahn
 app.passwordstore.pando85
 app.podiumpodcasts.podium
+app.pwhs.blockads
 app.pwhs.universalinstaller
 app.quorumpony
 app.rapidsplit
@@ -197,6 +198,7 @@ com.atharok.btremote
 com.atharok.screentime
 com.attenomy.janken
 com.audiobookshelf.app
+com.audiosoftware.jaliscope
 com.autismprime.fall
 com.autopi
 com.aw.huda
@@ -294,6 +296,7 @@ com.danilolutz.cubetimer
 com.darkrockstudios.apps.hammer.android
 com.dash1971.maia_chess
 com.david.waterreminder
+com.davidtakac.bura
 com.debojitsantra.backlogtracker
 com.dede.android_eggs
 com.deehem.gpawhiz
@@ -1595,6 +1598,7 @@ org.staacks.alpharemote
 org.stypox.dicio
 org.sufficientlysecure.keychain
 org.t2decode.app
+org.tagspaces.mobileapp
 org.tasks
 org.thayyil.spring.launcher
 org.therapiefinder
