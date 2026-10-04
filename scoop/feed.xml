@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:52:54 +0000</lastBuildDate>
+    <item>
+      <title>syncany-cli — An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage! [Main] (v0.4.9)</title>
+      <link>https://www.syncany.org</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.syncany.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/syncany-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 18:27:18 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-syncany-cli-0.4.9</guid>
+    </item>
+    <item>
+      <title>rust-glancer — Lightweight Rust language server optimized for low memory usage and fast restarts. [Main] (v0.3.0)</title>
+      <link>https://github.com/rust-glancer/rust-glancer</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Requires the rust-src component: rustup component add rust-src&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rust-glancer/rust-glancer&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/rust-glancer.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 17:02:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-rust-glancer-0.3.0</guid>
+    </item>
     <item>
       <title>snowshot — A screenshot utility for capturing, annotating, pinning, and recognizing screen content. [Extras] (v1.2.2)</title>
       <link>https://snowshot.top</link>
