@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:45:14 +0000</lastBuildDate>
+    <item>
+      <title>picoclaw — Tiny, fast, and deployable AI assistant and agent framework in Go. [Main] (v0.3.1)</title>
+      <link>https://picoclaw.io</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://picoclaw.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/picoclaw.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 15:27:59 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-picoclaw-0.3.1</guid>
+    </item>
+    <item>
+      <title>sofka — A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. [Main] (v0.29.9)</title>
+      <link>https://sofka.rs</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sofka.rs&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/sofka.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 15:10:21 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-sofka-0.29.9</guid>
+    </item>
+    <item>
+      <title>windump — Windows version of tcpdump, the command-line network packet capture and analyzer tool. [Main] (v3.9.5)</title>
+      <link>https://www.winpcap.org/windump/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; WinDump requires WinPcap or Npcap (with WinPcap API-compatible mode enabled) to run and capture network packets.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.winpcap.org/windump/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/windump.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 15:08:06 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-windump-3.9.5</guid>
+    </item>
     <item>
       <title>gel-arm64 — A graph-relational database (Formerly known as EdgeDB). [Main] (v7.10.2+25c49a7)</title>
       <link>https://www.geldata.com</link>
