@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 04:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:38:30 +0000</lastBuildDate>
+    <item>
+      <title>gel-arm64 — A graph-relational database (Formerly known as EdgeDB). [Main] (v7.10.2+25c49a7)</title>
+      <link>https://www.geldata.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.geldata.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/gel-arm64.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 11:16:01 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-gel-arm64-7.10.2+25c49a7</guid>
+    </item>
+    <item>
+      <title>gel — A graph-relational database (Formerly known as EdgeDB). [Main] (v7.10.2+e00c46c)</title>
+      <link>https://www.geldata.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; For arm64 architecture, please use `main/gel-arm64`.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.geldata.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/gel.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 11:16:01 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-gel-7.10.2+e00c46c</guid>
+    </item>
     <item>
       <title>syncany-cli — An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage! [Main] (v0.4.9)</title>
       <link>https://www.syncany.org</link>
