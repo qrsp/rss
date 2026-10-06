@@ -5,8 +5,32 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:02:06 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Habit-Maker — A reward-based habit tracker for android. [IzzyOnDroid]</title>
+      <link>https://github.com/dessalines/habit-maker</link>
+      <guid isPermaLink="false">com.dessalines.habitmaker@izzy</guid>
+      <pubDate>Tue, 06 Oct 2026 22:02:03 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.dessalines.habitmaker/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.dessalines.habitmaker/en-US/icon.png&quot; alt=&quot;Habit-Maker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.dessalines.habitmaker&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dessalines/habit-maker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.dessalines.habitmaker&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Rank-My-Favs — Rank your favorite things, using simple pair-wise matchups. [IzzyOnDroid]</title>
+      <link>https://github.com/dessalines/rank-my-favs</link>
+      <guid isPermaLink="false">com.dessalines.rankmyfavs@izzy</guid>
+      <pubDate>Tue, 06 Oct 2026 22:02:03 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.dessalines.rankmyfavs/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.dessalines.rankmyfavs/en-US/icon.png&quot; alt=&quot;Rank-My-Favs icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.dessalines.rankmyfavs&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dessalines/rank-my-favs&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.dessalines.rankmyfavs&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Cyclic Alarms — Alarm app for shift schedules — repeats every N days, not just weekly [F-Droid] [Alarm Clock]</title>
       <link>https://github.com/pramodbeema/cyclic-alarms</link>
@@ -6453,32 +6477,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.zell_mbc.medilog.fdroid/en-US/icon_rqVrdmXofMz6pGK5vsZAoy9-564djb-O82xYTeQn8z0=.png&quot; alt=&quot;MediLog (Reproducible build) icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.zell_mbc.medilog.fdroid&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://codeberg.org/toz/MediLog&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.zell_mbc.medilog.fdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>KFZ-A — Offline lookup of Austrian vehicle registration identifiers [F-Droid] [Science &amp; Education]</title>
-      <link>https://github.com/HerkDev/KFZ-A</link>
-      <guid isPermaLink="false">de.herk.kfza@fdroid</guid>
-      <pubDate>Mon, 14 Sep 2026 17:16:20 +0000</pubDate>
-      <category>Science &amp; Education</category>
-      <enclosure url="https://f-droid.org/repo/de.herk.kfza/en-US/icon_g7fiY_EuEzzRNvRvMJLj4fO7UPZxhuKn5slL3734iX0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/de.herk.kfza/en-US/icon_g7fiY_EuEzzRNvRvMJLj4fO7UPZxhuKn5slL3734iX0=.png&quot; alt=&quot;KFZ-A icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.herk.kfza&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/HerkDev/KFZ-A&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/de.herk.kfza/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Freebloks — Strategy board game similar to the famous board game Blokus [F-Droid]</title>
-      <link>https://github.com/shlusiak/Freebloks-Android</link>
-      <guid isPermaLink="false">de.saschahlusiak.freebloks@fdroid</guid>
-      <pubDate>Mon, 14 Sep 2026 17:16:20 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/de.saschahlusiak.freebloks/en-US/icon_Fyu4CyiusRn4f55SpE0fmxvQmZVmgOwM8hrbOd7Miok=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/de.saschahlusiak.freebloks/en-US/icon_Fyu4CyiusRn4f55SpE0fmxvQmZVmgOwM8hrbOd7Miok=.png&quot; alt=&quot;Freebloks icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.saschahlusiak.freebloks&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/shlusiak/Freebloks-Android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/de.saschahlusiak.freebloks/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
