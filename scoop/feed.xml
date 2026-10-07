@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 04:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:40:29 +0000</lastBuildDate>
+    <item>
+      <title>certstrap — Tools to bootstrap CAs, certificate requests, and signed certificates [Main] (v1.4.0)</title>
+      <link>https://github.com/square/certstrap</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/square/certstrap&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/certstrap.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 08:42:38 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-certstrap-1.4.0</guid>
+    </item>
+    <item>
+      <title>ortie — CLI to manage OAuth tokens [Extras] (v2.3.0)</title>
+      <link>https://github.com/pimalaya/ortie</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pimalaya/ortie&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/ortie.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 06:54:26 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-ortie-2.3.0</guid>
+    </item>
     <item>
       <title>merman-cli — Headless Mermaid-compatible diagram renderer for SVG, PNG, JPEG, PDF, ASCII, and Unicode output. [Main] (v0.8.0)</title>
       <link>https://github.com/Latias94/merman</link>
