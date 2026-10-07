@@ -5,8 +5,32 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:26:51 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chooser — Select random fingers on the screen [IzzyOnDroid]</title>
+      <link>https://github.com/UrAvgCode/Chooser</link>
+      <guid isPermaLink="false">com.uravgcode.chooser@izzy</guid>
+      <pubDate>Wed, 07 Oct 2026 22:26:46 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.uravgcode.chooser/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.uravgcode.chooser/en-US/icon.png&quot; alt=&quot;Chooser icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.uravgcode.chooser&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/UrAvgCode/Chooser&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.uravgcode.chooser&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Remember My Sort — Android's file picker (DocumentsUI) resets sort order every time you navigate into a folder. [IzzyOnDroid]</title>
+      <link>https://github.com/hxreborn/remember-my-sort</link>
+      <guid isPermaLink="false">eu.hxreborn.remembermysort@izzy</guid>
+      <pubDate>Wed, 07 Oct 2026 22:26:46 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/eu.hxreborn.remembermysort/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/eu.hxreborn.remembermysort/en-US/icon.png&quot; alt=&quot;Remember My Sort icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.hxreborn.remembermysort&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/hxreborn/remember-my-sort&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/eu.hxreborn.remembermysort&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Kryfo — private messages over tor. no phone number, no account, no metadata trail. [F-Droid] [Messaging]</title>
       <link>https://github.com/GnosiWorks/Kryfo</link>
@@ -6471,30 +6495,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.aicodix.assempix/en-US/icon.png&quot; alt=&quot;Assempix - Decode COFDMTV icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.aicodix.assempix&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/aicodix/assempix&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.aicodix.assempix&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Rattlegram - SMS via audio! — Transmit short text messages over COFDMTV encoded audio signals [IzzyOnDroid]</title>
-      <link>https://github.com/aicodix/rattlegram</link>
-      <guid isPermaLink="false">com.aicodix.rattlegram@izzy</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.aicodix.rattlegram/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.aicodix.rattlegram/en-US/icon.png&quot; alt=&quot;Rattlegram - SMS via audio! icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.aicodix.rattlegram&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/aicodix/rattlegram&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.aicodix.rattlegram&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Shredpix - Encode COFDMTV — A coded OFDM update to SSTV to send images digitally over SSB, AM and FM radio [IzzyOnDroid]</title>
-      <link>https://github.com/aicodix/shredpix</link>
-      <guid isPermaLink="false">com.aicodix.shredpix@izzy</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.aicodix.shredpix/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.aicodix.shredpix/en-US/icon.png&quot; alt=&quot;Shredpix - Encode COFDMTV icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.aicodix.shredpix&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/aicodix/shredpix&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.aicodix.shredpix&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
