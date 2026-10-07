@@ -34,6 +34,7 @@ app.getknit.knit
 app.govroam.getgovroam
 app.gridlink
 app.intra
+app.kryfo
 app.lonecloud.prism
 app.marlboroadvance.mpvex
 app.marmalade.tts
@@ -77,6 +78,7 @@ at.bitfire.davdroid
 at.hackmas.android.schedule
 at.j0s.meyercard.app
 at.jclehner.rxdroid
+at.techbee.jtx
 at.tomtasche.reader
 au.how2vote.app
 background.work.around
@@ -207,6 +209,7 @@ com.audiobookshelf.app
 com.audiosoftware.jaliscope
 com.autismprime.fall
 com.autopi
+com.avstaim.listai
 com.aw.huda
 com.awagam.android
 com.axiel7.anihyou
@@ -347,6 +350,7 @@ com.dt.opnsense_manager
 com.dtsykunov.pause
 com.duckduckgo.mobile.android
 com.duetto
+com.earendel.tapbar
 com.easyfitness
 com.eblan.launcher
 com.econverter.app
@@ -438,12 +442,19 @@ com.github.meypod.al_azan
 com.github.mistermo_vibecode.voiceplus
 com.github.mkalmousli.floating_mute
 com.github.msx80.doorsofdoom
+com.github.muellerma.coffee
+com.github.muellerma.mute_reminder
+com.github.muellerma.nfcreader
+com.github.muellerma.prepaidbalance
+com.github.muellerma.stopwatch
+com.github.muellerma.tabletoptools
 com.github.muelli.kabelwacht
 com.github.nicorac.bcrgui
 com.github.premnirmal.tickerwidget
 com.github.soundpod
 com.github.sourzo.a_rithist
 com.github.stsaz.phiola
+com.github.thewierdnut.endless_mobile
 com.github.trivialloop.scorehub
 com.github.warren_bank.exoplayer_airplay_receiver
 com.github.warren_bank.mock_location
@@ -532,6 +543,7 @@ com.jherkenhoff.qalculate
 com.jiaqifeng.hacki
 com.jjrapps.bebeagua
 com.jjrapps.constanza
+com.jjrapps.sleepnoise
 com.jksalcedo.librefind
 com.jksalcedo.passvault
 com.jlindemann.science
@@ -617,6 +629,7 @@ com.maxrave.simpmusic
 com.megamaced.crate
 com.megamaced.nccollectives
 com.mendhak.gpslogger
+com.meshkachoutility
 com.meteocompare.app
 com.metrolist.music
 com.metromusic
@@ -756,6 +769,7 @@ com.readwide.manager
 com.reddnek.syncplay
 com.relaypony.android
 com.remotephone
+com.resolvecommunity.awaydoomscrollin
 com.resonance.music
 com.resurrect.flac_r
 com.resurrect.grove
@@ -791,6 +805,7 @@ com.sasas991.wolpanel
 com.saverio.pdfviewer
 com.sbv.linkdroid
 com.scalepractice
+com.scariflabs.horus
 com.schwegelbin.openbible
 com.seafile.seadroid2
 com.searchlauncher.app
@@ -885,6 +900,7 @@ com.thomaskuenneth.tkweek
 com.tideo.autobrightness
 com.tk.quicksearch
 com.tokyoxpa3.androidproxy
+com.tokyoxpa3.socksclient
 com.topjohnwu.magisk
 com.towerillusion.abdal
 com.trapplab.nfc_radio
@@ -989,6 +1005,7 @@ cz.mts.phone
 de.HS_Aalen.don
 de.arnowelzel.android.periodical
 de.attarsherz.auvae
+de.bahnvorhersage.app
 de.baumann.browser
 de.bgg_home.texslate
 de.binauralbeats.app.foss
@@ -1215,10 +1232,12 @@ fr.ign.geoportail
 fr.jnda.android.flashalert
 fr.kanis.foldio
 fr.luteal.app
+fr.nocle.passegares
 fr.nuage.souvenirs
 fr.odrevet.bide_et_musique
 fr.odrevet.fujiten
 fr.odrevet.kingdomino_score_count
+fr.ralala.hexviewer
 fr.shiningcat.binclockwidget
 fr.shiningcat.simplehiit
 fr.sudotiz.duper
@@ -1269,6 +1288,7 @@ io.github.adithya_jayan.myrepertoirapp.fdroid
 io.github.adrian2414745.coffeelog
 io.github.aedev.flow
 io.github.aerocyber.sitemarker
+io.github.aiya000.webbyimagesdownloader
 io.github.akarimarisa.tumblrdownloader
 io.github.alessioc42.sph
 io.github.anrinion.baseline
@@ -1510,6 +1530,7 @@ omnibeat.app
 org.adrianvictor.geleia
 org.akanework.gramophone
 org.alberto97.aodtoggle
+org.alberto97.ouilookup
 org.anonomi.android
 org.anonomi.postbox
 org.app.geotagvideocamera
@@ -1557,6 +1578,7 @@ org.fairscan.app
 org.fairspeed.test
 org.fdroid.basic
 org.fdroid.fdroid
+org.fdroid.fdroid.privileged
 org.forkgram.classic
 org.forkgram.messenger
 org.fossify.calendar
@@ -1584,6 +1606,7 @@ org.jellyfin.androidtv
 org.jellyfin.mobile
 org.jimvixx.smsecure
 org.joinmastodon.android
+org.jpi59.ethichandoff
 org.jpi59.ethicnotes
 org.jpi59.ethicqrscanner
 org.juanro.autumandu
