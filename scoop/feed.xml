@@ -4,7 +4,98 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:54:49 +0000</lastBuildDate>
+    <item>
+      <title>effectcraft — Motion graphics and visual effects; an open-source, clean-room reimplementation of Adobe After Effects, rebuilt in pure Rust [Extras] (v0.6.0)</title>
+      <link>https://getartcraft.com/apps/effectcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/effectcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/effectcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:17:47 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-effectcraft-0.6.0</guid>
+    </item>
+    <item>
+      <title>photocraft — Image editing; an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust [Extras] (v0.5.0)</title>
+      <link>https://getartcraft.com/apps/photocraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/photocraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/photocraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:16:36 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-photocraft-0.5.0</guid>
+    </item>
+    <item>
+      <title>artcraft — IDE for interactive AI image and video creation [Extras] (v0.41.0)</title>
+      <link>https://getartcraft.com/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/artcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:12:22 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-artcraft-0.41.0</guid>
+    </item>
+    <item>
+      <title>lightcraft — Photo library and raw development; an open-source, clean-room reimplementation of Adobe Lightroom, rebuilt in pure Rust [Extras] (v0.4.0)</title>
+      <link>https://getartcraft.com/apps/lightcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/lightcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/lightcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:09:42 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-lightcraft-0.4.0</guid>
+    </item>
+    <item>
+      <title>gridcraft — Spreadsheets and data; an open-source, clean-room reimplementation of Microsoft Excel, rebuilt in pure Rust [Extras] (v0.3.0)</title>
+      <link>https://github.com/storytold/gridcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/gridcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/gridcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:09:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-gridcraft-0.3.0</guid>
+    </item>
+    <item>
+      <title>filmcraft — Video editing, color and sound; an open-source, clean-room reimplementation of Adobe Premiere Pro, rebuilt in pure Rust [Extras] (v0.4.0)</title>
+      <link>https://getartcraft.com/apps/filmcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/filmcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/filmcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:08:58 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-filmcraft-0.4.0</guid>
+    </item>
+    <item>
+      <title>designcraft — Page layout and publishing; an open-source, clean-room reimplementation of Adobe InDesign, rebuilt in pure Rust [Extras] (v0.4.0)</title>
+      <link>https://getartcraft.com/apps/designcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/designcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/designcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:08:48 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-designcraft-0.4.0</guid>
+    </item>
+    <item>
+      <title>pdfcraft — The PDF workbench; an open-source, clean-room reimplementation of Adobe Acrobat, rebuilt in pure Rust [Extras] (v0.4.0)</title>
+      <link>https://getartcraft.com/apps/pdfcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/pdfcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/pdfcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:04:38 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-pdfcraft-0.4.0</guid>
+    </item>
+    <item>
+      <title>deckcraft — Presentations and slide shows; an open-source, clean-room reimplementation of Microsoft PowerPoint, rebuilt in pure Rust [Extras] (v0.3.0)</title>
+      <link>https://github.com/storytold/deckcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/deckcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/deckcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:04:26 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-deckcraft-0.3.0</guid>
+    </item>
+    <item>
+      <title>cadcraft — Computer-aided design and drafting; an open-source, clean-room reimplementation of Autodesk AutoCAD, rebuilt in pure Rust [Extras] (v0.3.0)</title>
+      <link>https://github.com/storytold/cadcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/cadcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/cadcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:04:01 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-cadcraft-0.3.0</guid>
+    </item>
+    <item>
+      <title>soundcraft — Recording, editing and mixing audio; an open-source, clean-room reimplementation of Avid Pro Tools, rebuilt in pure Rust [Extras] (v0.3.0)</title>
+      <link>https://github.com/storytold/soundcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/soundcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/soundcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:03:39 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-soundcraft-0.3.0</guid>
+    </item>
+    <item>
+      <title>vectorcraft — Vector illustration; an open-source, clean-room reimplementation of Adobe Illustrator, rebuilt in pure Rust [Extras] (v0.6.0)</title>
+      <link>https://getartcraft.com/apps/vectorcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/vectorcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vectorcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:02:43 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-vectorcraft-0.6.0</guid>
+    </item>
+    <item>
+      <title>wordcraft — Writing and document design; an open-source, clean-room reimplementation of Microsoft Word, rebuilt in pure Rust [Extras] (v0.3.0)</title>
+      <link>https://github.com/storytold/wordcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/wordcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/wordcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:02:07 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-wordcraft-0.3.0</guid>
+    </item>
     <item>
       <title>certstrap — Tools to bootstrap CAs, certificate requests, and signed certificates [Main] (v1.4.0)</title>
       <link>https://github.com/square/certstrap</link>
