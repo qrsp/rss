@@ -5,8 +5,18 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 22:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:39:57 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BkEmu — Elektronika BK-0010/11M Emulator [IzzyOnDroid]</title>
+      <link>https://github.com/3cky/bkemu-android</link>
+      <guid isPermaLink="false">su.comp.bk@izzy</guid>
+      <pubDate>Thu, 08 Oct 2026 22:39:54 +0000</pubDate>
+      <description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;su.comp.bk&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/3cky/bkemu-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/su.comp.bk&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Chooser — Select random fingers on the screen [IzzyOnDroid]</title>
       <link>https://github.com/UrAvgCode/Chooser</link>
@@ -6483,18 +6493,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/icons/org.openavisio.app.1.png&quot; alt=&quot;OpenAvisio icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.openavisio.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://codeberg.org/openavisio/openavisio&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.openavisio.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Assempix - Decode COFDMTV — A coded OFDM update to SSTV to receive digital images over SSB, AM and FM radio [IzzyOnDroid]</title>
-      <link>https://github.com/aicodix/assempix</link>
-      <guid isPermaLink="false">com.aicodix.assempix@izzy</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.aicodix.assempix/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.aicodix.assempix/en-US/icon.png&quot; alt=&quot;Assempix - Decode COFDMTV icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.aicodix.assempix&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/aicodix/assempix&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.aicodix.assempix&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
