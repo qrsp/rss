@@ -4,7 +4,182 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 12:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:16:27 +0000</lastBuildDate>
+    <item>
+      <title>acmesharp — An ACME (Let's Encrypt) client library and PowerShell client for the .NET platform [Main] (v0.9.1.326)</title>
+      <link>https://pkisharp.github.io/ACMESharp-docs/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unknown&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pkisharp.github.io/ACMESharp-docs/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/acmesharp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-acmesharp-0.9.1.326</guid>
+    </item>
+    <item>
+      <title>armclient — A simple command line tool to invoke the Azure Resource Manager API [Main] (v1.9)</title>
+      <link>https://blog.davidebbo.com/2015/01/azure-resource-manager-client.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.davidebbo.com/2015/01/azure-resource-manager-client.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/armclient.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-armclient-1.9</guid>
+    </item>
+    <item>
+      <title>dep — Go dependency management tool [Main] (v0.5.4)</title>
+      <link>https://golang.github.io/dep/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://golang.github.io/dep/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dep.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-dep-0.5.4</guid>
+    </item>
+    <item>
+      <title>docker-machine — Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with commands [Main] (v0.16.2)</title>
+      <link>https://docs.docker.com/machine/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.docker.com/machine/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/docker-machine.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-docker-machine-0.16.2</guid>
+    </item>
+    <item>
+      <title>hygen — The scalable code generator that saves you time [Main] (v6.2.11)</title>
+      <link>https://www.hygen.io</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.hygen.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/hygen.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-hygen-6.2.11</guid>
+    </item>
+    <item>
+      <title>jo — A tool for creating JSON objects from CLI [Main] (v1.9)</title>
+      <link>https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/jo.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-jo-1.9</guid>
+    </item>
+    <item>
+      <title>winsw — A wrapper executable that can be used to host any executable as a Windows service [Main] (v2.12.0)</title>
+      <link>https://winsw.github.io/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://winsw.github.io/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/winsw.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-winsw-2.12.0</guid>
+    </item>
+    <item>
+      <title>ansicon — Process ANSI escape sequences for Windows console programs. [Main] (v1.89)</title>
+      <link>http://adoxa.altervista.org/ansicon/index.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Zlib&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://adoxa.altervista.org/ansicon/index.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ansicon.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-ansicon-1.89</guid>
+    </item>
+    <item>
+      <title>bulk-rename-command — File renaming software for Windows [Main] (v1.3.3.0)</title>
+      <link>https://www.bulkrenameutility.co.uk</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bulkrenameutility.co.uk&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/bulk-rename-command.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-bulk-rename-command-1.3.3.0</guid>
+    </item>
+    <item>
+      <title>datamash — GNU datamash is a command-line program which performs basic numeric, textual and statistical operations on input textual data files [Main] (v1.3)</title>
+      <link>https://www.gnu.org/software/datamash/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.gnu.org/software/datamash/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/datamash.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-datamash-1.3</guid>
+    </item>
+    <item>
+      <title>dog — Command-line DNS client [Main] (v0.1.0)</title>
+      <link>https://github.com/ogham/dog</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; EUPL-1.2&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ogham/dog&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dog.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-dog-0.1.0</guid>
+    </item>
+    <item>
+      <title>fciv — A command-prompt utility that computes and verifies cryptographic hash values of files. [Main] (v6.0.2800.1106)</title>
+      <link>https://github.com/MicrosoftDocs/SupportArticles-docs/blob/0b440c8923f67a4ca27eb93baab75c79cb5a03f4/support/windows-server/windows-security/fciv-availability-and-description.md</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unknown&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MicrosoftDocs/SupportArticles-docs/blob/0b440c8923f67a4ca27eb93baab75c79cb5a03f4/support/windows-server/windows-security/fciv-availability-and-description.md&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/fciv.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-fciv-6.0.2800.1106</guid>
+    </item>
+    <item>
+      <title>freepascal — Professional Pascal compiler. [Main] (v3.2.2)</title>
+      <link>https://www.freepascal.org</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later | FPC-modified-LGPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.freepascal.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/freepascal.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-freepascal-3.2.2</guid>
+    </item>
+    <item>
+      <title>mandoc — UNIX manpage compiler toolset [Main] (v1.13.1)</title>
+      <link>https://embedeo.org/ws/doc/man_windows</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; ISC&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://embedeo.org/ws/doc/man_windows&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/mandoc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-mandoc-1.13.1</guid>
+    </item>
+    <item>
+      <title>patch — Apply diff to original. [Main] (v2.6.1)</title>
+      <link>https://sourceforge.net/projects/mingw/files/MSYS/Extension/patch/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sourceforge.net/projects/mingw/files/MSYS/Extension/patch/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/patch.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-patch-2.6.1</guid>
+    </item>
+    <item>
+      <title>pcre2grep — Regular expression pattern matching utility using the same syntax and semantics as Perl 5 (versions 10 and above). [Main] (v10.39)</title>
+      <link>https://pcre.org/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pcre.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/pcre2grep.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-pcre2grep-10.39</guid>
+    </item>
+    <item>
+      <title>pcregrep — Regular expression pattern matching utility using the same syntax and semantics as Perl 5. [Main] (v8.45)</title>
+      <link>https://pcre.org/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pcre.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/pcregrep.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-pcregrep-8.45</guid>
+    </item>
+    <item>
+      <title>potrace — Transforming bitmaps into vector graphics. [Main] (v1.16)</title>
+      <link>https://potrace.sourceforge.net/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://potrace.sourceforge.net/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/potrace.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-potrace-1.16</guid>
+    </item>
+    <item>
+      <title>redshift — Adjusts the color temperature of screen according to surroundings. [Main] (v1.12)</title>
+      <link>https://github.com/sharpbracket/redshift</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sharpbracket/redshift&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/redshift.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-redshift-1.12</guid>
+    </item>
+    <item>
+      <title>srvman — Windows Service Manager is a small tool that simplifies all common tasks related to Windows services. [Main] (v1.0)</title>
+      <link>https://sysprogs.com/legacy/tools/srvman/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unknown&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Always use sudo to start, stop or edit (e.g., 'sudo srvman start nginx' or 'sudo service restart apache').&lt;br/&gt;Visit https://sysprogs.com/legacy/tools/srvman/ for more info&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sysprogs.com/legacy/tools/srvman/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/srvman.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-srvman-1.0</guid>
+    </item>
+    <item>
+      <title>tta — The True Audio lossless audio encoder/decoder [Main] (v2.3)</title>
+      <link>https://tta.sourceforge.net/en/true-audio-codec-tta/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://tta.sourceforge.net/en/true-audio-codec-tta/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/tta.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-tta-2.3</guid>
+    </item>
+    <item>
+      <title>unxutils — GNU utilities for Win32. [Main] (v2007.03.01)</title>
+      <link>https://unxutils.sourceforge.net/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; 'unxutils' has not been updated since 2007. Some of its functions may not work properly under Windows 10/11.&lt;br/&gt;We recommend using 'uutils-coreutils' instead. To install it, run:&lt;br/&gt;scoop install uutils-coreutils&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://unxutils.sourceforge.net/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/unxutils.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-unxutils-2007.03.01</guid>
+    </item>
+    <item>
+      <title>unzip — Unzip compression utility [Main] (v6.00)</title>
+      <link>https://infozip.sourceforge.net</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Info-ZIP&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://infozip.sourceforge.net&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/unzip.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-unzip-6.00</guid>
+    </item>
+    <item>
+      <title>yasm — Modular assembler based on NASM [Main] (v1.3.0)</title>
+      <link>https://github.com/yasm/yasm</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/yasm/yasm&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/yasm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-yasm-1.3.0</guid>
+    </item>
+    <item>
+      <title>zip — Zip compression utilities [Main] (v3.0)</title>
+      <link>https://infozip.sourceforge.net</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Info-ZIP&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://infozip.sourceforge.net&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/zip.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-zip-3.0</guid>
+    </item>
     <item>
       <title>merman-lsp — Local Mermaid language intelligence for .mmd, .mermaid, Markdown, and MDX documents. [Main] (v0.8.0)</title>
       <link>https://github.com/Latias94/merman</link>
