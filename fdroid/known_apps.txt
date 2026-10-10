@@ -13,6 +13,7 @@ app.alextran.immich
 app.areada
 app.atrium
 app.auriel.nocean
+app.bematist.public
 app.bitbag
 app.cbdm.qrcodedisplayer
 app.chompass
@@ -68,6 +69,7 @@ app.status.mobile
 app.sterna
 app.subster
 app.tryst
+app.veil.veil
 app.vger.voyager
 app.xcy7e.contextium
 app.zornslemma.mypricelog
@@ -139,6 +141,7 @@ com.activitymanager
 com.activitytrace
 com.acutis.firewall
 com.addev.listaspam
+com.adeeteya.classipod
 com.adiamas.umpireassistant
 com.adilhanney.saber
 com.adpa1013.kompanion
@@ -207,6 +210,7 @@ com.atharok.screentime
 com.attenomy.janken
 com.audiobookshelf.app
 com.audiosoftware.jaliscope
+com.autismprime.animationmaker
 com.autismprime.fall
 com.autopi
 com.avstaim.listai
@@ -339,11 +343,13 @@ com.donnnno.arcticons
 com.donnnno.arcticons.daynight
 com.donnnno.arcticons.light
 com.donnnno.arcticons.you
+com.donotnotify.donotnotify
 com.dot.gallery
 com.dozingcatsoftware.cardswithcats
 com.dozingcatsoftware.mouse_pounce
 com.dozingcatsoftware.vectorcamera
 com.dresos.dressecurecomms
+com.drexeldevelopment.openeatsjournal
 com.droidrops.app
 com.dsalmun.luxalarm
 com.dt.opnsense_manager
@@ -420,6 +426,7 @@ com.geeksville.mesh
 com.gelakinetic.mtgfam
 com.gemwallet.android
 com.georgernstgraf.polishedrecognition
+com.georgeyt9769.cardabase
 com.git.itdolan31.crystalpad
 com.github.andreyasadchy.xtra
 com.github.ashutoshgngwr.noice
@@ -521,6 +528,7 @@ com.isaakhanimann.journal
 com.iskrembilen.quasseldroid
 com.ismartcoding.plain
 com.isotjs.todosian
+com.ispindle.plotter
 com.ivanovsky.passnotes
 com.ivylopez.authsrng
 com.iwadjp.pixeltagdrawer
@@ -535,6 +543,7 @@ com.jarsilio.android.pingoff
 com.jarsilio.android.scrambledeggsif
 com.jarsilio.android.waveup
 com.jarves.mh
+com.javimetallab.papercript
 com.jayc180.rhythmengine
 com.jbgsoft.ambio
 com.je.dejpeg
@@ -598,6 +607,7 @@ com.limecore.nexus
 com.limecore.workouttracker
 com.livefast.eattrash.raccoonforfriendica
 com.looker.droidify
+com.lord1egypt.pocketclaw
 com.lorenzomarci.sosring
 com.lostf1sh.pixelplayeross
 com.ltrademark.hourly
@@ -1012,6 +1022,7 @@ de.baumann.browser
 de.bgg_home.texslate
 de.binauralbeats.app.foss
 de.bixilon.unithen
+de.blau.android
 de.blinkt.openvpn
 de.bloosberg.basti.childresuscalc
 de.chadenas.cpudefense
@@ -1163,11 +1174,13 @@ dev.msfjarvis.claw.android
 dev.norsehorse.vaultpony
 dev.octoshrimpy.quik.fdroid
 dev.otaj.zelp
+dev.otherworld.shoppinglist
 dev.pgaxis.musicaxs
 dev.renkinProject.renkin
 dev.rova.notes
 dev.rubec.otoscope
 dev.sasikanth.rss.reader
+dev.scarf.gc
 dev.serge.textlog
 dev.shrekbytes.waqfah.fdroid
 dev.steamy.bitcointicker
@@ -1240,6 +1253,7 @@ fr.nuage.souvenirs
 fr.odrevet.bide_et_musique
 fr.odrevet.fujiten
 fr.odrevet.kingdomino_score_count
+fr.pierre.chiffreslettres
 fr.ralala.hexviewer
 fr.shiningcat.binclockwidget
 fr.shiningcat.simplehiit
@@ -1294,6 +1308,7 @@ io.github.aerocyber.sitemarker
 io.github.aiya000.webbyimagesdownloader
 io.github.akarimarisa.tumblrdownloader
 io.github.alessioc42.sph
+io.github.all3f0r1.oubliettes
 io.github.anrinion.baseline
 io.github.bananguh.ErmChat
 io.github.benderblog.traintime_pda
@@ -1303,6 +1318,7 @@ io.github.buildsbyben.shoppinglistcalc
 io.github.chayanforyou.quickball
 io.github.cheesymoon.drausible
 io.github.choganhq.chogan
+io.github.codeg0blin.videowallpaper
 io.github.cuso4deposit.regexcrossword
 io.github.customroutes.app
 io.github.d_rk.openpatience
@@ -1322,6 +1338,7 @@ io.github.friesi23.mhabit
 io.github.giuig.auraninja
 io.github.giuig.decisioninja
 io.github.gracethings.bubblenotice
+io.github.h3yk0.cryo
 io.github.herrerad85.tallybook
 io.github.iverlein.zanshin
 io.github.janekbt.Meditate
@@ -1334,6 +1351,7 @@ io.github.jherforth.plungetracker
 io.github.johnathan.minesweeper
 io.github.jqssun.airplay
 io.github.jrichter24.moldqueen
+io.github.kamui2040.vectorint
 io.github.keco216.clockwork
 io.github.koukobin.ermis.ermismobile
 io.github.landwarderer.futon
@@ -1350,6 +1368,7 @@ io.github.mrjohn6774.skypulse
 io.github.muntashirakon.AppManager
 io.github.munzzyy.liftmath
 io.github.munzzyy.magpie
+io.github.munzzyy.sweep
 io.github.munzzyy.tern
 io.github.nikitasud.latentjam.kmp
 io.github.nyxar77.pulse
@@ -1413,6 +1432,7 @@ it.niedermann.owncloud.notes
 it.reyboz.bustorino
 it.rfmariano.denaro
 it.rignanese.leo.slimfacebook
+itkach.aard2
 jdm.apps.cryptotracker
 jdm.apps.quizflow
 jdm.apps.reciper
@@ -1526,6 +1546,7 @@ nl.tjoeke.android
 nodomain.freeyourgadget.gadgetbridge
 nodomain.freeyourgadget.internethelper
 nodomain.neonbranch.treasurehunt
+now.abhi.graycie
 nz.eloque.foss_wallet
 nz.eloque.quits
 om.sstvencoder
@@ -1547,6 +1568,7 @@ org.avmedia.remotevideocam
 org.b3log.siyuan
 org.billthefarmer.buses
 org.billthefarmer.gridle
+org.birdbird.outdoorfoodcalc
 org.birthdayadapter
 org.bitanon.studfinder
 org.bitsrc.schussel
@@ -1556,6 +1578,7 @@ org.briarproject.briar.android
 org.broguece.game
 org.btcmap
 org.c_base.c_beam
+org.ca.squawker
 org.client.scrcpy
 org.codeberg.scovillo.bubble
 org.codeberg.theoden8.webspace
@@ -1563,6 +1586,7 @@ org.comunes.g1nkgo
 org.comunes.tane
 org.courville.nova
 org.css_apps_m3.password_manager
+org.deluge.trireme
 org.diekaiju.duckassist
 org.difft.temptalk
 org.digiagriapp
@@ -1589,6 +1613,7 @@ org.fossify.documents
 org.framasoft.peertube
 org.freeminer.freeminer
 org.ftena.openshelf
+org.gameoftrees.gotweb_authenticator
 org.ghostsinthelab.apps.guilelessbopomofo
 org.girino.frac.android.foss
 org.github.nynosy.adiresy_mobile
@@ -1609,6 +1634,7 @@ org.jellyfin.androidtv
 org.jellyfin.mobile
 org.jimvixx.smsecure
 org.joinmastodon.android
+org.jpi59.ethiccompass
 org.jpi59.ethichandoff
 org.jpi59.ethicnotes
 org.jpi59.ethicqrscanner
@@ -1632,6 +1658,7 @@ org.mian.gitnex
 org.mlm.mages
 org.mlm.miniter
 org.mlm.yadaw
+org.moedog.ehviewer.cc
 org.moire.opensudoku
 org.mozilla.fennec_fdroid
 org.mqvpn.app
@@ -1650,6 +1677,7 @@ org.opendataensemble.formulus
 org.openhab.habdroid.beta
 org.openobservatory.ooniprobe
 org.osservatorionessuno.bugbane.beta
+org.pacien.tincapp
 org.paperwise.app
 org.piepmeyer.gauguin
 org.pinpoint
@@ -1677,6 +1705,7 @@ org.thosp.yourlocalweather
 org.thunderdog.challegram
 org.torproject.vpn
 org.totschnig.myexpenses
+org.tutorlanguage.app
 org.ucam.ssb22.pinyinfdroid
 org.unifiedpush.distributor.fcm
 org.unifiedpush.distributor.nextpush
@@ -1741,6 +1770,7 @@ si.jakobkreft.aftergleam
 si.jakobkreft.exifremove
 si.jakobkreft.ontime
 sitavi.seenema
+site.aroy.phosphor
 site.leos.apps.lespas
 site.remlit.snowdrop
 sithakuru.sinhala.keyboard
