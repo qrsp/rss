@@ -123,6 +123,7 @@ chromahub.rhythm.app
 club.hiraeth.flareenough
 cn.morfans.chenjunyu19.mediavolume
 cn.super12138.todo
+co.adityarajput.fileflow
 co.adityarajput.notifilter
 co.electriccoin.zcash.foss
 co.xplat.husk
@@ -238,6 +239,7 @@ com.binauralbeat
 com.bintianqi.owndroid
 com.bithack.principia
 com.bitmavrick.lumolight
+com.bl4ckswordsman.cerberustiles
 com.blackbox.app
 com.blankdev.sidestep
 com.blockdrop.game
@@ -462,6 +464,7 @@ com.github.soundpod
 com.github.sourzo.a_rithist
 com.github.stsaz.phiola
 com.github.thewierdnut.endless_mobile
+com.github.tmo1.sms_ie
 com.github.trivialloop.scorehub
 com.github.warren_bank.exoplayer_airplay_receiver
 com.github.warren_bank.mock_location
@@ -647,6 +650,7 @@ com.michaeltroger.gruenerpass
 com.michaldrabik.showly2
 com.mikifus.padland
 com.milki.launcher
+com.mine.autooffbluetooth
 com.mine.autoshine
 com.minimo.launcher
 com.mirfatif.noorulhuda
@@ -1610,6 +1614,12 @@ org.forkgram.classic
 org.forkgram.messenger
 org.fossify.calendar
 org.fossify.documents
+org.fossify.filemanager
+org.fossify.gallery
+org.fossify.messages
+org.fossify.musicplayer
+org.fossify.thankyou
+org.fossify.voicerecorder
 org.framasoft.peertube
 org.freeminer.freeminer
 org.ftena.openshelf
@@ -1805,6 +1815,7 @@ works.bru
 wseemann.media.romote
 xdsopl.robot36
 xtr.keymapper
+xyz.abdeltwab.loc
 xyz.hub13.remindiary
 xyz.iridiumion.plucklockex
 xyz.jekyllex

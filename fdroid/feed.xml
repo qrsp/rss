@@ -5,8 +5,142 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 11:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 20:54:22 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FileFlow — Organize files automatically [IzzyOnDroid]</title>
+      <link>https://github.com/BURG3R5/FileFlow</link>
+      <guid isPermaLink="false">co.adityarajput.fileflow@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/co.adityarajput.fileflow/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/co.adityarajput.fileflow/en-US/icon.png&quot; alt=&quot;FileFlow icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;co.adityarajput.fileflow&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/BURG3R5/FileFlow&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/co.adityarajput.fileflow&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Cerberus Tiles — Quick Settings tiles and shortcuts for Google Pixel devices [IzzyOnDroid]</title>
+      <link>https://github.com/JoestarLabs/CerberusTiles</link>
+      <guid isPermaLink="false">com.bl4ckswordsman.cerberustiles@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.bl4ckswordsman.cerberustiles/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.bl4ckswordsman.cerberustiles/en-US/icon.png&quot; alt=&quot;Cerberus Tiles icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.bl4ckswordsman.cerberustiles&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/JoestarLabs/CerberusTiles&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.bl4ckswordsman.cerberustiles&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SMS Import / Export — Imports and exports SMS and MMS messages and other data. [IzzyOnDroid]</title>
+      <link>https://github.com/tmo1/sms-ie</link>
+      <guid isPermaLink="false">com.github.tmo1.sms_ie@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.github.tmo1.sms_ie/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.github.tmo1.sms_ie/en-US/icon.png&quot; alt=&quot;SMS Import / Export icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.tmo1.sms_ie&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tmo1/sms-ie&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.tmo1.sms_ie&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Auto Off Bluetooth — Monitors and auto-disables Bluetooth and Wi-Fi connections. [IzzyOnDroid]</title>
+      <link>https://github.com/The-First-King/Auto-Off-Bluetooth</link>
+      <guid isPermaLink="false">com.mine.autooffbluetooth@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.mine.autooffbluetooth/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.mine.autooffbluetooth/en-US/icon.png&quot; alt=&quot;Auto Off Bluetooth icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mine.autooffbluetooth&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/The-First-King/Auto-Off-Bluetooth&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.mine.autooffbluetooth&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fossify File Manager — Handy, lightweight, open-source file explorer with essential features. [IzzyOnDroid]</title>
+      <link>https://github.com/FossifyOrg/File-Manager</link>
+      <guid isPermaLink="false">org.fossify.filemanager@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.fossify.filemanager/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.fossify.filemanager/en-US/icon.png&quot; alt=&quot;Fossify File Manager icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.fossify.filemanager&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/FossifyOrg/File-Manager&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.fossify.filemanager&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fossify Gallery — Gallery with Photo editor. No Ads, Open-source, Private. No strings attached. [IzzyOnDroid]</title>
+      <link>https://github.com/FossifyOrg/Gallery</link>
+      <guid isPermaLink="false">org.fossify.gallery@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.fossify.gallery/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.fossify.gallery/en-US/icon.png&quot; alt=&quot;Fossify Gallery icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.fossify.gallery&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/FossifyOrg/Gallery&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.fossify.gallery&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fossify Messages — Open-source and Ad-free SMS/MMS messaging app [IzzyOnDroid]</title>
+      <link>https://github.com/FossifyOrg/Messages</link>
+      <guid isPermaLink="false">org.fossify.messages@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.fossify.messages/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.fossify.messages/en-US/icon.png&quot; alt=&quot;Fossify Messages icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.fossify.messages&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/FossifyOrg/Messages&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.fossify.messages&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fossify Music Player — Open-source and Ad-free Music Player with customizable widget &amp; sleep timer [IzzyOnDroid]</title>
+      <link>https://github.com/FossifyOrg/Music-Player</link>
+      <guid isPermaLink="false">org.fossify.musicplayer@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.fossify.musicplayer/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.fossify.musicplayer/en-US/icon.png&quot; alt=&quot;Fossify Music Player icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.fossify.musicplayer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/FossifyOrg/Music-Player&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.fossify.musicplayer&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fossify Thank You — Support Fossify apps with a warm thank you! [IzzyOnDroid]</title>
+      <link>https://github.com/FossifyOrg/Thank-You</link>
+      <guid isPermaLink="false">org.fossify.thankyou@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.fossify.thankyou/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.fossify.thankyou/en-US/icon.png&quot; alt=&quot;Fossify Thank You icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.fossify.thankyou&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/FossifyOrg/Thank-You&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.fossify.thankyou&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fossify Voice Recorder Beta — Record anything with this Open-source and Ad-free recorder [IzzyOnDroid]</title>
+      <link>https://github.com/FossifyOrg/Voice-Recorder</link>
+      <guid isPermaLink="false">org.fossify.voicerecorder@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.fossify.voicerecorder/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.fossify.voicerecorder/en-US/icon.png&quot; alt=&quot;Fossify Voice Recorder Beta icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.fossify.voicerecorder&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/FossifyOrg/Voice-Recorder&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.fossify.voicerecorder&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Loc — The location-based reminder [IzzyOnDroid] [Navigation]</title>
+      <link>https://github.com/AbdeltwabMF/loc</link>
+      <guid isPermaLink="false">xyz.abdeltwab.loc@izzy</guid>
+      <pubDate>Sat, 10 Oct 2026 20:54:14 +0000</pubDate>
+      <category>Navigation</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/xyz.abdeltwab.loc/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/xyz.abdeltwab.loc/en-US/icon.png&quot; alt=&quot;Loc icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xyz.abdeltwab.loc&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/AbdeltwabMF/loc&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/xyz.abdeltwab.loc&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Bematist — Matches your local music's BPM to your running cadence in real time [F-Droid] [Local Media Player]</title>
       <link>https://gitlab.com/pakeha-by/bematist</link>
@@ -6375,144 +6509,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/net.activitywatch.android/en-US/icon_WEQpOWkwgQyifxt-xagtcn-riQFoqhUVDz-4c3akMWE=.png&quot; alt=&quot;ActivityWatch icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.activitywatch.android&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/ActivityWatch/aw-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.activitywatch.android/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Godot Editor 3 — All-in-one, cross-platform game engine [F-Droid]</title>
-      <link>https://github.com/godotengine/godot/</link>
-      <guid isPermaLink="false">org.godotengine.editor.v3@fdroid</guid>
-      <pubDate>Wed, 16 Sep 2026 15:47:39 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/icons/org.godotengine.editor.v3.306035003.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/org.godotengine.editor.v3.306035003.png&quot; alt=&quot;Godot Editor 3 icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.godotengine.editor.v3&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/godotengine/godot/&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.godotengine.editor.v3/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>DBase Downloader — Download video and music from 1,750+ sites with yt-dlp and FFmpeg [F-Droid] [Download]</title>
-      <link>https://github.com/DBase-In-Rs/Downloader</link>
-      <guid isPermaLink="false">rs.in.dbase.downloader@fdroid</guid>
-      <pubDate>Wed, 16 Sep 2026 15:47:39 +0000</pubDate>
-      <category>Download</category>
-      <enclosure url="https://f-droid.org/repo/rs.in.dbase.downloader/en-US/icon_FYmYpT_dMcNfBtWBJnm0UBpqbl2f5SFOlqby2eXisMc=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/rs.in.dbase.downloader/en-US/icon_FYmYpT_dMcNfBtWBJnm0UBpqbl2f5SFOlqby2eXisMc=.png&quot; alt=&quot;DBase Downloader icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;rs.in.dbase.downloader&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/DBase-In-Rs/Downloader&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/rs.in.dbase.downloader/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ReminDiary — Offline daily journal that surfaces what you wrote this day in past years [F-Droid] [Note]</title>
-      <link>https://github.com/grantstephens/ReminDiary</link>
-      <guid isPermaLink="false">xyz.hub13.remindiary@fdroid</guid>
-      <pubDate>Wed, 16 Sep 2026 15:47:39 +0000</pubDate>
-      <category>Note</category>
-      <enclosure url="https://f-droid.org/repo/icons/xyz.hub13.remindiary.100069992.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/xyz.hub13.remindiary.100069992.png&quot; alt=&quot;ReminDiary icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xyz.hub13.remindiary&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/grantstephens/ReminDiary&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/xyz.hub13.remindiary/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Stims — Keep your screen awake while specific apps are in the foreground. [F-Droid]</title>
-      <link>https://github.com/acidburnmonkey/stims</link>
-      <guid isPermaLink="false">acidburn.stims@fdroid</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/acidburn.stims/en-US/icon_SKaMhNw0uk0Te21LKG_oJJZa9qDmRQ_ZYXC3YuxsOYA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/acidburn.stims/en-US/icon_SKaMhNw0uk0Te21LKG_oJJZa9qDmRQ_ZYXC3YuxsOYA=.png&quot; alt=&quot;Stims icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;acidburn.stims&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/acidburnmonkey/stims&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/acidburn.stims/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>OpenKuma — OpenKuma is a private, read-only Android client for Uptime Kuma, the self-hosted monitoring tool. [F-Droid]</title>
-      <link>https://codeberg.org/emon/openkuma</link>
-      <guid isPermaLink="false">app.openkuma@fdroid</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/app.openkuma/en-US/icon_YI0Mlogi1AG4VFEpWCLhXVtRCR-EwAlRv_X2XIDa1E0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/app.openkuma/en-US/icon_YI0Mlogi1AG4VFEpWCLhXVtRCR-EwAlRv_X2XIDa1E0=.png&quot; alt=&quot;OpenKuma icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.openkuma&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/emon/openkuma&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.openkuma/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>AniHyou - AniList client — Another unofficial Android AniList client [F-Droid]</title>
-      <link>https://github.com/axiel7/AniHyou-android</link>
-      <guid isPermaLink="false">com.axiel7.anihyou@fdroid</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.axiel7.anihyou/en-US/icon_6GZJ21qQfat7t4NRo5CLeZotLvnaCPsyrwiM6Qt_9Ts=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.axiel7.anihyou/en-US/icon_6GZJ21qQfat7t4NRo5CLeZotLvnaCPsyrwiM6Qt_9Ts=.png&quot; alt=&quot;AniHyou - AniList client icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.axiel7.anihyou&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/axiel7/AniHyou-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.axiel7.anihyou/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Lumolight: Screen &amp;amp; Flashlight — Lumolight is an open-source flashlight app that can perform both front and back flash. [F-Droid]</title>
-      <link>https://github.com/BitMavrick/Lumolight</link>
-      <guid isPermaLink="false">com.bitmavrick.lumolight@fdroid</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.bitmavrick.lumolight/en-US/icon_QPvx3G1uxYDtOVjGHBLgQzVNIBzkCJYWIjSc4z0bN7c=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.bitmavrick.lumolight/en-US/icon_QPvx3G1uxYDtOVjGHBLgQzVNIBzkCJYWIjSc4z0bN7c=.png&quot; alt=&quot;Lumolight: Screen &amp;amp; Flashlight icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.bitmavrick.lumolight&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/BitMavrick/Lumolight&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.bitmavrick.lumolight/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Just (Video) Player — Simple video player based on ExoPlayer library [F-Droid]</title>
-      <link>https://github.com/moneytoo/Player</link>
-      <guid isPermaLink="false">com.brouken.player@fdroid</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.brouken.player/en-US/icon_ouHp6y6QCaKaGove62VJTkgiuuiRUIire5BfHJjE5LA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.brouken.player/en-US/icon_ouHp6y6QCaKaGove62VJTkgiuuiRUIire5BfHJjE5LA=.png&quot; alt=&quot;Just (Video) Player icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.brouken.player&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/moneytoo/Player&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.brouken.player/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Notes Tech — Encrypted Markdown notes, 100% local. No Internet permission. [F-Droid] [Note]</title>
-      <link>https://github.com/gitubpatrice/notes_tech</link>
-      <guid isPermaLink="false">com.filestech.notes_tech@fdroid</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <category>Note</category>
-      <enclosure url="https://f-droid.org/repo/com.filestech.notes_tech/en-US/icon_XQ_Cn5JNCwWN6rxazlDL0PbldRTBh8-VAaSNL4uwqoI=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.filestech.notes_tech/en-US/icon_XQ_Cn5JNCwWN6rxazlDL0PbldRTBh8-VAaSNL4uwqoI=.png&quot; alt=&quot;Notes Tech icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.filestech.notes_tech&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/gitubpatrice/notes_tech&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.filestech.notes_tech/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Compete — Challenge everyone! [F-Droid]</title>
-      <link>https://codeberg.org/epinez/Compete</link>
-      <guid isPermaLink="false">com.flasskamp.compete@fdroid</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.flasskamp.compete/en-US/icon_GPGOPhvmt2JO501pXBgGdWGjYKsjAc8MzLJX1ywS4cY=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.flasskamp.compete/en-US/icon_GPGOPhvmt2JO501pXBgGdWGjYKsjAc8MzLJX1ywS4cY=.png&quot; alt=&quot;Compete icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.flasskamp.compete&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/epinez/Compete&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.flasskamp.compete/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>croc — Easily and securely send things from one computer to another [F-Droid]</title>
-      <link>https://github.com/howeyc/crocgui</link>
-      <guid isPermaLink="false">com.github.howeyc.crocgui@fdroid</guid>
-      <pubDate>Tue, 15 Sep 2026 20:39:59 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.github.howeyc.crocgui/en-US/icon_7BXFnAb6c2hP4URRrNvss776jSNG82wnqJ37NZ7xM7c=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.github.howeyc.crocgui/en-US/icon_7BXFnAb6c2hP4URRrNvss776jSNG82wnqJ37NZ7xM7c=.png&quot; alt=&quot;croc icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.howeyc.crocgui&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/howeyc/crocgui&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.github.howeyc.crocgui/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
