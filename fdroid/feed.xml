@@ -5,8 +5,44 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 20:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:15:23 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Food Expirations — Remember all the expiration dates of your food stocks. [IzzyOnDroid]</title>
+      <link>https://github.com/lorenzovngl/FoodExpirationDates</link>
+      <guid isPermaLink="false">com.lorenzovainigli.foodexpirationdates.foss@izzy</guid>
+      <pubDate>Sun, 11 Oct 2026 21:15:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.lorenzovainigli.foodexpirationdates.foss/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.lorenzovainigli.foodexpirationdates.foss/en-US/icon.png&quot; alt=&quot;Food Expirations icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.lorenzovainigli.foodexpirationdates.foss&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/lorenzovngl/FoodExpirationDates&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.lorenzovainigli.foodexpirationdates.foss&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>NotallyX - Quick Notes/Tasks — A simple and minimalistic open source notes app [IzzyOnDroid]</title>
+      <link>https://github.com/Crustack/NotallyX</link>
+      <guid isPermaLink="false">com.philkes.notallyx@izzy</guid>
+      <pubDate>Sun, 11 Oct 2026 21:15:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.philkes.notallyx/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.philkes.notallyx/en-US/icon.png&quot; alt=&quot;NotallyX - Quick Notes/Tasks icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.philkes.notallyx&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Crustack/NotallyX&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.philkes.notallyx&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>DSub2000 — Android client for Subsonic servers. [IzzyOnDroid]</title>
+      <link>https://github.com/paroj/DSub2000</link>
+      <guid isPermaLink="false">github.paroj.dsub2000@izzy</guid>
+      <pubDate>Sun, 11 Oct 2026 21:15:17 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/github.paroj.dsub2000/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/github.paroj.dsub2000/en-US/icon.png&quot; alt=&quot;DSub2000 icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;github.paroj.dsub2000&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/paroj/DSub2000&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/github.paroj.dsub2000&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>FileFlow — Organize files automatically [IzzyOnDroid]</title>
       <link>https://github.com/BURG3R5/FileFlow</link>
@@ -6470,45 +6506,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.mickaelmagniez.windbubble&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/mickaelmagniez/WindBubble&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.mickaelmagniez.windbubble/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Pulse — Plan your own weekly workouts and keep every exercise offline [F-Droid] [Sports &amp; Health]</title>
-      <link>https://github.com/nyxar77/Pulse</link>
-      <guid isPermaLink="false">io.github.nyxar77.pulse@fdroid</guid>
-      <pubDate>Wed, 16 Sep 2026 15:47:39 +0000</pubDate>
-      <category>Sports &amp; Health</category>
-      <category>Workout</category>
-      <enclosure url="https://f-droid.org/repo/io.github.nyxar77.pulse/en-US/icon_o0S9zIkSNf83QHtIrbCejZJW8txIh1RxqwKQaWbTfzw=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.nyxar77.pulse/en-US/icon_o0S9zIkSNf83QHtIrbCejZJW8txIh1RxqwKQaWbTfzw=.png&quot; alt=&quot;Pulse icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.nyxar77.pulse&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/nyxar77/Pulse&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.nyxar77.pulse/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Komelia — Komga media client [F-Droid]</title>
-      <link>https://github.com/Snd-R/Komelia</link>
-      <guid isPermaLink="false">io.github.snd_r.komelia@fdroid</guid>
-      <pubDate>Wed, 16 Sep 2026 15:47:39 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/io.github.snd_r.komelia/en-US/icon_K4cbBWbv7dgyQ1zsXYGYQsuZqBls_C8wLk-YqF6km2M=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.snd_r.komelia/en-US/icon_K4cbBWbv7dgyQ1zsXYGYQsuZqBls_C8wLk-YqF6km2M=.png&quot; alt=&quot;Komelia icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.snd_r.komelia&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Snd-R/Komelia&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.snd_r.komelia/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ActivityWatch — Track how you spend your time on your devices. [F-Droid]</title>
-      <link>https://github.com/ActivityWatch/aw-android</link>
-      <guid isPermaLink="false">net.activitywatch.android@fdroid</guid>
-      <pubDate>Wed, 16 Sep 2026 15:47:39 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/net.activitywatch.android/en-US/icon_WEQpOWkwgQyifxt-xagtcn-riQFoqhUVDz-4c3akMWE=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/net.activitywatch.android/en-US/icon_WEQpOWkwgQyifxt-xagtcn-riQFoqhUVDz-4c3akMWE=.png&quot; alt=&quot;ActivityWatch icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.activitywatch.android&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ActivityWatch/aw-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.activitywatch.android/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
