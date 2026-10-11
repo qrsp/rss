@@ -4,7 +4,49 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:29:30 +0000</lastBuildDate>
+    <item>
+      <title>mole — Deep clean, uninstall apps, optimize, analyze disk, and monitor Windows from the terminal. [Main] (v1.32.0)</title>
+      <link>https://github.com/tw93/Mole/tree/windows</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tw93/Mole/tree/windows&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/mole.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 18:50:47 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-mole-1.32.0</guid>
+    </item>
+    <item>
+      <title>gojq — Pure Go implementation of jq, an ultra-fast and flexible JSON processor. [Main] (v0.12.19)</title>
+      <link>https://github.com/itchyny/gojq</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/itchyny/gojq&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/gojq.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 15:35:17 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-gojq-0.12.19</guid>
+    </item>
+    <item>
+      <title>zbar — Application and library for reading bar codes from various sources [Main] (v0.23.95)</title>
+      <link>https://github.com/mchehab/zbar</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; LGPL-2.1-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mchehab/zbar&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/zbar.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 15:04:21 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-zbar-0.23.95</guid>
+    </item>
+    <item>
+      <title>sqlpackage — Command-line utility that automates database development tasks by exposing Data-Tier Application Framework (DacFx) APIs [Main] (v170.5.96.0)</title>
+      <link>https://learn.microsoft.com/sql/tools/sqlpackage/sqlpackage</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/sql/tools/sqlpackage/sqlpackage&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/sqlpackage.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 14:17:02 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-sqlpackage-170.5.96.0</guid>
+    </item>
+    <item>
+      <title>nullclaw — Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig [Main] (v2026.5.29)</title>
+      <link>https://nullclaw.io</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nullclaw.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/nullclaw.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 14:16:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-nullclaw-2026.5.29</guid>
+    </item>
+    <item>
+      <title>windows-sdk-buildtools — Tools for building projects targeting the Windows SDK [Main] (v10.0.28000.2705)</title>
+      <link>https://www.nuget.org/packages/Microsoft.Windows.SDK.BuildTools</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nuget.org/packages/Microsoft.Windows.SDK.BuildTools&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/windows-sdk-buildtools.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 13:18:21 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-windows-sdk-buildtools-10.0.28000.2705</guid>
+    </item>
     <item>
       <title>msixmgr — Command-line tool for installing, managing and unpacking MSIX packages. [Main] (v1.2)</title>
       <link>https://github.com/microsoft/msix-packaging</link>
