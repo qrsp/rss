@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 04:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:07:49 +0000</lastBuildDate>
+    <item>
+      <title>msixmgr — Command-line tool for installing, managing and unpacking MSIX packages. [Main] (v1.2)</title>
+      <link>https://github.com/microsoft/msix-packaging</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/msix-packaging&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/msixmgr.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 11:55:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-msixmgr-1.2</guid>
+    </item>
+    <item>
+      <title>artcraft-launcher — One place to install, update and open every app in the Craft App Suite [Extras] (v0.2.0)</title>
+      <link>https://github.com/storytold/craft-launcher</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/craft-launcher&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/artcraft-launcher.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 06:14:32 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-artcraft-launcher-0.2.0</guid>
+    </item>
     <item>
       <title>acmesharp — An ACME (Let's Encrypt) client library and PowerShell client for the .NET platform [Main] (v0.9.1.326)</title>
       <link>https://pkisharp.github.io/ACMESharp-docs/</link>
