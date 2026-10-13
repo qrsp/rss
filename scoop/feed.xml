@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:35:41 +0000</lastBuildDate>
+    <item>
+      <title>openchamber — Agentic Development Environment based on OpenCode AI agent [Extras] (v2.3.1)</title>
+      <link>https://openchamber.dev</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openchamber.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/openchamber.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 13:07:43 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-openchamber-2.3.1</guid>
+    </item>
     <item>
       <title>athas — A lightweight, cross-platform code editor built with Tauri, with Git support, AI agents and vim keybindings. [Extras] (v0.16.3)</title>
       <link>https://athas.dev</link>
