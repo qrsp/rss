@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 23:58:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:06:05 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>InviZible Pro BETA — Combine the strengths of Tor, DNSCrypt and I2P for security and anonymity [IzzyOnDroid]</title>
+      <link>https://github.com/Gedsh/InviZible</link>
+      <guid isPermaLink="false">pan.alexander.tordnscrypt@izzy</guid>
+      <pubDate>Tue, 13 Oct 2026 22:06:02 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png&quot; alt=&quot;InviZible Pro BETA icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;pan.alexander.tordnscrypt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Gedsh/InviZible&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/pan.alexander.tordnscrypt&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Since Us — Count your time together and never miss an anniversary or special day. [F-Droid] [Calendar &amp; Agenda]</title>
       <link>https://github.com/DerDieDasLian/sinceus</link>
@@ -6581,18 +6593,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/net.nymtech.nymvpn/en-US/icon_XDkPfgwZ_TxYG2XKFiUPy-DxYlqhO5TpKXvenzLLsrs=.png&quot; alt=&quot;NymVPN â Anonymous No-Log VPN icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.nymtech.nymvpn&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/nymtech/nym-vpn-client&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.nymtech.nymvpn/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mysterium Dark â Next Gen VPN — Decentralized VPN for Web 3: Anonymous, secure and unblocked internet [F-Droid]</title>
-      <link>https://github.com/mysteriumnetwork/mysterium-vpn-mobile</link>
-      <guid isPermaLink="false">network.mysterium.vpn@fdroid</guid>
-      <pubDate>Sat, 19 Sep 2026 19:46:52 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/network.mysterium.vpn/en-US/icon_-cDU2EmxIVx6LEvtWiKmCFa-5dOiSDgSy5Dn_UWDxyo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/network.mysterium.vpn/en-US/icon_-cDU2EmxIVx6LEvtWiKmCFa-5dOiSDgSy5Dn_UWDxyo=.png&quot; alt=&quot;Mysterium Dark â Next Gen VPN icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;network.mysterium.vpn&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/mysteriumnetwork/mysterium-vpn-mobile&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/network.mysterium.vpn/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
