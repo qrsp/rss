@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:12:55 +0000</lastBuildDate>
+    <item>
+      <title>muse-code — Meta's coding agent for the terminal and CI, built for Muse Spark. [Main] (v1.4.7-R6101.1)</title>
+      <link>https://dev.meta.ai/docs/muse-code</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://dev.meta.ai/docs/muse-code&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/muse-code.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 07:43:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-muse-code-1.4.7-R6101.1</guid>
+    </item>
     <item>
       <title>reshiki — Molecular drawing workspace for chemical structures, reaction schemes, and figures. [Extras] (v0.11.0)</title>
       <link>https://reshiki.com/</link>
