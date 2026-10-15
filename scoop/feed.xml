@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 16:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:56:34 +0000</lastBuildDate>
+    <item>
+      <title>cursor-cli — CLI for Cursor, allowing you to interact with AI agents directly from your terminal to write, review, and modify code. [Main] (v2026.10.14-941492e)</title>
+      <link>https://cursor.com/cli</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cursor.com/cli&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/cursor-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 18:57:14 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-cursor-cli-2026.10.14-941492e</guid>
+    </item>
+    <item>
+      <title>opencc — A precise conversion engine for Traditional Chinese, Simplified Chinese, Japanese Kanji, variants, and regional wording across Mainland China, Taiwan, and Hong Kong. [Main] (v1.4.2)</title>
+      <link>https://opencc.byvoid.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencc.byvoid.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/opencc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 18:34:06 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-opencc-1.4.2</guid>
+    </item>
+    <item>
+      <title>apngasm — The next generation of APNG Assembler. [Main] (v3.1.3)</title>
+      <link>https://github.com/apngasm/apngasm</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; zlib-acknowledgement&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/apngasm/apngasm&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/apngasm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 18:18:26 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-apngasm-3.1.3</guid>
+    </item>
     <item>
       <title>real — Reduce audio latency on Windows 10. [Extras] (v0.2.0)</title>
       <link>https://github.com/miniant-git/REAL</link>
