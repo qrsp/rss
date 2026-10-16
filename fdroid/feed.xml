@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 20:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:16:23 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zenith — Zenith is a smart focus assistant for Android designed to help you reduce digital distractions through proactive intervention based on Material Design 3 Expressive.Zenith is fully free and open-source. [IzzyOnDroid]</title>
+      <link>https://github.com/1372Slash/Zenith</link>
+      <guid isPermaLink="false">com.etrisad.zenith@izzy</guid>
+      <pubDate>Fri, 16 Oct 2026 20:16:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.etrisad.zenith/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.etrisad.zenith/en-US/icon.png&quot; alt=&quot;Zenith icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.etrisad.zenith&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/1372Slash/Zenith&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.etrisad.zenith&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Keyholm — Single-device passkeys on secure hardware [F-Droid] [Password &amp; 2FA]</title>
       <link>https://github.com/keyholm/keyholm</link>
@@ -6630,18 +6642,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.starlingmap&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/munzzyy/starling&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.starlingmap/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Screen Time — Easily track the time you spend on your device and apps. [F-Droid]</title>
-      <link>https://gitlab.com/Atharok/ScreenTime</link>
-      <guid isPermaLink="false">com.atharok.screentime@fdroid</guid>
-      <pubDate>Thu, 24 Sep 2026 10:46:02 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.atharok.screentime/en-US/icon_QRdou_AAaTkUvQ77LFRdUFm4Q-Q6B9HfFZDBoHmxyl0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.atharok.screentime/en-US/icon_QRdou_AAaTkUvQ77LFRdUFm4Q-Q6B9HfFZDBoHmxyl0=.png&quot; alt=&quot;Screen Time icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.atharok.screentime&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/Atharok/ScreenTime&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.atharok.screentime/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
