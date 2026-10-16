@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 20:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:11:45 +0000</lastBuildDate>
+    <item>
+      <title>chrlauncher — Small and very fast portable launcher and updater for Chromium. [Extras] (v2.7)</title>
+      <link>https://github.com/henrypp/chrlauncher</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Run '$dir\SetDefaultBrowser.bat' as Administrator to register chrlauncher as the Default Browser.&lt;br/&gt;Change 'ChromiumType' in 'chrlauncher.ini' if you want to install another Chromium Build.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/henrypp/chrlauncher&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/chrlauncher.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 21:22:39 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-chrlauncher-2.7</guid>
+    </item>
     <item>
       <title>cursor-cli — CLI for Cursor, allowing you to interact with AI agents directly from your terminal to write, review, and modify code. [Main] (v2026.10.14-941492e)</title>
       <link>https://cursor.com/cli</link>
