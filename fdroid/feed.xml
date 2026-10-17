@@ -5,8 +5,104 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:52:33 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Easy Launcher (Internet Edition) — EasyLauncher - Minimal and Clutter Free Android launcher [IzzyOnDroid]</title>
+      <link>https://github.com/CodeWorksCreativeHub/EasyLauncher</link>
+      <guid isPermaLink="false">app.easy.launcher@izzy</guid>
+      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.easy.launcher/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.easy.launcher/en-US/icon.png&quot; alt=&quot;Easy Launcher (Internet Edition) icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.easy.launcher&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/CodeWorksCreativeHub/EasyLauncher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.easy.launcher&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Lawnicons — Lawnicons is a free, community-driven, open-source icon pack built by the Lawnchair team and contributors worldwide. [IzzyOnDroid]</title>
+      <link>https://github.com/LawnchairLauncher/lawnicons</link>
+      <guid isPermaLink="false">app.lawnchair.lawnicons@izzy</guid>
+      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.lawnchair.lawnicons/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.lawnchair.lawnicons/en-US/icon.png&quot; alt=&quot;Lawnicons icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.lawnchair.lawnicons&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/LawnchairLauncher/lawnicons&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair.lawnicons&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>traced it — Quick notes with time &amp; amounts [IzzyOnDroid]</title>
+      <link>https://github.com/traced-it/traced-it-android</link>
+      <guid isPermaLink="false">app.traced_it@izzy</guid>
+      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.traced_it/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.traced_it/en-US/icon.png&quot; alt=&quot;traced it icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.traced_it&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/traced-it/traced-it-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.traced_it&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Gaai — Android app for Powerdale Nexxtender Home/Mobile chargers [IzzyOnDroid]</title>
+      <link>https://github.com/FrankHJCuypers/gaai</link>
+      <guid isPermaLink="false">be.cuypers_ghys.gaai@izzy</guid>
+      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/be.cuypers_ghys.gaai/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/be.cuypers_ghys.gaai/en-US/icon.png&quot; alt=&quot;Gaai icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;be.cuypers_ghys.gaai&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/FrankHJCuypers/gaai&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/be.cuypers_ghys.gaai&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Hexpress — Musical instruments on your phone [IzzyOnDroid]</title>
+      <link>https://github.com/jmiskovic/hexpress</link>
+      <guid isPermaLink="false">com.castlewrath.hexpress@izzy</guid>
+      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.castlewrath.hexpress/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.castlewrath.hexpress/en-US/icon.png&quot; alt=&quot;Hexpress icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.castlewrath.hexpress&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jmiskovic/hexpress&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.castlewrath.hexpress&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>MMRL — A modules manager for Magisk &amp; KernelSU. [IzzyOnDroid]</title>
+      <link>https://github.com/MMRLApp/MMRL/issues</link>
+      <guid isPermaLink="false">com.dergoogler.mmrl@izzy</guid>
+      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.dergoogler.mmrl/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.dergoogler.mmrl/en-US/icon.png&quot; alt=&quot;MMRL icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.dergoogler.mmrl&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MMRLApp/MMRL/issues&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.dergoogler.mmrl&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>NeverTooManyBooks — keep track of your books and comics [IzzyOnDroid]</title>
+      <link>https://github.com/tfonteyn/NeverTooManyBooks</link>
+      <guid isPermaLink="false">com.hardbacknutter.nevertoomanybooks@izzy</guid>
+      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.hardbacknutter.nevertoomanybooks/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.hardbacknutter.nevertoomanybooks/en-US/icon.png&quot; alt=&quot;NeverTooManyBooks icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hardbacknutter.nevertoomanybooks&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tfonteyn/NeverTooManyBooks&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.hardbacknutter.nevertoomanybooks&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OpenDTU — OpenDTU client [IzzyOnDroid]</title>
+      <link>https://github.com/OpenDTU-App/opendtu-react-native</link>
+      <guid isPermaLink="false">xyz.commanderred.opendtuapp@izzy</guid>
+      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/xyz.commanderred.opendtuapp/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/xyz.commanderred.opendtuapp/en-US/icon.png&quot; alt=&quot;OpenDTU icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xyz.commanderred.opendtuapp&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/OpenDTU-App/opendtu-react-native&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/xyz.commanderred.opendtuapp&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Pocket Sense — Private, offline money tracker in Jordanian dinars, in English and Arabic [F-Droid] [Finance Manager]</title>
       <link>https://github.com/software-ace/PocketSense</link>
@@ -6639,100 +6735,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/net.gcompris.full/en-US/icon_Xg-tlkkMetD2-H6CMBwB40fyjYarLNLW5FW153yZWjs=.png&quot; alt=&quot;GCompris icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.gcompris.full&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://invent.kde.org/education/gcompris&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.gcompris.full/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Guileless Bopomofo Keyboard — A simple Bopomofo software keyboard (input method editor) for typing Hanyu [F-Droid]</title>
-      <link>https://github.com/hiroshiyui/GuilelessBopomofo</link>
-      <guid isPermaLink="false">org.ghostsinthelab.apps.guilelessbopomofo@fdroid</guid>
-      <pubDate>Wed, 30 Sep 2026 11:36:16 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.ghostsinthelab.apps.guilelessbopomofo/en-US/icon_3-AIV-FGFDnvuzWtgwcURtdu9874zkH2D9FYy8ODEZI=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.ghostsinthelab.apps.guilelessbopomofo/en-US/icon_3-AIV-FGFDnvuzWtgwcURtdu9874zkH2D9FYy8ODEZI=.png&quot; alt=&quot;Guileless Bopomofo Keyboard icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.ghostsinthelab.apps.guilelessbopomofo&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/hiroshiyui/GuilelessBopomofo&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.ghostsinthelab.apps.guilelessbopomofo/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Pinpoint - Personal POI Mapping — Pinpoint is a free, privacy-preserving and open-source app to map things/points of interest in your surroundings and around the globe. [F-Droid]</title>
-      <link>https://github.com/StrangeGirlMurph/Pinpoint</link>
-      <guid isPermaLink="false">org.pinpoint@fdroid</guid>
-      <pubDate>Wed, 30 Sep 2026 11:36:16 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.pinpoint/en-US/icon_UVb3Qi1EU4UKhFQcTEE09tlRbzXPukKMZZgF5XmbY2w=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.pinpoint/en-US/icon_UVb3Qi1EU4UKhFQcTEE09tlRbzXPukKMZZgF5XmbY2w=.png&quot; alt=&quot;Pinpoint - Personal POI Mapping icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.pinpoint&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/StrangeGirlMurph/Pinpoint&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.pinpoint/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>RE:INSTEAD — Interactive fiction games [F-Droid]</title>
-      <link>https://github.com/instead-hub/reinstead-android</link>
-      <guid isPermaLink="false">ru.hugeping.reinstead@fdroid</guid>
-      <pubDate>Wed, 30 Sep 2026 11:36:16 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/ru.hugeping.reinstead/en-US/icon_LCnaFPP7l7VE3mkyYP3Sh2CzHxwFrw6naVgmb0Gj1ho=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/ru.hugeping.reinstead/en-US/icon_LCnaFPP7l7VE3mkyYP3Sh2CzHxwFrw6naVgmb0Gj1ho=.png&quot; alt=&quot;RE:INSTEAD icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ru.hugeping.reinstead&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/instead-hub/reinstead-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/ru.hugeping.reinstead/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Katawa Shoujo: Re-Engineered — (18+) A fan-made modernization of the classic visual novel [F-Droid]</title>
-      <link>https://codeberg.org/fhs/katawa-shoujo-re-engineered</link>
-      <guid isPermaLink="false">sh.fhs.ksre@fdroid</guid>
-      <pubDate>Wed, 30 Sep 2026 11:36:16 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/sh.fhs.ksre/en-US/icon_9lz9lmbGFBvVD8zrAr5ppDSiHa0BY_1M4Nq0waQmrLk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/sh.fhs.ksre/en-US/icon_9lz9lmbGFBvVD8zrAr5ppDSiHa0BY_1M4Nq0waQmrLk=.png&quot; alt=&quot;Katawa Shoujo: Re-Engineered icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;sh.fhs.ksre&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/fhs/katawa-shoujo-re-engineered&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/sh.fhs.ksre/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ExoAirPlayer — play video/audio cast via stateless HTML API [IzzyOnDroid]</title>
-      <link>https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver</link>
-      <guid isPermaLink="false">com.github.warren_bank.exoplayer_airplay_receiver@izzy</guid>
-      <pubDate>Tue, 29 Sep 2026 21:40:13 +0000</pubDate>
-      <description>&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.github.warren_bank.exoplayer_airplay_receiver&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.github.warren_bank.exoplayer_airplay_receiver&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Showly — an open source TV Shows &amp; Movies tracker app that works with Trakt [IzzyOnDroid]</title>
-      <link>https://github.com/trakt/showly</link>
-      <guid isPermaLink="false">com.michaldrabik.showly2@izzy</guid>
-      <pubDate>Tue, 29 Sep 2026 21:40:13 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.michaldrabik.showly2/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.michaldrabik.showly2/en-US/icon.png&quot; alt=&quot;Showly icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.michaldrabik.showly2&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/trakt/showly&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly2&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>VRChat Android Assistant — VRChat Friend Management Application for Android devices. [F-Droid]</title>
-      <link>https://github.com/Nyabsi/VRCAA</link>
-      <guid isPermaLink="false">cc.sovellus.vrcaa@fdroid</guid>
-      <pubDate>Mon, 28 Sep 2026 22:46:27 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/cc.sovellus.vrcaa/en-US/icon_vo4aB_uEWROsVSFTi_Tn3ioaFo6ah758XlczM_Qm3Ec=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/cc.sovellus.vrcaa/en-US/icon_vo4aB_uEWROsVSFTi_Tn3ioaFo6ah758XlczM_Qm3Ec=.png&quot; alt=&quot;VRChat Android Assistant icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;cc.sovellus.vrcaa&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Nyabsi/VRCAA&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/cc.sovellus.vrcaa/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Glosdalen — Vocabulary lookup with direct Anki card creation [F-Droid]</title>
-      <link>https://github.com/daniel-freiermuth/glosdalen</link>
-      <guid isPermaLink="false">com.glosdalen.app@fdroid</guid>
-      <pubDate>Mon, 28 Sep 2026 22:46:27 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.glosdalen.app/en-US/icon_VafkR_Ax1K9-BFh5rQXAvM2Ryz71yeUa76lVRdDfb5E=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.glosdalen.app/en-US/icon_VafkR_Ax1K9-BFh5rQXAvM2Ryz71yeUa76lVRdDfb5E=.png&quot; alt=&quot;Glosdalen icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.glosdalen.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/daniel-freiermuth/glosdalen&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.glosdalen.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
