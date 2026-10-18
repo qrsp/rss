@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 20:08:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:05:18 +0000</lastBuildDate>
+    <item>
+      <title>figcraft — Interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust [Extras] (v0.6.0)</title>
+      <link>https://github.com/storytold/figcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/figcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/figcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 17 Oct 2026 21:39:46 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-figcraft-0.6.0</guid>
+    </item>
     <item>
       <title>scoop-shim-kiennq — A better shim.exe file for Scoop [Main] (v3.2.2)</title>
       <link>https://github.com/kiennq/scoop-better-shimexe</link>
