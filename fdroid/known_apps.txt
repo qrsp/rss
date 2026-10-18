@@ -739,6 +739,7 @@ com.mdiqentw.lifedots
 com.megamaced.crate
 com.megamaced.nccollectives
 com.mendhak.gpslogger
+com.mensinator.app
 com.meshkachoutility
 com.meteocompare.app
 com.meteocool
@@ -965,6 +966,7 @@ com.shatteredpixel.shatteredpixeldungeon
 com.shinydiscoballsdev.kifossk
 com.shivangsagar.presencia
 com.shiyu.sime
+com.shub39.dharmik.online
 com.shub39.grit
 com.shub39.rush
 com.shubhang.loophole
@@ -1015,6 +1017,7 @@ com.splitsmart
 com.srkovnar.legacyphotoframe
 com.sshborg
 com.standardnotes
+com.starry.greenstash
 com.starry.myne
 com.steamserverbrowser.app
 com.steel101.musicplayer
@@ -1076,6 +1079,7 @@ com.tutpro.baresip.plus
 com.tw.clipshare
 com.twig.app
 com.tymwitko.recents
+com.tymwitko.toreplace
 com.typeassist.app
 com.tyraen.voicekeyboard
 com.uc.caffeine
@@ -1355,6 +1359,7 @@ dev.octoshrimpy.quik.fdroid
 dev.otaj.zelp
 dev.otherworld.shoppinglist
 dev.pgaxis.musicaxs
+dev.pranav.applock
 dev.renkinProject.renkin
 dev.rova.notes
 dev.rubec.otoscope
@@ -1452,8 +1457,10 @@ github.paroj.dsub2000
 gov.anzong.androidnga
 granularvolume.com
 helium314.keyboard
+helium314.localbackend
 hidden.protectedwp.safespace
 host.stjin.anonaddy
+hr.dtakac.prognoza
 hu.kadatsoft.smsreply
 hu.vmiklos.plees_tracker
 ie.delilahsthings.soothingloop
@@ -1710,6 +1717,7 @@ me.zhanghai.android.files
 micro.repl.ma7moud3ly
 moe.sable.client
 montafra.beam
+mrrfv.backup.companion
 nabu.iris.keyboard
 neion.nlchr2
 net.activitywatch.android
@@ -1944,6 +1952,7 @@ org.pinpoint
 org.playhex.twa
 org.quantumbadger.redreader
 org.ranobe.ranobe
+org.revengi.app
 org.sbv.pockettracker
 org.schabi.newpipe
 org.schabi.newpipe.localserver
@@ -2038,6 +2047,7 @@ seamain.org.typhoonEye
 sh.fhs.ksre
 sh.haven.app
 shub39.momentum
+si.brezavta.mobile
 si.jakobkreft.aftergleam
 si.jakobkreft.exifremove
 si.jakobkreft.ontime
@@ -2096,4 +2106,5 @@ xyz.metiq
 xyz.philei.ddnsupdater
 xyz.waozi.inbe
 xyz.waozi.pass
+yetzio.yetcalc
 zip.arcanum
