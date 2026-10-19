@@ -4,7 +4,42 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 12:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:00:06 +0000</lastBuildDate>
+    <item>
+      <title>openbao — An open source, community-driven secrets manager and fork of Vault managed by the Linux Foundation's OpenSSF. [Main] (v2.7.1)</title>
+      <link>https://openbao.org</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MPL-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openbao.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/openbao.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 14:24:32 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-openbao-2.7.1</guid>
+    </item>
+    <item>
+      <title>skysend — Share sensitive information securely with client-side encryption and self-destructing messages. [Extras] (v3.1.0)</title>
+      <link>https://skysend.app</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://skysend.app&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/skysend.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 18:37:06 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-skysend-3.1.0</guid>
+    </item>
+    <item>
+      <title>flut-renamer — A bulk file renamer written in flutter (dart). [Extras] (v1.6.3)</title>
+      <link>https://github.com/sun-jiao/flut-renamer</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sun-jiao/flut-renamer&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/flut-renamer.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 18:00:56 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-flut-renamer-1.6.3</guid>
+    </item>
+    <item>
+      <title>reach — A modern, cross-platform SSH client and remote server management tool. [Extras] (v0.7.8)</title>
+      <link>https://reachssh.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://reachssh.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/reach.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 16:52:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-reach-0.7.8</guid>
+    </item>
+    <item>
+      <title>x-anylabeling — AI-assisted desktop annotation tool for image, video, text and 3D point cloud data, with built-in YOLO, SAM and other models (CPU build) [Extras] (v4.2.0)</title>
+      <link>https://xanylabeling.com/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; This is the CPU build. For NVIDIA GPU acceleration, use a Windows CUDA 11/12/13 installer from&lt;br/&gt;https://github.com/CVHub520/X-AnyLabeling/releases matching your driver.&lt;br/&gt;X-AnyLabeling has a built-in updater; prefer `scoop update x-anylabeling` so Scoop stays in sync.&lt;br/&gt;To disable automatic update check, run `xanylabeling --no-auto-update-check`.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://xanylabeling.com/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/x-anylabeling.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 16:51:02 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-x-anylabeling-4.2.0</guid>
+    </item>
     <item>
       <title>scoop-shim-zig — A Scoop helper program for shimming executables (Zig) [Main] (v0.4.0)</title>
       <link>https://github.com/ScoopInstaller/Shim/</link>
