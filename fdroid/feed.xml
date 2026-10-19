@@ -5,8 +5,32 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:03:12 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TgMonet Theme — Simple Monet themes generator for Tg. [IzzyOnDroid]</title>
+      <link>https://github.com/mi-g-alex/Telegram-Monet</link>
+      <guid isPermaLink="false">com.c3r5b8.telegram_monet@izzy</guid>
+      <pubDate>Mon, 19 Oct 2026 22:03:06 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.c3r5b8.telegram_monet/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.c3r5b8.telegram_monet/en-US/icon.png&quot; alt=&quot;TgMonet Theme icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.c3r5b8.telegram_monet&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/mi-g-alex/Telegram-Monet&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.c3r5b8.telegram_monet&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Capy Reader — A smallish RSS reader [IzzyOnDroid]</title>
+      <link>https://github.com/jocmp/capyreader</link>
+      <guid isPermaLink="false">com.capyreader.app@izzy</guid>
+      <pubDate>Mon, 19 Oct 2026 22:03:06 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.capyreader.app/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.capyreader.app/en-US/icon.png&quot; alt=&quot;Capy Reader icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.capyreader.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jocmp/capyreader&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.capyreader.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>EVB Folder Player — Offline audiobooks from your folders, with saved progress and large controls [F-Droid] [Audiobook]</title>
       <link>https://github.com/evb0110/evb-folder-player</link>
@@ -6706,30 +6730,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.hoptodesk.app/en-US/icon.png&quot; alt=&quot;HopToDesk icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hoptodesk.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://gitlab.com/hoptodesk/hoptodesk&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.hoptodesk.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ScrcpyForAndroid — mirror display and touch control between Android devices [IzzyOnDroid]</title>
-      <link>https://github.com/zwc456baby/ScrcpyForAndroid</link>
-      <guid isPermaLink="false">org.client.scrcpy@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.client.scrcpy/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.client.scrcpy/en-US/icon.png&quot; alt=&quot;ScrcpyForAndroid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.client.scrcpy&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/zwc456baby/ScrcpyForAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.client.scrcpy&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>MediTrak — keep track of your medications [IzzyOnDroid]</title>
-      <link>https://github.com/AdamGuidarini/MediTrak</link>
-      <guid isPermaLink="false">projects.medicationtracker@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/projects.medicationtracker/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/projects.medicationtracker/en-US/icon.png&quot; alt=&quot;MediTrak icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;projects.medicationtracker&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/AdamGuidarini/MediTrak&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/projects.medicationtracker&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
