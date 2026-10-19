@@ -4,7 +4,49 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 03:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:10:25 +0000</lastBuildDate>
+    <item>
+      <title>scoop-shim-zig — A Scoop helper program for shimming executables (Zig) [Main] (v0.4.0)</title>
+      <link>https://github.com/ScoopInstaller/Shim/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unlicense|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Shim/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/scoop-shim-zig.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 08:45:21 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-scoop-shim-zig-0.4.0</guid>
+    </item>
+    <item>
+      <title>scoop-shim-rust — A Scoop helper program for shimming executables (Rust) [Main] (v0.4.0)</title>
+      <link>https://github.com/ScoopInstaller/Shim/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unlicense|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Shim/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/scoop-shim-rust.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 08:45:21 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-scoop-shim-rust-0.4.0</guid>
+    </item>
+    <item>
+      <title>scoop-shim-cs — A Scoop helper program for shimming executables (C#) [Main] (v0.4.0)</title>
+      <link>https://github.com/ScoopInstaller/Shim/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unlicense|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Shim/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/scoop-shim-cs.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 08:45:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-scoop-shim-cs-0.4.0</guid>
+    </item>
+    <item>
+      <title>scoop-shim-cpp — A Scoop helper program for shimming executables (C++) [Main] (v0.4.0)</title>
+      <link>https://github.com/ScoopInstaller/Shim/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unlicense|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Shim/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/scoop-shim-cpp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 08:45:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-scoop-shim-cpp-0.4.0</guid>
+    </item>
+    <item>
+      <title>ki-editor — Multi-cursor combinatoric modal editor. [Main] (v0.1)</title>
+      <link>https://ki-editor.org</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MPL-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ki-editor.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ki-editor.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 07:27:49 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-ki-editor-0.1</guid>
+    </item>
+    <item>
+      <title>skills-manager — Manage, sync, and organize AI agent skills across coding tools. [Extras] (v1.42.2)</title>
+      <link>https://skillsmanager.dev</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Microsoft Edge WebView2 Runtime is required.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://skillsmanager.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/skills-manager.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 11:18:17 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-skills-manager-1.42.2</guid>
+    </item>
     <item>
       <title>figcraft — Interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust [Extras] (v0.6.0)</title>
       <link>https://github.com/storytold/figcraft</link>
