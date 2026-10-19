@@ -436,6 +436,7 @@ com.ericlowry.dnstoggle
 com.espruino.gadgetbridge.banglejs
 com.ethereal.openscan
 com.etrisad.zenith
+com.evb.folderplayer
 com.example.deeplviewer
 com.example.research
 com.exner.tools.gymbott
@@ -629,6 +630,7 @@ com.jarsilio.android.magnifica
 com.jarsilio.android.pingoff
 com.jarsilio.android.scrambledeggsif
 com.jarsilio.android.waveup
+com.jarsilio.android.waveup.tasker
 com.jarves.mh
 com.javimetallab.papercript
 com.jayc180.rhythmengine
@@ -1319,6 +1321,7 @@ dev.davidv.translator
 dev.dettmer.simplenotes
 dev.dimension.flare
 dev.djara.wafrn_rn
+dev.easonhuang.heartwood
 dev.encgallery
 dev.fabik.bluetoothhid
 dev.fiedri.vibe
@@ -1334,6 +1337,7 @@ dev.kaleve.nonius
 dev.kerballone.spamblocker
 dev.khoj.pitaka.fdroid
 dev.kicker.hometiles
+dev.kokoro.tts
 dev.konraditurbe.osmosis
 dev.lbeernaert.youhavemail
 dev.leeeet.wallpapermoe
@@ -1465,6 +1469,7 @@ hu.kadatsoft.smsreply
 hu.vmiklos.plees_tracker
 ie.delilahsthings.soothingloop
 ie.equalit.ceno
+ie.xav.tetherbug
 im.narayana.another
 im.status.ethereum
 in.basulabs.shakealarmclock
@@ -1597,6 +1602,7 @@ io.github.quillpad
 io.github.rainerwingel.aurallisten
 io.github.rajnishkmehta.dhwanicontrol
 io.github.rastislavpapp.justopenlinksinabrowser
+io.github.revocx35.rwr
 io.github.ronynn.karui
 io.github.rotundtapir.fivehundred
 io.github.rumcajs.offlinewebsearch
@@ -1662,6 +1668,7 @@ it.belloworld.mercurygram.plugin.tor
 it.danieleverducci.lunatracker
 it.eldavo.ylih
 it.fast4x.riplay
+it.feio.android.omninotes.foss
 it.livetempo.app
 it.niedermann.nextcloud.deck
 it.niedermann.owncloud.notes
@@ -1697,6 +1704,7 @@ m.co.rh.id.a_news_provider
 m.co.rh.id.a_personal_stuff
 marto.rtl_tcp_andro
 me.ahmetcetinkaya.whph
+me.blog.korn123.easydiary
 me.hackerchick.catima
 me.hackerchick.sharetoinputstick
 me.jaival.files
@@ -1781,12 +1789,14 @@ net.wigle.wigleandroid
 net.yukh.currency
 net.yukh.xui
 net.yumicoradio.android
+neth.iecal.curbox
 network.loki.messenger.fdroid
 network.mysterium.vpn
 nl.baasmail.weathergrid
 nl.bw20.last_launcher
 nl.hansdezwart.bgclock
 nl.neerdael.projectm
+nl.neerdael.projectmtv
 nl.renzit.emborg
 nl.tjoeke.android
 no.falkp.vario
@@ -1941,6 +1951,7 @@ org.nutritionfacts.dailydozen
 org.ojrandom.paiesque
 org.onekash.kashcal
 org.openavisio.app
+org.openbanners.overlay
 org.opendataensemble.formulus
 org.openhab.habdroid.beta
 org.openobservatory.ooniprobe
