@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:01:06 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenBl — Showcasing the latest Bundesliga tables and results using Material You Design [IzzyOnDroid]</title>
+      <link>https://github.com/Ounzy/OpenBl</link>
+      <guid isPermaLink="false">com.Ounzy.OpenBl@izzy</guid>
+      <pubDate>Tue, 20 Oct 2026 21:01:03 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.Ounzy.OpenBl/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.Ounzy.OpenBl/en-US/icon.png&quot; alt=&quot;OpenBl icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.Ounzy.OpenBl&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Ounzy/OpenBl&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.Ounzy.OpenBl&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>TgMonet Theme — Simple Monet themes generator for Tg. [IzzyOnDroid]</title>
       <link>https://github.com/mi-g-alex/Telegram-Monet</link>
@@ -6718,18 +6730,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.ethereal.openscan/en-US/icon.png&quot; alt=&quot;OpenScan icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ethereal.openscan&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/ethereal-developers/OpenScan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>HopToDesk — Remote Desktop Software For Personal and Business use. [IzzyOnDroid]</title>
-      <link>https://gitlab.com/hoptodesk/hoptodesk</link>
-      <guid isPermaLink="false">com.hoptodesk.app@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.hoptodesk.app/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.hoptodesk.app/en-US/icon.png&quot; alt=&quot;HopToDesk icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hoptodesk.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/hoptodesk/hoptodesk&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.hoptodesk.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
