@@ -5,8 +5,44 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:02:51 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Notifications Recovery — Notifications Recovery allows you to review notifications at any time [IzzyOnDroid]</title>
+      <link>https://github.com/Alfio010/notification-listener-android</link>
+      <guid isPermaLink="false">com.alftendev.notlistener@izzy</guid>
+      <pubDate>Wed, 21 Oct 2026 21:02:46 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.alftendev.notlistener/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.alftendev.notlistener/en-US/icon.png&quot; alt=&quot;Notifications Recovery icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.alftendev.notlistener&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Alfio010/notification-listener-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.alftendev.notlistener&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Neo Feed — a custom Google Now Feed alternative for launchers [IzzyOnDroid]</title>
+      <link>https://github.com/NeoApplications/Neo-Feed</link>
+      <guid isPermaLink="false">com.saulhdev.neofeed@izzy</guid>
+      <pubDate>Wed, 21 Oct 2026 21:02:46 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.saulhdev.neofeed/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.saulhdev.neofeed/en-US/icon.png&quot; alt=&quot;Neo Feed icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.saulhdev.neofeed&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/NeoApplications/Neo-Feed&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.saulhdev.neofeed&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>ChromeXt — UserScripts and Dev Tools support for Chromium based and WebView based browsers [IzzyOnDroid]</title>
+      <link>https://github.com/JingMatrix/ChromeXt</link>
+      <guid isPermaLink="false">org.matrix.chromext@izzy</guid>
+      <pubDate>Wed, 21 Oct 2026 21:02:46 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.matrix.chromext/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.matrix.chromext/en-US/icon.png&quot; alt=&quot;ChromeXt icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.matrix.chromext&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/JingMatrix/ChromeXt&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.matrix.chromext&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>OpenBl — Showcasing the latest Bundesliga tables and results using Material You Design [IzzyOnDroid]</title>
       <link>https://github.com/Ounzy/OpenBl</link>
@@ -6694,42 +6730,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.paperknife.app/en-US/icon.png&quot; alt=&quot;PaperKnife: Privacy-First PDF Utility icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.paperknife.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/potatameister/PaperKnife&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.paperknife.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Monocons — Monochrome brand icons for Android launchers. [IzzyOnDroid]</title>
-      <link>https://github.com/k4ustu3h/monocons-android</link>
-      <guid isPermaLink="false">k4ustu3h.monocons.izzy@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 22:08:21 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/k4ustu3h.monocons.izzy/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/k4ustu3h.monocons.izzy/en-US/icon.png&quot; alt=&quot;Monocons icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;k4ustu3h.monocons.izzy&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/k4ustu3h/monocons-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/k4ustu3h.monocons.izzy&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ClearClipboard — The app is a quick way to clear the content of the clipboard with just one tap on the icon.Note: Only the current content of the clipboard is cleared, this app has no effect on other apps which manage your clipboard. [IzzyOnDroid]</title>
-      <link>https://github.com/amnesica/ClearClipboard</link>
-      <guid isPermaLink="false">com.amnesica.clearclipboard@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.amnesica.clearclipboard/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.amnesica.clearclipboard/en-US/icon.png&quot; alt=&quot;ClearClipboard icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.amnesica.clearclipboard&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/amnesica/ClearClipboard&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.amnesica.clearclipboard&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>OpenScan — Scan documents into a PDF or a bunch of images and share it with your contacts [IzzyOnDroid]</title>
-      <link>https://github.com/ethereal-developers/OpenScan</link>
-      <guid isPermaLink="false">com.ethereal.openscan@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 03:11:28 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.ethereal.openscan/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.ethereal.openscan/en-US/icon.png&quot; alt=&quot;OpenScan icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ethereal.openscan&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ethereal-developers/OpenScan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
