@@ -4,7 +4,42 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 03:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:11:13 +0000</lastBuildDate>
+    <item>
+      <title>mnemon — LLM-supervised persistent memory for AI agents [Main] (v0.2.12)</title>
+      <link>https://mnemon.dev</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mnemon.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/mnemon.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 08:25:58 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-mnemon-0.2.12</guid>
+    </item>
+    <item>
+      <title>madamiru — A cross-platform media player that can automatically shuffle multiple videos, images, and songs at once in a grid layout. [Extras] (v0.5.0)</title>
+      <link>https://github.com/mtkennerly/madamiru</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; GStreamer must also be installed for the application to work correctly.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mtkennerly/madamiru&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/madamiru.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 10:43:54 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-madamiru-0.5.0</guid>
+    </item>
+    <item>
+      <title>gstreamer — Open-source library for constructing graphs of media-handling components. [Extras] (v1.28.8)</title>
+      <link>https://gstreamer.freedesktop.org</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; LGPL-2.1-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; GSTREAMER_1_0_ROOT_MSVC_(X86, X86_64, ARM64), GST_PLUGIN_PATH and PKG_CONFIG_PATH are set for the user.&lt;br/&gt;Reopen the terminal, then run 'gst-inspect-1.0 --version' to check the install.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gstreamer.freedesktop.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/gstreamer.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 10:42:46 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-gstreamer-1.28.8</guid>
+    </item>
+    <item>
+      <title>hatoba — Open-source desktop SSH client with an AI assistant and end-to-end encrypted sync [Extras] (v0.5.0)</title>
+      <link>https://hatoba.fog.moe</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://hatoba.fog.moe&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/hatoba.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 08:39:36 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-hatoba-0.5.0</guid>
+    </item>
+    <item>
+      <title>cate — An infinite zoomable canvas IDE with editor, terminal, and browser panels [Extras] (v2.0.5)</title>
+      <link>https://cate.cero-ai.com</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cate.cero-ai.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/cate.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 07:33:16 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-cate-2.0.5</guid>
+    </item>
     <item>
       <title>fluentcleaner — Transparent, community-powered CCleaner alternative for Windows, featuring terminal control and multi-database support. [Extras] (v26.09.01)</title>
       <link>https://github.com/builtbybel/FluentCleaner</link>
