@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:37:55 +0000</lastBuildDate>
+    <item>
+      <title>shadowsocks-v2ray-plugin — SIP003 plugin based on v2ray for shadowsocks [Extras] (v1.4.0)</title>
+      <link>https://github.com/shadowsocks/v2ray-plugin</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shadowsocks/v2ray-plugin&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/shadowsocks-v2ray-plugin.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 16:34:24 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-shadowsocks-v2ray-plugin-1.4.0</guid>
+    </item>
     <item>
       <title>mnemon — LLM-supervised persistent memory for AI agents [Main] (v0.2.12)</title>
       <link>https://mnemon.dev</link>
