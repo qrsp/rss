@@ -5,8 +5,56 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:59:30 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>PaperKnife+ — Privacy-first PDF utility: merge, split, rotate, and protect [IzzyOnDroid]</title>
+      <link>https://github.com/potatameister/PaperKnifePlus</link>
+      <guid isPermaLink="false">com.paperknifeplus.app@izzy</guid>
+      <pubDate>Thu, 22 Oct 2026 20:59:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.paperknifeplus.app/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.paperknifeplus.app/en-US/icon.png&quot; alt=&quot;PaperKnife+ icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.paperknifeplus.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/potatameister/PaperKnifePlus&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.paperknifeplus.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bazarnote — A simple offline shopping list app [IzzyOnDroid]</title>
+      <link>https://github.com/rootminusone8004/Bazarnote</link>
+      <guid isPermaLink="false">com.rootminusone8004.bazarnote@izzy</guid>
+      <pubDate>Thu, 22 Oct 2026 20:59:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.rootminusone8004.bazarnote/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.rootminusone8004.bazarnote/en-US/icon.png&quot; alt=&quot;Bazarnote icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rootminusone8004.bazarnote&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/rootminusone8004/Bazarnote&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.rootminusone8004.bazarnote&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>airplanes.live — airplanes.live Android app - For aviation enthusiasts [IzzyOnDroid]</title>
+      <link>https://github.com/d4rken-org/airplanes-live-app</link>
+      <guid isPermaLink="false">eu.darken.apl@izzy</guid>
+      <pubDate>Thu, 22 Oct 2026 20:59:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/eu.darken.apl/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/eu.darken.apl/en-US/icon.png&quot; alt=&quot;airplanes.live icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.darken.apl&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/d4rken-org/airplanes-live-app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/eu.darken.apl&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Middor — Middor is a free and open-source Android application for mirroring apps on your device.With built-in support for horizontal flip and 180° rotation, Middor can be used to:Display apps on a HUDProject content onto a car windscreen (e.g. [IzzyOnDroid]</title>
+      <link>https://github.com/nktnet1/middor</link>
+      <guid isPermaLink="false">org.nktnet.middor@izzy</guid>
+      <pubDate>Thu, 22 Oct 2026 20:59:24 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.nktnet.middor/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.nktnet.middor/en-US/icon.png&quot; alt=&quot;Middor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.nktnet.middor&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nktnet1/middor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.nktnet.middor&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Notifications Recovery — Notifications Recovery allows you to review notifications at any time [IzzyOnDroid]</title>
       <link>https://github.com/Alfio010/notification-listener-android</link>
@@ -6682,54 +6730,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/icons/org.smc.inputmethod.indic.211.png&quot; alt=&quot;Indic Keyboard icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.smc.inputmethod.indic&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://gitlab.com/indicproject/Indic-Keyboard&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.smc.inputmethod.indic/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Î±-Remote — A Bluetooth remote control app for Sony Alpha cameras that is immediately available in your phone's notification area as soon as you turn on your camera. [F-Droid]</title>
-      <link>https://github.com/Staacks/alpharemote</link>
-      <guid isPermaLink="false">org.staacks.alpharemote@fdroid</guid>
-      <pubDate>Thu, 01 Oct 2026 22:08:21 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.staacks.alpharemote/en-US/icon_3AelCktcwAsTW-Cqng9dxgXX2C6JUamMH6TIcibbqp4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.staacks.alpharemote/en-US/icon_3AelCktcwAsTW-Cqng9dxgXX2C6JUamMH6TIcibbqp4=.png&quot; alt=&quot;Î±-Remote icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.staacks.alpharemote&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Staacks/alpharemote&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.staacks.alpharemote/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Advanced PortChecker — Check if TCP ports are open. [IzzyOnDroid]</title>
-      <link>https://github.com/CodeDead/Advanced-PortChecker-android</link>
-      <guid isPermaLink="false">com.codedead.advancedportchecker@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 22:08:21 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.codedead.advancedportchecker/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.codedead.advancedportchecker/en-US/icon.png&quot; alt=&quot;Advanced PortChecker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.codedead.advancedportchecker&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/CodeDead/Advanced-PortChecker-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.codedead.advancedportchecker&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>DeadHash — Hashsum calculation utility. [IzzyOnDroid]</title>
-      <link>https://github.com/CodeDead/DeadHash-android</link>
-      <guid isPermaLink="false">com.codedead.deadhash@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 22:08:21 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.codedead.deadhash/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.codedead.deadhash/en-US/icon.png&quot; alt=&quot;DeadHash icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.codedead.deadhash&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/CodeDead/DeadHash-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.codedead.deadhash&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>PaperKnife: Privacy-First PDF Utility — Privacy-first PDF utility: Merge, Split, Compress &amp; Protect PDFs 100% locally. [IzzyOnDroid]</title>
-      <link>https://github.com/potatameister/PaperKnife</link>
-      <guid isPermaLink="false">com.paperknife.app@izzy</guid>
-      <pubDate>Thu, 01 Oct 2026 22:08:21 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.paperknife.app/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.paperknife.app/en-US/icon.png&quot; alt=&quot;PaperKnife: Privacy-First PDF Utility icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.paperknife.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/potatameister/PaperKnife&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.paperknife.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
