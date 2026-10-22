@@ -4,7 +4,49 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 16:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:12:25 +0000</lastBuildDate>
+    <item>
+      <title>mr-boxington — A shared cache for Cargo builds that reuses compiler work across projects, worktrees, and CI. [Main] (v1.26.0)</title>
+      <link>https://mr-boxington.jdx.dev</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mr-boxington.jdx.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/mr-boxington.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:48:04 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-mr-boxington-1.26.0</guid>
+    </item>
+    <item>
+      <title>kingfisher — A blazingly fast secret scanner that detects leaked secrets, validates which credentials are live, maps their blast radius, and revokes exposed secrets. [Main] (v2.14.0)</title>
+      <link>https://mongodb.github.io/kingfisher/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mongodb.github.io/kingfisher/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/kingfisher.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:47:54 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-kingfisher-2.14.0</guid>
+    </item>
+    <item>
+      <title>dpanel-desktop-ce — DPanel Community Edition desktop app for managing Docker and Podman containers. [Extras] (v1.11.1)</title>
+      <link>https://dpanel.cc/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://dpanel.cc/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/dpanel-desktop-ce.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:39:03 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-dpanel-desktop-ce-1.11.1</guid>
+    </item>
+    <item>
+      <title>dpanel-desktop-pe — DPanel Pro Edition desktop app for managing Docker and Podman containers. [Extras] (v1.11.1)</title>
+      <link>https://dpanel.cc/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; A valid Pro license is required to use Pro features.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://dpanel.cc/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/dpanel-desktop-pe.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:39:03 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-dpanel-desktop-pe-1.11.1</guid>
+    </item>
+    <item>
+      <title>tixl — An open source software to create realtime motion graphics. [Extras] (v4.2.1)</title>
+      <link>https://tixl.app</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://tixl.app&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/tixl.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 18:28:16 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-tixl-4.2.1</guid>
+    </item>
+    <item>
+      <title>mp3rgain-gui — Lossless MP3 volume adjustment - a modern mp3gain replacement written in Rust [Extras] (v3.12.0)</title>
+      <link>https://mp3rgain.tyna.ninja</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mp3rgain.tyna.ninja&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/mp3rgain-gui.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:31:32 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-mp3rgain-gui-3.12.0</guid>
+    </item>
     <item>
       <title>diskwatch — Single-host, read-only disk diagnostics TUI. [Main] (v0.7.0)</title>
       <link>https://github.com/matthart1983/diskwatch</link>
@@ -1362,34 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/PowerShell/dsc&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dsc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Mon, 31 Aug 2026 04:13:12 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-dsc-3.2.3</guid>
-    </item>
-    <item>
-      <title>leopardwm — Scroll-first tiling window manager for Windows, inspired by niri. [Extras] (v0.2.8)</title>
-      <link>https://github.com/jcardama/LeopardWM</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jcardama/LeopardWM&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/leopardwm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 10:56:42 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-leopardwm-0.2.8</guid>
-    </item>
-    <item>
-      <title>appnetworkcounter — Displays number of TCP/UDP bytes and packets sent/received by every application [Nirsoft] (v1.61)</title>
-      <link>https://www.nirsoft.net/utils/app_network_counter.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/app_network_counter.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/appnetworkcounter.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 16:09:14 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Nirsoft-appnetworkcounter-1.61</guid>
-    </item>
-    <item>
-      <title>jaeger — Open source, distributed tracing platform. [Main] (v2.20.0)</title>
-      <link>https://www.jaegertracing.io</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.jaegertracing.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/jaeger.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 07:26:17 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-jaeger-2.20.0</guid>
-    </item>
-    <item>
-      <title>exifcleaner — Image metadata cleaner [Extras] (v4.2.1)</title>
-      <link>https://exifcleaner.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://exifcleaner.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/exifcleaner.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 06:17:49 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-exifcleaner-4.2.1</guid>
     </item>
   </channel>
 </rss>
