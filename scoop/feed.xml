@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:20:57 +0000</lastBuildDate>
+    <item>
+      <title>tinyrdm — A modern, colorful, super lightweight Redis GUI client. [Extras] (v1.2.7)</title>
+      <link>https://www.tinyrdm.com/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.tinyrdm.com/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/tinyrdm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 23:14:23 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-tinyrdm-1.2.7</guid>
+    </item>
+    <item>
+      <title>euro-office — Office suite that combines text, spreadsheet, presentation and PDF editors allowing to create, view and edit documents. [Extras] (v9.3.5-2)</title>
+      <link>https://github.com/Euro-Office/DesktopEditors</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Euro-Office/DesktopEditors&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/euro-office.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 22:22:54 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-euro-office-9.3.5-2</guid>
+    </item>
     <item>
       <title>github-stars-manager — AI-powered GitHub starred repositories management tool. [Extras] (v0.8.7)</title>
       <link>https://gsm.aminta.top</link>
