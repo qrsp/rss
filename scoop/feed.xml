@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 11:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:29:13 +0000</lastBuildDate>
+    <item>
+      <title>vacuumtube — Unofficial YouTube Leanback (the Smart TV interface) desktop wrapper with a built-in ad blocker and enhancements. [Extras] (v2.0.1)</title>
+      <link>https://github.com/shy1132/VacuumTube</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shy1132/VacuumTube&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vacuumtube.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 11:48:56 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-vacuumtube-2.0.1</guid>
+    </item>
+    <item>
+      <title>snitch — Open-source application firewall and network observer with Sigma rules [Extras] (v1.6.4)</title>
+      <link>https://aixisstudio.github.io/Snitch/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Snitch requires Npcap for packet capture on Windows.&lt;br/&gt;Download Npcap: https://npcap.com/#download&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://aixisstudio.github.io/Snitch/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/snitch.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 11:36:16 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-snitch-1.6.4</guid>
+    </item>
+    <item>
+      <title>netcatty — AI-powered SSH client, SFTP browser, and terminal manager [Extras] (v1.1.85)</title>
+      <link>https://netcatty.app</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://netcatty.app&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/netcatty.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 11:15:20 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-netcatty-1.1.85</guid>
+    </item>
     <item>
       <title>scidavis — Data analysis and visualization program aimed at high-quality plotting of scientific data [Extras] (v2.8)</title>
       <link>http://scidavis.sourceforge.net/</link>
@@ -1383,27 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://fooyin.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/fooyin.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Tue, 01 Sep 2026 21:23:05 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-fooyin-0.12.6</guid>
-    </item>
-    <item>
-      <title>grok-bot — Always-on AI agents from xAI and Cursor that work autonomously across your tools and apps. [Extras] (v0.30.0)</title>
-      <link>https://x.ai/bot</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.ai/bot&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/grok-bot.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 15:36:30 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-grok-bot-0.30.0</guid>
-    </item>
-    <item>
-      <title>obs-cmd — A lightweight command-line interface for controlling OBS Studio via the obs-websocket v5 protocol. [Extras] (v1.0.2)</title>
-      <link>https://github.com/grigio/obs-cmd</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/grigio/obs-cmd&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/obs-cmd.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 11:12:45 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-obs-cmd-1.0.2</guid>
-    </item>
-    <item>
-      <title>ipneighborsview — View the IP neighbor table on Windows 10/8/7/Vista [Nirsoft] (v1.04)</title>
-      <link>https://www.nirsoft.net/utils/ip_neighbor_table_view.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/ip_neighbor_table_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/ipneighborsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 09:31:24 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Nirsoft-ipneighborsview-1.04</guid>
     </item>
   </channel>
 </rss>
