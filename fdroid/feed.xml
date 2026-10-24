@@ -5,8 +5,68 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 20:49:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:59:06 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MatrixTinz — A modern calculator app with a nice stylish UI and tweakable settings [IzzyOnDroid]</title>
+      <link>https://github.com/D-e-vGoodify/MatrixTinz</link>
+      <guid isPermaLink="false">com.goodify.matrixtinz.app@izzy</guid>
+      <pubDate>Sat, 24 Oct 2026 19:59:00 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.goodify.matrixtinz.app/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.goodify.matrixtinz.app/en-US/icon.png&quot; alt=&quot;MatrixTinz icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.goodify.matrixtinz.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/D-e-vGoodify/MatrixTinz&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.goodify.matrixtinz.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Nitterium — An Android app for Nitter and Teapot with local subscriptions and no Twitter/X a [IzzyOnDroid]</title>
+      <link>https://github.com/kaleedtc/Nitterium</link>
+      <guid isPermaLink="false">com.kaleedtc.nitterium@izzy</guid>
+      <pubDate>Sat, 24 Oct 2026 19:59:00 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.kaleedtc.nitterium/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.kaleedtc.nitterium/en-US/icon.png&quot; alt=&quot;Nitterium icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.kaleedtc.nitterium&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/kaleedtc/Nitterium&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.kaleedtc.nitterium&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Baba — Discover Baba: The app that revolutionizes contributing to Panoramax [IzzyOnDroid]</title>
+      <link>https://gitlab.com/ravenfeld/baba</link>
+      <guid isPermaLink="false">com.ravenfeld.panoramax.baba@izzy</guid>
+      <pubDate>Sat, 24 Oct 2026 19:59:00 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.ravenfeld.panoramax.baba/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.ravenfeld.panoramax.baba/en-US/icon.png&quot; alt=&quot;Baba icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ravenfeld.panoramax.baba&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://gitlab.com/ravenfeld/baba&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.ravenfeld.panoramax.baba&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bluesky Redirect — Deep linking proxy for Bluesky to launch your preferred client automatically [IzzyOnDroid]</title>
+      <link>https://github.com/Turtlepaw/BlueskyRedirect</link>
+      <guid isPermaLink="false">io.github.turtlepaw.blueskyredirect@izzy</guid>
+      <pubDate>Sat, 24 Oct 2026 19:59:00 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.turtlepaw.blueskyredirect/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.turtlepaw.blueskyredirect/en-US/icon.png&quot; alt=&quot;Bluesky Redirect icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.turtlepaw.blueskyredirect&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Turtlepaw/BlueskyRedirect&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.turtlepaw.blueskyredirect&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Kreate — A multilingual YouTube Music frontend for Android, prioritize performance. [IzzyOnDroid]</title>
+      <link>https://github.com/knighthat/Kreate</link>
+      <guid isPermaLink="false">me.knighthat.kreate@izzy</guid>
+      <pubDate>Sat, 24 Oct 2026 19:59:00 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/me.knighthat.kreate/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/me.knighthat.kreate/en-US/icon.png&quot; alt=&quot;Kreate icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;me.knighthat.kreate&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/knighthat/Kreate&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/me.knighthat.kreate&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>PlugBrain — PlugBrain blocks apps and uses math challenges to reduce screen time. [IzzyOnDroid]</title>
       <link>https://github.com/msbelaid/PlugBrain</link>
@@ -6726,72 +6786,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;su.mya.mocklock&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/ma5ter/MockLock&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/su.mya.mocklock/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>BlockAds: Clean Internet — Block ads &amp; trackers system-wide. Firewall, SafeSearch, profiles [IzzyOnDroid]</title>
-      <link>https://github.com/pass-with-high-score/blockads-android</link>
-      <guid isPermaLink="false">app.pwhs.blockads@izzy</guid>
-      <pubDate>Sun, 04 Oct 2026 20:39:40 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.pwhs.blockads/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.pwhs.blockads/en-US/icon.png&quot; alt=&quot;BlockAds: Clean Internet icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.pwhs.blockads&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/pass-with-high-score/blockads-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.pwhs.blockads&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Jaliscope — A vectorscope program centered around performance, accuracy, and customizability [IzzyOnDroid] [Graphics]</title>
-      <link>https://codeberg.org/CalibratedMind/Jaliscope</link>
-      <guid isPermaLink="false">com.audiosoftware.jaliscope@izzy</guid>
-      <pubDate>Sun, 04 Oct 2026 20:39:40 +0000</pubDate>
-      <category>Graphics</category>
-      <category>Multimedia</category>
-      <category>Science &amp; Education</category>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.audiosoftware.jaliscope/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.audiosoftware.jaliscope/en-US/icon.png&quot; alt=&quot;Jaliscope icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.audiosoftware.jaliscope&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/CalibratedMind/Jaliscope&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.audiosoftware.jaliscope&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Bura — Modern weather app with graphs and thoughtful data visualization [IzzyOnDroid]</title>
-      <link>https://github.com/davidtakac/bura</link>
-      <guid isPermaLink="false">com.davidtakac.bura@izzy</guid>
-      <pubDate>Sun, 04 Oct 2026 20:39:40 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.davidtakac.bura/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.davidtakac.bura/en-US/icon.png&quot; alt=&quot;Bura icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.davidtakac.bura&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/davidtakac/bura&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.davidtakac.bura&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>org.tagspaces.mobileapp — organize, tag and browse your files, photos and documents [IzzyOnDroid]</title>
-      <link>https://github.com/tagspaces/tagspaces</link>
-      <guid isPermaLink="false">org.tagspaces.mobileapp@izzy</guid>
-      <pubDate>Sun, 04 Oct 2026 20:39:40 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.tagspaces.mobileapp/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.tagspaces.mobileapp/en-US/icon.png&quot; alt=&quot;org.tagspaces.mobileapp icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.tagspaces.mobileapp&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/tagspaces/tagspaces&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.tagspaces.mobileapp&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Count for me — An interval timer you write, not one you just set. [F-Droid] [Workout]</title>
-      <link>https://github.com/ether-strannik/CountForMe</link>
-      <guid isPermaLink="false">com.al.countforme@fdroid</guid>
-      <pubDate>Sun, 04 Oct 2026 03:28:15 +0000</pubDate>
-      <category>Workout</category>
-      <enclosure url="https://f-droid.org/repo/com.al.countforme/en-US/icon_9S9UD_I6ZzUMJjh8ys_nCeTsWt7H5QOcd4stbvwQ_ds=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.al.countforme/en-US/icon_9S9UD_I6ZzUMJjh8ys_nCeTsWt7H5QOcd4stbvwQ_ds=.png&quot; alt=&quot;Count for me icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.al.countforme&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ether-strannik/CountForMe&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.al.countforme/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
