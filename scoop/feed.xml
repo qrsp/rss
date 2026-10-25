@@ -4,7 +4,7 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 15:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:23:28 +0000</lastBuildDate>
     <item>
       <title>gitea-importer — CLI tool for migrating repositories, organizations, or entire installations from third-party Git hosting providers into Gitea. [Extras] (v0.0.2)</title>
       <link>https://gitea.com/gitea/importer</link>
