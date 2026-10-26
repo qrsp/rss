@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 03:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:16:51 +0000</lastBuildDate>
+    <item>
+      <title>openai-cli — Official command-line tool for the OpenAI API [Main] (v1.42.1)</title>
+      <link>https://github.com/openai/openai-cli</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/openai-cli&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/openai-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 07:40:03 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-openai-cli-1.42.1</guid>
+    </item>
     <item>
       <title>ratiomaster — Standalone application which fakes upload and download stats of a torrent [Extras] (v1.3.1)</title>
       <link>https://ratiomaster.net/</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nyaterm.app&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/nyaterm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Fri, 04 Sep 2026 15:20:07 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-nyaterm-1.2.8</guid>
-    </item>
-    <item>
-      <title>t3code — Desktop app for orchestrating AI coding agents like Claude Code, Codex, Cursor CLI and OpenCode [Extras] (v0.0.38)</title>
-      <link>https://t3.codes</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://t3.codes&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/t3code.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 15:09:08 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-t3code-0.0.38</guid>
     </item>
   </channel>
 </rss>
