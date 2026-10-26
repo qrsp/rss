@@ -5,8 +5,44 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 20:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:14:25 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Waterfly III — Unofficial App for Firefly III, an open source personal finance manager. [IzzyOnDroid]</title>
+      <link>https://github.com/dreautall/waterfly-iii</link>
+      <guid isPermaLink="false">com.dreautall.waterflyiii@izzy</guid>
+      <pubDate>Mon, 26 Oct 2026 22:14:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.dreautall.waterflyiii/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.dreautall.waterflyiii/en-US/icon.png&quot; alt=&quot;Waterfly III icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.dreautall.waterflyiii&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dreautall/waterfly-iii&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Findroid — Third-party native Jellyfin app [IzzyOnDroid]</title>
+      <link>https://github.com/jarnedemeulemeester/findroid</link>
+      <guid isPermaLink="false">dev.jdtech.jellyfin@izzy</guid>
+      <pubDate>Mon, 26 Oct 2026 22:14:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.jdtech.jellyfin/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.jdtech.jellyfin/en-US/icon.png&quot; alt=&quot;Findroid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.jdtech.jellyfin&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jarnedemeulemeester/findroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>ListenBrainz — The Official ListenBrainz App [IzzyOnDroid]</title>
+      <link>https://github.com/metabrainz/listenbrainz-android</link>
+      <guid isPermaLink="false">org.listenbrainz.android@izzy</guid>
+      <pubDate>Mon, 26 Oct 2026 22:14:19 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.listenbrainz.android/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.listenbrainz.android/en-US/icon.png&quot; alt=&quot;ListenBrainz icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.listenbrainz.android&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/metabrainz/listenbrainz-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.listenbrainz.android&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>CClauncher — Minimal home launcher that hides apps by default to reduce distractions [F-Droid]</title>
       <link>https://github.com/mlm-games/cclauncher</link>
@@ -6778,46 +6814,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.h3yk0.cryo&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/H3yK0/cryo&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.h3yk0.cryo/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Vectorint — See how much you can safely spend right now [F-Droid] [Finance Manager]</title>
-      <link>https://github.com/Kamui2040/Vectorint</link>
-      <guid isPermaLink="false">io.github.kamui2040.vectorint@fdroid</guid>
-      <pubDate>Sat, 10 Oct 2026 11:36:33 +0000</pubDate>
-      <category>Finance Manager</category>
-      <enclosure url="https://f-droid.org/repo/io.github.kamui2040.vectorint/en-US/icon_vSmpO2rx0DIixBwAU-FwUghvqpFJ_mkN-vxGZldZpNk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.kamui2040.vectorint/en-US/icon_vSmpO2rx0DIixBwAU-FwUghvqpFJ_mkN-vxGZldZpNk=.png&quot; alt=&quot;Vectorint icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.kamui2040.vectorint&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Kamui2040/Vectorint&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.kamui2040.vectorint/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sweep — Plain-language stalkerware checkup. On-device, nothing stored or sent [F-Droid] [Security]</title>
-      <link>https://github.com/munzzyy/sweep</link>
-      <guid isPermaLink="false">io.github.munzzyy.sweep@fdroid</guid>
-      <pubDate>Sat, 10 Oct 2026 11:36:33 +0000</pubDate>
-      <category>Security</category>
-      <enclosure url="https://f-droid.org/repo/io.github.munzzyy.sweep/en-US/icon_c0EqrhwtH5Axuh0GLwLp7T6FpM7Gw1mhtYh3ClfJ6lo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.munzzyy.sweep/en-US/icon_c0EqrhwtH5Axuh0GLwLp7T6FpM7Gw1mhtYh3ClfJ6lo=.png&quot; alt=&quot;Sweep icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.munzzyy.sweep&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/munzzyy/sweep&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.munzzyy.sweep/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Aard 2 — Offline dictionary [F-Droid]</title>
-      <link>https://github.com/itkach/aard2-android</link>
-      <guid isPermaLink="false">itkach.aard2@fdroid</guid>
-      <pubDate>Sat, 10 Oct 2026 11:36:33 +0000</pubDate>
-      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;Aard 2 icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;itkach.aard2&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/itkach/aard2-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/itkach.aard2/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
