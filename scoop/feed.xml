@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 12:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:18:25 +0000</lastBuildDate>
+    <item>
+      <title>xdman — Fast, resumable download accelerator and streaming video downloader. [Extras] (v9.0.8)</title>
+      <link>https://xtremedownloadmanager.com/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://xtremedownloadmanager.com/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/xdman.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 18:36:47 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-xdman-9.0.8</guid>
+    </item>
     <item>
       <title>openai-cli — Official command-line tool for the OpenAI API [Main] (v1.42.1)</title>
       <link>https://github.com/openai/openai-cli</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://onorca.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/orca-ide.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Sat, 05 Sep 2026 03:55:56 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-orca-ide-1.4.197</guid>
-    </item>
-    <item>
-      <title>nyaterm — A modern remote terminal workspace [Extras] (v1.2.8)</title>
-      <link>https://nyaterm.app</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nyaterm.app&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/nyaterm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 15:20:07 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-nyaterm-1.2.8</guid>
     </item>
   </channel>
 </rss>
