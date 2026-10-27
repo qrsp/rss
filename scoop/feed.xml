@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 27 Oct 2026 03:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:37:19 +0000</lastBuildDate>
+    <item>
+      <title>ecspresso — Deployment tool for Amazon ECS [Main] (v2.8.7)</title>
+      <link>https://github.com/kayac/ecspresso</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kayac/ecspresso&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ecspresso.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:57:19 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-ecspresso-2.8.7</guid>
+    </item>
     <item>
       <title>xdman — Fast, resumable download accelerator and streaming video downloader. [Extras] (v9.0.8)</title>
       <link>https://xtremedownloadmanager.com/</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.oo-software.com/en/ooregeditor&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/regeditor.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Sun, 06 Sep 2026 07:26:23 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-regeditor-16.1.6660</guid>
-    </item>
-    <item>
-      <title>orca-ide — The next-gen IDE for working with a fleet of parallel agents. [Extras] (v1.4.197)</title>
-      <link>https://onorca.dev</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://onorca.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/orca-ide.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 03:55:56 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-orca-ide-1.4.197</guid>
     </item>
   </channel>
 </rss>
