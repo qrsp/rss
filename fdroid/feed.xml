@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:37:09 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cryptomator — Put a lock on your cloud: Take the security of your data into your own hands [IzzyOnDroid]</title>
+      <link>https://github.com/cryptomator/android</link>
+      <guid isPermaLink="false">org.cryptomator@izzy</guid>
+      <pubDate>Tue, 27 Oct 2026 21:37:06 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.cryptomator/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.cryptomator/en-US/icon.png&quot; alt=&quot;Cryptomator icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.cryptomator&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/cryptomator/android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.cryptomator&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Waterfly III — Unofficial App for Firefly III, an open source personal finance manager. [IzzyOnDroid]</title>
       <link>https://github.com/dreautall/waterfly-iii</link>
@@ -6800,20 +6812,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/io.github.codeg0blin.videowallpaper/en-US/icon_1gS37oZiOyAfbsRyZAfTTwTmoy4ukvgK6CQSyVDkf_c=.png&quot; alt=&quot;Video Live Wallpaper icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.codeg0blin.videowallpaper&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/codeg0blin/video-live-wallpaper&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.codeg0blin.videowallpaper/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Cryo — Personal finance by voice: forecast, cards, debts, budgets and goals [F-Droid] [Finance Manager]</title>
-      <link>https://github.com/H3yK0/cryo</link>
-      <guid isPermaLink="false">io.github.h3yk0.cryo@fdroid</guid>
-      <pubDate>Sat, 10 Oct 2026 11:36:33 +0000</pubDate>
-      <category>Finance Manager</category>
-      <enclosure url="https://f-droid.org/repo/io.github.h3yk0.cryo/en-US/icon_yuRDTBjegSonxxZ96uZCafz7yXeN8U923hVqq-lSCK0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.h3yk0.cryo/en-US/icon_yuRDTBjegSonxxZ96uZCafz7yXeN8U923hVqq-lSCK0=.png&quot; alt=&quot;Cryo icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.h3yk0.cryo&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/H3yK0/cryo&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.h3yk0.cryo/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
