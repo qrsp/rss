@@ -120,6 +120,7 @@ be.cuypers_ghys.gaai
 be.martinelli.miniflutt
 be.ppareit.swiftp_free
 be.robinj.distrohopper
+be.suivicompteurs.app
 bengtsson.net.svampkompass
 bilalsul.rzr
 bim.app
@@ -132,6 +133,7 @@ br.com.gualandi.dailypill
 br.com.jotdown
 br.com.revisaciclo
 br.com.valdenor.biblialivreipm
+btools.routingapp
 ca.asmat.foggymaps
 ca.cyberengma.openodo
 ca.ilianokokoro.umihi.music
@@ -314,6 +316,7 @@ com.bivouac.app
 com.bl4ckswordsman.cerberustiles
 com.blackbox.app
 com.blankdev.sidestep
+com.blazify.music
 com.blockdrop.game
 com.blogspot.developersu.ns_usbloader
 com.blueapps.egyptianwriter
@@ -542,6 +545,7 @@ com.freerdp.afreerdp
 com.freetime.geoweather
 com.freetime.ssmpc
 com.freqcast
+com.frequent.habits
 com.froxot.cuscon.foss
 com.fsck.k9
 com.furthersecrets.chemsearch
@@ -557,6 +561,7 @@ com.gelakinetic.mtgfam
 com.gemwallet.android
 com.georgernstgraf.polishedrecognition
 com.georgeyt9769.cardabase
+com.giacomomensio.ricevapp
 com.gideontek.phonetrack
 com.git.itdolan31.crystalpad
 com.github.andreyasadchy.xtra
@@ -669,6 +674,7 @@ com.igisw.openmoneybox
 com.iiordanov.freeaRDP
 com.iiordanov.freebVNC
 com.illiouchine.jm
+com.imi.smartedge.sidebar.panel
 com.infomaniak.euria
 com.inky.fitnesscalendar
 com.inspiredandroid.braincup
@@ -898,6 +904,7 @@ com.norsehorse.scrubpony
 com.nothingsecure
 com.noty.app
 com.novadial.phone
+com.nsheremet.filmlab
 com.nunti
 com.nvllz.piggsy
 com.nyancatlabs.whisper
@@ -1059,6 +1066,7 @@ com.scariflabs.horus
 com.schwegelbin.openbible
 com.seafile.seadroid2
 com.searchlauncher.app
+com.seca.contacts
 com.seca.phone
 com.secninjaz.octolab
 com.securescreen.app
@@ -1339,6 +1347,7 @@ de.herrmann_engel.rbv
 de.hexenwoche.audiolex
 de.hohnepeople.keepadb
 de.huepping.wortmuehle
+de.huppke.questlog
 de.huttersoft.mightyalarmclock
 de.j4velin.wifiAutoOff
 de.jeanlucmakiola.agendula
@@ -1526,6 +1535,7 @@ devs.org.calculator
 dk.bjoerckbraun.deltasync
 dk.cocode.chess
 dk.cocode.lifemeter
+dk.cocode.parvaz
 dk.kjeldsen.carwingsflutter
 dk.meznik.jan.encrypttext
 dk.rpix.noter
@@ -1573,6 +1583,7 @@ eu.weblibre.gecko
 eus.ordunte.app
 exa.lnx.a
 fdr.ioi.jslide2
+fi.nikosavola.immichwear
 finance.reckoner.app
 finance.valet
 fir.tube
@@ -1591,6 +1602,7 @@ fr.hellpc.mirror
 fr.ign.geoportail
 fr.jnda.android.flashalert
 fr.kanis.foldio
+fr.kooksession.app
 fr.luteal.app
 fr.nocle.passegares
 fr.nuage.souvenirs
@@ -1934,6 +1946,7 @@ net.gcompris.full
 net.glsk.dreeve.upload
 net.gmartin.paperlessngx_uploader
 net.gmartin.pocket2fa
+net.gsantner.markor
 net.helcel.beans
 net.helcel.cowspent
 net.helcel.fidelity
@@ -2007,6 +2020,7 @@ org.alberto97.aodtoggle
 org.alberto97.ouilookup
 org.androidlabs.applistbackup
 org.androidlabs.filewall
+org.andstatus.todoagenda
 org.anonomi.android
 org.anonomi.postbox
 org.app.geotagvideocamera
@@ -2197,6 +2211,7 @@ org.torproject.vpn
 org.totschnig.myexpenses
 org.tutorlanguage.app
 org.ucam.ssb22.pinyinfdroid
+org.underfoot
 org.unifiedpush.distributor.fcm
 org.unifiedpush.distributor.nextpush
 org.unifiedpush.distributor.sunup
@@ -2211,6 +2226,7 @@ org.wisso.newpipematerial
 org.woheller69.arity
 org.woheller69.audiometry
 org.woheller69.exifedit
+org.woheller69.gpscockpit
 org.woheller69.level
 org.woheller69.omweather
 org.woheller69.seemless
