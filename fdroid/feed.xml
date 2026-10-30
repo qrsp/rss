@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 18:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:37:05 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ColorBlendr — Express yourself with colors [IzzyOnDroid]</title>
+      <link>https://github.com/Mahmud0808/ColorBlendr</link>
+      <guid isPermaLink="false">com.drdisagree.colorblendr@izzy</guid>
+      <pubDate>Fri, 30 Oct 2026 03:37:02 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.drdisagree.colorblendr/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.drdisagree.colorblendr/en-US/icon.png&quot; alt=&quot;ColorBlendr icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.drdisagree.colorblendr&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Mahmud0808/ColorBlendr&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.colorblendr&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Suivi compteurs — Read your meters and forecast your consumption, weather-adjusted. [F-Droid] [Finance Manager]</title>
       <link>https://github.com/doolieSoft/suivi_compteurs_project</link>
@@ -6823,20 +6835,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.kotchwane.bonavortaro&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/kotchwane/bona-vortaro&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.kotchwane.bonavortaro/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Stanza: Pomodoro Timer — Frosted glass Pomodoro timer with zero-battery chronometer countdown. [F-Droid] [Timer]</title>
-      <link>https://github.com/melastore/stanza</link>
-      <guid isPermaLink="false">io.github.melastore.stanza@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Timer</category>
-      <enclosure url="https://f-droid.org/repo/io.github.melastore.stanza/en-US/icon_QHWIIDmnicoM45n8omMNxhFzpQUtlG0VfZayUrwrh7U=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.melastore.stanza/en-US/icon_QHWIIDmnicoM45n8omMNxhFzpQUtlG0VfZayUrwrh7U=.png&quot; alt=&quot;Stanza: Pomodoro Timer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.melastore.stanza&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/melastore/stanza&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.melastore.stanza/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
