@@ -5,8 +5,46 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 03:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:48:41 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dhizuku — A tool that can share Device Owner permissions to other applications. [IzzyOnDroid]</title>
+      <link>https://github.com/iamr0s/Dhizuku</link>
+      <guid isPermaLink="false">com.rosan.dhizuku@izzy</guid>
+      <pubDate>Fri, 30 Oct 2026 21:48:35 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.rosan.dhizuku/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.rosan.dhizuku/en-US/icon.png&quot; alt=&quot;Dhizuku icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rosan.dhizuku&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/iamr0s/Dhizuku&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.rosan.dhizuku&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bubble Share — Share files and clipboard to devices nearby you [IzzyOnDroid] [Connectivity]</title>
+      <link>https://codeberg.org/s1m/bubble-share</link>
+      <guid isPermaLink="false">fr.s1m.share@izzy</guid>
+      <pubDate>Fri, 30 Oct 2026 21:48:35 +0000</pubDate>
+      <category>Connectivity</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/fr.s1m.share/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/fr.s1m.share/en-US/icon.png&quot; alt=&quot;Bubble Share icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;fr.s1m.share&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/s1m/bubble-share&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/fr.s1m.share&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>TrackerControl — TrackerControl allows to monitor and control hidden data collection in apps. [IzzyOnDroid]</title>
+      <link>https://github.com/TrackerControl/tracker-control-android</link>
+      <guid isPermaLink="false">net.kollnig.missioncontrol@izzy</guid>
+      <pubDate>Fri, 30 Oct 2026 21:48:35 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/net.kollnig.missioncontrol/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/net.kollnig.missioncontrol/en-US/icon.png&quot; alt=&quot;TrackerControl icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.kollnig.missioncontrol&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/TrackerControl/tracker-control-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/net.kollnig.missioncontrol&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>ColorBlendr — Express yourself with colors [IzzyOnDroid]</title>
       <link>https://github.com/Mahmud0808/ColorBlendr</link>
@@ -6790,51 +6828,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.capitan0n.droynis&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/capitan0n/droynis&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.capitan0n.droynis/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>KeliBoard — Customizable open-source keyboard [F-Droid] [Keyboard &amp; IME]</title>
-      <link>https://github.com/GPLaider/KeliBoard</link>
-      <guid isPermaLink="false">io.github.gplaider.keliboard@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Keyboard &amp; IME</category>
-      <enclosure url="https://f-droid.org/repo/io.github.gplaider.keliboard/en-US/icon_-nkf9NO4Zp7Y0YX1AOcQdZMf32R_bPt8AZC2Ycn2v1I=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.gplaider.keliboard/en-US/icon_-nkf9NO4Zp7Y0YX1AOcQdZMf32R_bPt8AZC2Ycn2v1I=.png&quot; alt=&quot;KeliBoard icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.gplaider.keliboard&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/GPLaider/KeliBoard&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.gplaider.keliboard/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ResticDroid — Scheduled, encrypted backups with restic [F-Droid] [Security]</title>
-      <link>https://github.com/JayXT/ResticDroid</link>
-      <guid isPermaLink="false">io.github.jayxt.resticdroid@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Security</category>
-      <category>System</category>
-      <enclosure url="https://f-droid.org/repo/io.github.jayxt.resticdroid/en-US/icon_p4eGV2mjZvRr6rXvx7ikSdJeQZvJdl-r_SlXjXpMrho=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.jayxt.resticdroid/en-US/icon_p4eGV2mjZvRr6rXvx7ikSdJeQZvJdl-r_SlXjXpMrho=.png&quot; alt=&quot;ResticDroid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.jayxt.resticdroid&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/JayXT/ResticDroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.jayxt.resticdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Bona vortaro — Esperanto dictionary, with the whole Reta Vortaro, offline [F-Droid] [Reading]</title>
-      <link>https://github.com/kotchwane/bona-vortaro</link>
-      <guid isPermaLink="false">io.github.kotchwane.bonavortaro@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Reading</category>
-      <category>Science &amp; Education</category>
-      <category>Translation &amp; Dictionary</category>
-      <enclosure url="https://f-droid.org/repo/io.github.kotchwane.bonavortaro/en-US/icon_nl-mUv6JH_VJEEYuGNeUBznZEjNhuQtiv5bpC_yuPBI=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.kotchwane.bonavortaro/en-US/icon_nl-mUv6JH_VJEEYuGNeUBznZEjNhuQtiv5bpC_yuPBI=.png&quot; alt=&quot;Bona vortaro icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.kotchwane.bonavortaro&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/kotchwane/bona-vortaro&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.kotchwane.bonavortaro/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
