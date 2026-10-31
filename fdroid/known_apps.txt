@@ -265,6 +265,7 @@ com.arn.scrobble
 com.arslan.shizuwall
 com.arslandaim.omegaplayer
 com.arslandaim.playtube
+com.arthur.arcade
 com.artifex.mupdf.mini.app
 com.artifex.mupdf.viewer.app
 com.aryan.reader.oss
@@ -397,6 +398,7 @@ com.conanizer.pockettracker
 com.concealnetwork.concealmobile
 com.cookiesextractor.app
 com.corphish.quicktools
+com.covertwogames.dozeoff.foss
 com.craigd.lmsmaterial.app
 com.craxiom.networksurvey
 com.craxiom.networksurveyplus
@@ -554,6 +556,7 @@ com.futsch1.medtimer
 com.galagidae.broadboard
 com.galaxyrio.gracelauncher
 com.galaxyrio.sudokusolver
+com.garfiec.librechat
 com.gasperpintar.smokingtracker
 com.gdf.hema_timer
 com.geauxweather.app
@@ -840,6 +843,7 @@ com.minar.birday
 com.minar.randomix
 com.mine.autolight
 com.mine.autooffbluetooth
+com.mine.autoprofiles
 com.mine.autoshine
 com.minimo.launcher
 com.mirfatif.noorulhuda
@@ -896,6 +900,7 @@ com.nikhil.yt
 com.nima.mymood
 com.nkls.nekovideo
 com.noaisu.loliSnatcher
+com.noirdraco.pixelcomfort
 com.nononsenseapps.feeder
 com.nononsenseapps.feeder.play
 com.nononsenseapps.notepad
@@ -912,6 +917,7 @@ com.nyancatlabs.whisper
 com.nyx.custom_uploader
 com.odiousapps.mx3buttonmapper
 com.odiousapps.mx3launcher
+com.odiousapps.weewxweather
 com.odiousapps.z2mdash
 com.offlinecurrencyconverter.app
 com.oksigenia.oksigenia_sos
@@ -1129,6 +1135,7 @@ com.sleepsecret.sleep_secret
 com.smartpack.packagemanager
 com.smokingtracker
 com.sobuumedia.sobuu
+com.socks5
 com.solar.aquarellnotes
 com.sosauce.cutecalc
 com.sosauce.cutemusic
@@ -1163,6 +1170,7 @@ com.takasu.motivational_app.direct
 com.tallydigital.oomdroid
 com.talsk.amadz
 com.teakids.app
+com.teamvp.app
 com.techfox.gugugaga
 com.technicjelle.simple_audio_converter
 com.techtrest.privamatic
@@ -1194,6 +1202,7 @@ com.tre.openstreetmapwiki
 com.tre.tokiponadict
 com.treig.peace_break
 com.trevornk.ramblr
+com.trikset.gamepad2
 com.tripperdee.salmontracker
 com.tristinbaker.defide
 com.tristinbaker.idlefantasy
@@ -1257,6 +1266,7 @@ com.wangjinli.carvita
 com.wasimaster.wmkeyboard
 com.watea.radio_upnp
 com.wbrawner.simplemarkdown.free
+com.weenas.castbay
 com.werdeil.lyriondashboard
 com.werismoln.multibooter
 com.wesaphzt.privatelock
@@ -1271,11 +1281,13 @@ com.wmstein.tourcount
 com.wmstein.transektcount
 com.wordpress.brunoloff.meditationtimer
 com.worxbend.scenedeck
+com.xlollx.songport
 com.xmission.trevin.android.tangram
 com.xmrchat.xmrpod
 com.xnotes
 com.xvzan.simplemoneytracker
 com.xxxx.parcel
+com.yacgroup.yacguide
 com.yacgroup.yacguide.dev
 com.yahyaoui.prayermode
 com.yash.xpenc
@@ -1501,6 +1513,7 @@ dev.margani.ghest
 dev.mariinkys.OpenPillReminder
 dev.medzik.librepass.android
 dev.mi6e4ka.openstore
+dev.midnightbeam
 dev.mlm.wifi_exporter
 dev.msbs.cyclauncher
 dev.msfjarvis.claw.android
@@ -1622,6 +1635,7 @@ fr.twentynine.keepon
 free.rm.skytube.oss
 gift.dhamma.noapp.droid
 github.paroj.dsub2000
+gizz.tapes.foss
 gov.anzong.androidnga
 granularvolume.com
 helium314.keyboard
@@ -1637,6 +1651,7 @@ ie.equalit.ceno
 ie.xav.tetherbug
 im.narayana.another
 im.status.ethereum
+im.voyage.app
 in.basulabs.shakealarmclock
 in.codelif.jportal.android
 in.gururaja.skillrack
@@ -1667,6 +1682,7 @@ io.ente.locker.fdroid
 io.ente.photos.fdroid
 io.evcc.android
 io.freetubeapp.freetube
+io.github.Prestgg.oxu
 io.github.RealEarthling.epoch
 io.github.acidefluorhydrique.carrot
 io.github.acidefluorhydrique.geminiassist
@@ -1679,6 +1695,7 @@ io.github.aiya000.webbyimagesdownloader
 io.github.akarimarisa.tumblrdownloader
 io.github.alessioc42.sph
 io.github.all3f0r1.oubliettes
+io.github.alunoadsnoite.focusfeed
 io.github.an_dr_eas_k.ncphotowidget
 io.github.anka1981.bikerouteplanner
 io.github.anka1981.weckmich
@@ -1743,14 +1760,17 @@ io.github.jqssun.displayextend
 io.github.jqssun.displaymirror
 io.github.jqssun.maceditor
 io.github.jrichter24.moldqueen
+io.github.jtrv.quickword
 io.github.kamui2040.vectorint
 io.github.keco216.clockwork
+io.github.kennethchoinfosec.haven
 io.github.kotchwane.bonavortaro
 io.github.koukobin.ermis.ermismobile
 io.github.landwarderer.futon
 io.github.leonidius20.recorder.lite
 io.github.lordofpolls.shellwave
 io.github.luantak.fokuslauncher
+io.github.lunchwine.spacetraderclassic
 io.github.lydavid.musicsearch
 io.github.melastore.shelf
 io.github.melastore.stanza
@@ -1788,6 +1808,7 @@ io.github.quillpad
 io.github.rainerwingel.aurallisten
 io.github.rajnishkmehta.dhwanicontrol
 io.github.rastislavpapp.justopenlinksinabrowser
+io.github.revocx35.npmmobile
 io.github.revocx35.rwr
 io.github.ronynn.karui
 io.github.rotundtapir.fivehundred
@@ -1852,6 +1873,7 @@ io.pcontacts.app
 io.perfice.app
 io.privkey.keep
 io.silentsuite.android
+io.ssttkkl.mahjongutils.app
 io.theficos.quire
 io.timelimit.android.aosp.direct
 is.xyz.mpv
@@ -1963,6 +1985,7 @@ net.megaproxy487
 net.millaguie.cosmovisor
 net.minetest.minetest
 net.moasdawiki.app
+net.moonbaseone.kinetic.kids
 net.mullvad.mullvadvpn
 net.nhiroki.bluesquarespeedometer
 net.nurik.roman.muzei
@@ -2080,6 +2103,7 @@ org.emunix.insteadlauncher
 org.emunix.unipatcher
 org.epstudios.epmobile
 org.eu.mumulhl.ciyue
+org.evsyukov.shareding
 org.exarhteam.iitc_mobile
 org.exbin.bined.editor.android
 org.fairscan.app
@@ -2135,6 +2159,7 @@ org.jpi59.ethicqrscanner
 org.jpi59.teclado
 org.juanro.autumandu
 org.jumascola.filmflip
+org.justquran.app
 org.jyutping.jyutping
 org.kaqui
 org.kde.bettercounter
@@ -2223,6 +2248,7 @@ org.unifiedpush.example
 org.venkado.relagent
 org.videolan.vlc
 org.vpilo.babymonitor
+org.walks.gamecopilot
 org.webgpt.app
 org.wesnoth.Wesnoth
 org.wikipedia
@@ -2231,9 +2257,11 @@ org.woheller69.arity
 org.woheller69.audiometry
 org.woheller69.exifedit
 org.woheller69.gpscockpit
+org.woheller69.lavatories
 org.woheller69.level
 org.woheller69.omweather
 org.woheller69.seemless
+org.woheller69.tlgemma
 org.woheller69.whisper
 org.woheller69.whisperplus
 org.worldlabourvalues.wlv_panel
