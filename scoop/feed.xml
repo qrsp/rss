@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 11:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:50:02 +0000</lastBuildDate>
+    <item>
+      <title>multica-cli — Project management for human + agent teams (CLI) [Extras] (v0.7.2)</title>
+      <link>https://multica.ai</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://multica.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/multica-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 15:36:34 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-multica-cli-0.7.2</guid>
+    </item>
+    <item>
+      <title>multica — Project management for human + agent teams [Extras] (v0.7.2)</title>
+      <link>https://multica.ai</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://multica.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/multica.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 15:36:34 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-multica-0.7.2</guid>
+    </item>
     <item>
       <title>hashmyfiles — Calculate the MD5/SHA1 hashes of your files [Nirsoft] (v2.52)</title>
       <link>https://www.nirsoft.net/utils/hash_my_files.html</link>
@@ -1390,20 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://tailscale.com/tailcat&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/tailcat.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Tue, 08 Sep 2026 09:07:49 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-tailcat-0.6.0</guid>
-    </item>
-    <item>
-      <title>navop — A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI. [Extras] (v0.16.1)</title>
-      <link>https://navop.dev</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0,Navop&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://navop.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/navop.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 06:59:40 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-navop-0.16.1</guid>
-    </item>
-    <item>
-      <title>gonavi-cli — A modern lightweight database client built with Wails and React. (CLI) [Extras] (v0.9.7)</title>
-      <link>https://gonavi.org</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gonavi.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/gonavi-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 06:59:09 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-gonavi-cli-0.9.7</guid>
     </item>
   </channel>
 </rss>
