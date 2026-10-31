@@ -5,8 +5,47 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 11:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 20:48:06 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Extensions for Maps — Expand Google Maps routes beyond 10 stops and sort stop order. [IzzyOnDroid] [Automation]</title>
+      <link>https://github.com/KnollFrank/ExtensionsForMaps</link>
+      <guid isPermaLink="false">de.knollfrank.extensionsformaps@izzy</guid>
+      <pubDate>Sat, 31 Oct 2026 20:48:03 +0000</pubDate>
+      <category>Automation</category>
+      <category>Navigation</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/de.knollfrank.extensionsformaps/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/de.knollfrank.extensionsformaps/en-US/icon.png&quot; alt=&quot;Extensions for Maps icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.knollfrank.extensionsformaps&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/KnollFrank/ExtensionsForMaps&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/de.knollfrank.extensionsformaps&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>EnigmaDroid — The smartest Enigma2 companion for Android. [IzzyOnDroid]</title>
+      <link>https://github.com/deprec8/EnigmaDroid</link>
+      <guid isPermaLink="false">io.github.deprec8.enigmadroid@izzy</guid>
+      <pubDate>Sat, 31 Oct 2026 20:48:03 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.deprec8.enigmadroid/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.deprec8.enigmadroid/en-US/icon.png&quot; alt=&quot;EnigmaDroid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.deprec8.enigmadroid&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/deprec8/EnigmaDroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.deprec8.enigmadroid&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Pengeek — Xposed module that provides additional functionality for your HyperOS device. [IzzyOnDroid]</title>
+      <link>https://github.com/MonwF/customiuizer</link>
+      <guid isPermaLink="false">name.monwf.customiuizer@izzy</guid>
+      <pubDate>Sat, 31 Oct 2026 20:48:03 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/name.monwf.customiuizer/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/name.monwf.customiuizer/en-US/icon.png&quot; alt=&quot;Pengeek icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;name.monwf.customiuizer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MonwF/customiuizer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/name.monwf.customiuizer&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Arcade — Arcade Arcade is a minimal, Material You-themed game launcher. [F-Droid]</title>
       <link>https://github.com/fattdonki/Arcade/</link>
@@ -6790,47 +6829,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hazelhope.dubster.nightblast&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/DubsterDev/Nightblast&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.hazelhope.dubster.nightblast/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Litube — An advanced WebView wrapper for YouTube [F-Droid]</title>
-      <link>https://github.com/HydeYYHH/litube</link>
-      <guid isPermaLink="false">com.hhst.litube@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.hhst.litube/en-US/icon_jcVLnsJgohppm0CFp7ds6zUkNG5J8CCM5XY_P73dwZ0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.hhst.litube/en-US/icon_jcVLnsJgohppm0CFp7ds6zUkNG5J8CCM5XY_P73dwZ0=.png&quot; alt=&quot;Litube icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hhst.litube&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/HydeYYHH/litube&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.hhst.litube/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Hydro Homie — Simple, private drink tracker with a filling glass, streaks and reminders [F-Droid] [Health Manager]</title>
-      <link>https://codeberg.org/rbiel/hydro-homie</link>
-      <guid isPermaLink="false">com.hydrohomie.app@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Health Manager</category>
-      <enclosure url="https://f-droid.org/repo/com.hydrohomie.app/en-US/icon_5ZoVUnDcA8ovx27JWhrch5ZjZmA1VQWqhmOqllGdJ30=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.hydrohomie.app/en-US/icon_5ZoVUnDcA8ovx27JWhrch5ZjZmA1VQWqhmOqllGdJ30=.png&quot; alt=&quot;Hydro Homie icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hydrohomie.app&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/rbiel/hydro-homie&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.hydrohomie.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Ironvellum — Strength training with a ledger that remembers everything. [F-Droid] [Health Manager]</title>
-      <link>https://github.com/AlexMollard/Ironvellum</link>
-      <guid isPermaLink="false">com.ironvellum.app@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Health Manager</category>
-      <category>Workout</category>
-      <enclosure url="https://f-droid.org/repo/com.ironvellum.app/en-US/icon_pHhLAxWepprjHRiC1I2F2xd4Uw1v4Qvi0Rg7kjIFV44=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.ironvellum.app/en-US/icon_pHhLAxWepprjHRiC1I2F2xd4Uw1v4Qvi0Rg7kjIFV44=.png&quot; alt=&quot;Ironvellum icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ironvellum.app&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/AlexMollard/Ironvellum&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.ironvellum.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
