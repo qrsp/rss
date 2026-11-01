@@ -5,8 +5,88 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 20:48:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:21:36 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Calculator — Simple, elegant calculator with unit and currency converter [IzzyOnDroid]</title>
+      <link>https://github.com/rajput-hemant/calculator</link>
+      <guid isPermaLink="false">com.capybara.calculator@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 03:21:29 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.capybara.calculator/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.capybara.calculator/en-US/icon.png&quot; alt=&quot;Calculator icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.capybara.calculator&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/rajput-hemant/calculator&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.capybara.calculator&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Harmonic — Modern material design, open source, ad-free, fully featured, quick! [IzzyOnDroid]</title>
+      <link>https://github.com/SimonHalvdansson/Harmonic-HN</link>
+      <guid isPermaLink="false">com.simon.harmonichackernews@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 03:21:29 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.simon.harmonichackernews/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.simon.harmonichackernews/en-US/icon.png&quot; alt=&quot;Harmonic icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.simon.harmonichackernews&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/SimonHalvdansson/Harmonic-HN&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.simon.harmonichackernews&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Screen Time — Display your screen time in a permanent notification [IzzyOnDroid]</title>
+      <link>https://github.com/markusfisch/ScreenTime</link>
+      <guid isPermaLink="false">de.markusfisch.android.screentime@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 03:21:29 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/de.markusfisch.android.screentime/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/de.markusfisch.android.screentime/en-US/icon.png&quot; alt=&quot;Screen Time icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.markusfisch.android.screentime&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/markusfisch/ScreenTime&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/de.markusfisch.android.screentime&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>BFP Calculator — Simple BFP - BMI - ideal weight calculator [IzzyOnDroid]</title>
+      <link>https://codeberg.org/mirk0dex/BFP-Calculator</link>
+      <guid isPermaLink="false">eu.mirkodi.bfpcalculator@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 03:21:29 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/eu.mirkodi.bfpcalculator/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/eu.mirkodi.bfpcalculator/en-US/icon.png&quot; alt=&quot;BFP Calculator icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.mirkodi.bfpcalculator&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/mirk0dex/BFP-Calculator&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/eu.mirkodi.bfpcalculator&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Qur'an Lite — read the Qur’an on your Android device [IzzyOnDroid]</title>
+      <link>https://github.com/fathonyfath/quran-lite-android</link>
+      <guid isPermaLink="false">id.thony.android.quranlite@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 03:21:29 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/id.thony.android.quranlite/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/id.thony.android.quranlite/en-US/icon.png&quot; alt=&quot;Qur'an Lite icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;id.thony.android.quranlite&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/fathonyfath/quran-lite-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/id.thony.android.quranlite&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Weight Logger — Weight Logger lets you archive your body composition data using your Tanita scale (or any body composition scale). [IzzyOnDroid]</title>
+      <link>https://github.com/kochka/WeightLogger</link>
+      <guid isPermaLink="false">org.kochka.android.weightlogger@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 03:21:29 +0000</pubDate>
+      <description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.kochka.android.weightlogger&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/kochka/WeightLogger&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.kochka.android.weightlogger&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Linklater — unofficial Android client for LinkDing [IzzyOnDroid]</title>
+      <link>https://github.com/danielyrovas/linklater</link>
+      <guid isPermaLink="false">org.yrovas.linklater@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 03:21:29 +0000</pubDate>
+      <description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.yrovas.linklater&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/danielyrovas/linklater&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.yrovas.linklater&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Extensions for Maps — Expand Google Maps routes beyond 10 stops and sort stop order. [IzzyOnDroid] [Automation]</title>
       <link>https://github.com/KnollFrank/ExtensionsForMaps</link>
@@ -6727,108 +6807,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/icons/com.callblocker.19.png&quot; alt=&quot;Call Blocker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.callblocker&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://gitlab.com/abelardodiaz/web26-050-call-blocker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.callblocker/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>SnapSafe — Snap pics of anything, safely. [F-Droid]</title>
-      <link>https://github.com/SecureCamera/SecureCameraAndroid</link>
-      <guid isPermaLink="false">com.darkrockstudios.app.securecamera@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.darkrockstudios.app.securecamera/en-US/icon_zpa5AFA419rt_jSwaALloroTqTjNPugiu1b6xSn0qMM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.darkrockstudios.app.securecamera/en-US/icon_zpa5AFA419rt_jSwaALloroTqTjNPugiu1b6xSn0qMM=.png&quot; alt=&quot;SnapSafe icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.darkrockstudios.app.securecamera&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/SecureCamera/SecureCameraAndroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.darkrockstudios.app.securecamera/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Square Chess — Chess built for square screens, compact devices, e-ink and physical keyboards. [F-Droid] [Board Game]</title>
-      <link>https://github.com/chriotte/square-chess</link>
-      <guid isPermaLink="false">com.dataespresso.squarechess@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Board Game</category>
-      <category>Strategy Game</category>
-      <enclosure url="https://f-droid.org/repo/com.dataespresso.squarechess/en-US/icon_xM02M18DxJLSKletNdBP6BhSkaI2XYYqZ6kHyn8xUis=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.dataespresso.squarechess/en-US/icon_xM02M18DxJLSKletNdBP6BhSkaI2XYYqZ6kHyn8xUis=.png&quot; alt=&quot;Square Chess icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.dataespresso.squarechess&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/chriotte/square-chess&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.dataespresso.squarechess/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>com.daycalculator.dynamic.app — Simple offline date and time calculator [F-Droid] [Calculator]</title>
-      <link>https://github.com/Veevek1/DayCalcy</link>
-      <guid isPermaLink="false">com.daycalculator.dynamic.app@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Calculator</category>
-      <category>Calendar &amp; Agenda</category>
-      <enclosure url="https://f-droid.org/repo/com.daycalculator.dynamic.app/en-US/icon_Ow4Y_q5Wz7c26XIkFSm7QFSOxqkeC4RtDLg76Io7B1E=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.daycalculator.dynamic.app/en-US/icon_Ow4Y_q5Wz7c26XIkFSm7QFSOxqkeC4RtDLg76Io7B1E=.png&quot; alt=&quot;com.daycalculator.dynamic.app icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.daycalculator.dynamic.app&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Veevek1/DayCalcy&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.daycalculator.dynamic.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Splitz — Launch paired apps in split screen with Accessibility Service automation. [F-Droid] [System]</title>
-      <link>https://github.com/Dee-Hem/Split-Screen</link>
-      <guid isPermaLink="false">com.deehem.splitz@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>System</category>
-      <enclosure url="https://f-droid.org/repo/com.deehem.splitz/en-US/icon_RvfhEr-gzVnrNR5XC_W-wEwzruWYmDG_kFkde6ro61Y=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.deehem.splitz/en-US/icon_RvfhEr-gzVnrNR5XC_W-wEwzruWYmDG_kFkde6ro61Y=.png&quot; alt=&quot;Splitz icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.deehem.splitz&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Dee-Hem/Split-Screen&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.deehem.splitz/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>OpenPlants — Open-source &amp; privacy-friendly companion app for your plants [F-Droid] [Inventory]</title>
-      <link>https://github.com/domai-tb/OpenPlants</link>
-      <guid isPermaLink="false">com.domai_tb.openplants@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Inventory</category>
-      <category>Schedule</category>
-      <enclosure url="https://f-droid.org/repo/com.domai_tb.openplants/en-US/icon_Ecb0FrJLHyd9bNC90Ysu4kobiJOYNvEuZgtD4zaWmTk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.domai_tb.openplants/en-US/icon_Ecb0FrJLHyd9bNC90Ysu4kobiJOYNvEuZgtD4zaWmTk=.png&quot; alt=&quot;OpenPlants icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.domai_tb.openplants&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/domai-tb/OpenPlants&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.domai_tb.openplants/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sshd4a — An 'sshd' server with shell access, rsync and scp/sftp services. [F-Droid] [File Transfer]</title>
-      <link>https://github.com/tfonteyn/Sshd4a</link>
-      <guid isPermaLink="false">com.hardbacknutter.sshd@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>File Transfer</category>
-      <category>Internet</category>
-      <category>Remote Access</category>
-      <enclosure url="https://f-droid.org/repo/com.hardbacknutter.sshd/en-US/icon_8YTwM4wNAVrIqILTPmwwtXqZDnTsOptQLrCkiKbmjbM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.hardbacknutter.sshd/en-US/icon_8YTwM4wNAVrIqILTPmwwtXqZDnTsOptQLrCkiKbmjbM=.png&quot; alt=&quot;Sshd4a icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hardbacknutter.sshd&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/tfonteyn/Sshd4a&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.hardbacknutter.sshd/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Nightblast — Send urgent alerts to your contacts using encrypted SMS messages [F-Droid] [Emergency Action]</title>
-      <link>https://github.com/DubsterDev/Nightblast</link>
-      <guid isPermaLink="false">com.hazelhope.dubster.nightblast@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <category>Emergency Action</category>
-      <category>Phone &amp; SMS</category>
-      <enclosure url="https://f-droid.org/repo/com.hazelhope.dubster.nightblast/en-US/icon_UR4uyNs_IMu9fvwtloFy6D9TqtfVAAWzlHDILe-WPRs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.hazelhope.dubster.nightblast/en-US/icon_UR4uyNs_IMu9fvwtloFy6D9TqtfVAAWzlHDILe-WPRs=.png&quot; alt=&quot;Nightblast icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.hazelhope.dubster.nightblast&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/DubsterDev/Nightblast&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.hazelhope.dubster.nightblast/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
