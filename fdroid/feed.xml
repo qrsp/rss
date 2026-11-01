@@ -5,8 +5,32 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 03:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:29:56 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stratum — Open-source 2FA app with encrypted backups [IzzyOnDroid]</title>
+      <link>https://github.com/stratumauth/app</link>
+      <guid isPermaLink="false">com.stratumauth.app@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 21:29:52 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.stratumauth.app/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.stratumauth.app/en-US/icon.png&quot; alt=&quot;Stratum icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.stratumauth.app&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/stratumauth/app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Blue Line Console — Keyboard based launcher [IzzyOnDroid]</title>
+      <link>https://github.com/nhirokinet/bluelineconsole</link>
+      <guid isPermaLink="false">net.nhiroki.bluelineconsole@izzy</guid>
+      <pubDate>Sun, 01 Nov 2026 21:29:52 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/net.nhiroki.bluelineconsole/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/net.nhiroki.bluelineconsole/en-US/icon.png&quot; alt=&quot;Blue Line Console icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.nhiroki.bluelineconsole&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nhirokinet/bluelineconsole&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/net.nhiroki.bluelineconsole&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Calculator — Simple, elegant calculator with unit and currency converter [IzzyOnDroid]</title>
       <link>https://github.com/rajput-hemant/calculator</link>
@@ -6783,30 +6807,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.brokenpip3.gymbro&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/brokenpip3/gymbro&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.brokenpip3.gymbro/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Flowit â Block Puzzle — Easy to learn, hard to master. [F-Droid]</title>
-      <link>https://github.com/Flowit-Game/Flowit</link>
-      <guid isPermaLink="false">com.bytehamster.flowitgame@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.bytehamster.flowitgame/en-US/icon_LPLtdUrccLM__A3m5vpWeq1rnX390mB5kO_jxMwnMfQ=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.bytehamster.flowitgame/en-US/icon_LPLtdUrccLM__A3m5vpWeq1rnX390mB5kO_jxMwnMfQ=.png&quot; alt=&quot;Flowit â Block Puzzle icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.bytehamster.flowitgame&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/Flowit-Game/Flowit&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.bytehamster.flowitgame/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Call Blocker — Block unwanted calls, spam and telemarketing [F-Droid]</title>
-      <link>https://gitlab.com/abelardodiaz/web26-050-call-blocker</link>
-      <guid isPermaLink="false">com.callblocker@fdroid</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:54 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/icons/com.callblocker.19.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/icons/com.callblocker.19.png&quot; alt=&quot;Call Blocker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.callblocker&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/abelardodiaz/web26-050-call-blocker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.callblocker/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
