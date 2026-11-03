@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 03 Nov 2026 13:39:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:54:55 +0000</lastBuildDate>
+    <item>
+      <title>craft-anything — Understand how software works, then craft your own [Extras] (v0.3.0)</title>
+      <link>https://getartcraft.com/apps/craft-anything</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/craft-anything&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/craft-anything.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 15:18:32 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-craft-anything-0.3.0</guid>
+    </item>
     <item>
       <title>noir — Desktop Android leak auditor that maps app permissions and APK endpoints to data flows and generates rollback-safe remediations over adb. [Main] (v0.2.5)</title>
       <link>https://verlintas.dev/noir/</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.workbuddy.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/workbuddy.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Sat, 12 Sep 2026 17:35:26 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-workbuddy-5.5.2.37849279</guid>
-    </item>
-    <item>
-      <title>twg — A command line interface to the Atlassian Teamwork Graph and Cloud services. [Main] (v1.2.7)</title>
-      <link>https://developer.atlassian.com/platform/teamwork-graph/twg-cli/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.atlassian.com/platform/teamwork-graph/twg-cli/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/twg.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 09:04:06 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-twg-1.2.7</guid>
     </item>
   </channel>
 </rss>
