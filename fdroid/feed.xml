@@ -5,8 +5,82 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 14:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:12:52 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Translate You — Privacy focused translator app built with MD3 [IzzyOnDroid]</title>
+      <link>https://github.com/you-apps/TranslateYou</link>
+      <guid isPermaLink="false">com.bnyro.translate@izzy</guid>
+      <pubDate>Tue, 03 Nov 2026 00:12:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.bnyro.translate/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.bnyro.translate/en-US/icon.png&quot; alt=&quot;Translate You icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.bnyro.translate&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/you-apps/TranslateYou&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.bnyro.translate&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Tyr - P2P Email — True P2P email and built-in chat over Yggdrasil network. No central servers. [IzzyOnDroid]</title>
+      <link>https://github.com/JB-SelfCompany/Tyr</link>
+      <guid isPermaLink="false">com.jbselfcompany.tyr@izzy</guid>
+      <pubDate>Tue, 03 Nov 2026 00:12:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.jbselfcompany.tyr/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.jbselfcompany.tyr/en-US/icon.png&quot; alt=&quot;Tyr - P2P Email icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.jbselfcompany.tyr&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/JB-SelfCompany/Tyr&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.jbselfcompany.tyr&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Traffic Light — Track your network and data usage with privacy [IzzyOnDroid] [Internet]</title>
+      <link>https://github.com/leekleak/traffic-light</link>
+      <guid isPermaLink="false">com.leekleak.trafficlight.lite@izzy</guid>
+      <pubDate>Tue, 03 Nov 2026 00:12:42 +0000</pubDate>
+      <category>Internet</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.leekleak.trafficlight.lite/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.leekleak.trafficlight.lite/en-US/icon.png&quot; alt=&quot;Traffic Light icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.leekleak.trafficlight.lite&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/leekleak/traffic-light&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.leekleak.trafficlight.lite&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>BBQ Timer — A combined interval timer/stopwatch that works on the lock screen [IzzyOnDroid]</title>
+      <link>https://github.com/1fish2/BBQTimer</link>
+      <guid isPermaLink="false">com.onefishtwo.bbqtimer@izzy</guid>
+      <pubDate>Tue, 03 Nov 2026 00:12:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.onefishtwo.bbqtimer/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.onefishtwo.bbqtimer/en-US/icon.png&quot; alt=&quot;BBQ Timer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.onefishtwo.bbqtimer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/1fish2/BBQTimer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.onefishtwo.bbqtimer&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Pulse — Redirect calls to Signal, Telegram, Threema, or WhatsApp.Features:Material You designTiny size, about 3MiB!Popup with cancel optionToggle per-service supportRedirection only on Wi-Fi/DataAllowlist specific contactsChange per-service priorityCustomize popup position, animation, and durationDetects other calling apps in your contactsRegex contact filterAnd more!Supports:SignalTelegramThreemaWhatsAppOther apps can be now added aswell!Permissions required:CALLPHONE - initiate calls via messengerREADCONTACTS - check contact compatibilityREADPHONENUMBERS - detect outgoing callSYSTEMALERTWINDOW - show popup overlay (optional)ACCESSNETWORKSTATE - check connectivityINTERNET - check connectivity and verify donatesAll permissions except SYSTEMALERTWINDOW are required. [IzzyOnDroid]</title>
+      <link>https://weforge.xyz/partisan/Pulse</link>
+      <guid isPermaLink="false">partisan.weforge.xyz.pulse@izzy</guid>
+      <pubDate>Tue, 03 Nov 2026 00:12:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/partisan.weforge.xyz.pulse/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/partisan.weforge.xyz.pulse/en-US/icon.png&quot; alt=&quot;Pulse icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;partisan.weforge.xyz.pulse&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://weforge.xyz/partisan/Pulse&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/partisan.weforge.xyz.pulse&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Zood Location — Securely share your location with your loved ones. [IzzyOnDroid]</title>
+      <link>https://github.com/zood/george</link>
+      <guid isPermaLink="false">xyz.zood.george@izzy</guid>
+      <pubDate>Tue, 03 Nov 2026 00:12:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/xyz.zood.george/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/xyz.zood.george/en-US/icon.png&quot; alt=&quot;Zood Location icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xyz.zood.george&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zood/george&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/xyz.zood.george&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>CarrierPony — Private PGP messenger. End-to-end encrypted chat and file transfer, no account. [F-Droid] [Messaging]</title>
       <link>https://github.com/norsehorse-dev/CarrierPonyAndroid</link>
@@ -6718,91 +6792,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;fr.rvier.planetxt&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/brvier/PlaneTxt&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/fr.rvier.planetxt/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Tennis Score Manager — ITF tennis scoring with umpire voice calls, BLE wristbands and a TV scoreboard [F-Droid] [Sports &amp; Health]</title>
-      <link>https://github.com/steve-linux/Tennis-Score-Manager</link>
-      <guid isPermaLink="false">io.github.steve_linux.tsm@fdroid</guid>
-      <pubDate>Wed, 14 Oct 2026 10:52:36 +0000</pubDate>
-      <category>Sports &amp; Health</category>
-      <enclosure url="https://f-droid.org/repo/io.github.steve_linux.tsm/en-US/icon_PEpdKUhfA0g9kXja_8bdLrBfZoIMZUyw90j--0_eilo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.steve_linux.tsm/en-US/icon_PEpdKUhfA0g9kXja_8bdLrBfZoIMZUyw90j--0_eilo=.png&quot; alt=&quot;Tennis Score Manager icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.steve_linux.tsm&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/steve-linux/Tennis-Score-Manager&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.steve_linux.tsm/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>TrovePass — Offline password generator — one master password for every site [F-Droid] [Password &amp; 2FA]</title>
-      <link>https://github.com/20240816/TrovePass</link>
-      <guid isPermaLink="false">io.github.u_20240816.trovepass@fdroid</guid>
-      <pubDate>Wed, 14 Oct 2026 10:52:36 +0000</pubDate>
-      <category>Password &amp; 2FA</category>
-      <category>Security</category>
-      <enclosure url="https://f-droid.org/repo/io.github.u_20240816.trovepass/en-US/icon_QFkvvUUMSoIhFS7pbYA7s386UjWMMD8V8jBpF7cZ8_k=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.u_20240816.trovepass/en-US/icon_QFkvvUUMSoIhFS7pbYA7s386UjWMMD8V8jBpF7cZ8_k=.png&quot; alt=&quot;TrovePass icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.u_20240816.trovepass&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/20240816/TrovePass&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.u_20240816.trovepass/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>ClipRecorder — A privacy-friendly video recorder with clip management, effects, and merging [F-Droid] [Multimedia]</title>
-      <link>https://github.com/udonnko/ClipRecorder</link>
-      <guid isPermaLink="false">io.github.udonnko.cliprecorder@fdroid</guid>
-      <pubDate>Wed, 14 Oct 2026 10:52:36 +0000</pubDate>
-      <category>Multimedia</category>
-      <category>Recorder</category>
-      <enclosure url="https://f-droid.org/repo/io.github.udonnko.cliprecorder/en-US/icon_N6fa-SxbRMrY0PH4P9Qj4XMJYOuvgntPEMIk7bzoFvY=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.udonnko.cliprecorder/en-US/icon_N6fa-SxbRMrY0PH4P9Qj4XMJYOuvgntPEMIk7bzoFvY=.png&quot; alt=&quot;ClipRecorder icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.udonnko.cliprecorder&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/udonnko/ClipRecorder&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.udonnko.cliprecorder/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Folio: Doc Maker — Scan &amp; turn photos into clean PDFs. Fits size limits. Offline, no ads. [F-Droid] [Graphics]</title>
-      <link>https://github.com/ukpratik/folio</link>
-      <guid isPermaLink="false">io.github.ukpratik.folio@fdroid</guid>
-      <pubDate>Wed, 14 Oct 2026 10:52:36 +0000</pubDate>
-      <category>Graphics</category>
-      <category>OCR</category>
-      <enclosure url="https://f-droid.org/repo/io.github.ukpratik.folio/en-US/icon_bTd8OXCwJKfGHd9bq42FJjGPe1BRPyUIIh7dGF_V5_c=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.ukpratik.folio/en-US/icon_bTd8OXCwJKfGHd9bq42FJjGPe1BRPyUIIh7dGF_V5_c=.png&quot; alt=&quot;Folio: Doc Maker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.ukpratik.folio&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/ukpratik/folio&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.ukpratik.folio/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>dreamDroid — Control and streaming client for enigma2 based dreamboxes [F-Droid]</title>
-      <link>https://github.com/sreichholf/dreamDroid</link>
-      <guid isPermaLink="false">net.reichholf.dreamdroid@fdroid</guid>
-      <pubDate>Wed, 14 Oct 2026 10:52:36 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/net.reichholf.dreamdroid/en-US/icon_a0VhuJOQ_SS9V-1fOL2MAJzrUUDvxQXmmHqW_QtKOKg=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/net.reichholf.dreamdroid/en-US/icon_a0VhuJOQ_SS9V-1fOL2MAJzrUUDvxQXmmHqW_QtKOKg=.png&quot; alt=&quot;dreamDroid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.reichholf.dreamdroid&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/sreichholf/dreamDroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.reichholf.dreamdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sameura Dam Monitor — Storage rates and related data for 125 dams in Japan including Sameura Dam [F-Droid] [Science &amp; Education]</title>
-      <link>https://codeberg.org/tecogonaz0439/TCSameuraDamMonitor-android</link>
-      <guid isPermaLink="false">net.tecogonaz.tcsameuradammonitor@fdroid</guid>
-      <pubDate>Wed, 14 Oct 2026 10:52:36 +0000</pubDate>
-      <category>Science &amp; Education</category>
-      <enclosure url="https://f-droid.org/repo/net.tecogonaz.tcsameuradammonitor/en-US/icon_w1VtFQbYuzmRKIKNLPi_m84_BLemKdXbPF8uCdlRZEU=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/net.tecogonaz.tcsameuradammonitor/en-US/icon_w1VtFQbYuzmRKIKNLPi_m84_BLemKdXbPF8uCdlRZEU=.png&quot; alt=&quot;Sameura Dam Monitor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.tecogonaz.tcsameuradammonitor&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/tecogonaz0439/TCSameuraDamMonitor-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.tecogonaz.tcsameuradammonitor/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
