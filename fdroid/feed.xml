@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 00:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:42:19 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Print(Notes) — A cross-platform markdown notes app inspired by Google Keep and Obsidian [IzzyOnDroid]</title>
+      <link>https://github.com/RoBoT095/printnotes</link>
+      <guid isPermaLink="false">com.printnotes.printnotes@izzy</guid>
+      <pubDate>Tue, 03 Nov 2026 22:42:15 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.printnotes.printnotes/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.printnotes.printnotes/en-US/icon.png&quot; alt=&quot;Print(Notes) icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.printnotes.printnotes&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/RoBoT095/printnotes&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.printnotes.printnotes&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Translate You — Privacy focused translator app built with MD3 [IzzyOnDroid]</title>
       <link>https://github.com/you-apps/TranslateYou</link>
@@ -6775,23 +6787,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/eu.frigo.dispensa/en-US/icon_ZZAEjgF1GqCFTC9uIr74hmaGeW5710NB0Ez4GwDEuK8=.png&quot; alt=&quot;Pantry icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;eu.frigo.dispensa&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/enricofrigo/dispensa&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/eu.frigo.dispensa/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>PlaneTxt — Todo, agenda, journal and notes in plain Markdown files [F-Droid] [Calendar &amp; Agenda]</title>
-      <link>https://github.com/brvier/PlaneTxt</link>
-      <guid isPermaLink="false">fr.rvier.planetxt@fdroid</guid>
-      <pubDate>Wed, 14 Oct 2026 10:52:36 +0000</pubDate>
-      <category>Calendar &amp; Agenda</category>
-      <category>Note</category>
-      <category>Task</category>
-      <category>Writing</category>
-      <enclosure url="https://f-droid.org/repo/fr.rvier.planetxt/en-US/icon_9vwOnKjJcrXd5BMoN653ijgIWv2wGFoP6rFXWqTlPE0=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/fr.rvier.planetxt/en-US/icon_9vwOnKjJcrXd5BMoN653ijgIWv2wGFoP6rFXWqTlPE0=.png&quot; alt=&quot;PlaneTxt icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;fr.rvier.planetxt&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/brvier/PlaneTxt&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/fr.rvier.planetxt/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
