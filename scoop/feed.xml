@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 04:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:47:36 +0000</lastBuildDate>
+    <item>
+      <title>kotlin-lsp — Official Kotlin language server based on IntelliJ IDEA. [Main] (v263.7084.0)</title>
+      <link>https://github.com/Kotlin/kotlin-lsp</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Kotlin/kotlin-lsp&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/kotlin-lsp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 13:24:02 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-kotlin-lsp-263.7084.0</guid>
+    </item>
+    <item>
+      <title>clang-uml — Customizable automatic UML diagram generator for C++ based on Clang. [Main] (v0.6.3)</title>
+      <link>https://github.com/bkryza/clang-uml</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bkryza/clang-uml&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/clang-uml.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 10:46:22 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-clang-uml-0.6.3</guid>
+    </item>
+    <item>
+      <title>openidea — An open-source IDE inspired by IntelliJ IDEA. [Extras] (v0.1.35)</title>
+      <link>https://github.com/l0ng-ai/openidea</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/l0ng-ai/openidea&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/openidea.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 10:50:00 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-openidea-0.1.35</guid>
+    </item>
     <item>
       <title>craft-anything — Understand how software works, then craft your own [Extras] (v0.3.0)</title>
       <link>https://getartcraft.com/apps/craft-anything</link>
@@ -1383,27 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://railpack.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/railpack.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Sat, 12 Sep 2026 20:55:39 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-railpack-0.39.0</guid>
-    </item>
-    <item>
-      <title>thinkrail — The worktree IDE by JetBrains for the pi coding agent. [Main] (v0.1.0)</title>
-      <link>https://thinkrail.ai</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://thinkrail.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/thinkrail.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 18:25:13 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-thinkrail-0.1.0</guid>
-    </item>
-    <item>
-      <title>smolvm — Manage and run custom Linux virtual machines locally by using a portable, lightweight, self-contained virtual machine. [Main] (v1.15.0)</title>
-      <link>https://smolmachines.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://smolmachines.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/smolvm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 18:12:52 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-smolvm-1.15.0</guid>
-    </item>
-    <item>
-      <title>workbuddy — A full-scenario AI workbench from Tencent. [Extras] (v5.5.2.37849279)</title>
-      <link>https://www.workbuddy.ai</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.workbuddy.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/workbuddy.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 17:35:26 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-workbuddy-5.5.2.37849279</guid>
     </item>
   </channel>
 </rss>
