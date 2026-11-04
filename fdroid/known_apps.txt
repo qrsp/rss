@@ -104,6 +104,7 @@ app.xcy7e.contextium
 app.zornslemma.dayfile
 app.zornslemma.mypricelog
 app.zxtune.fdroid
+ar.kevinroberts.nicotind.tv
 art.tessell.editor
 askanimus.arbeitszeiterfassung2
 at.bitfire.davdroid
@@ -156,6 +157,7 @@ ch.cryptobit.letterbox
 ch.famoser.mensa
 ch.joshuah.bibleverseapp
 ch.martinstoeckli.silentnotes
+ch.nilsgrob.android.bluemoon
 ch.pocketpc.nearbyglasses
 ch.protonvpn.android
 ch.protonvpn.android.reproducible
@@ -239,6 +241,7 @@ com.anchor.chain
 com.anchor.software
 com.andebugulin.nfcguard
 com.android.gpstest.osmdroid
+com.android.keepass
 com.android.xrayfa
 com.androidcrypt
 com.androidvip.sysctlgui
@@ -307,6 +310,7 @@ com.beatbridge
 com.beemasfincon.cyclicalarms
 com.beemdevelopment.aegis
 com.berkersen.practicesuite
+com.bernaferrari.sdkmonitor
 com.best.deskclock
 com.bily
 com.binauralbeat
@@ -430,6 +434,7 @@ com.davidtakac.bura
 com.daycalculator.dynamic.app
 com.debojitsantra.backlogtracker
 com.dede.android_eggs
+com.deedeedev.ytreader
 com.deehem.gpawhiz
 com.deehem.splitz
 com.deepanjanxyz.notepad
@@ -439,6 +444,7 @@ com.demizo.daily_you
 com.demonlab.lune
 com.demosten.srednabg
 com.deniscerri.ytdl
+com.denser.june
 com.derdilla.bloodPressureApp
 com.dergoogler.mmrl
 com.derpbiscuit.boop
@@ -506,6 +512,7 @@ com.evb.folderplayer
 com.example.deeplviewer
 com.example.research
 com.example.timenotification
+com.example.wiprober
 com.exner.tools.gymbott
 com.exner.tools.immichuploader
 com.eyalm.adns
@@ -642,6 +649,7 @@ com.grmasa.soundtoggle
 com.grooveforge.grooveforge
 com.growse.android.io.github.hidroh.materialistic
 com.guiforge.bati
+com.guillaumepayet.remotenumpad
 com.gymmane.app
 com.hackerapps.c2k
 com.hackerapps.jargon
@@ -739,6 +747,7 @@ com.joebywan.daybook
 com.joeld.minesweeper
 com.juliencardoux.ratafuel
 com.jvdegithub.aiscatcher
+com.k.todo
 com.k1.pitcher
 com.k2040.escaagnellis
 com.k2040.geojoystick
@@ -820,6 +829,7 @@ com.markleaf.notes
 com.markreader
 com.marlinid.marlin
 com.marotidev.Overmorrow
+com.marotoweb.cajuscan_app
 com.martinhammer.tickdroid
 com.marv42.ebt.newnote
 com.masterisk_f.accesssupporter
@@ -881,6 +891,7 @@ com.mua.unmukto
 com.mubarak.mbcompass
 com.musheer360.swiftslate
 com.mv.qtlab
+com.myAllVideoBrowser
 com.myfinancemate
 com.nathanatos.Cuppa
 com.ndev.moodyroutine
@@ -980,6 +991,7 @@ com.phnem.vetro
 com.phoebesoftware.xrooster
 com.phonepvr.friends
 com.phpbg.easysync
+com.pierspad.betterlauncher
 com.pilcrowmd
 com.piotv.keytab
 com.piwigo.piwigo_ng
@@ -1064,6 +1076,7 @@ com.rr.numio
 com.rr.numio.ezhuthola
 com.rrajath.grove
 com.rtbishop.look4sat
+com.ruizlenato.karabau
 com.saad2134.dosezy
 com.saad_khan_rind.atmosphere_effect
 com.saadibra.graymatter
@@ -1113,10 +1126,12 @@ com.sidhant.arrowescape
 com.sidhant.binarypuzzle
 com.sidhant.blockblast
 com.sidhant.bubbleshooter
+com.sidhant.colorbook
 com.sidhant.colorgram
 com.sidhant.echotiles
 com.sidhant.einsteinriddle
 com.sidhant.findwords
+com.sidhant.flow
 com.sidhant.huesort
 com.sidhant.huespill
 com.sidhant.jigsaw
@@ -1178,6 +1193,7 @@ com.surfaceocean.nexttraceroute
 com.svenjacobs.app.leon
 com.sweak.qralarm
 com.symeonchen.wakeupscreen
+com.sysreadoutmonitor.app
 com.sztorm.notecalendar
 com.tacticmaster
 com.tailscale.ipn
@@ -1336,6 +1352,7 @@ cos.premy.mines
 cube.run
 cz.kutner.why
 cz.kyblsoft.meshcore.signaltester
+cz.mendelu.xmarik.train_manager
 cz.mts.phone
 de.HS_Aalen.don
 de.arnowelzel.android.periodical
@@ -1349,6 +1366,7 @@ de.blau.android
 de.blinkt.openvpn
 de.bloosberg.basti.childresuscalc
 de.chadenas.cpudefense
+de.ciluvien.mensen
 de.circle_dev.flux_news
 de.clio.audiobook
 de.danoeh.antennapod
@@ -1415,6 +1433,7 @@ de.nulide.findmydevice.edge
 de.nulide.shiftcal
 de.obsp.hostlookup
 de.oeffisounds.app
+de.paradox.screenshotassistant
 de.pascalstier.fossyprotokoll
 de.ph1b.audiobook
 de.pritcloud.appstow
@@ -1486,6 +1505,7 @@ dev.cipher.notes
 dev.co508.soundboard
 dev.corruptedark.diditakemymeds
 dev.cosmoslab.boxbreathing
+dev.cremin.mergejo
 dev.daika.davy
 dev.darshit.daak
 dev.davidv.londontransport
@@ -1544,6 +1564,7 @@ dev.relony.pinry
 dev.renkinProject.renkin
 dev.rova.notes
 dev.rubec.otoscope
+dev.safi.largetext
 dev.samuelq.gpx
 dev.sasikanth.rss.reader
 dev.scarf.gc
@@ -1561,6 +1582,7 @@ dev.tulis.readbear
 dev.uint.qrserv
 dev.ukanth.ufirewall
 dev.victorialauncher
+dev.vulcanlauncher
 dev.x56.verify
 dev.xitee.sleeptimer
 devs.org.calculator
@@ -1603,6 +1625,7 @@ eu.hxreborn.phdp
 eu.hxreborn.remembermysort
 eu.hydrologis.smash
 eu.imouto.hupl
+eu.lapotre.prochaintrain
 eu.laslo_hauschild.your_schedule
 eu.mirkodi.bfpcalculator
 eu.opencloud.android
@@ -1613,6 +1636,7 @@ eu.rafareborn.biometricbypass
 eu.siacs.conversations
 eu.sportwetter.app
 eu.weblibre.gecko
+eu.woshicado.circletoshare
 eus.ordunte.app
 exa.lnx.a
 fdr.ioi.jslide2
@@ -1721,6 +1745,7 @@ io.github.an_dr_eas_k.ncphotowidget
 io.github.anka1981.bikerouteplanner
 io.github.anka1981.weckmich
 io.github.anrinion.baseline
+io.github.antonkulaga.glucowatch
 io.github.artcraftandroid.pdfcraft
 io.github.austriancanvassociety.firehoseremote
 io.github.bananguh.ErmChat
@@ -1747,10 +1772,12 @@ io.github.dcmcand.gymlog
 io.github.deprec8.enigmadroid
 io.github.derweh.bayesianbahn
 io.github.dhiraj_j_s.minimalsf
+io.github.digitalvalut.logos
 io.github.digvijaylp.OpenTeleScopeVR
 io.github.divverent.aaaaxy
 io.github.dorumrr.de1984
 io.github.dorumrr.privacyflip
+io.github.double77x.radioscout
 io.github.drumber.kitsune
 io.github.ds17f.andropolis
 io.github.escapedcanadian.prepper
@@ -1801,6 +1828,7 @@ io.github.mgdx.rouelibre
 io.github.mgdx.sceau
 io.github.mickaelmagniez.windbubble
 io.github.mimoguz.tripeaksneue
+io.github.monsiu.custom_rr
 io.github.mority.gloomy
 io.github.mortenfyhn.feltbok
 io.github.mouse233.localsendkotlin
@@ -1879,9 +1907,11 @@ io.github.xtratter.cathunt
 io.github.yamin8000.dooz
 io.github.yamin8000.owl
 io.github.yawnoc.strokeinput
+io.github.yazanj082.momiji
 io.github.zk_haunt.twistcubee
 io.gitlab.jrock902.cypherleaf
 io.gitlab.libre_librivox_listener
+io.gitlab.maik3531.magnolienotes
 io.gitlab.the_phoenix_project0.whisper_noise
 io.gothub.boxorg
 io.homeassistant.companion.android.minimal
@@ -1928,6 +1958,7 @@ juloo.keyboard2
 jwtc.android.chess
 k4ustu3h.monocons.izzy
 kapoue.hestia
+knightloader.halleluja.design
 la.daube.photochiotte
 life.andre.message487
 life.furrer.l9
@@ -2001,6 +2032,7 @@ net.helcel.beans
 net.helcel.cowspent
 net.helcel.fidelity
 net.hilson.qrieux
+net.homodian.yggproxy
 net.hyx.app.volumenotification
 net.ibbaa.keepitup
 net.kollnig.greasemilkyway
@@ -2110,6 +2142,7 @@ org.comunes.g1nkgo
 org.comunes.tane
 org.connectbot
 org.courville.nova
+org.cpimtn.marxist.android
 org.cryptomator
 org.cryptomator.lite
 org.css_apps_m3.password_manager
@@ -2141,6 +2174,7 @@ org.fdroid.fdroid.privileged
 org.fedisuite.mobile
 org.forkgram.classic
 org.forkgram.messenger
+org.forthecommunity.torrentsdigger
 org.fossify.calendar
 org.fossify.documents
 org.fossify.filemanager
@@ -2230,6 +2264,7 @@ org.opendataensemble.formulus
 org.openhab.habdroid.beta
 org.openobservatory.ooniprobe
 org.osservatorionessuno.bugbane.beta
+org.ostrya.presencepublisher
 org.pacien.tincapp
 org.paperwise.app
 org.piepmeyer.gauguin
@@ -2245,6 +2280,7 @@ org.schabi.newpipe
 org.schabi.newpipe.localserver
 org.schabi.parakeetype
 org.scrib.transcriber
+org.seishingakuen.shougibu
 org.sensors2.osc
 org.shano.assistral
 org.sharkdroid
@@ -2322,10 +2358,12 @@ proton.android.pass.fdroid
 pt.tiago.blocknight
 pt.tiago.bubblenight
 pw.dotto.netmanager.foss
+rak.pixellwp
 razertexz.aninspector
 remix.myplayer
 rkr.simplekeyboard.inputmethod
 ro.bucharest.transit
+ro.scripca.xlog2
 rocks.mm_dev.audav
 rocks.mucke
 rocks.mucke.github
@@ -2333,6 +2371,7 @@ rocks.poopjournal.flashy
 rocks.poopjournal.fucksgiven
 rs.in.dbase.downloader
 rs.ruffle
+ru.aleksandr.dccppthrottle
 ru.application.homemedkit
 ru.hugeping.reinstead
 ru.iska9der.flabr
@@ -2372,6 +2411,7 @@ spam.blocker
 studio.coldstream.artificial_koi
 studio.coldstream.mars_lwp
 studio.coldstream.waste_works
+studio.germaz.lorien
 studio.okcode.open_alert_viewer
 studip_uni_passau.femtopedia.de.unipassaustudip
 su.comp.bk
