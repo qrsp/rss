@@ -4,7 +4,686 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 05:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:00:59 +0000</lastBuildDate>
+    <item>
+      <title>herdr-core — Persistent terminal runtime for coding agents that powers the Herdr App. [Main] (v0.1.18)</title>
+      <link>https://herdr.dev/core/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://herdr.dev/core/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/herdr-core.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 12:35:10 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-herdr-core-0.1.18</guid>
+    </item>
+    <item>
+      <title>xerj — AI search engine and MCP server for bots and agents [Main] (v1.0.0-rc.100)</title>
+      <link>https://xerj.org</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://xerj.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/xerj.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 07:59:24 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-xerj-1.0.0-rc.100</guid>
+    </item>
+    <item>
+      <title>zvec-grep — Local-first search across your workspace, built for humans and AI agents. [Main] (v0.3.0)</title>
+      <link>https://zvec.org/en/docs/zvec-grep/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://zvec.org/en/docs/zvec-grep/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/zvec-grep.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 07:22:33 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-zvec-grep-0.3.0</guid>
+    </item>
+    <item>
+      <title>tennis — Render CSV files as stylish tables in the terminal. [Main] (v0.8.0)</title>
+      <link>https://github.com/gurgeous/tennis</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/gurgeous/tennis&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/tennis.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 07:21:33 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-tennis-0.8.0</guid>
+    </item>
+    <item>
+      <title>herdr-app — Desktop app for terminals and coding agents. [Extras] (v0.1.13)</title>
+      <link>https://herdr.dev</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://herdr.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/herdr-app.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 12:35:55 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-herdr-app-0.1.13</guid>
+    </item>
+    <item>
+      <title>zipinst — Install applications that do not provide an installation module. [Nirsoft] (v1.21)</title>
+      <link>https://www.nirsoft.net/utils/zipinst.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/zipinst.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/zipinst.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-zipinst-1.21</guid>
+    </item>
+    <item>
+      <title>wul — Displays the list of all Windows updates (Service Packs and Hotfixes). [Nirsoft] (v1.33)</title>
+      <link>https://www.nirsoft.net/utils/wul.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wul.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wul.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wul-1.33</guid>
+    </item>
+    <item>
+      <title>wnetwatcher — Shows who is connected to your wireless network. [Nirsoft] (v2.45)</title>
+      <link>https://www.nirsoft.net/utils/wireless_network_watcher.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wireless_network_watcher.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wnetwatcher.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wnetwatcher-2.45</guid>
+    </item>
+    <item>
+      <title>wirelessnetview — Monitor the activity of wireless networks around you. [Nirsoft] (v1.75)</title>
+      <link>https://www.nirsoft.net/utils/wireless_network_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wireless_network_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wirelessnetview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wirelessnetview-1.75</guid>
+    </item>
+    <item>
+      <title>wirelessnetconsole — View wireless networks information (console application) [Nirsoft] (v1.00)</title>
+      <link>https://www.nirsoft.net/utils/wireless_net_console.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wireless_net_console.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wirelessnetconsole.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wirelessnetconsole-1.00</guid>
+    </item>
+    <item>
+      <title>wirelesskeyview — recovers lost wireless network keys (WEP/WPA) stored in your computer. [Nirsoft] (v2.23)</title>
+      <link>https://www.nirsoft.net/utils/wireless_key.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wireless_key.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wirelesskeyview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wirelesskeyview-2.23</guid>
+    </item>
+    <item>
+      <title>wirelesskeydump — dumps the list of all wireless keys stored by Windows [Nirsoft] (v1.00)</title>
+      <link>https://www.nirsoft.net/utils/wireless_key_dump.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wireless_key_dump.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wirelesskeydump.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wirelesskeydump-1.00</guid>
+    </item>
+    <item>
+      <title>wirelessconnectioninfo — Displays general information and statistics about the active wifi connection. [Nirsoft] (v1.20)</title>
+      <link>https://www.nirsoft.net/utils/wireless_connection_information.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wireless_connection_information.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wirelessconnectioninfo.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wirelessconnectioninfo-1.20</guid>
+    </item>
+    <item>
+      <title>winupdatesview — Displays the history of Windows updates for your system. [Nirsoft] (v1.20)</title>
+      <link>https://www.nirsoft.net/utils/windows_updates_history_viewer.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/windows_updates_history_viewer.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/winupdatesview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-winupdatesview-1.20</guid>
+    </item>
+    <item>
+      <title>winsockservicesview — View/Disable/Enable Winsock service providers installed on your system. [Nirsoft] (v1.00)</title>
+      <link>https://www.nirsoft.net/utils/winsock_service_providers.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/winsock_service_providers.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/winsockservicesview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-winsockservicesview-1.00</guid>
+    </item>
+    <item>
+      <title>winprefetchview — View the Prefetch files (.pf) stored in your system. [Nirsoft] (v1.37)</title>
+      <link>https://www.nirsoft.net/utils/win_prefetch_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/win_prefetch_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/winprefetchview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-winprefetchview-1.37</guid>
+    </item>
+    <item>
+      <title>winmailpassrec — Password Recovery For Windows Mail App of Windows 10 and Windows 11 [Nirsoft] (v1.01)</title>
+      <link>https://www.nirsoft.net/utils/windows_mail_password_recovery.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/windows_mail_password_recovery.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/winmailpassrec.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-winmailpassrec-1.01</guid>
+    </item>
+    <item>
+      <title>winlogonview — Displays logon/logoff times on Windows Vista/7/8/2008 [Nirsoft] (v1.41)</title>
+      <link>https://www.nirsoft.net/utils/windows_log_on_times_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/windows_log_on_times_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/winlogonview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-winlogonview-1.41</guid>
+    </item>
+    <item>
+      <title>winlister — This utility displays the list of opened windows on your system. [Nirsoft] (v1.22)</title>
+      <link>https://www.nirsoft.net/utils/winlister.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/winlister.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/winlister.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-winlister-1.22</guid>
+    </item>
+    <item>
+      <title>winfontsview — Display sample of all fonts installed on your system. [Nirsoft] (v1.10)</title>
+      <link>https://www.nirsoft.net/utils/windows_fonts_viewer.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/windows_fonts_viewer.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/winfontsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-winfontsview-1.10</guid>
+    </item>
+    <item>
+      <title>windefthreatsview — View Windows Defender threats of local and remote computer [Nirsoft] (v1.15)</title>
+      <link>https://www.nirsoft.net/utils/windows_defender_threats_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/windows_defender_threats_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/windefthreatsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-windefthreatsview-1.15</guid>
+    </item>
+    <item>
+      <title>windeflogview — Windows Defender Log Viewer [Nirsoft] (v1.05)</title>
+      <link>https://www.nirsoft.net/utils/windows_defender_log_viewer.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/windows_defender_log_viewer.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/windeflogview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-windeflogview-1.05</guid>
+    </item>
+    <item>
+      <title>wincrashreport — Displays a report about crashed Windows application. [Nirsoft] (v1.25)</title>
+      <link>https://www.nirsoft.net/utils/application_crash_report.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/application_crash_report.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wincrashreport.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wincrashreport-1.25</guid>
+    </item>
+    <item>
+      <title>wifihistoryview — Displays the history of connections to wireless networks on your computer. [Nirsoft] (v1.66)</title>
+      <link>https://www.nirsoft.net/utils/wifi_history_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wifi_history_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wifihistoryview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wifihistoryview-1.66</guid>
+    </item>
+    <item>
+      <title>wifichannelmonitor — Captures wifi traffic in monitor mode and displays AP/clients information. [Nirsoft] (v1.70)</title>
+      <link>https://www.nirsoft.net/utils/wifi_channel_monitor.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wifi_channel_monitor.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wifichannelmonitor.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-wifichannelmonitor-1.70</guid>
+    </item>
+    <item>
+      <title>whosip — find all available information about an IP address from command-line. [Nirsoft] (v1.18)</title>
+      <link>https://www.nirsoft.net/utils/whosip.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/whosip.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/whosip.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-whosip-1.18</guid>
+    </item>
+    <item>
+      <title>whoistd — Get information about a registered domain from WHOIS server. [Nirsoft] (v2.46)</title>
+      <link>https://www.nirsoft.net/utils/whois_this_domain.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/whois_this_domain.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/whoistd.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-whoistd-2.46</guid>
+    </item>
+    <item>
+      <title>whoisconnectedsniffer — Shows who connects to your network by listening to network packets. [Nirsoft] (v1.30)</title>
+      <link>https://www.nirsoft.net/utils/who_is_connected_sniffer.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/who_is_connected_sniffer.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/whoisconnectedsniffer.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-whoisconnectedsniffer-1.30</guid>
+    </item>
+    <item>
+      <title>whoiscl — Get WHOIS information about a registered domain from command-line. [Nirsoft] (v1.90)</title>
+      <link>https://www.nirsoft.net/utils/whoiscl.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/whoiscl.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/whoiscl.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-whoiscl-1.90</guid>
+    </item>
+    <item>
+      <title>whatishang — Get information about Windows software that hangs. [Nirsoft] (v1.27)</title>
+      <link>https://www.nirsoft.net/utils/what_is_hang.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/what_is_hang.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/whatishang.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-whatishang-1.27</guid>
+    </item>
+    <item>
+      <title>whatinstartup — disable/enable/delete programs that are loaded at Windows startup. [Nirsoft] (v1.35)</title>
+      <link>https://www.nirsoft.net/utils/what_run_in_startup.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/what_run_in_startup.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/whatinstartup.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-whatinstartup-1.35</guid>
+    </item>
+    <item>
+      <title>webvideocap — Capture Flash Video files and RTSP streams while watching them in a Web browser. [Nirsoft] (v1.41)</title>
+      <link>https://www.nirsoft.net/utils/web_video_capture.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/web_video_capture.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/webvideocap.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-webvideocap-1.41</guid>
+    </item>
+    <item>
+      <title>websitesniffer — Capture Web site files and save them on your hard drive. [Nirsoft] (v1.51)</title>
+      <link>https://www.nirsoft.net/utils/web_site_sniffer.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/web_site_sniffer.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/websitesniffer.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-websitesniffer-1.51</guid>
+    </item>
+    <item>
+      <title>webcookiessniffer — Captures Web site cookies and displays them in a simple table [Nirsoft] (v1.30)</title>
+      <link>https://www.nirsoft.net/utils/web_cookies_sniffer.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/web_cookies_sniffer.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/webcookiessniffer.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-webcookiessniffer-1.30</guid>
+    </item>
+    <item>
+      <title>webcamimagesave — Capture still images from your WebCam. [Nirsoft] (v1.11)</title>
+      <link>https://www.nirsoft.net/utils/web_cam_image_capture.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/web_cam_image_capture.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/webcamimagesave.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-webcamimagesave-1.11</guid>
+    </item>
+    <item>
+      <title>webcacheimageinfo — Shows EXIF information of the images stored in Web browser cache. [Nirsoft] (v1.36)</title>
+      <link>https://www.nirsoft.net/utils/web_cache_image_info.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/web_cache_image_info.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/webcacheimageinfo.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-webcacheimageinfo-1.36</guid>
+    </item>
+    <item>
+      <title>webbrowserpassview — Recover lost passwords from your Web browser. [Nirsoft] (v2.18)</title>
+      <link>https://www.nirsoft.net/utils/web_browser_password.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/web_browser_password.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/webbrowserpassview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-webbrowserpassview-2.18</guid>
+    </item>
+    <item>
+      <title>webbrowserbookmarksview — View all bookmarks of Chrome and Firefox Web browsers. [Nirsoft] (v1.13)</title>
+      <link>https://www.nirsoft.net/utils/web_browser_bookmarks_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/web_browser_bookmarks_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/webbrowserbookmarksview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-webbrowserbookmarksview-1.13</guid>
+    </item>
+    <item>
+      <title>volumouse — Adjust the volume of your speaker with the wheel of your mouse. [Nirsoft] (v2.21)</title>
+      <link>https://www.nirsoft.net/utils/volumouse.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/volumouse.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/volumouse.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-volumouse-2.21</guid>
+    </item>
+    <item>
+      <title>vncpassview — Recover the passwords stored by the VNC tool. [Nirsoft] (v1.05)</title>
+      <link>https://www.nirsoft.net/utils/vnc_password.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/vnc_password.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/vncpassview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-vncpassview-1.05</guid>
+    </item>
+    <item>
+      <title>videocacheview — Extract Web site video files from the cache of your Web browser [Nirsoft] (v3.11)</title>
+      <link>https://www.nirsoft.net/utils/video_cache_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/video_cache_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/videocacheview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-videocacheview-3.11</guid>
+    </item>
+    <item>
+      <title>videoaudiotools — A package of 6 tools for Windows related to video/audio. [Nirsoft] (v1.20)</title>
+      <link>None</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;None&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/videoaudiotools.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-videoaudiotools-1.20</guid>
+    </item>
+    <item>
+      <title>vaultpasswordview — Decrypts passwords stored in Windows Vault [Nirsoft] (v1.12)</title>
+      <link>https://www.nirsoft.net/utils/vault_password_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/vault_password_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/vaultpasswordview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-vaultpasswordview-1.12</guid>
+    </item>
+    <item>
+      <title>userprofilesview — View user profiles information on your system. [Nirsoft] (v1.10)</title>
+      <link>https://www.nirsoft.net/utils/user_profiles_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/user_profiles_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/userprofilesview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-userprofilesview-1.10</guid>
+    </item>
+    <item>
+      <title>userassistview — This utility decrypt and displays the list of all UserAssist entries [Nirsoft] (v1.02)</title>
+      <link>https://www.nirsoft.net/utils/userassist_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/userassist_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/userassistview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-userassistview-1.02</guid>
+    </item>
+    <item>
+      <title>usblogview — Records the details of any USB device that is plugged/unplugged into your system [Nirsoft] (v1.26)</title>
+      <link>https://www.nirsoft.net/utils/usb_log_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/usb_log_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/usblogview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-usblogview-1.26</guid>
+    </item>
+    <item>
+      <title>usbdrivelog — USB Drive Log For Windows 10 [Nirsoft] (v1.15)</title>
+      <link>https://www.nirsoft.net/utils/usb_drive_log.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/usb_drive_log.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/usbdrivelog.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-usbdrivelog-1.15</guid>
+    </item>
+    <item>
+      <title>usbdeview — Lists all installed USB devices that you previously used. [Nirsoft] (v3.10)</title>
+      <link>https://www.nirsoft.net/utils/usb_devices_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/usb_devices_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/usbdeview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-usbdeview-3.10</guid>
+    </item>
+    <item>
+      <title>urlstringgrabber — Grab URL strings of Web sites from Internet Explorer [Nirsoft] (v1.11)</title>
+      <link>https://www.nirsoft.net/utils/url_string_grabber.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/url_string_grabber.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/urlstringgrabber.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-urlstringgrabber-1.11</guid>
+    </item>
+    <item>
+      <title>urlprotocolview — View/disable/enable the URL protocols installed on your system [Nirsoft] (v1.15)</title>
+      <link>https://www.nirsoft.net/utils/url_protocol_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/url_protocol_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/urlprotocolview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-urlprotocolview-1.15</guid>
+    </item>
+    <item>
+      <title>uninstallview — Shows installed programs on your system and allows you to uninstall them. [Nirsoft] (v1.52)</title>
+      <link>https://www.nirsoft.net/utils/uninstall_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/uninstall_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/uninstallview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-uninstallview-1.52</guid>
+    </item>
+    <item>
+      <title>turnedontimesview — View the time/date ranges that your computer was turned on. [Nirsoft] (v1.46)</title>
+      <link>https://www.nirsoft.net/utils/computer_turned_on_times.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/computer_turned_on_times.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/turnedontimesview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-turnedontimesview-1.46</guid>
+    </item>
+    <item>
+      <title>timezonesview — Displays all world time zones. [Nirsoft] (v1.06)</title>
+      <link>https://www.nirsoft.net/utils/time_zones_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/time_zones_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/timezonesview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-timezonesview-1.06</guid>
+    </item>
+    <item>
+      <title>taskschedulerview — View/Disable/Enable tasks from the Task Scheduler of Windows. [Nirsoft] (v1.74)</title>
+      <link>https://www.nirsoft.net/utils/task_scheduler_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/task_scheduler_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/taskschedulerview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-taskschedulerview-1.74</guid>
+    </item>
+    <item>
+      <title>tabletextcompare — Compare tab-delimited or comma-delimited (csv) files. [Nirsoft] (v1.20)</title>
+      <link>https://www.nirsoft.net/utils/csv_file_comparison.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/csv_file_comparison.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/tabletextcompare.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-tabletextcompare-1.20</guid>
+    </item>
+    <item>
+      <title>systools — Package of system tools for Windows [Nirsoft] (v5.65)</title>
+      <link>https://www.nirsoft.net/system_tools.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/system_tools.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/systools.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-systools-5.65</guid>
+    </item>
+    <item>
+      <title>sysexp — Grab the data stored in list-views, tree-views, list boxes, and combo boxes. [Nirsoft] (v1.77)</title>
+      <link>https://www.nirsoft.net/utils/sysexp.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/sysexp.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/sysexp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-sysexp-1.77</guid>
+    </item>
+    <item>
+      <title>svcl — Sound volume command-line tool for Windows [Nirsoft] (v1.28)</title>
+      <link>https://www.nirsoft.net/utils/sound_volume_command_line.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/sound_volume_command_line.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/svcl.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-svcl-1.28</guid>
+    </item>
+    <item>
+      <title>strun — Displays the list of all applications that are loaded on startup. [Nirsoft] (v1.22)</title>
+      <link>https://www.nirsoft.net/utils/strun.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/strun.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/strun.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-strun-1.22</guid>
+    </item>
+    <item>
+      <title>specialfoldersview — Easily jump to special folders in your system. [Nirsoft] (v1.26)</title>
+      <link>https://www.nirsoft.net/utils/special_folders_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/special_folders_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/specialfoldersview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-specialfoldersview-1.26</guid>
+    </item>
+    <item>
+      <title>soundvolumeview — View/change sound levels &amp; save/load sound level profiles on Windows Vista/7/8 [Nirsoft] (v2.53)</title>
+      <link>https://www.nirsoft.net/utils/sound_volume_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/sound_volume_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/soundvolumeview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-soundvolumeview-2.53</guid>
+    </item>
+    <item>
+      <title>socketsniff — Watch the Windows Sockets (WinSock) activity of the selected process. [Nirsoft] (v1.11)</title>
+      <link>https://www.nirsoft.net/utils/socket_sniffer.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/socket_sniffer.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/socketsniff.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-socketsniff-1.11</guid>
+    </item>
+    <item>
+      <title>sniffpass — capture the passwords that pass through your network adapter. [Nirsoft] (v1.13)</title>
+      <link>https://www.nirsoft.net/utils/password_sniffer.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/password_sniffer.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/sniffpass.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-sniffpass-1.13</guid>
+    </item>
+    <item>
+      <title>skypelogview — View log files created by Skype [Nirsoft] (v1.55)</title>
+      <link>https://www.nirsoft.net/utils/skype_log_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/skype_log_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/skypelogview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-skypelogview-1.55</guid>
+    </item>
+    <item>
+      <title>skypecontactsview — Displays the list of Skype contacts stored in the local database file of Skype. [Nirsoft] (v1.05)</title>
+      <link>https://www.nirsoft.net/utils/skype_contacts_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/skype_contacts_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/skypecontactsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-skypecontactsview-1.05</guid>
+    </item>
+    <item>
+      <title>siteshoter — Save a screenshot of any Web page into a file. [Nirsoft] (v1.42)</title>
+      <link>https://www.nirsoft.net/utils/web_site_screenshot.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/web_site_screenshot.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/siteshoter.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-siteshoter-1.42</guid>
+    </item>
+    <item>
+      <title>simplewmiview — Displays the result of WMI queries in a simple table [Nirsoft] (v1.56)</title>
+      <link>https://www.nirsoft.net/utils/simple_wmi_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/simple_wmi_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/simplewmiview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-simplewmiview-1.56</guid>
+    </item>
+    <item>
+      <title>simpleprogramdebugger — Displays debugging events of a running program. [Nirsoft] (v1.16)</title>
+      <link>https://www.nirsoft.net/utils/simple_program_debugger.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/simple_program_debugger.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/simpleprogramdebugger.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-simpleprogramdebugger-1.16</guid>
+    </item>
+    <item>
+      <title>simplecodegenerator — QR Code Generator for Windows [Nirsoft] (v1.17)</title>
+      <link>https://www.nirsoft.net/utils/qr_code_generator.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/qr_code_generator.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/simplecodegenerator.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-simplecodegenerator-1.17</guid>
+    </item>
+    <item>
+      <title>shutdownperformanceview — Displays the performance information of Windows shutdown process [Nirsoft] (v1.05)</title>
+      <link>https://www.nirsoft.net/utils/shutdown_performance_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/shutdown_performance_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/shutdownperformanceview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-shutdownperformanceview-1.05</guid>
+    </item>
+    <item>
+      <title>shmnview — Disable/enable static menu items in context menu of Explorer. [Nirsoft] (v1.41)</title>
+      <link>https://www.nirsoft.net/utils/shell_menu_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/shell_menu_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/shmnview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-shmnview-1.41</guid>
+    </item>
+    <item>
+      <title>shman — Lists all shortcuts on your desktop/start menu. [Nirsoft] (v1.10)</title>
+      <link>https://www.nirsoft.net/utils/shman.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/shman.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/shman.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-shman-1.10</guid>
+    </item>
+    <item>
+      <title>shexview — Displays the details of shell extensions installed on your computer. [Nirsoft] (v2.01)</title>
+      <link>https://www.nirsoft.net/utils/shexview.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/shexview.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/shexview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-shexview-2.01</guid>
+    </item>
+    <item>
+      <title>shellmenunew — Disable/Enable items in the New submenu of Explorer. [Nirsoft] (v1.02)</title>
+      <link>https://www.nirsoft.net/utils/shell_menu_new.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/shell_menu_new.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/shellmenunew.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-shellmenunew-1.02</guid>
+    </item>
+    <item>
+      <title>shellbagsview — Displays the list of all folder settings saved by Windows. [Nirsoft] (v1.35)</title>
+      <link>https://www.nirsoft.net/utils/shell_bags_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/shell_bags_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/shellbagsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-shellbagsview-1.35</guid>
+    </item>
+    <item>
+      <title>shadowcopyview — View shadow copies on your system [Nirsoft] (v1.16)</title>
+      <link>https://www.nirsoft.net/utils/shadow_copy_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/shadow_copy_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/shadowcopyview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-shadowcopyview-1.16</guid>
+    </item>
+    <item>
+      <title>serviwin — displays the list of installed drivers and services on your system. [Nirsoft] (v1.72)</title>
+      <link>https://www.nirsoft.net/utils/serviwin.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/serviwin.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/serviwin.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-serviwin-1.72</guid>
+    </item>
+    <item>
+      <title>seqdownload — Download sequence of images from the Web, and create animation from them. [Nirsoft] (v1.26)</title>
+      <link>https://www.nirsoft.net/utils/seqdownload.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/seqdownload.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/seqdownload.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-seqdownload-1.26</guid>
+    </item>
+    <item>
+      <title>securitysoftview — Displays the list of AntiVirus/AntiSpyware/ Firewall programs on your system. [Nirsoft] (v1.00)</title>
+      <link>https://www.nirsoft.net/utils/security_software_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/security_software_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/securitysoftview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-securitysoftview-1.00</guid>
+    </item>
+    <item>
+      <title>securityquestionsview — View Windows 10 security questions [Nirsoft] (v1.00)</title>
+      <link>https://www.nirsoft.net/utils/security_questions_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/security_questions_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/securityquestionsview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-securityquestionsview-1.00</guid>
+    </item>
+    <item>
+      <title>searchfilterview — view the search filters installed on your system. [Nirsoft] (v1.00)</title>
+      <link>https://www.nirsoft.net/utils/search_filter_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/search_filter_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/searchfilterview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-searchfilterview-1.00</guid>
+    </item>
+    <item>
+      <title>safarihistoryview — History viewer for Safari Web browser [Nirsoft] (v1.01)</title>
+      <link>https://www.nirsoft.net/utils/safari_history_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/safari_history_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/safarihistoryview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:31 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-safarihistoryview-1.01</guid>
+    </item>
+    <item>
+      <title>safaricacheview — Cache viewer/extractor for Safari Web browser [Nirsoft] (v1.11)</title>
+      <link>https://www.nirsoft.net/utils/safari_cache_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/safari_cache_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/safaricacheview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-safaricacheview-1.11</guid>
+    </item>
+    <item>
+      <title>runtimeclassesview — Displays the list of Windows Runtime (WinRT) classes [Nirsoft] (v1.00)</title>
+      <link>https://www.nirsoft.net/utils/runtime_classes_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/runtime_classes_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/runtimeclassesview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-runtimeclassesview-1.00</guid>
+    </item>
+    <item>
+      <title>runfromprocess — Run a program from another process that you choose. [Nirsoft] (v1.07)</title>
+      <link>https://www.nirsoft.net/utils/run_from_process.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/run_from_process.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/runfromprocess.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-runfromprocess-1.07</guid>
+    </item>
+    <item>
+      <title>runasdate — Run a program with the specified date. [Nirsoft] (v1.41)</title>
+      <link>https://www.nirsoft.net/utils/run_as_date.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/run_as_date.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/runasdate.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-runasdate-1.41</guid>
+    </item>
+    <item>
+      <title>rtmpdumphelper — Download RTMP streams in conjunction with RTMPDump toolkit. [Nirsoft] (v1.22)</title>
+      <link>https://www.nirsoft.net/utils/rtmp_dump_helper.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/rtmp_dump_helper.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/rtmpdumphelper.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-rtmpdumphelper-1.22</guid>
+    </item>
+    <item>
+      <title>routerpassview — Recover passwords from router config file. [Nirsoft] (v1.90)</title>
+      <link>https://www.nirsoft.net/utils/router_password_recovery.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/router_password_recovery.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/routerpassview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-routerpassview-1.90</guid>
+    </item>
+    <item>
+      <title>resourcesextract — Extract resources from dll/ocx/exe files. [Nirsoft] (v1.18)</title>
+      <link>https://www.nirsoft.net/utils/resources_extract.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/resources_extract.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/resourcesextract.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-resourcesextract-1.18</guid>
+    </item>
+    <item>
+      <title>regtools — Package of 5 Windows Registry tools for advanced users [Nirsoft] (v1.40)</title>
+      <link>https://www.nirsoft.net/windows_registry_tools.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/windows_registry_tools.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/regtools.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-regtools-1.40</guid>
+    </item>
+    <item>
+      <title>regscanner — Scan and find values in the Registry [Nirsoft] (v2.75)</title>
+      <link>https://www.nirsoft.net/utils/regscanner.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/regscanner.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/regscanner.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-regscanner-2.75</guid>
+    </item>
+    <item>
+      <title>registrychangesview — Compares 2 snapshots of Windows Registry. [Nirsoft] (v1.31)</title>
+      <link>https://www.nirsoft.net/utils/registry_changes_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/registry_changes_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/registrychangesview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-registrychangesview-1.31</guid>
+    </item>
+    <item>
+      <title>regfromapp — Creates .reg file according to Registry changes made by application. [Nirsoft] (v1.33)</title>
+      <link>https://www.nirsoft.net/utils/reg_file_from_application.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/reg_file_from_application.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/regfromapp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-regfromapp-1.33</guid>
+    </item>
+    <item>
+      <title>regfileexport — Export offline Registry file to .reg file [Nirsoft] (v1.11)</title>
+      <link>https://www.nirsoft.net/utils/registry_file_offline_export.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/registry_file_offline_export.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/regfileexport.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-regfileexport-1.11</guid>
+    </item>
+    <item>
+      <title>regdllview — RegDllView is a small utility that displays the list of all registered files. [Nirsoft] (v1.60)</title>
+      <link>https://www.nirsoft.net/utils/registered_dll_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/registered_dll_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/regdllview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-regdllview-1.60</guid>
+    </item>
+    <item>
+      <title>recentfilesview — Display the list of recently opened files [Nirsoft] (v1.33)</title>
+      <link>https://www.nirsoft.net/utils/recent_files_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/recent_files_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/recentfilesview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-recentfilesview-1.33</guid>
+    </item>
+    <item>
+      <title>rdpv — Reveals the password stored by Microsoft Remote Desktop utility. [Nirsoft] (v1.01)</title>
+      <link>https://www.nirsoft.net/utils/remote_desktop_password.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/remote_desktop_password.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/rdpv.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 11:35:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-rdpv-1.01</guid>
+    </item>
     <item>
       <title>motty — SSH client with terminal, SFTP, port forwarding and an AI assistant [Extras] (v0.3.2)</title>
       <link>https://motty.page</link>
@@ -725,685 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://potrace.sourceforge.net/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/potrace.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-potrace-1.16</guid>
-    </item>
-    <item>
-      <title>redshift — Adjusts the color temperature of screen according to surroundings. [Main] (v1.12)</title>
-      <link>https://github.com/sharpbracket/redshift</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sharpbracket/redshift&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/redshift.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-redshift-1.12</guid>
-    </item>
-    <item>
-      <title>srvman — Windows Service Manager is a small tool that simplifies all common tasks related to Windows services. [Main] (v1.0)</title>
-      <link>https://sysprogs.com/legacy/tools/srvman/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unknown&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Always use sudo to start, stop or edit (e.g., 'sudo srvman start nginx' or 'sudo service restart apache').&lt;br/&gt;Visit https://sysprogs.com/legacy/tools/srvman/ for more info&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sysprogs.com/legacy/tools/srvman/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/srvman.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-srvman-1.0</guid>
-    </item>
-    <item>
-      <title>tta — The True Audio lossless audio encoder/decoder [Main] (v2.3)</title>
-      <link>https://tta.sourceforge.net/en/true-audio-codec-tta/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://tta.sourceforge.net/en/true-audio-codec-tta/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/tta.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-tta-2.3</guid>
-    </item>
-    <item>
-      <title>unxutils — GNU utilities for Win32. [Main] (v2007.03.01)</title>
-      <link>https://unxutils.sourceforge.net/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; 'unxutils' has not been updated since 2007. Some of its functions may not work properly under Windows 10/11.&lt;br/&gt;We recommend using 'uutils-coreutils' instead. To install it, run:&lt;br/&gt;scoop install uutils-coreutils&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://unxutils.sourceforge.net/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/unxutils.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-unxutils-2007.03.01</guid>
-    </item>
-    <item>
-      <title>unzip — Unzip compression utility [Main] (v6.00)</title>
-      <link>https://infozip.sourceforge.net</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Info-ZIP&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://infozip.sourceforge.net&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/unzip.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-unzip-6.00</guid>
-    </item>
-    <item>
-      <title>yasm — Modular assembler based on NASM [Main] (v1.3.0)</title>
-      <link>https://github.com/yasm/yasm</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/yasm/yasm&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/yasm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-yasm-1.3.0</guid>
-    </item>
-    <item>
-      <title>zip — Zip compression utilities [Main] (v3.0)</title>
-      <link>https://infozip.sourceforge.net</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Info-ZIP&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://infozip.sourceforge.net&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/zip.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-zip-3.0</guid>
-    </item>
-    <item>
-      <title>merman-lsp — Local Mermaid language intelligence for .mmd, .mermaid, Markdown, and MDX documents. [Main] (v0.8.0)</title>
-      <link>https://github.com/Latias94/merman</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Latias94/merman&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/merman-lsp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 10:10:23 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-merman-lsp-0.8.0</guid>
-    </item>
-    <item>
-      <title>aria2-next — Maintained aria2 fork with extensive bug fixes and modernized architecture. [Main] (v2.8.6)</title>
-      <link>https://github.com/AnInsomniacy/aria2-next</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AnInsomniacy/aria2-next&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/aria2-next.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 10:02:34 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-aria2-next-2.8.6</guid>
-    </item>
-    <item>
-      <title>dmg2img — Converts DMG image file to IMG. [Main] (v1.6.7)</title>
-      <link>https://web.archive.org/web/20260614071249id_/http://vu1tur.eu.org/tools/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://web.archive.org/web/20260614071249id_/http://vu1tur.eu.org/tools/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dmg2img.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 08:34:23 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-dmg2img-1.6.7</guid>
-    </item>
-    <item>
-      <title>effectcraft — Motion graphics and visual effects; an open-source, clean-room reimplementation of Adobe After Effects, rebuilt in pure Rust [Extras] (v0.6.0)</title>
-      <link>https://getartcraft.com/apps/effectcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/effectcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/effectcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:17:47 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-effectcraft-0.6.0</guid>
-    </item>
-    <item>
-      <title>photocraft — Image editing; an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust [Extras] (v0.5.0)</title>
-      <link>https://getartcraft.com/apps/photocraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/photocraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/photocraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:16:36 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-photocraft-0.5.0</guid>
-    </item>
-    <item>
-      <title>artcraft — IDE for interactive AI image and video creation [Extras] (v0.41.0)</title>
-      <link>https://getartcraft.com/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/artcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:12:22 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-artcraft-0.41.0</guid>
-    </item>
-    <item>
-      <title>lightcraft — Photo library and raw development; an open-source, clean-room reimplementation of Adobe Lightroom, rebuilt in pure Rust [Extras] (v0.4.0)</title>
-      <link>https://getartcraft.com/apps/lightcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/lightcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/lightcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:09:42 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-lightcraft-0.4.0</guid>
-    </item>
-    <item>
-      <title>gridcraft — Spreadsheets and data; an open-source, clean-room reimplementation of Microsoft Excel, rebuilt in pure Rust [Extras] (v0.3.0)</title>
-      <link>https://github.com/storytold/gridcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/gridcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/gridcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:09:31 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-gridcraft-0.3.0</guid>
-    </item>
-    <item>
-      <title>filmcraft — Video editing, color and sound; an open-source, clean-room reimplementation of Adobe Premiere Pro, rebuilt in pure Rust [Extras] (v0.4.0)</title>
-      <link>https://getartcraft.com/apps/filmcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/filmcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/filmcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:08:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-filmcraft-0.4.0</guid>
-    </item>
-    <item>
-      <title>designcraft — Page layout and publishing; an open-source, clean-room reimplementation of Adobe InDesign, rebuilt in pure Rust [Extras] (v0.4.0)</title>
-      <link>https://getartcraft.com/apps/designcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/designcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/designcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:08:48 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-designcraft-0.4.0</guid>
-    </item>
-    <item>
-      <title>pdfcraft — The PDF workbench; an open-source, clean-room reimplementation of Adobe Acrobat, rebuilt in pure Rust [Extras] (v0.4.0)</title>
-      <link>https://getartcraft.com/apps/pdfcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/pdfcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/pdfcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:04:38 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-pdfcraft-0.4.0</guid>
-    </item>
-    <item>
-      <title>deckcraft — Presentations and slide shows; an open-source, clean-room reimplementation of Microsoft PowerPoint, rebuilt in pure Rust [Extras] (v0.3.0)</title>
-      <link>https://github.com/storytold/deckcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/deckcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/deckcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:04:26 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-deckcraft-0.3.0</guid>
-    </item>
-    <item>
-      <title>cadcraft — Computer-aided design and drafting; an open-source, clean-room reimplementation of Autodesk AutoCAD, rebuilt in pure Rust [Extras] (v0.3.0)</title>
-      <link>https://github.com/storytold/cadcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/cadcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/cadcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:04:01 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-cadcraft-0.3.0</guid>
-    </item>
-    <item>
-      <title>soundcraft — Recording, editing and mixing audio; an open-source, clean-room reimplementation of Avid Pro Tools, rebuilt in pure Rust [Extras] (v0.3.0)</title>
-      <link>https://github.com/storytold/soundcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/soundcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/soundcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:03:39 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-soundcraft-0.3.0</guid>
-    </item>
-    <item>
-      <title>vectorcraft — Vector illustration; an open-source, clean-room reimplementation of Adobe Illustrator, rebuilt in pure Rust [Extras] (v0.6.0)</title>
-      <link>https://getartcraft.com/apps/vectorcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/vectorcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vectorcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:02:43 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-vectorcraft-0.6.0</guid>
-    </item>
-    <item>
-      <title>wordcraft — Writing and document design; an open-source, clean-room reimplementation of Microsoft Word, rebuilt in pure Rust [Extras] (v0.3.0)</title>
-      <link>https://github.com/storytold/wordcraft</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/wordcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/wordcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:02:07 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-wordcraft-0.3.0</guid>
-    </item>
-    <item>
-      <title>certstrap — Tools to bootstrap CAs, certificate requests, and signed certificates [Main] (v1.4.0)</title>
-      <link>https://github.com/square/certstrap</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/square/certstrap&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/certstrap.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 08:42:38 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-certstrap-1.4.0</guid>
-    </item>
-    <item>
-      <title>ortie — CLI to manage OAuth tokens [Extras] (v2.3.0)</title>
-      <link>https://github.com/pimalaya/ortie</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pimalaya/ortie&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/ortie.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 06:54:26 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-ortie-2.3.0</guid>
-    </item>
-    <item>
-      <title>merman-cli — Headless Mermaid-compatible diagram renderer for SVG, PNG, JPEG, PDF, ASCII, and Unicode output. [Main] (v0.8.0)</title>
-      <link>https://github.com/Latias94/merman</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Latias94/merman&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/merman-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 08:01:13 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-merman-cli-0.8.0</guid>
-    </item>
-    <item>
-      <title>libresprite — Animated sprite editor &amp; pixel art tool [Extras] (v1.3)</title>
-      <link>https://libresprite.github.io</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://libresprite.github.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/libresprite.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 11:03:17 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-libresprite-1.3</guid>
-    </item>
-    <item>
-      <title>picoclaw — Tiny, fast, and deployable AI assistant and agent framework in Go. [Main] (v0.3.1)</title>
-      <link>https://picoclaw.io</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://picoclaw.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/picoclaw.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 15:27:59 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-picoclaw-0.3.1</guid>
-    </item>
-    <item>
-      <title>sofka — A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. [Main] (v0.29.9)</title>
-      <link>https://sofka.rs</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sofka.rs&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/sofka.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 15:10:21 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-sofka-0.29.9</guid>
-    </item>
-    <item>
-      <title>windump — Windows version of tcpdump, the command-line network packet capture and analyzer tool. [Main] (v3.9.5)</title>
-      <link>https://www.winpcap.org/windump/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; WinDump requires WinPcap or Npcap (with WinPcap API-compatible mode enabled) to run and capture network packets.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.winpcap.org/windump/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/windump.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 15:08:06 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-windump-3.9.5</guid>
-    </item>
-    <item>
-      <title>gel-arm64 — A graph-relational database (Formerly known as EdgeDB). [Main] (v7.10.2+25c49a7)</title>
-      <link>https://www.geldata.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.geldata.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/gel-arm64.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 11:16:01 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-gel-arm64-7.10.2+25c49a7</guid>
-    </item>
-    <item>
-      <title>gel — A graph-relational database (Formerly known as EdgeDB). [Main] (v7.10.2+e00c46c)</title>
-      <link>https://www.geldata.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; For arm64 architecture, please use `main/gel-arm64`.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.geldata.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/gel.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 11:16:01 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-gel-7.10.2+e00c46c</guid>
-    </item>
-    <item>
-      <title>syncany-cli — An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage! [Main] (v0.4.9)</title>
-      <link>https://www.syncany.org</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.syncany.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/syncany-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 18:27:18 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-syncany-cli-0.4.9</guid>
-    </item>
-    <item>
-      <title>rust-glancer — Lightweight Rust language server optimized for low memory usage and fast restarts. [Main] (v0.3.0)</title>
-      <link>https://github.com/rust-glancer/rust-glancer</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Requires the rust-src component: rustup component add rust-src&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rust-glancer/rust-glancer&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/rust-glancer.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 17:02:30 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-rust-glancer-0.3.0</guid>
-    </item>
-    <item>
-      <title>snowshot — A screenshot utility for capturing, annotating, pinning, and recognizing screen content. [Extras] (v1.2.2)</title>
-      <link>https://snowshot.top</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Quit Snow Shot before upgrading. Use scoop update snowshot instead of the built-in updater.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://snowshot.top&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/snowshot.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 10:46:13 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-snowshot-1.2.2</guid>
-    </item>
-    <item>
-      <title>proton-pass-cli — Command-line interface for Proton Pass. [Main] (v2.4.2)</title>
-      <link>https://protonpass.github.io/pass-cli/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Update with 'scoop update proton-pass-cli', not 'pass-cli update'.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://protonpass.github.io/pass-cli/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/proton-pass-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 22:16:23 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-proton-pass-cli-2.4.2</guid>
-    </item>
-    <item>
-      <title>ctop — Top-like interface for container metrics. [Main] (v0.7.7)</title>
-      <link>https://github.com/bcicen/ctop</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bcicen/ctop&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ctop.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 15:34:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-ctop-0.7.7</guid>
-    </item>
-    <item>
-      <title>fontreg — Windows Font Registration &amp; Installation Utility. [Main] (v2.1.3)</title>
-      <link>https://code.kliu.org/misc/fontreg/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unknown&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://code.kliu.org/misc/fontreg/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/fontreg.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 15:34:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-fontreg-2.1.3</guid>
-    </item>
-    <item>
-      <title>pyenv — Simple python version management tool for switching between multiple versions of Python. [Main] (v3.1.1)</title>
-      <link>https://pyenv-win.github.io/pyenv-win/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; You can specify the PYTHON_BUILD_MIRROR_URL environment variable and run 'pyenv update' to speed up downloads.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pyenv-win.github.io/pyenv-win/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/pyenv.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 15:34:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-pyenv-3.1.1</guid>
-    </item>
-    <item>
-      <title>realcugan-ncnn-vulkan — NCNN implementation of Real-CUGAN image upscaling software. [Main] (v20220728)</title>
-      <link>https://github.com/nihui/realcugan-ncnn-vulkan</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nihui/realcugan-ncnn-vulkan&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/realcugan-ncnn-vulkan.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 15:34:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-realcugan-ncnn-vulkan-20220728</guid>
-    </item>
-    <item>
-      <title>realesrgan-ncnn-vulkan — NCNN implementation of Real-ESRGAN image upscaling software. [Main] (v0.2.0)</title>
-      <link>https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/realesrgan-ncnn-vulkan.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 15:34:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-realesrgan-ncnn-vulkan-0.2.0</guid>
-    </item>
-    <item>
-      <title>spotify-tui — Spotify client for the terminal. [Main] (v0.25.0)</title>
-      <link>https://github.com/Rigellute/spotify-tui</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Rigellute/spotify-tui&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/spotify-tui.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 15:34:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-spotify-tui-0.25.0</guid>
-    </item>
-    <item>
-      <title>tcping — Operates similarly to 'ping', but works over a TCP port. [Main] (v0.39)</title>
-      <link>https://www.elifulkerson.com/projects/tcping.php</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.elifulkerson.com/projects/tcping.php&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/tcping.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 15:34:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-tcping-0.39</guid>
-    </item>
-    <item>
-      <title>xtensa-esp32-elf — Toolchain for Xtensa (ESP32) based on GCC [Main] (v11_2_0-esp-2022r1)</title>
-      <link>https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup-scratch.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup-scratch.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/xtensa-esp32-elf.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 15:34:58 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-xtensa-esp32-elf-11_2_0-esp-2022r1</guid>
-    </item>
-    <item>
-      <title>easycliproxyapi — Cross-platform GUI desktop management client for CLIProxyAPI [Extras] (v0.3.12)</title>
-      <link>https://github.com/router-for-me/EasyCLIProxyAPI</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/router-for-me/EasyCLIProxyAPI&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/easycliproxyapi.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 08:57:04 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-easycliproxyapi-0.3.12</guid>
-    </item>
-    <item>
-      <title>gersemi — A formatter to make your CMake code the real treasure [Extras] (v0.29.2)</title>
-      <link>https://github.com/BlankSpruce/gersemi</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MPL-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/BlankSpruce/gersemi&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/gersemi.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 20:20:49 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-gersemi-0.29.2</guid>
-    </item>
-    <item>
-      <title>slumber — Terminal-based HTTP/REST client. [Main] (v5.3.0)</title>
-      <link>https://slumber.lucaspickering.me</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; On first run, please run slumber new to generate a sample collection file.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://slumber.lucaspickering.me&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/slumber.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 11:08:32 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-slumber-5.3.0</guid>
-    </item>
-    <item>
-      <title>dekit — Process manager for dev and prod. [Main] (v0.10.0)</title>
-      <link>https://dekit.run</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://dekit.run&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dekit.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 10:20:55 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-dekit-0.10.0</guid>
-    </item>
-    <item>
-      <title>pycharm-community — Cross-Platform IDE for Python by JetBrains (Open Source Community Edition). [Extras] (v2026.2.3)</title>
-      <link>https://github.com/JetBrains/intellij-community</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JetBrains/intellij-community&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/pycharm-community.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 19:06:05 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-pycharm-community-2026.2.3</guid>
-    </item>
-    <item>
-      <title>bili23-downloader — Open source, cross-platform Bilibili video downloader. [Extras] (v2.20.0)</title>
-      <link>https://bili23.scott-sloan.cn</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bili23.scott-sloan.cn&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/bili23-downloader.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 18:57:50 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-bili23-downloader-2.20.0</guid>
-    </item>
-    <item>
-      <title>vigolium — Web vulnerability scanner and traffic analysis CLI [Main] (v0.5.1)</title>
-      <link>https://vigolium.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://vigolium.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/vigolium.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:06:31 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-vigolium-0.5.1</guid>
-    </item>
-    <item>
-      <title>magpie-ai — Unified model, provider, and gateway manager for AI coding agents. [Extras] (v0.1.518)</title>
-      <link>https://usemagpie.ai</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://usemagpie.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/magpie-ai.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 16:36:23 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-magpie-ai-0.1.518</guid>
-    </item>
-    <item>
-      <title>namida — Multiplatform desktop and mobile media player with YouTube support. [Extras] (v7.1.2)</title>
-      <link>https://github.com/namidaco/namida</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/namidaco/namida&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/namida.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 16:12:51 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-namida-7.1.2</guid>
-    </item>
-    <item>
-      <title>voicestudio — Open-source voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. [Extras] (v0.5.6)</title>
-      <link>https://voicestudio.sh</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://voicestudio.sh&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/voicestudio.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:38:05 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-voicestudio-0.5.6</guid>
-    </item>
-    <item>
-      <title>paseo — Orchestrate multiple coding agents from desktop and mobile [Extras] (v0.10.2)</title>
-      <link>https://paseo.sh</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://paseo.sh&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/paseo.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:05:40 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-paseo-0.10.2</guid>
-    </item>
-    <item>
-      <title>magpie-ai-cli — Unified model, provider, and gateway manager for AI coding agents (CLI version). [Main] (v0.1.477)</title>
-      <link>https://usemagpie.ai</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://usemagpie.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/magpie-ai-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 08:41:05 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-magpie-ai-cli-0.1.477</guid>
-    </item>
-    <item>
-      <title>cangjie-lts — A general-purpose programming language designed for all-scenario application development. (Long Term Support) [Main] (v1.0.5)</title>
-      <link>https://cangjie-lang.cn/en</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cangjie-lang.cn/en&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/cangjie-lts.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 21:06:36 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-cangjie-lts-1.0.5</guid>
-    </item>
-    <item>
-      <title>minishift — Minishift is a tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM. You can try out OpenShift or develop with it, day-to-day, on your local host. [Main] (v1.34.3)</title>
-      <link>https://www.openshift.org/minishift</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.openshift.org/minishift&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/minishift.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 21:06:36 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-minishift-1.34.3</guid>
-    </item>
-    <item>
-      <title>msmpi — Microsoft implementation of the Message Passing Interface standard for developing and running parallel applications on the Windows platform. [Main] (v10.1.1)</title>
-      <link>https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/msmpi.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 21:06:36 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-msmpi-10.1.1</guid>
-    </item>
-    <item>
-      <title>osmosis — A command line Java application for processing OSM data. [Main] (v0.49.2)</title>
-      <link>https://wiki.openstreetmap.org/wiki/Osmosis</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Public Domain&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://wiki.openstreetmap.org/wiki/Osmosis&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/osmosis.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 07:40:28 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-osmosis-0.49.2</guid>
-    </item>
-    <item>
-      <title>mach2 — Feature Control Multi-tool for Windows 10 [Main] (v0.7.0.0)</title>
-      <link>https://github.com/riverar/mach2</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/riverar/mach2&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/mach2.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 19:41:35 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-mach2-0.7.0.0</guid>
-    </item>
-    <item>
-      <title>ninja-kitware — A small build system with a focus on speed (Kitware fork with jobserver support). [Main] (v1.11.1.g95dee.kitware.jobserver-1)</title>
-      <link>https://github.com/Kitware/ninja</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Kitware/ninja&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ninja-kitware.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 14:20:39 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-ninja-kitware-1.11.1.g95dee.kitware.jobserver-1</guid>
-    </item>
-    <item>
-      <title>mosh-client — Windows native port of Mobile Shell (mosh) client. [Main] (v1.3.2)</title>
-      <link>https://github.com/felixse/FluentTerminal</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/felixse/FluentTerminal&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/mosh-client.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 12:23:47 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-mosh-client-1.3.2</guid>
-    </item>
-    <item>
-      <title>powersession — Terminal session recorder (Asciinema format) written in C# [Main] (v1.4.7)</title>
-      <link>https://github.com/Watfaq-legacy/PowerSession</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; This C# version will be less updated&lt;br/&gt;Feel free to checkout the brand new Rust version: scoop install PowerSession-rs&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Watfaq-legacy/PowerSession&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/powersession.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 12:10:48 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-powersession-1.4.7</guid>
-    </item>
-    <item>
-      <title>appreadwritecounter — Displays read/write operations of every application running on your system. [Nirsoft] (v1.46)</title>
-      <link>https://www.nirsoft.net/utils/app_read_write_counter.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/app_read_write_counter.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/appreadwritecounter.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 10:09:57 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Nirsoft-appreadwritecounter-1.46</guid>
-    </item>
-    <item>
-      <title>wakemeonlan — Turn on one or more computers remotely by sending Wake-on-LAN (WOL) packet [Nirsoft] (v1.96)</title>
-      <link>https://www.nirsoft.net/utils/wake_on_lan.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/wake_on_lan.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/wakemeonlan.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 01:55:27 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Nirsoft-wakemeonlan-1.96</guid>
-    </item>
-    <item>
-      <title>rapidee — Environment variables editor. [Extras] (v10.0.0)</title>
-      <link>https://www.rapidee.com/en/about</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Starting with v10.0.0, settings are stored in `%LocalAppData%\RapidEE\settings.json`.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.rapidee.com/en/about&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/rapidee.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 08:47:41 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-rapidee-10.0.0</guid>
-    </item>
-    <item>
-      <title>xfetch — A fast, customizable system information fetch tool for the terminal [Extras] (v1.0.0)</title>
-      <link>https://github.com/xfetch-cli/xfetch</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xfetch-cli/xfetch&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/xfetch.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 14:36:54 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-xfetch-1.0.0</guid>
-    </item>
-    <item>
-      <title>tty7 — A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty. [Extras] (v26.9.3)</title>
-      <link>https://tty7.io</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Portable build (marker file .tty7-portable is bundled).&lt;br/&gt;Run 'tty7' to launch the GUI. The same binary also acts as a CLI for coding agents (e.g. 'tty7 ls', 'tty7 status', 'tty7 capture --json').&lt;br/&gt;Run 'tty7-app' to launch the GUI directly without the CLI shim, and 'tty7-updater' to update manually.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://tty7.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/tty7.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 12:58:04 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-tty7-26.9.3</guid>
-    </item>
-    <item>
-      <title>sifty — AI-assisted Windows maintenance CLI/TUI - sift junk, analyze disks, manage apps, updates and files. [Extras] (v0.9.0)</title>
-      <link>https://sifty.tech/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sifty.tech/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/sifty.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 12:10:02 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-sifty-0.9.0</guid>
-    </item>
-    <item>
-      <title>rayburst — A full-featured download manager — rebuilt from the ground up (Formerly known as Motrix Next). [Extras] (v4.0.0)</title>
-      <link>https://rayburst.pages.dev</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rayburst.pages.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/rayburst.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 08:20:17 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-rayburst-4.0.0</guid>
-    </item>
-    <item>
-      <title>libredb-studio — Self-hosted, browser-based SQL IDE for cloud-native teams, covering sixteen database engines with AI-assisted query writing and ER diagrams. [Extras] (v0.16.2)</title>
-      <link>https://libredb.org</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Run 'libredb-studio' and browse to http://localhost:3000&lt;br/&gt;The first run prints generated admin credentials to the terminal.&lt;br/&gt;The server binds to the loopback interface only. Set LIBREDB_BIND=0.0.0.0 to expose it on the network.&lt;br/&gt;Server-side state is kept under %LOCALAPPDATA%\LibreDB\Studio, outside the install directory, so it survives 'scoop update'.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://libredb.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/libredb-studio.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:40:25 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-libredb-studio-0.16.2</guid>
-    </item>
-    <item>
-      <title>mirthsync — Command-line tool that pulls and pushes Mirth Connect / Open Integration Engine channels, code templates and configuration to a Git repository [Extras] (v3.7.1)</title>
-      <link>https://saga-it.com/products/mirthsync</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; EPL-1.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://saga-it.com/products/mirthsync&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/mirthsync.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 20:32:25 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-mirthsync-3.7.1</guid>
-    </item>
-    <item>
-      <title>redasm — Interactive, multiarchitecture disassembler [Extras] (v2.1.1)</title>
-      <link>https://redasm.dev</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://redasm.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/redasm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 19:33:07 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-redasm-2.1.1</guid>
-    </item>
-    <item>
-      <title>logseq-og — A privacy-first platform for knowledge sharing and management (OG, file-based) [Extras] (v1.0.0)</title>
-      <link>https://logseq.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://logseq.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/logseq-og.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 17:36:25 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-logseq-og-1.0.0</guid>
-    </item>
-    <item>
-      <title>codebase-memory-mcp — Code intelligence knowledge graph MCP server for AI coding agents [Main] (v0.11.0)</title>
-      <link>https://deusdata.github.io/codebase-memory-mcp/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; To register this MCP server with your clients, run `codebase-memory-mcp install` after install.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://deusdata.github.io/codebase-memory-mcp/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/codebase-memory-mcp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 12:45:14 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-codebase-memory-mcp-0.11.0</guid>
-    </item>
-    <item>
-      <title>kurrentdb — A database that's engineered for modern software applications and event-driven architectures (Formerly known as EventStoreDB). [Main] (v26.1.2)</title>
-      <link>https://kurrentdb.kurrent.io/kurrentdb/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; KLv1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Database files are stored in &quot;$persist_dir\db&quot;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kurrentdb.kurrent.io/kurrentdb/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/kurrentdb.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 11:28:52 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-kurrentdb-26.1.2</guid>
-    </item>
-    <item>
-      <title>lame — High quality MPEG Audio Layer III (MP3) encoder [Main] (v4.0-q4-patched)</title>
-      <link>https://lame.sourceforge.io/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; LGPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://lame.sourceforge.io/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/lame.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 09:37:47 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-lame-4.0-q4-patched</guid>
-    </item>
-    <item>
-      <title>psake — A build automation tool, now with less XML. [Main] (v5.0.4)</title>
-      <link>https://github.com/psake/psake</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Standalone runner `psake.ps1` has been removed, use `Import-Module psake; Invoke-psake` instead.&lt;br/&gt;For more information, visit https://github.com/psake/psake/blob/main/CHANGELOG.md#removed&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/psake/psake&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/psake.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 18:06:08 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-psake-5.0.4</guid>
-    </item>
-    <item>
-      <title>kimi-code — AI coding agent built by Moonshot AI that runs in your terminal. [Main] (v2.1.0)</title>
-      <link>https://www.kimi.com/code/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Kimi Code CLI uses the bundled Git Bash as its shell environment.&lt;br/&gt;If Git Bash is installed in a custom location, set KIMI_SHELL_PATH to the absolute path of bash.exe.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.kimi.com/code/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/kimi-code.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 13:53:41 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-kimi-code-2.1.0</guid>
-    </item>
-    <item>
-      <title>cangjie — A general-purpose programming language designed for all-scenario application development. [Main] (v1.2.0)</title>
-      <link>https://cangjie-lang.cn/en</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cangjie-lang.cn/en&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/cangjie.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 12:40:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-cangjie-1.2.0</guid>
-    </item>
-    <item>
-      <title>fileaccesserrorview — Displays file access error information [Nirsoft] (v1.34)</title>
-      <link>https://www.nirsoft.net/utils/file_access_error_view.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/file_access_error_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/fileaccesserrorview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 09:28:13 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Nirsoft-fileaccesserrorview-1.34</guid>
-    </item>
-    <item>
-      <title>smimesign — An S/MIME signing utility compatible with Git that allows developers to sign their commits and tags using X.509 certificates [Main] (v0.2.0)</title>
-      <link>https://github.com/github/smimesign</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/github/smimesign&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/smimesign.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 19:55:32 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-smimesign-0.2.0</guid>
-    </item>
-    <item>
-      <title>mpf — GUI for redumper/Aaru/DiscImageCreator. [Extras] (v3.10.0)</title>
-      <link>https://github.com/SabreTools/MPF</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SabreTools/MPF&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/mpf.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 21:44:04 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-mpf-3.10.0</guid>
-    </item>
-    <item>
-      <title>obscura — The headless browser for AI agents and web scraping [Main] (v0.2.2)</title>
-      <link>https://obscura.sh</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://obscura.sh&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/obscura.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 15:50:08 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-obscura-0.2.2</guid>
-    </item>
-    <item>
-      <title>github-mcp-server — GitHub's official MCP Server [Main] (v1.12.2)</title>
-      <link>https://github.com/github/github-mcp-server</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/github/github-mcp-server&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/github-mcp-server.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 07:19:43 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-github-mcp-server-1.12.2</guid>
-    </item>
-    <item>
-      <title>android-cli — Command-line interface for efficient Android development, providing access to official tools, skills, and knowledge for agent-first workflows and automation. [Main] (v1.0.16261425)</title>
-      <link>https://developer.android.com/tools/agents/android-cli</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.android.com/tools/agents/android-cli&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/android-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 12:37:49 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-android-cli-1.0.16261425</guid>
-    </item>
-    <item>
-      <title>vicinae — A focused launcher for your desktop. [Extras] (v0.29.0)</title>
-      <link>https://vicinae.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://vicinae.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vicinae.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 11:51:28 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-vicinae-0.29.0</guid>
-    </item>
-    <item>
-      <title>moonscript — A dynamic scripting language that compiles into Lua. [Extras] (v0.7.0)</title>
-      <link>https://moonscript.org/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://moonscript.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/moonscript.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 11:01:13 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-moonscript-0.7.0</guid>
-    </item>
-    <item>
-      <title>ipopt — Software package for large-scale nonlinear optimization [Main] (v3.14.20)</title>
-      <link>https://coin-or.github.io/Ipopt/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; EPL-1.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://coin-or.github.io/Ipopt/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ipopt.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 21:58:32 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-ipopt-3.14.20</guid>
-    </item>
-    <item>
-      <title>discordchatexporter-cli — An application (CLI Version) that can be used to export message history from any Discord channel to a file. [Main] (v2.48)</title>
-      <link>https://github.com/Tyrrrz/DiscordChatExporter</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Tyrrrz/DiscordChatExporter&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/discordchatexporter-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 19:37:12 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-discordchatexporter-cli-2.48</guid>
-    </item>
-    <item>
-      <title>oxfmt — A high-performance formatter for the JavaScript ecosystem. [Main] (v0.68.0)</title>
-      <link>https://oxc.rs/docs/guide/usage/formatter</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://oxc.rs/docs/guide/usage/formatter&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/oxfmt.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 17:10:25 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-oxfmt-0.68.0</guid>
-    </item>
-    <item>
-      <title>hoptodesk — Free remote desktop and remote support tool with end-to-end encryption [Extras] (v1.46.50)</title>
-      <link>https://www.hoptodesk.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; HopToDesk runs in portable mode from this install.&lt;br/&gt;To also run it as a Windows service for unattended access, open the app and use its own install option.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.hoptodesk.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/hoptodesk.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:16:13 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-hoptodesk-1.46.50</guid>
-    </item>
-    <item>
-      <title>csvfileview — CSV/Tab-delimited file viewer and converter [Nirsoft] (v2.66)</title>
-      <link>https://www.nirsoft.net/utils/csv_file_view.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/csv_file_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/csvfileview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 09:30:21 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Nirsoft-csvfileview-2.66</guid>
-    </item>
-    <item>
-      <title>mindwtr — A free GTD to-do app. [Extras] (v1.3.0)</title>
-      <link>https://mindwtr.app</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mindwtr.app&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/mindwtr.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 09:11:28 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-mindwtr-1.3.0</guid>
-    </item>
-    <item>
-      <title>zluda — A drop-in replacement for CUDA on non-NVIDIA GPUs. [Main] (v6)</title>
-      <link>https://vosen.github.io/ZLUDA/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://vosen.github.io/ZLUDA/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/zluda.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 08:30:18 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-zluda-6</guid>
-    </item>
-    <item>
-      <title>kirocrew — Autonomous agent management layer for Kiro - persistent memory, scheduled jobs, background subagents, and multi-session orchestration. [Extras] (v0.6.0)</title>
-      <link>https://kiro.dev/crew/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kiro.dev/crew/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/kirocrew.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 07:45:57 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-kirocrew-0.6.0</guid>
     </item>
   </channel>
 </rss>
