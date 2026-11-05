@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 23:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:10:57 +0000</lastBuildDate>
+    <item>
+      <title>motty — SSH client with terminal, SFTP, port forwarding and an AI assistant [Extras] (v0.3.2)</title>
+      <link>https://motty.page</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://motty.page&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/motty.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 03:59:27 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-motty-0.3.2</guid>
+    </item>
     <item>
       <title>noctis — Lossless music player with library management, synced lyrics and streaming support [Extras] (v1.6.7)</title>
       <link>https://noctisapp.cc</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://kiro.dev/crew/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/kirocrew.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Mon, 14 Sep 2026 07:45:57 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-kirocrew-0.6.0</guid>
-    </item>
-    <item>
-      <title>gitea-mcp-server — Gitea Model Context Protocol (MCP) Server. [Extras] (v1.7.0)</title>
-      <link>https://gitea.com/gitea/gitea-mcp</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://gitea.com/gitea/gitea-mcp&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/gitea-mcp-server.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 07:30:32 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-gitea-mcp-server-1.7.0</guid>
     </item>
   </channel>
 </rss>
