@@ -5,8 +5,60 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:02:18 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>WLED — Find, manage and control all your WLED devices from your android device [IzzyOnDroid]</title>
+      <link>https://github.com/Moustachauve/WLED-Android</link>
+      <guid isPermaLink="false">ca.cgagnier.wlednativeandroid@izzy</guid>
+      <pubDate>Thu, 05 Nov 2026 23:02:15 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/ca.cgagnier.wlednativeandroid/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/ca.cgagnier.wlednativeandroid/en-US/icon.png&quot; alt=&quot;WLED icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;ca.cgagnier.wlednativeandroid&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Moustachauve/WLED-Android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/ca.cgagnier.wlednativeandroid&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Auto Sleep — An Auto Sleep utility for Android that saves battery life overnight [IzzyOnDroid]</title>
+      <link>https://github.com/The-First-King/Auto-Sleep</link>
+      <guid isPermaLink="false">com.mine.autosleep@izzy</guid>
+      <pubDate>Thu, 05 Nov 2026 23:02:15 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.mine.autosleep/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.mine.autosleep/en-US/icon.png&quot; alt=&quot;Auto Sleep icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.mine.autosleep&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/The-First-King/Auto-Sleep&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.mine.autosleep&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Periodic Table — A clean, interactive periodic table with essential chemical properties. [IzzyOnDroid] [Science &amp; Education]</title>
+      <link>https://github.com/sidhant947/PeriodicTable</link>
+      <guid isPermaLink="false">com.sidhant.periodictable@izzy</guid>
+      <pubDate>Thu, 05 Nov 2026 23:02:15 +0000</pubDate>
+      <category>Science &amp; Education</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.sidhant.periodictable/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.sidhant.periodictable/en-US/icon.png&quot; alt=&quot;Periodic Table icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.periodictable&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/PeriodicTable&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.sidhant.periodictable&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Retro Music — Offline music player with a classic mid-2000s look and Cover Flow [IzzyOnDroid] [Multimedia]</title>
+      <link>https://github.com/tima22814/RetroMusic</link>
+      <guid isPermaLink="false">io.github.tima22814.retromusic@izzy</guid>
+      <pubDate>Thu, 05 Nov 2026 23:02:15 +0000</pubDate>
+      <category>Multimedia</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.tima22814.retromusic/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.tima22814.retromusic/en-US/icon.png&quot; alt=&quot;Retro Music icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.tima22814.retromusic&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tima22814/RetroMusic&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.tima22814.retromusic&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>NicotinD TV — Android TV player for your self-hosted NicotinD music server [F-Droid] [Online Media Player]</title>
       <link>https://github.com/kevinch3/NicotinD</link>
@@ -6739,54 +6791,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.amaze.filemanager/en-US/icon.png&quot; alt=&quot;Amaze File Manager icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.amaze.filemanager&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/TeamAmaze/AmazeFileManager&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Network Survey+ — Logs cellular QCDM messages to a pcap file (root required) [IzzyOnDroid]</title>
-      <link>https://github.com/christianrowlands/android-network-survey-rooted</link>
-      <guid isPermaLink="false">com.craxiom.networksurveyplus@izzy</guid>
-      <pubDate>Thu, 15 Oct 2026 20:43:35 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.craxiom.networksurveyplus/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.craxiom.networksurveyplus/en-US/icon.png&quot; alt=&quot;Network Survey+ icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.craxiom.networksurveyplus&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/christianrowlands/android-network-survey-rooted&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.craxiom.networksurveyplus&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Privacium — A simple app for discovering tools that respects your privacy. [IzzyOnDroid]</title>
-      <link>https://github.com/kaleedtc/Privacium</link>
-      <guid isPermaLink="false">com.kaleedtc.privacium@izzy</guid>
-      <pubDate>Thu, 15 Oct 2026 20:43:35 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.kaleedtc.privacium/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.kaleedtc.privacium/en-US/icon.png&quot; alt=&quot;Privacium icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.kaleedtc.privacium&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/kaleedtc/Privacium&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.kaleedtc.privacium&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>GitNote — Take note, using a git backend [IzzyOnDroid]</title>
-      <link>https://github.com/wiiznokes/gitnote</link>
-      <guid isPermaLink="false">io.github.wiiznokes.gitnote@izzy</guid>
-      <pubDate>Thu, 15 Oct 2026 20:43:35 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/io.github.wiiznokes.gitnote/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/io.github.wiiznokes.gitnote/en-US/icon.png&quot; alt=&quot;GitNote icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.wiiznokes.gitnote&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/wiiznokes/gitnote&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/io.github.wiiznokes.gitnote&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Onloc — Self-hosted real-time device tracker. [F-Droid]</title>
-      <link>https://github.com/onloc-app/onloc-android</link>
-      <guid isPermaLink="false">app.onloc.android@fdroid</guid>
-      <pubDate>Wed, 14 Oct 2026 10:52:36 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/app.onloc.android/en-US/icon_-4HVqhBOKMHbrexSc4ihJAyQZp3igs9-AM5v8RAUx8A=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/app.onloc.android/en-US/icon_-4HVqhBOKMHbrexSc4ihJAyQZp3igs9-AM5v8RAUx8A=.png&quot; alt=&quot;Onloc icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.onloc.android&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/onloc-app/onloc-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/app.onloc.android/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
