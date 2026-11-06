@@ -4,7 +4,49 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 05:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:45:24 +0000</lastBuildDate>
+    <item>
+      <title>vcredist2005 — Microsoft Visual C++ Redistributable for Visual Studio 2005. [Extras] (v8.0.50727.6195)</title>
+      <link>https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; You can now remove this installer with 'scoop uninstall vcredist2005'&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vcredist2005.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 10:34:45 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-vcredist2005-8.0.50727.6195</guid>
+    </item>
+    <item>
+      <title>vcredist2008 — Microsoft Visual C++ Redistributable for Visual Studio 2008. [Extras] (v9.0.30729.5677)</title>
+      <link>https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; You can now remove this installer with 'scoop uninstall vcredist2008'&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vcredist2008.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 10:34:45 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-vcredist2008-9.0.30729.5677</guid>
+    </item>
+    <item>
+      <title>vcredist2012 — Microsoft Visual C++ Redistributable for Visual Studio 2012. [Extras] (v11.0.61030.0)</title>
+      <link>https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; You can now remove this installer with 'scoop uninstall vcredist2012'&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vcredist2012.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 10:34:45 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-vcredist2012-11.0.61030.0</guid>
+    </item>
+    <item>
+      <title>vcredist2013 — Microsoft Visual C++ Redistributable for Visual Studio 2013. [Extras] (v12.0.40664.0)</title>
+      <link>https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; You can now remove this installer with 'scoop uninstall vcredist2013'&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/vcredist2013.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 10:34:45 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-vcredist2013-12.0.40664.0</guid>
+    </item>
+    <item>
+      <title>materialcraft — An open-source, node-based material designer written from scratch in pure Rust. [Extras] (v0.1.2)</title>
+      <link>https://getartcraft.com/apps/materialcraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/materialcraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/materialcraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 10:00:14 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-materialcraft-0.1.2</guid>
+    </item>
+    <item>
+      <title>texturecraft — An open-source, 3D texture painting workflow written from scratch in pure Rust. [Extras] (v0.3.2)</title>
+      <link>https://getartcraft.com/apps/texturecraft</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://getartcraft.com/apps/texturecraft&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/texturecraft.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 09:43:17 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-texturecraft-0.3.2</guid>
+    </item>
     <item>
       <title>herdr-core — Persistent terminal runtime for coding agents that powers the Herdr App. [Main] (v0.1.18)</title>
       <link>https://herdr.dev/core/</link>
@@ -1362,48 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unknown&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MicrosoftDocs/SupportArticles-docs/blob/0b440c8923f67a4ca27eb93baab75c79cb5a03f4/support/windows-server/windows-security/fciv-availability-and-description.md&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/fciv.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-fciv-6.0.2800.1106</guid>
-    </item>
-    <item>
-      <title>freepascal — Professional Pascal compiler. [Main] (v3.2.2)</title>
-      <link>https://www.freepascal.org</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later | FPC-modified-LGPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.freepascal.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/freepascal.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-freepascal-3.2.2</guid>
-    </item>
-    <item>
-      <title>mandoc — UNIX manpage compiler toolset [Main] (v1.13.1)</title>
-      <link>https://embedeo.org/ws/doc/man_windows</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; ISC&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://embedeo.org/ws/doc/man_windows&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/mandoc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-mandoc-1.13.1</guid>
-    </item>
-    <item>
-      <title>patch — Apply diff to original. [Main] (v2.6.1)</title>
-      <link>https://sourceforge.net/projects/mingw/files/MSYS/Extension/patch/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://sourceforge.net/projects/mingw/files/MSYS/Extension/patch/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/patch.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-patch-2.6.1</guid>
-    </item>
-    <item>
-      <title>pcre2grep — Regular expression pattern matching utility using the same syntax and semantics as Perl 5 (versions 10 and above). [Main] (v10.39)</title>
-      <link>https://pcre.org/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pcre.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/pcre2grep.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-pcre2grep-10.39</guid>
-    </item>
-    <item>
-      <title>pcregrep — Regular expression pattern matching utility using the same syntax and semantics as Perl 5. [Main] (v8.45)</title>
-      <link>https://pcre.org/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pcre.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/pcregrep.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-pcregrep-8.45</guid>
-    </item>
-    <item>
-      <title>potrace — Transforming bitmaps into vector graphics. [Main] (v1.16)</title>
-      <link>https://potrace.sourceforge.net/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://potrace.sourceforge.net/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/potrace.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-potrace-1.16</guid>
     </item>
   </channel>
 </rss>
