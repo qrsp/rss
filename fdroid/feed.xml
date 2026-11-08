@@ -5,8 +5,34 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:29:01 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CleanSlate — Protect your data anywhere anytime [IzzyOnDroid]</title>
+      <link>https://github.com/devshield-tech/botox-android</link>
+      <guid isPermaLink="false">com.destructo.botox@izzy</guid>
+      <pubDate>Sun, 08 Nov 2026 21:28:57 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.destructo.botox/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.destructo.botox/en-US/icon.png&quot; alt=&quot;CleanSlate icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.destructo.botox&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/devshield-tech/botox-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.destructo.botox&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>LiteraPlayer — Audiobook player for Android [IzzyOnDroid] [Multimedia]</title>
+      <link>https://codeberg.org/praecipitator/LiteraPlayer</link>
+      <guid isPermaLink="false">de.praecipitator.literaplayer@izzy</guid>
+      <pubDate>Sun, 08 Nov 2026 21:28:57 +0000</pubDate>
+      <category>Multimedia</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/de.praecipitator.literaplayer/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/de.praecipitator.literaplayer/en-US/icon.png&quot; alt=&quot;LiteraPlayer icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;de.praecipitator.literaplayer&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/praecipitator/LiteraPlayer&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/de.praecipitator.literaplayer&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Remind Me! — Set alarms for a specific date in the future (alarm, not a reminder!). [IzzyOnDroid]</title>
       <link>https://github.com/VishnuSanal/RemindMe</link>
@@ -6742,32 +6768,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.plusplay.app&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/kmfoysal06/plus-play&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.plusplay.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>1Key Password Manager — Offline password manager. 2FA + notes. No account, no network, no telemetry. [F-Droid]</title>
-      <link>https://github.com/roufsyed/1Key</link>
-      <guid isPermaLink="false">com.roufsyed.onekey@fdroid</guid>
-      <pubDate>Thu, 15 Oct 2026 20:43:35 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/com.roufsyed.onekey/en-US/icon_7Oq_UnE5rGthf-UdC05ENbWiZZe00b9J8cKU2qrdVMQ=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.roufsyed.onekey/en-US/icon_7Oq_UnE5rGthf-UdC05ENbWiZZe00b9J8cKU2qrdVMQ=.png&quot; alt=&quot;1Key Password Manager icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.roufsyed.onekey&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/roufsyed/1Key&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.roufsyed.onekey/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Echo Tiles - Play Your Music — Play piano tiles to your own music. Open-source, offline, and completely ad-free [F-Droid] [Casual Game]</title>
-      <link>https://github.com/sidhant947/EchoTiles</link>
-      <guid isPermaLink="false">com.sidhant.echotiles@fdroid</guid>
-      <pubDate>Thu, 15 Oct 2026 20:43:35 +0000</pubDate>
-      <category>Casual Game</category>
-      <enclosure url="https://f-droid.org/repo/com.sidhant.echotiles/en-US/icon_aYPWgi8qMVTLS6oo55DSLPz-GQEZ3zIgoCJqh2wBoUM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.sidhant.echotiles/en-US/icon_aYPWgi8qMVTLS6oo55DSLPz-GQEZ3zIgoCJqh2wBoUM=.png&quot; alt=&quot;Echo Tiles - Play Your Music icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.echotiles&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/EchoTiles&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.sidhant.echotiles/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
