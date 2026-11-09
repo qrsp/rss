@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Mon, 09 Nov 2026 04:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:13:01 +0000</lastBuildDate>
+    <item>
+      <title>cosmopolitan — Cosmopolitan C/C++ toolchain + Cosmos POSIX userland [Main] (v4.0.2)</title>
+      <link>https://github.com/jart/cosmopolitan</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; ISC&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jart/cosmopolitan&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/cosmopolitan.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 08:20:59 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-cosmopolitan-4.0.2</guid>
+    </item>
     <item>
       <title>editorconfig-checker — A tool to verify that your files are in harmony with your .editorconfig [Main] (v4.0.2)</title>
       <link>https://editorconfig-checker.github.io</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bulkrenameutility.co.uk&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/bulk-rename-command.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-bulk-rename-command-1.3.3.0</guid>
-    </item>
-    <item>
-      <title>datamash — GNU datamash is a command-line program which performs basic numeric, textual and statistical operations on input textual data files [Main] (v1.3)</title>
-      <link>https://www.gnu.org/software/datamash/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.gnu.org/software/datamash/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/datamash.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-datamash-1.3</guid>
     </item>
   </channel>
 </rss>
