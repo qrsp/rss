@@ -5,8 +5,47 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:59:14 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LibChecker — View the third-party libraries used by applications [IzzyOnDroid]</title>
+      <link>https://github.com/LibChecker/LibChecker</link>
+      <guid isPermaLink="false">com.absinthe.libchecker@izzy</guid>
+      <pubDate>Tue, 10 Nov 2026 00:59:09 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.absinthe.libchecker/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.absinthe.libchecker/en-US/icon.png&quot; alt=&quot;LibChecker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.absinthe.libchecker&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/LibChecker/LibChecker&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.absinthe.libchecker&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>PinePods — A beautiful, self-hosted podcast app with powerful server synchronization [IzzyOnDroid]</title>
+      <link>https://github.com/madeofpendletonwool/PinePods</link>
+      <guid isPermaLink="false">com.gooseberrydevelopment.pinepods@izzy</guid>
+      <pubDate>Tue, 10 Nov 2026 00:59:09 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.gooseberrydevelopment.pinepods/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.gooseberrydevelopment.pinepods/en-US/icon.png&quot; alt=&quot;PinePods icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.gooseberrydevelopment.pinepods&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/madeofpendletonwool/PinePods&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.gooseberrydevelopment.pinepods&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Data SIM Switcher — Root Quick Settings tile to instantly switch your active mobile data SIM. [IzzyOnDroid] [Connectivity]</title>
+      <link>https://github.com/jksalcedo/data-sim-switcher</link>
+      <guid isPermaLink="false">com.jksalcedo.datasimswitcher@izzy</guid>
+      <pubDate>Tue, 10 Nov 2026 00:59:09 +0000</pubDate>
+      <category>Connectivity</category>
+      <category>System</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.jksalcedo.datasimswitcher/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.jksalcedo.datasimswitcher/en-US/icon.png&quot; alt=&quot;Data SIM Switcher icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.jksalcedo.datasimswitcher&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jksalcedo/data-sim-switcher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.jksalcedo.datasimswitcher&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>UsageDirectPlus — Screen time history with per-session detail and database export [F-Droid] [System]</title>
       <link>https://github.com/aahmozart/UsageDirectPlus</link>
@@ -6706,49 +6745,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.anka1981.bikerouteplanner&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/anka1981/bike-route-planner&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.anka1981.bikerouteplanner/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>MinimalSF — Fast, minimal, monochrome home screen. Type to launch. No ads, no tracking. [F-Droid] [Launcher]</title>
-      <link>https://github.com/DHIRAJ-J-S/MinimalSF_Launcher</link>
-      <guid isPermaLink="false">io.github.dhiraj_j_s.minimalsf@fdroid</guid>
-      <pubDate>Sat, 17 Oct 2026 09:54:51 +0000</pubDate>
-      <category>Launcher</category>
-      <enclosure url="https://f-droid.org/repo/io.github.dhiraj_j_s.minimalsf/en-US/icon_-tlPaI1Nw4K5Ep7dYfHVKGDoaGZRSShaFgedYoiZuhs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.dhiraj_j_s.minimalsf/en-US/icon_-tlPaI1Nw4K5Ep7dYfHVKGDoaGZRSShaFgedYoiZuhs=.png&quot; alt=&quot;MinimalSF icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.dhiraj_j_s.minimalsf&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/DHIRAJ-J-S/MinimalSF_Launcher&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.dhiraj_j_s.minimalsf/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Zahlenschatzjagd — Maths practice for school years 1 and 2 – offline, ad-free, in German [F-Droid] [Educational Game]</title>
-      <link>https://github.com/GlasiDe/zahlenschatzjagd</link>
-      <guid isPermaLink="false">io.github.glaside.zahlenschatzjagd@fdroid</guid>
-      <pubDate>Sat, 17 Oct 2026 09:54:51 +0000</pubDate>
-      <category>Educational Game</category>
-      <category>Science &amp; Education</category>
-      <enclosure url="https://f-droid.org/repo/io.github.glaside.zahlenschatzjagd/en-US/icon_7W6wm5IHziNo1tSrrhG911L-rpxrLJLhQcTnjZydg8U=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.glaside.zahlenschatzjagd/en-US/icon_7W6wm5IHziNo1tSrrhG911L-rpxrLJLhQcTnjZydg8U=.png&quot; alt=&quot;Zahlenschatzjagd icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.glaside.zahlenschatzjagd&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/GlasiDe/zahlenschatzjagd&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.glaside.zahlenschatzjagd/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Shelf — Hide folders instantly behind a working decoy app. Root optional. [F-Droid] [File Encryption &amp; Vault]</title>
-      <link>https://github.com/melastore/shelf</link>
-      <guid isPermaLink="false">io.github.melastore.shelf@fdroid</guid>
-      <pubDate>Sat, 17 Oct 2026 09:54:51 +0000</pubDate>
-      <category>File Encryption &amp; Vault</category>
-      <enclosure url="https://f-droid.org/repo/io.github.melastore.shelf/en-US/icon_LYRszT8Rk8OiEbvlIMRXgJtv1h9LxSXFCUBQE3YsHhk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.melastore.shelf/en-US/icon_LYRszT8Rk8OiEbvlIMRXgJtv1h9LxSXFCUBQE3YsHhk=.png&quot; alt=&quot;Shelf icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.melastore.shelf&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/melastore/shelf&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.melastore.shelf/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
