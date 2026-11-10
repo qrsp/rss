@@ -4,7 +4,56 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 01:11:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:21:48 +0000</lastBuildDate>
+    <item>
+      <title>jjazzlab — Make your own dynamic backing tracks in just a few minutes. [Extras] (v5.2.1)</title>
+      <link>https://www.jjazzlab.org/en/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; LGPL-2.1-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Can add songs from https://www.jjazzlab.org/en/resources/&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.jjazzlab.org/en/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/jjazzlab.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 02:45:13 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-jjazzlab-5.2.1</guid>
+    </item>
+    <item>
+      <title>caldir — Tool for storing your calendar as a directory of ICS files and sync with cloud providers [Extras] (v0.14.9)</title>
+      <link>https://caldir.org/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://caldir.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/caldir.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 02:36:45 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-caldir-0.14.9</guid>
+    </item>
+    <item>
+      <title>mixxx — A free, open-source digital DJ software built for live mixing. [Extras] (v2.5.6)</title>
+      <link>https://mixxx.org/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://mixxx.org/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/mixxx.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 02:31:43 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-mixxx-2.5.6</guid>
+    </item>
+    <item>
+      <title>cemu — TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features. [Extras] (v2.0)</title>
+      <link>https://ce-programming.github.io/CEmu/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Download: TI-84 Plus CE ROM 5.3.0.0037 (MD5:CCB90F4A83D4833098C0AA9CF38BA1E0) from https://archive.org/details/TI84CE&lt;br/&gt;Invoke-WebRequest -Uri 'https://archive.org/download/TI84CE/TI84CE.zip/TI-84%20CE.rom' -OutFile '$persist_dir/cemu_rom.rom'&lt;br/&gt;Then start CEmu, click browse and choose $persist_dir\cemu_rom.rom&lt;br/&gt;Getting Started with the TI-84 Plus CE: https://education.ti.com/-/media/55259962B0A04C48BCC8F614A4A9E1D9&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://ce-programming.github.io/CEmu/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/cemu.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 01:42:40 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-cemu-2.0</guid>
+    </item>
+    <item>
+      <title>image-usb — A free utility which lets you write an image concurrently to multiple USB Flash Drives. [Extras] (v1.5.1007)</title>
+      <link>https://www.osforensics.com/tools/write-usb-images.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.osforensics.com/tools/write-usb-images.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/image-usb.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 01:40:13 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-image-usb-1.5.1007</guid>
+    </item>
+    <item>
+      <title>clonespy — A free duplicate file cleanup tool for Windows© XP/Vista/7/8/8.1/10. [Extras] (v3.43)</title>
+      <link>https://clonespy.com/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://clonespy.com/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/clonespy.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 01:38:19 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-clonespy-3.43</guid>
+    </item>
+    <item>
+      <title>recordly — Open-source screen recorder and editor for walkthroughs, demos, product videos, and more. [Extras] (v1.4.0)</title>
+      <link>https://recordly.dev</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://recordly.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/recordly.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 01:32:15 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-recordly-1.4.0</guid>
+    </item>
     <item>
       <title>cosmopolitan — Cosmopolitan C/C++ toolchain + Cosmos POSIX userland [Main] (v4.0.2)</title>
       <link>https://github.com/jart/cosmopolitan</link>
@@ -1355,55 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.davidebbo.com/2015/01/azure-resource-manager-client.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/armclient.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-armclient-1.9</guid>
-    </item>
-    <item>
-      <title>dep — Go dependency management tool [Main] (v0.5.4)</title>
-      <link>https://golang.github.io/dep/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://golang.github.io/dep/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/dep.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-dep-0.5.4</guid>
-    </item>
-    <item>
-      <title>docker-machine — Docker Machine is a tool that lets you install Docker Engine on virtual hosts, and manage the hosts with commands [Main] (v0.16.2)</title>
-      <link>https://docs.docker.com/machine/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.docker.com/machine/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/docker-machine.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-docker-machine-0.16.2</guid>
-    </item>
-    <item>
-      <title>hygen — The scalable code generator that saves you time [Main] (v6.2.11)</title>
-      <link>https://www.hygen.io</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.hygen.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/hygen.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-hygen-6.2.11</guid>
-    </item>
-    <item>
-      <title>jo — A tool for creating JSON objects from CLI [Main] (v1.9)</title>
-      <link>https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/jo.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-jo-1.9</guid>
-    </item>
-    <item>
-      <title>winsw — A wrapper executable that can be used to host any executable as a Windows service [Main] (v2.12.0)</title>
-      <link>https://winsw.github.io/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://winsw.github.io/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/winsw.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-winsw-2.12.0</guid>
-    </item>
-    <item>
-      <title>ansicon — Process ANSI escape sequences for Windows console programs. [Main] (v1.89)</title>
-      <link>http://adoxa.altervista.org/ansicon/index.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Zlib&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://adoxa.altervista.org/ansicon/index.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ansicon.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-ansicon-1.89</guid>
-    </item>
-    <item>
-      <title>bulk-rename-command — File renaming software for Windows [Main] (v1.3.3.0)</title>
-      <link>https://www.bulkrenameutility.co.uk</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bulkrenameutility.co.uk&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/bulk-rename-command.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-bulk-rename-command-1.3.3.0</guid>
     </item>
   </channel>
 </rss>
