@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 14:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:51:08 +0000</lastBuildDate>
+    <item>
+      <title>macaddressview — MAC address lookup tool [Nirsoft] (v1.56)</title>
+      <link>https://www.nirsoft.net/utils/mac_address_lookup_find.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/mac_address_lookup_find.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/macaddressview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 15:44:49 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-macaddressview-1.56</guid>
+    </item>
     <item>
       <title>jjazzlab — Make your own dynamic backing tracks in just a few minutes. [Extras] (v5.2.1)</title>
       <link>https://www.jjazzlab.org/en/</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unknown&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pkisharp.github.io/ACMESharp-docs/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/acmesharp.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-acmesharp-0.9.1.326</guid>
-    </item>
-    <item>
-      <title>armclient — A simple command line tool to invoke the Azure Resource Manager API [Main] (v1.9)</title>
-      <link>https://blog.davidebbo.com/2015/01/azure-resource-manager-client.html</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blog.davidebbo.com/2015/01/azure-resource-manager-client.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/armclient.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 19:45:57 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-armclient-1.9</guid>
     </item>
   </channel>
 </rss>
