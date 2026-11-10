@@ -5,8 +5,32 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:39:53 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fire2Kodi — Send various Video Links from clipboard to Kodi TV [IzzyOnDroid]</title>
+      <link>https://codeberg.org/Isayso/Fire2kodi</link>
+      <guid isPermaLink="false">com.isayso.fire2kodi@izzy</guid>
+      <pubDate>Tue, 10 Nov 2026 22:39:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.isayso.fire2kodi/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.isayso.fire2kodi/en-US/icon.png&quot; alt=&quot;Fire2Kodi icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.isayso.fire2kodi&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://codeberg.org/Isayso/Fire2kodi&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.isayso.fire2kodi&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>VpnHood! CLIENT: Self-host VPN — Self-hosted, secure, and open-source VPN client (require server key) [IzzyOnDroid]</title>
+      <link>https://github.com/vpnhood/VpnHood</link>
+      <guid isPermaLink="false">com.vpnhood.client.android.web@izzy</guid>
+      <pubDate>Tue, 10 Nov 2026 22:39:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.vpnhood.client.android.web/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.vpnhood.client.android.web/en-US/icon.png&quot; alt=&quot;VpnHood! CLIENT: Self-host VPN icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.vpnhood.client.android.web&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/vpnhood/VpnHood&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.vpnhood.client.android.web&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>LibChecker — View the third-party libraries used by applications [IzzyOnDroid]</title>
       <link>https://github.com/LibChecker/LibChecker</link>
@@ -6716,35 +6740,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.skye.intertune&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/ItzSkyeYT/InterTune&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/dev.skye.intertune/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Not App — One icon, many shortcuts — a customizable command center for your home screen. [F-Droid] [System]</title>
-      <link>https://github.com/dhammagift/notApp</link>
-      <guid isPermaLink="false">gift.dhamma.noapp.droid@fdroid</guid>
-      <pubDate>Sat, 17 Oct 2026 09:54:51 +0000</pubDate>
-      <category>System</category>
-      <enclosure url="https://f-droid.org/repo/gift.dhamma.noapp.droid/en-US/icon_yJDeK78ED5E9KNFGrUhqP7ockBZrJD7NmaJmsP9vfBk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/gift.dhamma.noapp.droid/en-US/icon_yJDeK78ED5E9KNFGrUhqP7ockBZrJD7NmaJmsP9vfBk=.png&quot; alt=&quot;Not App icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;gift.dhamma.noapp.droid&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/dhammagift/notApp&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/gift.dhamma.noapp.droid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>BikeRoutePlanner — Plan bike routes with bbbike, save them as GPX and navigate in OsmAnd [F-Droid] [Navigation]</title>
-      <link>https://github.com/anka1981/bike-route-planner</link>
-      <guid isPermaLink="false">io.github.anka1981.bikerouteplanner@fdroid</guid>
-      <pubDate>Sat, 17 Oct 2026 09:54:51 +0000</pubDate>
-      <category>Navigation</category>
-      <category>Sports &amp; Health</category>
-      <enclosure url="https://f-droid.org/repo/io.github.anka1981.bikerouteplanner/en-US/icon_7zUA45Qw5Ov5226eCrYNPTCJUhhpzTkDrcolfUkNGnY=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.github.anka1981.bikerouteplanner/en-US/icon_7zUA45Qw5Ov5226eCrYNPTCJUhhpzTkDrcolfUkNGnY=.png&quot; alt=&quot;BikeRoutePlanner icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.anka1981.bikerouteplanner&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/anka1981/bike-route-planner&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.anka1981.bikerouteplanner/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
