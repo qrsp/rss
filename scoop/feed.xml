@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 00:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:38:59 +0000</lastBuildDate>
+    <item>
+      <title>am-deadlink — Check URLs for dead links and redirections. [Extras] (v7.2)</title>
+      <link>https://www.aignes.com/deadlink.htm</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.aignes.com/deadlink.htm&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/am-deadlink.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 03:35:27 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-am-deadlink-7.2</guid>
+    </item>
+    <item>
+      <title>lanipscanner — Local network scanner for Windows [Nirsoft] (v1.12)</title>
+      <link>https://www.nirsoft.net/utils/lan_ip_scanner.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/lan_ip_scanner.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/lanipscanner.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 11:16:59 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-lanipscanner-1.12</guid>
+    </item>
     <item>
       <title>freerouting-cli — Advanced autorouter (CLI Version) for all PCB programs that support the standard Specctra or Electra DSN interface. [Main] (v2.5.0)</title>
       <link>https://www.freerouting.app</link>
@@ -1390,20 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nullclaw.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/nullclaw.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Sun, 11 Oct 2026 14:16:30 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-nullclaw-2026.5.29</guid>
-    </item>
-    <item>
-      <title>windows-sdk-buildtools — Tools for building projects targeting the Windows SDK [Main] (v10.0.28000.2705)</title>
-      <link>https://www.nuget.org/packages/Microsoft.Windows.SDK.BuildTools</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nuget.org/packages/Microsoft.Windows.SDK.BuildTools&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/windows-sdk-buildtools.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 13:18:21 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-windows-sdk-buildtools-10.0.28000.2705</guid>
-    </item>
-    <item>
-      <title>msixmgr — Command-line tool for installing, managing and unpacking MSIX packages. [Main] (v1.2)</title>
-      <link>https://github.com/microsoft/msix-packaging</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/msix-packaging&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/msixmgr.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 11:55:31 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-msixmgr-1.2</guid>
     </item>
   </channel>
 </rss>
