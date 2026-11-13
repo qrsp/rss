@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:01:33 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Learn — English Learning app for kids [IzzyOnDroid]</title>
+      <link>https://github.com/EkaAI-Tech/learn</link>
+      <guid isPermaLink="false">vdrs.sappu.lafk.learn@izzy</guid>
+      <pubDate>Fri, 13 Nov 2026 23:01:30 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/vdrs.sappu.lafk.learn/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/vdrs.sappu.lafk.learn/en-US/icon.png&quot; alt=&quot;Learn icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;vdrs.sappu.lafk.learn&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/EkaAI-Tech/learn&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/vdrs.sappu.lafk.learn&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>ClipHistory — Private clipboard history with an authorised Shizuku recorder [F-Droid] [System]</title>
       <link>https://github.com/saroo98/cliphistory-android</link>
@@ -6685,20 +6697,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.miss.ga&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/mirarr-app/Misga&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.miss.ga/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>monostr — Nostr client with Monero tips. No Lightning, no custodian, no wallet inside. [F-Droid] [Social Network]</title>
-      <link>https://github.com/schmidt1024/monostr</link>
-      <guid isPermaLink="false">com.monostr.app@fdroid</guid>
-      <pubDate>Sat, 17 Oct 2026 09:54:51 +0000</pubDate>
-      <category>Social Network</category>
-      <enclosure url="https://f-droid.org/repo/com.monostr.app/en-US/icon_RHZumCvuJWVqb9AQXww0LFhpz24zDtVGHrOtjkZe6YA=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.monostr.app/en-US/icon_RHZumCvuJWVqb9AQXww0LFhpz24zDtVGHrOtjkZe6YA=.png&quot; alt=&quot;monostr icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.monostr.app&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/schmidt1024/monostr&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.monostr.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
