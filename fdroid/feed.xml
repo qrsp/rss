@@ -5,8 +5,20 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 21:49:44 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Exodus — Exodus show you trackers and permissions in apps installed on your device. [IzzyOnDroid]</title>
+      <link>https://github.com/Exodus-Privacy/exodus-android-app</link>
+      <guid isPermaLink="false">org.eu.exodus_privacy.exodusprivacy@izzy</guid>
+      <pubDate>Sat, 14 Nov 2026 21:49:42 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.eu.exodus_privacy.exodusprivacy/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.eu.exodus_privacy.exodusprivacy/en-US/icon.png&quot; alt=&quot;Exodus icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.eu.exodus_privacy.exodusprivacy&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Exodus-Privacy/exodus-android-app&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.eu.exodus_privacy.exodusprivacy&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Buddy — Claude Code, Codex, OpenCode, Antigravity or Grok in a chat bubble on your phone [F-Droid] [System]</title>
       <link>https://github.com/ghorbelhamdi/buddy-android</link>
@@ -6669,18 +6681,6 @@
 &lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.lawnchair.lawnicons/en-US/icon.png&quot; alt=&quot;Lawnicons icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.lawnchair.lawnicons&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/LawnchairLauncher/lawnicons&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair.lawnicons&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>traced it — Quick notes with time &amp; amounts [IzzyOnDroid]</title>
-      <link>https://github.com/traced-it/traced-it-android</link>
-      <guid isPermaLink="false">app.traced_it@izzy</guid>
-      <pubDate>Sat, 17 Oct 2026 19:52:21 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/app.traced_it/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/app.traced_it/en-US/icon.png&quot; alt=&quot;traced it icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;app.traced_it&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/traced-it/traced-it-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/app.traced_it&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
