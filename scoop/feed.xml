@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sat, 14 Nov 2026 04:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:58:43 +0000</lastBuildDate>
+    <item>
+      <title>nsq — A realtime distributed messaging platform [Main] (v1.3.0)</title>
+      <link>https://nsq.io</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://nsq.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/nsq.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 08:16:01 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-nsq-1.3.0</guid>
+    </item>
     <item>
       <title>git-sizer — Compute various size metrics for a Git repository, flagging those that might cause problems. [Main] (v1.6.0)</title>
       <link>https://github.com/github/git-sizer</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; LGPL-2.1-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mchehab/zbar&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/zbar.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Sun, 11 Oct 2026 15:04:21 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-zbar-0.23.95</guid>
-    </item>
-    <item>
-      <title>sqlpackage — Command-line utility that automates database development tasks by exposing Data-Tier Application Framework (DacFx) APIs [Main] (v170.5.96.0)</title>
-      <link>https://learn.microsoft.com/sql/tools/sqlpackage/sqlpackage</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/sql/tools/sqlpackage/sqlpackage&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/sqlpackage.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 14:17:02 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-sqlpackage-170.5.96.0</guid>
     </item>
   </channel>
 </rss>
