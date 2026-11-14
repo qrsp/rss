@@ -4,7 +4,7 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 23:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:58:36 +0000</lastBuildDate>
     <item>
       <title>git-sizer — Compute various size metrics for a Git repository, flagging those that might cause problems. [Main] (v1.6.0)</title>
       <link>https://github.com/github/git-sizer</link>
