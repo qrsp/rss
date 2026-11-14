@@ -19,6 +19,7 @@ app.auriel.nocean
 app.bematist.public
 app.bitbag
 app.brix
+app.buddy.assistant
 app.cbdm.qrcodedisplayer
 app.cclauncher
 app.chompass
@@ -152,6 +153,7 @@ ca.rmen.android.poetassistant
 camp.werewolf.infraarcana
 cash.p.terminal
 cat.mvmike.minimalcalendarwidget
+cat.naval.atalaya
 cc.fishese.divelog
 cc.kafuu.bilidownload
 cc.narumi.chaldea.fdroid
@@ -596,6 +598,7 @@ com.gasperpintar.smokingtracker
 com.gatheringhallstudios.mhworlddatabase
 com.gdf.hema_timer
 com.geauxweather.app
+com.geecee.escapelauncher
 com.geeksville.mesh
 com.gelakinetic.mtgfam
 com.gemwallet.android
@@ -643,6 +646,7 @@ com.github.stsaz.phiola
 com.github.thewierdnut.endless_mobile
 com.github.tmo1.sms_ie
 com.github.trivialloop.scorehub
+com.github.vauvenal5.yaga
 com.github.warren_bank.exoplayer_airplay_receiver
 com.github.warren_bank.mock_location
 com.github.warren_bank.mock_location.service.microg_nlp_backend
@@ -677,6 +681,7 @@ com.grooveforge.grooveforge
 com.growse.android.io.github.hidroh.materialistic
 com.guiforge.bati
 com.guillaumepayet.remotenumpad
+com.guruswarupa.launchh
 com.gymmane.app
 com.hackerapps.c2k
 com.hackerapps.jargon
@@ -836,6 +841,7 @@ com.likhithpraveenk.storii
 com.likhithpraveenk.sudoku
 com.limecore.nexus
 com.limecore.workouttracker
+com.limelight
 com.livefast.eattrash.raccoonforfriendica
 com.log28
 com.logiclabs.app
@@ -847,6 +853,7 @@ com.lostf1sh.pixelplayeross
 com.lpw.graypause
 com.ltrademark.hourly
 com.luc4n3x.levyra
+com.lucao.limpazap
 com.luchowl.flybook
 com.luminaapps.cairn
 com.luncher.launcher
@@ -1026,6 +1033,7 @@ com.phnem.vetro
 com.phoebesoftware.xrooster
 com.phonepvr.friends
 com.phpbg.easysync
+com.phyrexianarena.app
 com.pierspad.betterlauncher
 com.pilcrowmd
 com.piotv.keytab
@@ -1195,14 +1203,17 @@ com.sidhant.triplematch
 com.sidhant.wallet
 com.sidhant.watersort
 com.simon.harmonichackernews
+com.simplexray.an
 com.skj.money.swield.expense.tracker.foss
 com.skohscripts.kairos
+com.skycoin.skywire
 com.skyd.anivu
 com.slate.launcher
 com.sleepguard
 com.sleepsecret.sleep_secret
 com.smartpack.packagemanager
 com.smokingtracker
+com.soberdigital.screentimetracker
 com.sobuumedia.sobuu
 com.socks5
 com.solar.aquarellnotes
@@ -1381,6 +1392,7 @@ com.yahyaoui.prayermode
 com.yash.xpenc
 com.yepgoryo.CaptureCap
 com.yogeshpaliyal.deepr
+com.yosefario.nclientv3
 com.yourname.pdftoolkit
 com.yubico.yubioath
 com.z3itt.feels
@@ -1409,6 +1421,7 @@ compress.joshattic.us
 contact.emergency.codes
 cos.premy.mines
 cube.run
+cx.ring
 cz.kutner.why
 cz.kyblsoft.meshcore.signaltester
 cz.mendelu.xmarik.train_manager
@@ -1512,6 +1525,7 @@ de.reimardoeffinger.quickdic
 de.rwth_aachen.phyphox
 de.saschahlusiak.freebloks
 de.schildbach.oeffi
+de.schliweb.bluesharpbendingapp
 de.schliweb.makeacopy
 de.schliweb.moveapiece
 de.schliweb.sambalite
@@ -1553,6 +1567,7 @@ dev.argus
 dev.arnv.bluke
 dev.arthurcose.languagedex
 dev.astoris.ursa
+dev.astraedus.nudge
 dev.bg.bikebridge
 dev.bg.jetbird
 dev.bg.skylib
@@ -1716,6 +1731,7 @@ fir.tube
 fish.proto.slashfacts
 fm.helio
 foss.chillastro.root.checker.offline
+foss.cnugteren.nlweer
 fr.counted.app
 fr.croustillapp
 fr.framagit.jeromeo.etagere
@@ -1730,6 +1746,7 @@ fr.jnda.android.flashalert
 fr.kanis.foldio
 fr.kooksession.app
 fr.luteal.app
+fr.neamar.kiss
 fr.nocle.passegares
 fr.nuage.souvenirs
 fr.odrevet.bide_et_musique
@@ -1749,6 +1766,7 @@ gallery.memories
 gift.dhamma.noapp.droid
 github.paroj.dsub2000
 gizz.tapes.foss
+godau.fynn.usagedirect
 gov.anzong.androidnga
 granularvolume.com
 helium314.keyboard
@@ -1833,6 +1851,7 @@ io.github.capitan0n.droynis
 io.github.chayanforyou.quickball
 io.github.cheesymoon.drausible
 io.github.choganhq.chogan
+io.github.chronosauros.contour
 io.github.cinocinorob.gruzzolo
 io.github.codeg0blin.videowallpaper
 io.github.cuso4deposit.regexcrossword
@@ -1866,6 +1885,7 @@ io.github.gplaider.keliboard
 io.github.gracethings.bubblenotice
 io.github.gurov.brevier
 io.github.h3yk0.cryo
+io.github.halilkhrmn.dpimech
 io.github.hddq.restoid
 io.github.herrerad85.tallybook
 io.github.intelognatanael.qetara
@@ -1940,6 +1960,7 @@ io.github.rastislavpapp.justopenlinksinabrowser
 io.github.revocx35.npmmobile
 io.github.revocx35.rwr
 io.github.revocx35.walmobile
+io.github.rinoprogram.audiovisualizer
 io.github.ronynn.karui
 io.github.rotundtapir.fivehundred
 io.github.rumcajs.offlinewebsearch
@@ -2123,6 +2144,7 @@ net.kollnig.greasemilkyway
 net.kollnig.missioncontrol
 net.kollnig.missioncontrol.fdroid
 net.koofr.vault
+net.leodesouza.blitz
 net.megaproxy487
 net.millaguie.cosmovisor
 net.minetest.minetest
@@ -2218,6 +2240,7 @@ org.briarproject.briar.android
 org.brightdv.boxbox
 org.broguece.game
 org.btcmap
+org.c3lingo.audio
 org.c_base.c_beam
 org.ca.squawker
 org.client.scrcpy
@@ -2347,6 +2370,7 @@ org.onekash.kashcal
 org.openavisio.app
 org.openbanners.overlay
 org.opendataensemble.formulus
+org.opengrind
 org.openhab.habdroid.beta
 org.openobservatory.ooniprobe
 org.osservatorionessuno.bugbane.beta
@@ -2422,8 +2446,11 @@ org.woheller69.whisper
 org.woheller69.whisperplus
 org.worldlabourvalues.wlv_panel
 org.xcsoar
+org.xolatgames.burgers
+org.xolatgames.catashoot
 org.xolatgames.dima.defense
 org.y20k.escapepod
+org.y20k.position
 org.y20k.stayput
 org.y20k.trackbook
 org.y20k.transistor
@@ -2481,6 +2508,7 @@ se.leap.riseupvpn
 se.nullable.flickboard
 seamain.org.typhoonEye
 sh.fhs.ksre
+sh.fieldsmith.app
 sh.haven.app
 sh.hnet.comfychair
 shub39.momentum
