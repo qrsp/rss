@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 01:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:30:18 +0000</lastBuildDate>
+    <item>
+      <title>plannotator — Annotate plans, specs, markdown, HTML, and other interactive artifacts. Review diffs and PRs. Send feedback to your agent. [Main] (v0.28.67)</title>
+      <link>https://plannotator.ai</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0|MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; See https://docs.plannotator.ai/open-source/start/installation#finish-your-agent-setup to finish the step for your agent.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://plannotator.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/plannotator.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 08:26:30 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-plannotator-0.28.67</guid>
+    </item>
+    <item>
+      <title>alma — A powerful harness of its own, and the best herdr GUI. [Extras] (v0.4.731)</title>
+      <link>https://alma.now</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://alma.now&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/alma.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 15:08:35 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-alma-0.4.731</guid>
+    </item>
     <item>
       <title>winsetview — Tool that will let you easily set File Explorer default folder views. [Extras] (v3.2.1)</title>
       <link>https://github.com/LesFerch/WinSetView</link>
@@ -1390,20 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openchamber.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/openchamber.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Tue, 13 Oct 2026 13:07:43 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-openchamber-2.3.1</guid>
-    </item>
-    <item>
-      <title>athas — A lightweight, cross-platform code editor built with Tauri, with Git support, AI agents and vim keybindings. [Extras] (v0.16.3)</title>
-      <link>https://athas.dev</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://athas.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/athas.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 12 Oct 2026 21:51:27 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-athas-0.16.3</guid>
-    </item>
-    <item>
-      <title>ttt — Terminal text editor IDE with LSP, git integration, tabs, and multi-cursor editing, in a single zero-config binary. [Main] (v1.7.1)</title>
-      <link>https://tttedit.dev/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://tttedit.dev/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ttt.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 12 Oct 2026 08:49:33 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-ttt-1.7.1</guid>
     </item>
   </channel>
 </rss>
