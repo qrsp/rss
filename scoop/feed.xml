@@ -4,7 +4,49 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 00:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:08:00 +0000</lastBuildDate>
+    <item>
+      <title>netcat — Read and write from/to network connections [Main] (v1.12)</title>
+      <link>https://eternallybored.org/misc/netcat/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eternallybored.org/misc/netcat/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/netcat.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 12:43:13 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-netcat-1.12</guid>
+    </item>
+    <item>
+      <title>clice — A C/C++ language server and command-line tool built on Clang [Main] (v1.0.0)</title>
+      <link>https://docs.clice.io/clice/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.clice.io/clice/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/clice.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 12:41:10 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-clice-1.0.0</guid>
+    </item>
+    <item>
+      <title>wifit3 — A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. [Main] (v0.7.1)</title>
+      <link>https://github.com/derv82/wifit3</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0-only&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; At least one supported USB Wi-Fi adapter is required.&lt;br/&gt;On first run, a UAC prompt installs the WinUSB driver for the adapter.&lt;br/&gt;Before uninstalling the package, select the adapter in wifit3, click Uninstall, and confirm, then unplug and reconnect the adapter to restore its Wi-Fi driver.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/derv82/wifit3&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/wifit3.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 12:25:08 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-wifit3-0.7.1</guid>
+    </item>
+    <item>
+      <title>winappcli — The Windows App Development CLI for managing SDKs, packaging, app identity, manifests, certificates, and build tools. [Main] (v0.8.0)</title>
+      <link>https://github.com/microsoft/winappCli</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/winappCli&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/winappcli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 12:23:11 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-winappcli-0.8.0</guid>
+    </item>
+    <item>
+      <title>freerouting — An advanced autorouter for all PCB programs that support the standard Specctra or Electra DSN interface. [Extras] (v2.5.0)</title>
+      <link>https://www.freerouting.app</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.freerouting.app&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/freerouting.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 13:52:17 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-freerouting-2.5.0</guid>
+    </item>
+    <item>
+      <title>dxirc — Simple yet capable cross-platform IRC client [Extras] (v1.50.0)</title>
+      <link>https://dxirc.org</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://dxirc.org&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/dxirc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 00:43:56 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-dxirc-1.50.0</guid>
+    </item>
     <item>
       <title>atlas — A language-agnostic tool for managing and migrating database schemas using modern DevOps principles. [Main] (v1.4.0)</title>
       <link>https://atlasgo.io</link>
@@ -1362,48 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; zlib-acknowledgement&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/apngasm/apngasm&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/apngasm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Thu, 15 Oct 2026 18:18:26 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-apngasm-3.1.3</guid>
-    </item>
-    <item>
-      <title>real — Reduce audio latency on Windows 10. [Extras] (v0.2.0)</title>
-      <link>https://github.com/miniant-git/REAL</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/miniant-git/REAL&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/real.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 14:05:12 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-real-0.2.0</guid>
-    </item>
-    <item>
-      <title>rustscan — Extremely fast port scanner powered by Rust with automatic Nmap integration. [Main] (v2.4.1)</title>
-      <link>https://github.com/bee-san/RustScan</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bee-san/RustScan&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/rustscan.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 15:49:38 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-rustscan-2.4.1</guid>
-    </item>
-    <item>
-      <title>smassh — TUI-based typing test application inspired by Monkeytype [Main] (v3.2.1)</title>
-      <link>https://github.com/kraanzu/smassh</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kraanzu/smassh&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/smassh.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 15:38:32 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-smassh-3.2.1</guid>
-    </item>
-    <item>
-      <title>ssh-audit — SSH server &amp; client configuration auditing tool for cryptographic security. [Main] (v3.9.0)</title>
-      <link>https://github.com/jtesta/ssh-audit</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jtesta/ssh-audit&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ssh-audit.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 15:37:27 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-ssh-audit-3.9.0</guid>
-    </item>
-    <item>
-      <title>muse-code — Meta's coding agent for the terminal and CI, built for Muse Spark. [Main] (v1.4.7-R6101.1)</title>
-      <link>https://dev.meta.ai/docs/muse-code</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://dev.meta.ai/docs/muse-code&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/muse-code.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 07:43:31 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-muse-code-1.4.7-R6101.1</guid>
-    </item>
-    <item>
-      <title>reshiki — Molecular drawing workspace for chemical structures, reaction schemes, and figures. [Extras] (v0.11.0)</title>
-      <link>https://reshiki.com/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://reshiki.com/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/reshiki.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 23:21:15 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-reshiki-0.11.0</guid>
     </item>
   </channel>
 </rss>
