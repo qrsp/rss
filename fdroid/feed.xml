@@ -5,8 +5,104 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:43:08 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amaze File Utilities — Analyse, transfer and open files all in one app [IzzyOnDroid]</title>
+      <link>https://github.com/TeamAmaze/AmazeFileUtilities</link>
+      <guid isPermaLink="false">com.amaze.fileutilities@izzy</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:58 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.amaze.fileutilities/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.amaze.fileutilities/en-US/icon.png&quot; alt=&quot;Amaze File Utilities icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.amaze.fileutilities&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/TeamAmaze/AmazeFileUtilities&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.amaze.fileutilities&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Alternate — Alternate is a privacy-focused Android app that tells you who is calling without adding them to your phone's contact list. [IzzyOnDroid]</title>
+      <link>https://github.com/BioHazard786/Alternate</link>
+      <guid isPermaLink="false">com.lulu786.Alternate@izzy</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:58 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.lulu786.Alternate/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.lulu786.Alternate/en-US/icon.png&quot; alt=&quot;Alternate icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.lulu786.Alternate&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/BioHazard786/Alternate&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.lulu786.Alternate&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>mpvKt: MPV based media player — A media player based on the popular commandline media player mpv. [IzzyOnDroid]</title>
+      <link>https://github.com/abdallahmehiz/mpvKt</link>
+      <guid isPermaLink="false">live.mehiz.mpvkt@izzy</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:58 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/live.mehiz.mpvkt/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/live.mehiz.mpvkt/en-US/icon.png&quot; alt=&quot;mpvKt: MPV based media player icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;live.mehiz.mpvkt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/abdallahmehiz/mpvKt&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/live.mehiz.mpvkt&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>ArchiveTune — The Cutest Material 3 Music Player With Local &amp; YouTube Support for Android. [IzzyOnDroid]</title>
+      <link>https://github.com/rukamori/ArchiveTune</link>
+      <guid isPermaLink="false">moe.koiverse.archivetune@izzy</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:58 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/moe.koiverse.archivetune/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/moe.koiverse.archivetune/en-US/icon.png&quot; alt=&quot;ArchiveTune icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;moe.koiverse.archivetune&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/rukamori/ArchiveTune&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/moe.koiverse.archivetune&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Berlin-Vegan — Berlin-Vegan Guide [IzzyOnDroid]</title>
+      <link>https://github.com/micuintus/harbour-Berlin-Vegan</link>
+      <guid isPermaLink="false">org.berlin_vegan.bvapp@izzy</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:58 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/icons/org.berlin_vegan.bvapp.33.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/icons/org.berlin_vegan.bvapp.33.png&quot; alt=&quot;Berlin-Vegan icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.berlin_vegan.bvapp&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/micuintus/harbour-Berlin-Vegan&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.berlin_vegan.bvapp&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Kiwix — Offline Wikipedia reader [IzzyOnDroid]</title>
+      <link>https://github.com/kiwix/kiwix-android</link>
+      <guid isPermaLink="false">org.kiwix.kiwixmobile.standalone@izzy</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:58 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.kiwix.kiwixmobile.standalone/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.kiwix.kiwixmobile.standalone/en-US/icon.png&quot; alt=&quot;Kiwix icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.kiwix.kiwixmobile.standalone&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/kiwix/kiwix-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.kiwix.kiwixmobile.standalone&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OpenJot — A minimal UI, open-source journaling app built for distraction-free writing. [IzzyOnDroid]</title>
+      <link>https://github.com/TheGandabherunda/OpenJot</link>
+      <guid isPermaLink="false">org.thegandabherunda.openjot@izzy</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:58 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.thegandabherunda.openjot/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.thegandabherunda.openjot/en-US/icon.png&quot; alt=&quot;OpenJot icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.thegandabherunda.openjot&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/TheGandabherunda/OpenJot&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.thegandabherunda.openjot&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Bodacious — A Spotify-inspired MP3/FLAC player [IzzyOnDroid]</title>
+      <link>https://github.com/bleonard252/bodacious</link>
+      <guid isPermaLink="false">xyz.u1024256.bodacious@izzy</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:58 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/xyz.u1024256.bodacious/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/xyz.u1024256.bodacious/en-US/icon.png&quot; alt=&quot;Bodacious icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xyz.u1024256.bodacious&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/bleonard252/bodacious&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/xyz.u1024256.bodacious&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Polaris — Music player for usage with a Polaris streaming server [F-Droid]</title>
       <link>https://github.com/agersant/polaris-android</link>
@@ -6591,116 +6687,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/org.thayyil.ringdroid/en-US/icon_7B61Hzck2pQi9qh3anKRws9cRwivZ2Cy1kw-VqwPUjc=.png&quot; alt=&quot;Ringdroid - Ringtone editor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.thayyil.ringdroid&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/althafvly/ringdroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.thayyil.ringdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Nanna Baby Monitor — Baby monitor to stream privately between your own phones and computers [F-Droid] [Camera]</title>
-      <link>https://github.com/vpilo/nanna-baby-monitor</link>
-      <guid isPermaLink="false">org.vpilo.babymonitor@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Camera</category>
-      <enclosure url="https://f-droid.org/repo/org.vpilo.babymonitor/en-US/icon_3lY_ZasilyLTP3wElULcM0iD-HEXKNKqvLnNiVOQ4Lc=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.vpilo.babymonitor/en-US/icon_3lY_ZasilyLTP3wElULcM0iD-HEXKNKqvLnNiVOQ4Lc=.png&quot; alt=&quot;Nanna Baby Monitor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.vpilo.babymonitor&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/vpilo/nanna-baby-monitor&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.vpilo.babymonitor/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>﻿SubRead Anki — Select a word in any app: an Anki card with its sentence, picture and sound [F-Droid] [Science &amp; Education]</title>
-      <link>https://github.com/equwal/subread-anki</link>
-      <guid isPermaLink="false">space.subread.anki@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Science &amp; Education</category>
-      <enclosure url="https://f-droid.org/repo/space.subread.anki/en-US/icon_w8MtsY9Thkcjgz0ZubC_RJTRtjAa_OFtbJjp8QCpc6Q=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/space.subread.anki/en-US/icon_w8MtsY9Thkcjgz0ZubC_RJTRtjAa_OFtbJjp8QCpc6Q=.png&quot; alt=&quot;﻿SubRead Anki icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;space.subread.anki&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/equwal/subread-anki&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/space.subread.anki/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>SubRead Dictionary — Pop-up dictionary for Yomitan dictionaries, from the text menu of any app [F-Droid] [Translation &amp; Dictionary]</title>
-      <link>https://github.com/equwal/subread-dictionary</link>
-      <guid isPermaLink="false">space.subread.dictionary@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Translation &amp; Dictionary</category>
-      <enclosure url="https://f-droid.org/repo/space.subread.dictionary/en-US/icon__Dm0HMwxuY5eErv4vSk8pQaj8UlKYevi1r2M9f-fqM8=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/space.subread.dictionary/en-US/icon__Dm0HMwxuY5eErv4vSk8pQaj8UlKYevi1r2M9f-fqM8=.png&quot; alt=&quot;SubRead Dictionary icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;space.subread.dictionary&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; AGPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/equwal/subread-dictionary&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/space.subread.dictionary/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Artificial Koi — Living trigonometric creatures: a generative, truly live wallpaper [F-Droid] [Wallpaper]</title>
-      <link>https://codeberg.org/mathewmolt/ArtificialKoi</link>
-      <guid isPermaLink="false">studio.coldstream.artificial_koi@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Wallpaper</category>
-      <enclosure url="https://f-droid.org/repo/studio.coldstream.artificial_koi/en-US/icon_Ax8LVS7k7zaqoE944-sBMMUWvU6uoQCG__4lPbu3hDI=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/studio.coldstream.artificial_koi/en-US/icon_Ax8LVS7k7zaqoE944-sBMMUWvU6uoQCG__4lPbu3hDI=.png&quot; alt=&quot;Artificial Koi icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;studio.coldstream.artificial_koi&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/mathewmolt/ArtificialKoi&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/studio.coldstream.artificial_koi/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Torrent Player — Stream and download torrents directly on Android with external media players. [F-Droid] [Download]</title>
-      <link>https://github.com/karmugilen/torrent-player</link>
-      <guid isPermaLink="false">webtor.app@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Download</category>
-      <category>Online Media Player</category>
-      <enclosure url="https://f-droid.org/repo/webtor.app/en-US/icon_NSPsB48zksh1LuGufsks0-eOOc_DaO888sEbE9XvO-o=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/webtor.app/en-US/icon_NSPsB48zksh1LuGufsks0-eOOc_DaO888sEbE9XvO-o=.png&quot; alt=&quot;Torrent Player icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;webtor.app&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/karmugilen/torrent-player&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/webtor.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Shelfly — A TV shows &amp; movies tracker that backs up to your own WebDAV server [F-Droid] [Internet]</title>
-      <link>https://github.com/stignarnia/shelfly</link>
-      <guid isPermaLink="false">xyz.stignarnia.shelfly@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Internet</category>
-      <category>Multimedia</category>
-      <enclosure url="https://f-droid.org/repo/xyz.stignarnia.shelfly/en-US/icon_X4GO7ESqFkiACXsaujHTiypo1R5XiT9I29_CI1hRRCk=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/xyz.stignarnia.shelfly/en-US/icon_X4GO7ESqFkiACXsaujHTiypo1R5XiT9I29_CI1hRRCk=.png&quot; alt=&quot;Shelfly icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;xyz.stignarnia.shelfly&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/stignarnia/shelfly&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/xyz.stignarnia.shelfly/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>PaperKnife+ — Privacy-first PDF utility: merge, split, rotate, and protect [IzzyOnDroid]</title>
-      <link>https://github.com/potatameister/PaperKnifePlus</link>
-      <guid isPermaLink="false">com.paperknifeplus.app@izzy</guid>
-      <pubDate>Thu, 22 Oct 2026 20:59:24 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.paperknifeplus.app/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.paperknifeplus.app/en-US/icon.png&quot; alt=&quot;PaperKnife+ icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.paperknifeplus.app&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/potatameister/PaperKnifePlus&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.paperknifeplus.app&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Bazarnote — A simple offline shopping list app [IzzyOnDroid]</title>
-      <link>https://github.com/rootminusone8004/Bazarnote</link>
-      <guid isPermaLink="false">com.rootminusone8004.bazarnote@izzy</guid>
-      <pubDate>Thu, 22 Oct 2026 20:59:24 +0000</pubDate>
-      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.rootminusone8004.bazarnote/en-US/icon.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.rootminusone8004.bazarnote/en-US/icon.png&quot; alt=&quot;Bazarnote icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.rootminusone8004.bazarnote&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/rootminusone8004/Bazarnote&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.rootminusone8004.bazarnote&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
