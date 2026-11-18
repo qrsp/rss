@@ -4,7 +4,35 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 15:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:32:40 +0000</lastBuildDate>
+    <item>
+      <title>atlas — A language-agnostic tool for managing and migrating database schemas using modern DevOps principles. [Main] (v1.4.0)</title>
+      <link>https://atlasgo.io</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://atlasgo.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/atlas.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 20:23:41 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-atlas-1.4.0</guid>
+    </item>
+    <item>
+      <title>igir — A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of various size. [Extras] (v5.8.1)</title>
+      <link>https://igir.io/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://igir.io/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/igir.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 23:30:07 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-igir-5.8.1</guid>
+    </item>
+    <item>
+      <title>rattler-build — A universal Conda package builder for Windows, macOS and Linux [Extras] (v0.80.2)</title>
+      <link>https://rattler-build.prefix.dev/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; BSD-3-Clause&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://rattler-build.prefix.dev/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/rattler-build.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 23:27:41 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-rattler-build-0.80.2</guid>
+    </item>
+    <item>
+      <title>speedyfox — Boosts Firefox, Skype, Chrome, Thunderbird in a single click. [Extras] (v3.0.0)</title>
+      <link>https://www.crystalidea.com/speedyfox</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.crystalidea.com/speedyfox&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/speedyfox.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 20:24:08 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-speedyfox-3.0.0</guid>
+    </item>
     <item>
       <title>plannotator — Annotate plans, specs, markdown, HTML, and other interactive artifacts. Review diffs and PRs. Send feedback to your agent. [Main] (v0.28.67)</title>
       <link>https://plannotator.ai</link>
@@ -1376,34 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://reshiki.com/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/reshiki.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Tue, 13 Oct 2026 23:21:15 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-reshiki-0.11.0</guid>
-    </item>
-    <item>
-      <title>proto — A pluggable multi-language version manager. [Main] (v0.63.1)</title>
-      <link>https://moonrepo.dev/docs/proto</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; This Proto installation is managed by Scoop. Use 'scoop update proto' to update Proto itself, not 'proto upgrade'.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://moonrepo.dev/docs/proto&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/proto.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 17:08:44 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-proto-0.63.1</guid>
-    </item>
-    <item>
-      <title>oh-my-openagent — Your tool for real work. But it's an agent. [Extras] (v5.1.33)</title>
-      <link>https://omo.dev</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; SUL-1.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://omo.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/oh-my-openagent.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 20:36:07 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-oh-my-openagent-5.1.33</guid>
-    </item>
-    <item>
-      <title>openknowledge — Beautiful, AI-native markdown IDE and LLM wiki [Extras] (v0.86.12)</title>
-      <link>https://openknowledge.ai</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openknowledge.ai&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/openknowledge.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 16:38:24 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-openknowledge-0.86.12</guid>
-    </item>
-    <item>
-      <title>openchamber — Agentic Development Environment based on OpenCode AI agent [Extras] (v2.3.1)</title>
-      <link>https://openchamber.dev</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://openchamber.dev&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/openchamber.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 13:07:43 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-openchamber-2.3.1</guid>
     </item>
   </channel>
 </rss>
