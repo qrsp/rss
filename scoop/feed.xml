@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 00:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:54:32 +0000</lastBuildDate>
+    <item>
+      <title>realvnc-connect-viewer — Remote desktop viewer application focusing on security (formerly VNC Viewer). [Extras] (v8.6.2)</title>
+      <link>https://www.realvnc.com/en/connect/download/viewer/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; RealVNC Connect Viewer v8 requires signing in with a RealVNC account.&lt;br/&gt;Connecting to third-party (non-RealVNC) VNC servers requires a paid plan.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.realvnc.com/en/connect/download/viewer/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/realvnc-connect-viewer.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 01:58:38 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Extras-realvnc-connect-viewer-8.6.2</guid>
+    </item>
     <item>
       <title>b4n — Lightweight and fast terminal UI application for browsing Kubernetes clusters and their resources. [Extras] (v1.4.0)</title>
       <link>https://github.com/fioletoven/b4n</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Proprietary&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cursor.com/cli&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/cursor-cli.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Thu, 15 Oct 2026 18:57:14 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-cursor-cli-2026.10.14-941492e</guid>
-    </item>
-    <item>
-      <title>opencc — A precise conversion engine for Traditional Chinese, Simplified Chinese, Japanese Kanji, variants, and regional wording across Mainland China, Taiwan, and Hong Kong. [Main] (v1.4.2)</title>
-      <link>https://opencc.byvoid.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://opencc.byvoid.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/opencc.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 18:34:06 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-opencc-1.4.2</guid>
     </item>
   </channel>
 </rss>
