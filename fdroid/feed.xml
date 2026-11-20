@@ -5,8 +5,56 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 23:43:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:01:56 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lemmy Redirect — Deep linking proxy for Lemmy, to launch your selected client automatically [IzzyOnDroid]</title>
+      <link>https://github.com/zacharee/MastodonRedirect</link>
+      <guid isPermaLink="false">dev.zwander.lemmyredirect@izzy</guid>
+      <pubDate>Fri, 20 Nov 2026 00:01:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.zwander.lemmyredirect/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.zwander.lemmyredirect/en-US/icon.png&quot; alt=&quot;Lemmy Redirect icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.zwander.lemmyredirect&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zacharee/MastodonRedirect&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Mastodon Redirect — Deep linking proxy for Mastodon, to launch your selected client automatically [IzzyOnDroid]</title>
+      <link>https://github.com/zacharee/MastodonRedirect</link>
+      <guid isPermaLink="false">dev.zwander.mastodonredirect@izzy</guid>
+      <pubDate>Fri, 20 Nov 2026 00:01:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.zwander.mastodonredirect/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.zwander.mastodonredirect/en-US/icon.png&quot; alt=&quot;Mastodon Redirect icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.zwander.mastodonredirect&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zacharee/MastodonRedirect&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>PeerTube Redirect — Deep linking proxy for PeerTube, to launch your selected client automatically [IzzyOnDroid]</title>
+      <link>https://github.com/zacharee/MastodonRedirect</link>
+      <guid isPermaLink="false">dev.zwander.peertuberedirect@izzy</guid>
+      <pubDate>Fri, 20 Nov 2026 00:01:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/dev.zwander.peertuberedirect/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/dev.zwander.peertuberedirect/en-US/icon.png&quot; alt=&quot;PeerTube Redirect icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;dev.zwander.peertuberedirect&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zacharee/MastodonRedirect&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.peertuberedirect&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>aShell You — Material Design 3 shell, ADB, and Fastboot utility for Android [IzzyOnDroid]</title>
+      <link>https://github.com/DP-Hridayan/aShellYou</link>
+      <guid isPermaLink="false">in.hridayan.ashell@izzy</guid>
+      <pubDate>Fri, 20 Nov 2026 00:01:50 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/in.hridayan.ashell/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/in.hridayan.ashell/en-US/icon.png&quot; alt=&quot;aShell You icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;in.hridayan.ashell&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/DP-Hridayan/aShellYou&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/in.hridayan.ashell&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Amaze File Utilities — Analyse, transfer and open files all in one app [IzzyOnDroid]</title>
       <link>https://github.com/TeamAmaze/AmazeFileUtilities</link>
@@ -6630,63 +6678,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/org.isoron.uhabits/en-US/icon_dhJtIjNYdwt-e9Ky5Xm91xiWo0HtQPSEiEHTCAigQeQ=.png&quot; alt=&quot;Loop Habit Tracker icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.isoron.uhabits&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/iSoron/uhabits&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.isoron.uhabits/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>QOwnNotes — Offline Markdown notes synchronized safely with Nextcloud [F-Droid] [Note]</title>
-      <link>https://github.com/qownnotes/qownnotes-android</link>
-      <guid isPermaLink="false">org.qownnotes.mobile@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Note</category>
-      <category>Writing</category>
-      <enclosure url="https://f-droid.org/repo/org.qownnotes.mobile/en-US/icon_BahBFVnEKaxn2TNL0K62iZCuV8gZu0rfL1fc8jF8LiY=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.qownnotes.mobile/en-US/icon_BahBFVnEKaxn2TNL0K62iZCuV8gZu0rfL1fc8jF8LiY=.png&quot; alt=&quot;QOwnNotes icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.qownnotes.mobile&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/qownnotes/qownnotes-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.qownnotes.mobile/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Parakeetype — Fast on-device speech-to-text keyboard and voice input - no cloud, no tracking. [F-Droid] [Keyboard &amp; IME]</title>
-      <link>https://github.com/theScrabi/Parakeetype</link>
-      <guid isPermaLink="false">org.schabi.parakeetype@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Keyboard &amp; IME</category>
-      <category>Speech Recognizer</category>
-      <enclosure url="https://f-droid.org/repo/org.schabi.parakeetype/en-US/icon_2lqcUBc1hM3fe45ZiSY4vw3FS8b5MKQFt51czoVvWcs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.schabi.parakeetype/en-US/icon_2lqcUBc1hM3fe45ZiSY4vw3FS8b5MKQFt51czoVvWcs=.png&quot; alt=&quot;Parakeetype icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.schabi.parakeetype&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/theScrabi/Parakeetype&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.schabi.parakeetype/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>WGControl — Automated WireGuard tunnel control via home Wi-Fi and Bluetooth. [F-Droid] [Security]</title>
-      <link>https://codeberg.org/FadeFX/WGControl</link>
-      <guid isPermaLink="false">org.supersane.wgcontrol@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <category>Security</category>
-      <category>System</category>
-      <enclosure url="https://f-droid.org/repo/org.supersane.wgcontrol/en-US/icon_I8S31q-dTS281XgNxuHM7h5TZnzGfDV2EIvuB9TyILM=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.supersane.wgcontrol/en-US/icon_I8S31q-dTS281XgNxuHM7h5TZnzGfDV2EIvuB9TyILM=.png&quot; alt=&quot;WGControl icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.supersane.wgcontrol&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://codeberg.org/FadeFX/WGControl&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.supersane.wgcontrol/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Ringdroid - Ringtone editor — An application for creating your own ringtones. [F-Droid]</title>
-      <link>https://github.com/althafvly/ringdroid</link>
-      <guid isPermaLink="false">org.thayyil.ringdroid@fdroid</guid>
-      <pubDate>Fri, 23 Oct 2026 02:36:58 +0000</pubDate>
-      <enclosure url="https://f-droid.org/repo/org.thayyil.ringdroid/en-US/icon_7B61Hzck2pQi9qh3anKRws9cRwivZ2Cy1kw-VqwPUjc=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/org.thayyil.ringdroid/en-US/icon_7B61Hzck2pQi9qh3anKRws9cRwivZ2Cy1kw-VqwPUjc=.png&quot; alt=&quot;Ringdroid - Ringtone editor icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.thayyil.ringdroid&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/althafvly/ringdroid&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/org.thayyil.ringdroid/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
