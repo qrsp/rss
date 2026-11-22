@@ -4,7 +4,14 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 05:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:03:45 +0000</lastBuildDate>
+    <item>
+      <title>chromecacheview — Chrome Browser Cache Viewer [Nirsoft] (v2.52)</title>
+      <link>https://www.nirsoft.net/utils/chrome_cache_view.html</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Freeware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.nirsoft.net/utils/chrome_cache_view.html&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Nirsoft/blob/master/bucket/chromecacheview.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 11:21:55 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Nirsoft-chromecacheview-2.52</guid>
+    </item>
     <item>
       <title>bitwarden-oss — Password management solutions for individuals, teams, and business organizations [Extras] (v2026.11.0)</title>
       <link>https://bitwarden.com</link>
@@ -1397,13 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT|Unlicense&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kiennq/scoop-better-shimexe&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/scoop-shim-kiennq.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Sat, 17 Oct 2026 12:35:41 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-scoop-shim-kiennq-3.2.2</guid>
-    </item>
-    <item>
-      <title>curl-impersonate — A special build of curl that can impersonate Chrome &amp; Firefox [Main] (v2.2.3)</title>
-      <link>https://curl-impersonate.readthedocs.io</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://curl-impersonate.readthedocs.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/curl-impersonate.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 17 Oct 2026 11:59:40 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-curl-impersonate-2.2.3</guid>
     </item>
   </channel>
 </rss>
