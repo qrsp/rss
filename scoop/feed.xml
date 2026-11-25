@@ -4,7 +4,21 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 01:54:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:48:08 +0000</lastBuildDate>
+    <item>
+      <title>yadm — Yet Another Dotfiles Manager. [Main] (v3.5.0)</title>
+      <link>https://yadm.io</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; By default, Git for Windows' MSYS2 environment uses winsymlinks:deepcopy, so symlinks are created as deep copies.&lt;br/&gt;If symlink support is needed, please refer to https://www.msys2.org/docs/symlinks/&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://yadm.io&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/yadm.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 13:35:53 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-yadm-3.5.0</guid>
+    </item>
+    <item>
+      <title>pik — A interactive tool that helps to find and kill process. [Main] (v1.0.1)</title>
+      <link>https://crates.io/crates/pik</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://crates.io/crates/pik&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/pik.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 09:16:23 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-pik-1.0.1</guid>
+    </item>
     <item>
       <title>atlas-community — A language-agnostic tool for managing and migrating database schemas using modern DevOps principles (Community Edition). [Main] (v1.4.0)</title>
       <link>https://atlasgo.io/community-edition</link>
@@ -1390,20 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unlicense|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Shim/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/scoop-shim-zig.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Mon, 19 Oct 2026 08:45:21 +0000</pubDate>
       <guid isPermaLink="false">scoop-Main-scoop-shim-zig-0.4.0</guid>
-    </item>
-    <item>
-      <title>scoop-shim-rust — A Scoop helper program for shimming executables (Rust) [Main] (v0.4.0)</title>
-      <link>https://github.com/ScoopInstaller/Shim/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unlicense|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Shim/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/scoop-shim-rust.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 08:45:21 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-scoop-shim-rust-0.4.0</guid>
-    </item>
-    <item>
-      <title>scoop-shim-cs — A Scoop helper program for shimming executables (C#) [Main] (v0.4.0)</title>
-      <link>https://github.com/ScoopInstaller/Shim/</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; Unlicense|MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ScoopInstaller/Shim/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/scoop-shim-cs.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 08:45:20 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Main-scoop-shim-cs-0.4.0</guid>
     </item>
   </channel>
 </rss>
