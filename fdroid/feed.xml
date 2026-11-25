@@ -5,8 +5,34 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:45:28 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Musekit — A simple tuner and metronome, no distractions [IzzyOnDroid]</title>
+      <link>https://github.com/Kwasow/Musekit</link>
+      <guid isPermaLink="false">com.kwasow.musekit@izzy</guid>
+      <pubDate>Wed, 25 Nov 2026 01:45:26 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.kwasow.musekit/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.kwasow.musekit/en-US/icon.png&quot; alt=&quot;Musekit icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.kwasow.musekit&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Kwasow/Musekit&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.kwasow.musekit&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Alarm — An alarm clock with sunrise simulation and scheduling based on your calendars [IzzyOnDroid] [Time]</title>
+      <link>https://github.com/grrosminet/Alarme</link>
+      <guid isPermaLink="false">tf.charles.droid.alarme@izzy</guid>
+      <pubDate>Wed, 25 Nov 2026 01:45:26 +0000</pubDate>
+      <category>Time</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/tf.charles.droid.alarme/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/tf.charles.droid.alarme/en-US/icon.png&quot; alt=&quot;Alarm icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;tf.charles.droid.alarme&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/grrosminet/Alarme&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/tf.charles.droid.alarme&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>NekoChat — Private AI chat that runs language models on your phone, offline [F-Droid] [AI Chat]</title>
       <link>https://github.com/AurielSolaris/NekoChat</link>
@@ -6639,35 +6665,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;live.fourthepeople.compass&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://gitlab.com/4the-people-media-group/compass&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/live.fourthepeople.compass/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Keeply — Notes, folders, voice recordings and AI summaries that sync across your devices. [F-Droid] [Note]</title>
-      <link>https://gitlab.com/4the-people-media-group/keeply</link>
-      <guid isPermaLink="false">live.fourthepeople.keeply@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Note</category>
-      <enclosure url="https://f-droid.org/repo/live.fourthepeople.keeply/en-US/icon_NyYTdt1ynPNZ0XgTNWXrMZ2SSkFZmDcSLNVTy7qVE48=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/live.fourthepeople.keeply/en-US/icon_NyYTdt1ynPNZ0XgTNWXrMZ2SSkFZmDcSLNVTy7qVE48=.png&quot; alt=&quot;Keeply icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;live.fourthepeople.keeply&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/4the-people-media-group/keeply&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/live.fourthepeople.keeply/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>MassDroid — A native client and remote for the Music Assistant open-source music server. [F-Droid] [Online Media Player]</title>
-      <link>https://github.com/sfortis/massdroid_native</link>
-      <guid isPermaLink="false">net.asksakis.massdroidv2@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Online Media Player</category>
-      <category>Remote Controller</category>
-      <enclosure url="https://f-droid.org/repo/net.asksakis.massdroidv2/en-US/icon_Limbr2SzHilqpVBloBBrSBW2GNyZQ7O_RmVo_Gh2LKg=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/net.asksakis.massdroidv2/en-US/icon_Limbr2SzHilqpVBloBBrSBW2GNyZQ7O_RmVo_Gh2LKg=.png&quot; alt=&quot;MassDroid icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;net.asksakis.massdroidv2&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/sfortis/massdroid_native&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/net.asksakis.massdroidv2/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
