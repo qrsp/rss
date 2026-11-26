@@ -5,8 +5,32 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 01:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:20:19 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stepsy: Step Counter — Lightweight step counting app [IzzyOnDroid]</title>
+      <link>https://github.com/nvllz/stepsy</link>
+      <guid isPermaLink="false">com.nvllz.stepsy@izzy</guid>
+      <pubDate>Thu, 26 Nov 2026 01:20:13 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.nvllz.stepsy/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.nvllz.stepsy/en-US/icon.png&quot; alt=&quot;Stepsy: Step Counter icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.nvllz.stepsy&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/nvllz/stepsy&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.nvllz.stepsy&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Guides Verified Apps — An app signing certificate hash verifier based on a crowdsourced dataset. [IzzyOnDroid]</title>
+      <link>https://github.com/privacyguides/verified-apps-android</link>
+      <guid isPermaLink="false">org.privacyguides.verifiedapps@izzy</guid>
+      <pubDate>Thu, 26 Nov 2026 01:20:13 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.privacyguides.verifiedapps/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.privacyguides.verifiedapps/en-US/icon.png&quot; alt=&quot;Privacy Guides Verified Apps icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.privacyguides.verifiedapps&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/privacyguides/verified-apps-android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.privacyguides.verifiedapps&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Musekit — A simple tuner and metronome, no distractions [IzzyOnDroid]</title>
       <link>https://github.com/Kwasow/Musekit</link>
@@ -6635,36 +6659,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.github.zk_haunt.twistcubee&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/zk-haunt/Twist-cubee&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.github.zk_haunt.twistcubee/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Read Me Offline — Share an article or text, trim it, and hear it read aloud on-device [F-Droid] [Reading]</title>
-      <link>https://github.com/JoshShearer/Read-Me</link>
-      <guid isPermaLink="false">io.loopstring.readme@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Reading</category>
-      <category>Text to Speech</category>
-      <enclosure url="https://f-droid.org/repo/io.loopstring.readme/en-US/icon_U-nj2HbZk6BgKxCGlaazbHxLRHyOX_F45rEKBbv5GAo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/io.loopstring.readme/en-US/icon_U-nj2HbZk6BgKxCGlaazbHxLRHyOX_F45rEKBbv5GAo=.png&quot; alt=&quot;Read Me Offline icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;io.loopstring.readme&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/JoshShearer/Read-Me&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/io.loopstring.readme/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Compass — A compass and bubble level, laid out like the iPhone's [F-Droid] [Navigation]</title>
-      <link>https://gitlab.com/4the-people-media-group/compass</link>
-      <guid isPermaLink="false">live.fourthepeople.compass@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Navigation</category>
-      <category>Science &amp; Education</category>
-      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;Compass icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;live.fourthepeople.compass&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; Apache-2.0&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gitlab.com/4the-people-media-group/compass&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/live.fourthepeople.compass/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
