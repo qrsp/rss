@@ -5,8 +5,46 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:17:51 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LinkHub — Simple and effective link management app that can help you to mange links easily [IzzyOnDroid]</title>
+      <link>https://github.com/AmrDeveloper/LinkHub</link>
+      <guid isPermaLink="false">com.amrdeveloper.linkhub@izzy</guid>
+      <pubDate>Fri, 27 Nov 2026 01:17:47 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.amrdeveloper.linkhub/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.amrdeveloper.linkhub/en-US/icon.png&quot; alt=&quot;LinkHub icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.amrdeveloper.linkhub&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/AmrDeveloper/LinkHub&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.amrdeveloper.linkhub&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>bkey — A keyboard built on BlackBerry Keyboard - Classic's swipe gestures [IzzyOnDroid] [System]</title>
+      <link>https://github.com/snooptiger9/bkey-keyboard</link>
+      <guid isPermaLink="false">com.snooptiger9.bkey@izzy</guid>
+      <pubDate>Fri, 27 Nov 2026 01:17:47 +0000</pubDate>
+      <category>System</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.snooptiger9.bkey/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.snooptiger9.bkey/en-US/icon.png&quot; alt=&quot;bkey icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.snooptiger9.bkey&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/snooptiger9/bkey-keyboard&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.snooptiger9.bkey&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>OwnTracks — Your location companion [IzzyOnDroid]</title>
+      <link>https://github.com/owntracks/android</link>
+      <guid isPermaLink="false">org.owntracks.android@izzy</guid>
+      <pubDate>Fri, 27 Nov 2026 01:17:47 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/org.owntracks.android/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/org.owntracks.android/en-US/icon.png&quot; alt=&quot;OwnTracks icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;org.owntracks.android&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/owntracks/android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/org.owntracks.android&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Vynody — Lightweight, feature-rich local music player with synced lyrics and LAN sync [F-Droid] [Multimedia]</title>
       <link>https://github.com/axel10/vynody</link>
@@ -6616,50 +6654,6 @@
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.skj.money.swield.expense.tracker.foss&lt;/code&gt;&lt;br/&gt;
 ⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/skj-skj/Money-Swield&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.skj.money.swield.expense.tracker.foss/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sleep Secret — Record the night, classify sounds on-device, get a morning report. [F-Droid] [Health Manager]</title>
-      <link>https://github.com/14790897/sleep-secret</link>
-      <guid isPermaLink="false">com.sleepsecret.sleep_secret@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Health Manager</category>
-      <category>Recorder</category>
-      <enclosure url="https://f-droid.org/repo/com.sleepsecret.sleep_secret/en-US/icon__GugsvCkt9yFnh_EvP_Z0OiBg_DZpYRfozr9xeWr6qs=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.sleepsecret.sleep_secret/en-US/icon__GugsvCkt9yFnh_EvP_Z0OiBg_DZpYRfozr9xeWr6qs=.png&quot; alt=&quot;Sleep Secret icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sleepsecret.sleep_secret&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/14790897/sleep-secret&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.sleepsecret.sleep_secret/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>TickTock — Pendulum clock beat asymmetry analyzer [F-Droid] [Clock]</title>
-      <link>https://github.com/leodp/TickTock</link>
-      <guid isPermaLink="false">com.ticktock.app@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Clock</category>
-      <enclosure url="https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png&quot; alt=&quot;TickTock icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.ticktock.app&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/leodp/TickTock&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.ticktock.app/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>RECCoon — Offline recorder with on-device Parakeet transcription [F-Droid] [Recorder]</title>
-      <link>https://git.tomcooks.com/reccoon</link>
-      <guid isPermaLink="false">com.tomcooks.reccoon@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Recorder</category>
-      <category>Speech Recognizer</category>
-      <enclosure url="https://f-droid.org/repo/com.tomcooks.reccoon/en-US/icon_3zXEvvyaGKpb6ti3ttU6m6ppS7jXJdkhXRBk1M9jcQw=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.tomcooks.reccoon/en-US/icon_3zXEvvyaGKpb6ti3ttU6m6ppS7jXJdkhXRBk1M9jcQw=.png&quot; alt=&quot;RECCoon icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.tomcooks.reccoon&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://git.tomcooks.com/reccoon&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.tomcooks.reccoon/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
