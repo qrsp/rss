@@ -5,8 +5,34 @@
     <link>https://qrsp.github.io/rss/fdroid/feed.xml</link>
     <description>New apps discovered on F-Droid and IzzyOnDroid repositories</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:51:50 +0000</lastBuildDate>
     <atom:link href="https://qrsp.github.io/rss/fdroid/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Neo Backup — The open-source tool to backup your apps and data [IzzyOnDroid]</title>
+      <link>https://github.com/NeoApplications/Neo-Backup</link>
+      <guid isPermaLink="false">com.machiav3lli.backup@izzy</guid>
+      <pubDate>Sat, 28 Nov 2026 00:51:47 +0000</pubDate>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.backup/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/com.machiav3lli.backup/en-US/icon.png&quot; alt=&quot;Neo Backup icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.machiav3lli.backup&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/NeoApplications/Neo-Backup&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.backup&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Battery Plus — Battery Plus: A clean, zero-overhead utility for real-time battery hardware metr [IzzyOnDroid] [System]</title>
+      <link>https://github.com/sunilpaulmathew/BatteryPlus</link>
+      <guid isPermaLink="false">in.sunilpaulmathew.batteryplus@izzy</guid>
+      <pubDate>Sat, 28 Nov 2026 00:51:47 +0000</pubDate>
+      <category>System</category>
+      <enclosure url="https://apt.izzysoft.de/fdroid/repo/in.sunilpaulmathew.batteryplus/en-US/icon.png" length="0" type="image/png"/>
+      <description>&lt;div&gt;
+&lt;img src=&quot;https://apt.izzysoft.de/fdroid/repo/in.sunilpaulmathew.batteryplus/en-US/icon.png&quot; alt=&quot;Battery Plus icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;in.sunilpaulmathew.batteryplus&lt;/code&gt;&lt;br/&gt;
+⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sunilpaulmathew/BatteryPlus&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://apt.izzysoft.de/fdroid/index/apk/in.sunilpaulmathew.batteryplus&quot;&gt;IzzyOnDroid Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>LinkHub — Simple and effective link management app that can help you to mange links easily [IzzyOnDroid]</title>
       <link>https://github.com/AmrDeveloper/LinkHub</link>
@@ -6625,35 +6651,6 @@
 &lt;img src=&quot;https://f-droid.org/repo/com.shifthackz.aisdv1.app.foss/en-US/icon_riR8nub1BSQpmJH6bVF10qd_q-m_LsYjLxTn4W4Vnv0=.png&quot; alt=&quot;SDAI - Stable Diffusion AI icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
 &lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.shifthackz.aisdv1.app.foss&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/ShiftHackZ/Stable-Diffusion-Android&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.shifthackz.aisdv1.app.foss/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>One Line Puzzle — Draw a single continuous line to connect numbers and completely fill the grid! [F-Droid] [Casual Game]</title>
-      <link>https://github.com/sidhant947/OneLine</link>
-      <guid isPermaLink="false">com.sidhant.oneline@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Casual Game</category>
-      <category>Puzzle Game</category>
-      <enclosure url="https://f-droid.org/repo/com.sidhant.oneline/en-US/icon_X7wR_EsTwvWM3NcbrLBsMyRrATvrFFC6uPgXHSjtuSo=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.sidhant.oneline/en-US/icon_X7wR_EsTwvWM3NcbrLBsMyRrATvrFFC6uPgXHSjtuSo=.png&quot; alt=&quot;One Line Puzzle icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.sidhant.oneline&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-only&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/sidhant947/OneLine&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.sidhant.oneline/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Money Swield — Offline expense tracker: quick entry, clear reports. No account, no ads. [F-Droid] [Finance Manager]</title>
-      <link>https://github.com/skj-skj/Money-Swield</link>
-      <guid isPermaLink="false">com.skj.money.swield.expense.tracker.foss@fdroid</guid>
-      <pubDate>Sun, 25 Oct 2026 20:09:44 +0000</pubDate>
-      <category>Finance Manager</category>
-      <enclosure url="https://f-droid.org/repo/com.skj.money.swield.expense.tracker.foss/en-US/icon_a-OJRUxw3nAzezJeVHpdP0amunHvk-eJVuyUip3UT-U=.png" length="0" type="image/png"/>
-      <description>&lt;div&gt;
-&lt;img src=&quot;https://f-droid.org/repo/com.skj.money.swield.expense.tracker.foss/en-US/icon_a-OJRUxw3nAzezJeVHpdP0amunHvk-eJVuyUip3UT-U=.png&quot; alt=&quot;Money Swield icon&quot; width=&quot;64&quot; height=&quot;64&quot; style=&quot;float:left; margin-right:12px; margin-bottom:8px; border-radius:12px;&quot; /&gt;
-&lt;p&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;code&gt;com.skj.money.swield.expense.tracker.foss&lt;/code&gt;&lt;br/&gt;
-⚖️ &lt;strong&gt;License:&lt;/strong&gt; GPL-3.0-or-later&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/skj-skj/Money-Swield&quot;&gt;Source Code&lt;/a&gt; | &lt;a href=&quot;https://f-droid.org/packages/com.skj.money.swield.expense.tracker.foss/&quot;&gt;F-Droid Page&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
