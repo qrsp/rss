@@ -4,7 +4,28 @@
     <title>Scoop Official Buckets - New Apps</title>
     <link>https://github.com/ScoopInstaller</link>
     <description>RSS feed for newly added software applications in official Scoop buckets.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 16:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:06:05 +0000</lastBuildDate>
+    <item>
+      <title>has — Checks presence of various command line tools and their versions on the path. [Main] (v1.6.0)</title>
+      <link>https://github.com/kdabir/has</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kdabir/has&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/has.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 27 Nov 2026 18:18:12 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-has-1.6.0</guid>
+    </item>
+    <item>
+      <title>ugit — Undo your last oopsie in git. [Main] (v5.9)</title>
+      <link>https://bhupesh.me/undo-your-last-git-mistake-with-ugit/</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Git's garbage collector prunes reflog entries —&lt;br/&gt;increase the default expiry limits in your global .gitconfig:&lt;br/&gt;'git config --global gc.reflogExpire 200'&lt;br/&gt;'git config --global gc.reflogExpireUnreachable 90'&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://bhupesh.me/undo-your-last-git-mistake-with-ugit/&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/ugit.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 27 Nov 2026 18:17:28 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-ugit-5.9</guid>
+    </item>
+    <item>
+      <title>git-open — Open the GitHub page or website for a repository in your browser. [Main] (v2.1.0)</title>
+      <link>https://github.com/paulirish/git-open</link>
+      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/paulirish/git-open&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Main/blob/master/bucket/git-open.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 27 Nov 2026 18:14:48 +0000</pubDate>
+      <guid isPermaLink="false">scoop-Main-git-open-2.1.0</guid>
+    </item>
     <item>
       <title>agent-desktop — Computer use CLI for AI agents. [Main] (v1.3.1)</title>
       <link>https://agent-browser.dev/desktop</link>
@@ -1383,27 +1404,6 @@
       <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://hatoba.fog.moe&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/hatoba.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <pubDate>Wed, 21 Oct 2026 08:39:36 +0000</pubDate>
       <guid isPermaLink="false">scoop-Extras-hatoba-0.5.0</guid>
-    </item>
-    <item>
-      <title>cate — An infinite zoomable canvas IDE with editor, terminal, and browser panels [Extras] (v2.0.5)</title>
-      <link>https://cate.cero-ai.com</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cate.cero-ai.com&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/cate.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 07:33:16 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-cate-2.0.5</guid>
-    </item>
-    <item>
-      <title>fluentcleaner — Transparent, community-powered CCleaner alternative for Windows, featuring terminal control and multi-database support. [Extras] (v26.09.01)</title>
-      <link>https://github.com/builtbybel/FluentCleaner</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; FluentCleaner requires the Windows App Runtime 2.0: https://aka.ms/windowsappsdk/2.0/2.0.1/windowsappruntimeinstall-x64.exe&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/builtbybel/FluentCleaner&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/fluentcleaner.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 14:16:05 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-fluentcleaner-26.09.01</guid>
-    </item>
-    <item>
-      <title>voicebox — A free and local alternative to ElevenLabs and WisprFlow, running entirely on your machine. [Extras] (v0.5.0)</title>
-      <link>https://voicebox.sh</link>
-      <description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt; MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://voicebox.sh&quot;&gt;Official Homepage&lt;/a&gt; | &lt;a href=&quot;https://github.com/ScoopInstaller/Extras/blob/master/bucket/voicebox.json&quot;&gt;View Manifest on GitHub&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 10:33:13 +0000</pubDate>
-      <guid isPermaLink="false">scoop-Extras-voicebox-0.5.0</guid>
     </item>
   </channel>
 </rss>

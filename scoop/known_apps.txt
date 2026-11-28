@@ -4862,3 +4862,6 @@ agent-desktop
 forgit
 forgejo-cli
 multi-git-status
+has
+ugit
+git-open
